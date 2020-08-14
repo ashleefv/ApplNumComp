@@ -7,6 +7,9 @@ Okay, so this is my test of live streaming and class. video recording right now 
 Unknown Speaker  0:39  
 that
 
+```
+try me
+'''
 Unknown Speaker  0:43  
 I'm sitting in front of my computer with my own. With my mouse gone, obviously, and trying to demonstrate that I can have students see screen, I am seated in front of my own webcam so online students could hear me and see me and see the same streaming content through zoom that the in person students can see I have a mask on. I also have my night guard in. So that's affecting my voice.
 
