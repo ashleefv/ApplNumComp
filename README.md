@@ -7,3 +7,5 @@ Note: this site is in progress during the synchronous Fall 2020 course offering.
 
 ## Lessons
 * [Git](https://github.com/ashleefv/ApplNumComp/blob/master/Git.md)
+
+I can edit the readme, it has given me access
