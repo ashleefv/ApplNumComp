@@ -10,13 +10,13 @@ It is strongly recommended that you set your username to the part of your email 
 
 Create two empty folders on your computer that are completely dedicated to tracking your computational assignments and synchronous class activities. Don't put other class files or personal files in these folders. Also, don't put one of these folders inside the other.
 
-*Folder 1: name it FirstnameLastnameApplNumComp (change firstname and lastname to your own name) [ApplNumComp is a shortened reference to our course name]
+* Folder 1: name it FirstnameLastnameApplNumComp (change firstname and lastname to your own name) [ApplNumComp is a shortened reference to our course name]
 You will control everything in this folder and submit your homework through this folder.
 
-*Folder 2: name it CHEclassFa20
+* Folder 2: name it CHEclassFa20
 In class activity files will be shared in this folder. Dr. Ford Versypt will control this shared folder.  
 
-*Create a Bitbucket repository, this will be where you turn in your homeworks. It is recommended to name it the same as this first folder you created on your local device.
+* Create a Bitbucket repository, this will be where you turn in your homeworks. It is recommended to name it the same as this first folder you created on your local device.
 [Here is a walkthrough to create a Bitbucket account](https://support.atlassian.com/bitbucket-cloud/docs/create-a-git-repository/)
 
 [Here is an explanatory video on creating Bitbucket account](https://www.youtube.com/watch?v=3KS6TaJPeHo&feature=emb_title)
@@ -31,9 +31,9 @@ Link these repositories to Bitbucket
 
 [Here is a link to further readings regarding Git](https://git-scm.com/book/en/v2)
 
-*A helpful additional reading:
+* A helpful additional reading:
 
-*J. D. Blischak, E. R. Davenport, G. Wilson, A quick introduction to version control with Git and GitHub, PLoS Computational Biology, 12(1):e1004668
+* J. D. Blischak, E. R. Davenport, G. Wilson, A quick introduction to version control with Git and GitHub, PLoS Computational Biology, 12(1):e1004668
 ### **Synchronous Session Outline**
 **Questions from the pre-class activities?
 **Demo with CHEclassFa20 folder
