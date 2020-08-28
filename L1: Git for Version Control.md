@@ -58,4 +58,4 @@ Want more practice?
   
   *Next lecture: LaTeX for typesetting
   
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/5rqZkdkussA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/5rqZkdkussA/0.jpg)](http://www.youtube.com/watch?v=5rqZkdkussA "SynchronousClass1")
