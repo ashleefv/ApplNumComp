@@ -19,6 +19,13 @@ In class activity files will be shared in this folder. Dr. Ford Versypt will con
 *Create a Bitbucket repository, this will be where you turn in your homeworks. It is recommended to name it the same as this first folder you created on your local device.
 [Here is a walkthrough to create a Bitbucket account](https://support.atlassian.com/bitbucket-cloud/docs/create-a-git-repository/)
 
+[Here is an explanatory video on creating Bitbucket account](https://www.youtube.com/watch?v=3KS6TaJPeHo&feature=emb_title)
+
+Link these repositories to Bitbucket
+
+[See this walkthrough for linking to Bitbucket repositories](https://www.youtube.com/watch?v=euEwNW4v82M&feature=emb_title)
+
+
 ### **Helpful links and References**
 [Here is a link to basic UNIX shell commands, these are how to control Git, only most basic needed](https://swcarpentry.github.io/shell-novice/reference/)
 
@@ -38,6 +45,8 @@ In class activity files will be shared in this folder. Dr. Ford Versypt will con
   Create a new subfolder called Practice.
   Add any document or image file (preferably a small file) to the Practice folder.
   Get this file into your FirstnameLastnameApplNumComp repository on bitbucket
+
+[Here are examples of using standard Git commands](https://www.youtube.com/watch?v=rfBZTlGImg8&feature=emb_title)
 
 Want more practice?
   [Software Carpentry Git Tutorial](http://swcarpentry.github.io/git-novice/)
