@@ -7,4 +7,6 @@ Note: this site is in progress during the synchronous Fall 2020 course offering.
 
 ## Lessons
 * [Git](https://github.com/ashleefv/ApplNumComp/blob/master/L1:%20Git%20for%20Version%20Control.md)
-* [LaTeX basics](
+  * Downloading, installing, and using Git for version control
+* [LaTeX basics](https://github.com/ashleefv/ApplNumComp/blob/master/L2:%20LaTeX%20Basics)
+  * Downloading, installing, and using LaTeX for typesetting and computational writing
