@@ -6,6 +6,5 @@ This repository contains a set of lessons on Applied Numerical Computing coverin
 Note: this site is in progress during the synchronous Fall 2020 course offering.
 
 ## Lessons
-* [Git](https://github.com/ashleefv/ApplNumComp/blob/master/Git.md)
-
-I can edit the readme, it has given me access
+* [Git](https://github.com/ashleefv/ApplNumComp/blob/master/L1:%20Git%20for%20Version%20Control.md)
+* [LaTeX basics](
