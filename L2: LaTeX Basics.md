@@ -47,4 +47,4 @@ Some editors come with the implementation, but TeXMaker is preferred because of 
 * Partner up, one person is the coder (actually doing the coding), the other is the navigator (watches the screen, reads values from the assignment, gives suggestions, and proofreads)
 * Discuss
 * Switch roles, stay with the same partner,try part 2 of the activity
-* Disucssion
+* Discussion
