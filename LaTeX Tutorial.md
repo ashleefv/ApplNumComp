@@ -68,7 +68,7 @@ Demonstrating power of LaTeX
 %\usecolortheme{seahorse}
 </code>
 
-uncomment by removing the percent sign
+* uncomment by removing the percent sign
 <code>
 %\usecolortheme{beetle}
 %\usecolortheme{crane}
@@ -84,4 +84,3 @@ uncomment by removing the percent sign
 
 See how the colors look. 
 Try with multiple variations of colors and themes commented and uncommented. 
-
