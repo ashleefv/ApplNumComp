@@ -15,9 +15,9 @@ and has the potential to be the most immediately useful.
   
   * [OSU Thesis Template Example](https://www.youtube.com/watch?v=gHp1IWxEink&ab_channel=AshleeN.FordVersypt)
   
-* [UIUC Thesis Template](https://github.com/bardsoftware/template-thes-uiuc)
+  * [UIUC Thesis Template](https://github.com/bardsoftware/template-thes-uiuc)
 
-* [OSU Thesis Template](https://github.com/mitchute/OSULaTeXTheisTemplate)
+  * [OSU Thesis Template](https://github.com/mitchute/OSULaTeXTheisTemplate)
  
 ### **Try this Activity**
 * [Coding activity](https://github.com/ashleefv/ApplNumComp/blob/master/LaTeX%20basics%20activity.pdf)
