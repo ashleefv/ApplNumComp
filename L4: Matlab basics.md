@@ -18,12 +18,13 @@ This lecture focuses on basic Matlab functionality, an overview of the versatili
 [![](http://img.youtube.com/vi/ThDNl4m7GsI/0.jpg)](http://www.youtube.com/watch?v=ThDNl4m7GsI "")
 
 ### **Walkthrough and Tutorial**
+Walk through real time coding of the following examples to show how to debug and the uses.
 * Calculator- do some basic calculations
 ```matlab
 2+2
 3*4
 ```
-*Scripts
+* Scripts
 ```matlab
 
 %% calculate function values
