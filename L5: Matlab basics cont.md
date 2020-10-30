@@ -9,7 +9,7 @@ This lecture continues the introduction of basics of MATLAB programming for scie
 
 ## **Two Part guided problem**
 ### **Walkthrough and Tutorial**
-####**Part One**
+#### **Part One**
 * Provided the code below (which can be downloaded from [here](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/MATLAB/MATLABBasicsStart.m)
 ```matlab
 %% MATLABBasicsStart.m
@@ -67,7 +67,7 @@ legend('f(x) = 3x^2','g(x)= x','Location','Best');
 title('A simple plot')
 grid on
 ```
-####**Part Two**
+#### **Part Two**
 * Copy and paste the code from problem 1, make it into a new function named MATLABBasics.m
 * Allow the three parameters xmin, xmax, and Nx to be inputs to the funciton in this order. No output required
 
@@ -103,7 +103,7 @@ MATLABasics()
 ```
 * This should now recreate the same graph as the first command
 
-####**Solution to Part 2**
+#### **Solution to Part 2**
 ```matlab
 %% MATLABBasics.m
 %   make a very simple plot of one function.
