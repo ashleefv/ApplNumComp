@@ -20,3 +20,5 @@ Note: this site is in progress during the synchronous Fall 2020 course offering.
   * Learning basics of python, and accustoming to coding by converting an existing matlab code into python
 * [Matlab Functions](https://github.com/ashleefv/ApplNumComp/blob/master/Matlab%20Functions.md)
   * Introducing matlab built-in functions: nonlinear equation solving, integration, ODE IVPs
+* [Python Functions](https://github.com/ashleefv/ApplNumComp/blob/master/L9:%20Python%20Functions)
+  * Introducing Python built in functions: nonlinear equation solving, integration and basic ODEs.
