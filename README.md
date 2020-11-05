@@ -24,3 +24,5 @@ Note: this site is in progress during the synchronous Fall 2020 course offering.
   * Introducing Python built in functions: nonlinear equation solving, integration and basic ODEs.
 * [Matlab to Python Conversion](https://github.com/ashleefv/ApplNumComp/blob/master/L10:%20Matlab%20to%20Python%20conversions.md)
   * Converting matlab code into python code, using system of odes as example
+* [Matlab and Python Plotting](https://github.com/ashleefv/ApplNumComp/blob/master/L11:%20Python%20and%20Matlab%20Plotting.md)
+  * Lesson on the plotting capabilities of Matlab and Python, including live examples
