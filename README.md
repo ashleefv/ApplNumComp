@@ -34,3 +34,5 @@ Note: this site is in progress during the synchronous Fall 2020 course offering.
   * Lesson on python estimation of parameters; using the same example as from Matlab session to show comparison/contrast
 * [Introduction to GUIs and matlab methods for creating them](https://github.com/ashleefv/ApplNumComp/blob/master/L15:%20Introduction%20to%20GUIs.md)
   * Lesson on GUIs, their prevalence in everyday life, and an overview of the Matlab tools for creating them
+* [Matlab Guide exploration](https://github.com/ashleefv/ApplNumComp/blob/master/L16:%20Matlab%20and%20GUIDE.md)
+  * Lesson demonstrating the power of guide, how to design callbacks and walkthrough of a sample GUI
