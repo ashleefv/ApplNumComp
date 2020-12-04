@@ -26,3 +26,7 @@ Note: this site is in progress during the synchronous Fall 2020 course offering.
   * Converting matlab code into python code, using system of odes as example
 * [Matlab and Python Plotting](https://github.com/ashleefv/ApplNumComp/blob/master/L11:%20Python%20and%20Matlab%20Plotting.md)
   * Lesson on the plotting capabilities of Matlab and Python, including live examples
+* [Matlab Parameter Estimation](https://github.com/ashleefv/ApplNumComp/blob/master/L12:%20Parameter%20Estimation%20for%20Matlab.md)
+  *  Lesson on Parameter estimation with live examples within Matlab
+* [Advanced Matlab Parameter Estimation](https://github.com/ashleefv/ApplNumComp/blob/master/L13:%20Advanced%20Parameter%20Estimation%20in%20Matlab.md)
+  * Lesson on further possibilities of Matlab for parameter estimation
