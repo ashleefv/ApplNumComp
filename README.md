@@ -30,3 +30,5 @@ Note: this site is in progress during the synchronous Fall 2020 course offering.
   *  Lesson on Parameter estimation with live examples within Matlab
 * [Advanced Matlab Parameter Estimation](https://github.com/ashleefv/ApplNumComp/blob/master/L13:%20Advanced%20Parameter%20Estimation%20in%20Matlab.md)
   * Lesson on further possibilities of Matlab for parameter estimation
+* [Parameter Estimation for Python](https://github.com/ashleefv/ApplNumComp/blob/master/L14:%20Python%20Parameter%20Estimation.md)
+  * Lesson on python estimation of parameters; using the same example as from Matlab session to show comparison/contrast
