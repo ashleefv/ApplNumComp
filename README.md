@@ -32,3 +32,5 @@ Note: this site is in progress during the synchronous Fall 2020 course offering.
   * Lesson on further possibilities of Matlab for parameter estimation
 * [Parameter Estimation for Python](https://github.com/ashleefv/ApplNumComp/blob/master/L14:%20Python%20Parameter%20Estimation.md)
   * Lesson on python estimation of parameters; using the same example as from Matlab session to show comparison/contrast
+* [Introduction to GUIs and matlab methods for creating them](https://github.com/ashleefv/ApplNumComp/blob/master/L15:%20Introduction%20to%20GUIs.md)
+  * Lesson on GUIs, their prevalence in everyday life, and an overview of the Matlab tools for creating them
