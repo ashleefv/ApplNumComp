@@ -36,3 +36,5 @@ Note: this site is in progress during the synchronous Fall 2020 course offering.
   * Lesson on GUIs, their prevalence in everyday life, and an overview of the Matlab tools for creating them
 * [Matlab Guide exploration](https://github.com/ashleefv/ApplNumComp/blob/master/L16:%20Matlab%20and%20GUIDE.md)
   * Lesson demonstrating the power of guide, how to design callbacks and walkthrough of a sample GUI
+* [Matlab Guide live walkthrough](https://github.com/ashleefv/ApplNumComp/blob/master/L17:%20Further%20exploration%20of%20GUIDE%20in%20Matlab.md)
+  * Lesson demonstrating and live walkthrough of editing an app within guide
