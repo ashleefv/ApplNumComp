@@ -44,3 +44,5 @@ Note: this site is in progress during the synchronous Fall 2020 course offering.
   * Lesson on publication quality images in Matlab and Python, how to create and export them, and examples of publications using them, as well as description of JOSS
 * [Python GUIs](https://github.com/ashleefv/ApplNumComp/blob/master/L20:%20GUIs%20in%20Python.md)
   * Lesson on Python GUIs, PyQt5, and creation or utilization thereof.
+* [Validation, Verification, and ABM](https://github.com/ashleefv/ApplNumComp/blob/master/L21:%20Validation%20and%20Verification%20of%20ABM.md)
+  * Lesson on Verification, Validation, and Agent Based Modeling introduction
