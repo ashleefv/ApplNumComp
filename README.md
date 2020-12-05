@@ -38,3 +38,5 @@ Note: this site is in progress during the synchronous Fall 2020 course offering.
   * Lesson demonstrating the power of guide, how to design callbacks and walkthrough of a sample GUI
 * [Matlab Guide live walkthrough](https://github.com/ashleefv/ApplNumComp/blob/master/L17:%20Further%20exploration%20of%20GUIDE%20in%20Matlab.md)
   * Lesson demonstrating and live walkthrough of editing an app within guide
+* [Sensitivity Analysis in Matlab](https://github.com/ashleefv/ApplNumComp/blob/master/L18:%20Sensitivity%20Analysis.md)
+  * Lesson on sensitivity analysis, and how to code this within Matlab
