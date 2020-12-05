@@ -40,3 +40,5 @@ Note: this site is in progress during the synchronous Fall 2020 course offering.
   * Lesson demonstrating and live walkthrough of editing an app within guide
 * [Sensitivity Analysis in Matlab](https://github.com/ashleefv/ApplNumComp/blob/master/L18:%20Sensitivity%20Analysis.md)
   * Lesson on sensitivity analysis, and how to code this within Matlab
+* [Publication Quality Images in Matlab and Python](https://github.com/ashleefv/ApplNumComp/blob/master/L19:%20Publication%20Quality%20figures%20in%20Matlab%20and%20Python.md)
+  * Lesson on publication quality images in Matlab and Python, how to create and export them, and examples of publications using them, as well as description of JOSS
