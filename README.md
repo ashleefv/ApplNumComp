@@ -48,3 +48,5 @@ Note: this site is in progress during the synchronous Fall 2020 course offering.
   * Lesson on Verification, Validation, and Agent Based Modeling introduction
 * [ABM and Open Source Software Examples](https://github.com/ashleefv/ApplNumComp/blob/master/L22:%20Agent%20Based%20Modeling%20and%20Open%20Source%20Software.md)
   * Lesson focusing on further explanations of ABM, as well as a variety of tools and examples of open source software, as well as introduction to JOSS 
+* [Reproducible Research](https://github.com/ashleefv/ApplNumComp/blob/master/L23:%20Reproducible%20Research%20Computing.md)
+  * Lesson focusing on the case for reproducible research
