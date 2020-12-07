@@ -46,3 +46,5 @@ Note: this site is in progress during the synchronous Fall 2020 course offering.
   * Lesson on Python GUIs, PyQt5, and creation or utilization thereof.
 * [Validation, Verification, and ABM](https://github.com/ashleefv/ApplNumComp/blob/master/L21:%20Validation%20and%20Verification%20of%20ABM.md)
   * Lesson on Verification, Validation, and Agent Based Modeling introduction
+* [ABM and Open Source Software Examples](https://github.com/ashleefv/ApplNumComp/blob/master/L22:%20Agent%20Based%20Modeling%20and%20Open%20Source%20Software.md)
+  * Lesson focusing on further explanations of ABM, as well as a variety of tools and examples of open source software, as well as introduction to JOSS 
