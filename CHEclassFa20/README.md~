@@ -1,0 +1,31 @@
+# README #
+
+This repository stores codes for in class demonstration and example purposes.
+
+## How do I get these files onto my computer? 
+In a folder on your computer (suggested title = CHEclassFa20), open Git bash there or use cd to change directory to get to that folder. 
+Then type the following commands (case-sensitive) to link to this online repository for sharing in-class problems.
+
+### First time
+```
+$ git init
+$ git remote add origin https://username@bitbucket.org/ashleefv/CHEclassFa20.git
+$ git pull origin master
+```
+where username is your username on Bitbucket.
+
+If you get an error about the repository not existing, check that you've inserted your username correctly (capitilization, punctuation, and spelling all matter for this to work properly). 
+Type the following to reset, the try the second and third commands above again.
+```
+$ git remote rm origin
+```
+This file location CANNOT also be the location of your homework folder and should be reserved for only the class examples.
+
+You can repeat this process on lab computers or personal computers the very first time you want to connect to this online repository.
+
+### After the first time
+You only have readonly access to this repository, so you cannot add anything or push to it. Open Git bash in the folder on your computer or use cd to change directory to get to that folder.
+```
+$ git pull origin master
+```
+That's all. You should do these two commands at the beginning of each synchronous class period. Both the problem statements and the solutions will be posted in this repository.

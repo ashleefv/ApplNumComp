@@ -1,0 +1,54 @@
+\documentclass[12pt]{article}
+
+\usepackage{booktabs}
+
+\title{Applied Numerical Computing\\ for Scientists and Engineers}
+\author{Dr. Ford Versypt}
+\date{In-Class Problem: \LaTeX{} Basics simple version}
+
+\begin{document}
+
+\maketitle
+
+\section{Part 1 Solution}
+In Table \ref{table:simple}, we have some stuff.
+
+\begin{table}[htbp]
+\begin{center}
+\caption{Parameter values for two cases} 
+\begin{tabular}{llll}
+\toprule
+Parameter & Units & Case 1 & Case 2 \\
+\midrule
+$a$ & h & 1.0 & 1.0 \\
+$b_1$ & h & 1.0 & 1.0 \\
+$b_2$ & ng h ml$^{-1}$ & 1.0 & 1.0 \\
+\bottomrule
+\end{tabular} 
+\label{table:simple} 
+\end{center}
+\end{table}
+
+\section{Part 2 Solution}
+\section{Part 2}
+In Table \ref{table:multicolumn}, we try multicolumn.
+
+\begin{table}[htbp]
+\begin{center}
+\caption{Parameter values for two cases with some values reported and others calculated}
+\begin{tabular}{llll}\toprule
+Parameter & Units & Case 1 & Case 2 \\ \midrule
+\multicolumn{4}{c}{Reported in the literature}\\ \midrule
+$a$ & h & 1.0 & 1.0 \\
+$b_1$ & h & 1.0  & 1.0 \\
+$b_2$ & ng h ml$^{-1}$ & 1.0 & 1.0 \\ \midrule
+\multicolumn{4}{c}{Calculated from literature values}\\ \midrule
+$c$ & h$^{-1}$ & 2.0 & 2.0  \\
+$d$ & h$^{-1}$ & 2.0 & 2.0 \\
+\bottomrule
+\end{tabular}
+\label{table:multicolumn}
+\end{center}
+\end{table}  
+
+\end{document}

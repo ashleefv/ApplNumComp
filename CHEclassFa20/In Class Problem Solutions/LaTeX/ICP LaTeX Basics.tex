@@ -1,0 +1,61 @@
+\documentclass[12pt]{article}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\titlelabel{\thetitle.\quad}
+\title{Applied Numerical Computing\\ for Scientists and Engineers}
+\date{In-Class Problem: \LaTeX{} Basics}
+\author{Dr. Ford Versypt}
+\begin{document}
+
+\maketitle
+
+Use the built-in article class in \LaTeX{} and the use the booktabs package as in the tutorial with Overleaf as the editor to create a document that has a table and a cross-reference to a table.
+
+\section{Part 1}
+\begin{enumerate}
+\item Write the \LaTeX{} code to reproduce Table \ref{table:first}. Note that the parameters use the inline math notation surrounded by pairs of \$'s and that superscripts or subscripts require inline math notation.
+\item Write the \LaTeX{} code to cross reference Table \ref{table:first}.
+\end{enumerate}
+
+
+\begin{table}[htbp]
+\begin{center}
+\caption{Parameter values for two cases}
+\begin{tabular}{llll}\toprule
+Parameter & Units & Case 1 & Case 2 \\ \midrule
+$a$ & h & 1.0 & 1.0 \\
+$b_1$ & h & 1.0  & 1.0 \\
+$b_2$ & ng h ml$^{-1}$ & 1.0 & 1.0 \\ 
+\bottomrule
+\end{tabular}
+\label{table:first}
+\end{center}
+\end{table} 
+
+\section{Part 2}
+\begin{enumerate}
+\item Write the \LaTeX{} code to reproduce Table \ref{table:multicolumn}. You are welcome to search the internet for ideas, packages, or code snippets for formatting multicolumn tables.
+\item Write the \LaTeX{} code to cross reference Table \ref{table:multicolumn}.
+\end{enumerate}
+
+\begin{table}[htbp]
+\begin{center}
+\caption{Parameter values for two cases with some values reported and others calculated}
+\begin{tabular}{llll}\toprule
+Parameter & Units & Case 1 & Case 2 \\ \midrule
+\multicolumn{4}{c}{Reported in the literature}\\ \midrule
+$a$ & h & 1.0 & 1.0 \\
+$b_1$ & h & 1.0  & 1.0 \\
+$b_2$ & ng h ml$^{-1}$ & 1.0 & 1.0 \\ \midrule
+\multicolumn{4}{c}{Calculated from literature values}\\ \midrule
+$c$ & h$^{-1}$ & 2.0 & 2.0  \\
+$d$ & h$^{-1}$ & 2.0 & 2.0 \\
+\bottomrule
+\end{tabular}
+\label{table:multicolumn}
+\end{center}
+\end{table}  
+
+\end{document}
