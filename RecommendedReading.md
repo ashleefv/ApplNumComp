@@ -17,7 +17,7 @@ This section focuses on best practices for software engineering in scientific co
 * Reading 2.4 [3, p. 21–30]
 
 Additional Resources
-* Supplementary Material for Reading 2.
+* Supplementary Material for Reading 2.3
 
 ## 3. Reading 3
 
