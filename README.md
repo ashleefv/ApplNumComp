@@ -3,7 +3,29 @@ Applied Numerical Computing Course
 
 This repository contains a set of lessons on Applied Numerical Computing covering Git for version control, LaTeX for typesetting, and MATLAB and Python for high-level programming and scientific computing. 
 
-Note: this site is in progress during the synchronous Fall 2020 course offering.
+Note: this site is based on the Fall 2020 course offering: CHE 4753/5753 Applied Numerical Computing for Scientists & Engineers at Oklahoma State University created and taught by Ashlee N. Ford Versypt, Ph.D. and assisted by Duncan H. Mullins.
+
+## Course Description
+Practical software tools for computational problem solving in science and engineering: version control (e.g., Git), mathematical typesetting (e.g., LaTeX), graphical user interfaces, and high level programming languages with libraries of solvers and visualization tools (e.g., Python and MATLAB). Application of numerical computing methods to solve systems of differential and algebraic equations and to estimate model parameters using optimization.
+
+## Prerequisites
+* Junior, Senior, or Graduate Student status
+* Differential equations and/or Calculus III
+* Basic familiarity with at least one programming language and introductory terminology such as program, for loop, if statement, etc. (e.g. C/C++, Fortran, Python, MATLAB, Maple, Java, Polymath, VBA). Note that these expectations are at the level of a first year engineering introductory computer programming class.
+* Or consent of the instructor
+
+## Course Learning Objectives
+Upon completion of this course, you should be able to
+* utilize Git for version control using common commands: status, add, commit, push, pull
+* write scientific reports and similar documents in the LaTeX typesetting language using an article template and include equations, figures, tables, document hierarchy, cross referencing, and citations (using BibTeX) in the documents
+* use best practices for computational problem solving and research and scientific computing as described in publications provided as assigned readings
+* develop graphical user interfaces for interactive applied numerical computing
+* program well-documented, readable code in the high-level languages of Python and MATLAB that uses libraries, built-in functions, and user-defined functions
+  * to solve systems of linear and nonlinear equations,
+  * to numerically integrate functions and data,
+  * to solve systems of ordinary and partial differential equations, 
+  * to estimate parameters for mathematical models using optimization and data fitting tools, 
+  * to create publication quality figures 
 
 ## Lessons
 * [Git](https://github.com/ashleefv/ApplNumComp/blob/master/L1:%20Git%20for%20Version%20Control.md)
@@ -50,3 +72,19 @@ Note: this site is in progress during the synchronous Fall 2020 course offering.
   * Lesson focusing on further explanations of ABM, as well as a variety of tools and examples of open source software, as well as introduction to JOSS 
 * [Reproducible Research](https://github.com/ashleefv/ApplNumComp/blob/master/L23:%20Reproducible%20Research%20Computing.md)
   * Lesson focusing on the case for reproducible research
+
+## Recommended Software
+* [Anaconda Python 3.8] (https://www.anaconda.com/products/individual)
+  * Online editor: [Google Colab] (https://colab.research.google.com/)
+•	MATLAB R2020a through [OSU software downloads for OSU students and faculty only] (https://ceat.okstate.edu/itservices/software-downloads/mathworks-matlab-simulink.html)
+  * Online editor: [MATLAB Online] (https://matlab.mathworks.com/)
+•	Git https://www.atlassian.com/git/tutorials/install-git
+  * Online repository location: [Github] (https://github.com/) or [Bitbucket] (https://bitbucket.org/)
+•	LaTeX (see more detailed instructions until LaTeX Links page on Canvas)
+  * [MikTeX 2.9] (https://miktex.org/download)
+  * [MacTeX for Mac users] (http://www.tug.org/mactex/)
+  * Preferred editor: [Texmaker 5.0.3]  (https://www.xm1math.net/texmaker/download.html)
+  * Online editor: [Overleaf] (https://www.overleaf.com)
+
+  
+  (c) 2020 Ashlee N. Ford Versypt
