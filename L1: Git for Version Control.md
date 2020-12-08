@@ -1,4 +1,4 @@
-# **Lecture 1 Git**
+# **Lecture 1: Git for Version Control**
 
 This lecture focuses on Git for version control.
 
