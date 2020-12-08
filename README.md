@@ -74,16 +74,16 @@ Upon completion of this course, you should be able to
   * Lesson focusing on the case for reproducible research
 
 ## Recommended Software
-* [Anaconda Python 3.8](https://www.anaconda.com/products/individual)
+* [Anaconda Python 3.x](https://www.anaconda.com/products/individual)
   * Online editor: [Google Colab](https://colab.research.google.com/)
-* MATLAB R2020a through [OSU software downloads for OSU students and faculty only](https://ceat.okstate.edu/itservices/software-downloads/mathworks-matlab-simulink.html)
+* MATLAB through [OSU software downloads for OSU students and faculty only](https://ceat.okstate.edu/itservices/software-downloads/mathworks-matlab-simulink.html)
   * Online editor: [MATLAB Online](https://matlab.mathworks.com/)
 * [Git](https://www.atlassian.com/git/tutorials/install-git)
   * Online repository location: [GitHub](https://github.com/) or [Bitbucket](https://bitbucket.org/)
 * LaTeX
-  * [MiKTeX 2.9](https://miktex.org/download)
+  * [MiKTeX](https://miktex.org/download)
   * [MacTeX for Mac users](http://www.tug.org/mactex/)
-  * Preferred editor: [Texmaker 5.0.3](https://www.xm1math.net/texmaker/download.html)
+  * Preferred editor: [Texmaker](https://www.xm1math.net/texmaker/download.html)
   * Online editor: [Overleaf](https://www.overleaf.com)
 
   
