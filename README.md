@@ -27,6 +27,9 @@ Upon completion of this course, you should be able to
   * to estimate parameters for mathematical models using optimization and data fitting tools, 
   * to create publication quality figures 
 
+## Reading Materials
+A full list of recommended and optional reading materials that complement the course lessons are available [here](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md)
+
 ## Lessons
 * [Git](https://github.com/ashleefv/ApplNumComp/blob/master/L1:%20Git%20for%20Version%20Control.md)
   * Downloading, installing, and using Git for version control
