@@ -4,7 +4,7 @@ This lecture focuses on Git for version control.
 
 Note: the instructions are provided for using Bitbucket as the site for hosting version control repositories. Alternatively, GitHub may be used instead.
 
-### **Motivation for Version Control***
+### **Motivation for Version Control**
 ["Final".doc](http://phdcomics.com/comics/archive_print.php?comicid=1531)
 
 ### **Git and Bitbucket Setup**
