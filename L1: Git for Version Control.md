@@ -1,8 +1,10 @@
-# **Lecture 1:**
+# **Lecture 1 Git**
 
 This lecture focuses on Git for version control.
 
-### **Github and Bitbucket Setup**
+Note: the instructions are provided for using Bitbucket as the site for hosting version control repositories. Alternatively, GitHub may be used instead.
+
+### **Git and Bitbucket Setup**
 Create an account on bitbucket.org with individual university email. 
 It is strongly recommended to set the username to the part of the email address that precedes the @ sign. ex: if university email is duncabm@okstate.edu, use duncabm as the bitbucket username.
 
