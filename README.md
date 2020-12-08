@@ -79,9 +79,9 @@ Upon completion of this course, you should be able to
 * MATLAB R2020a through [OSU software downloads for OSU students and faculty only](https://ceat.okstate.edu/itservices/software-downloads/mathworks-matlab-simulink.html)
   * Online editor: [MATLAB Online](https://matlab.mathworks.com/)
 * [Git](https://www.atlassian.com/git/tutorials/install-git)
-  * Online repository location: [Github](https://github.com/) or [Bitbucket](https://bitbucket.org/)
+  * Online repository location: [GitHub](https://github.com/) or [Bitbucket](https://bitbucket.org/)
 * LaTeX
-  * [MikTeX 2.9](https://miktex.org/download)
+  * [MiKTeX 2.9](https://miktex.org/download)
   * [MacTeX for Mac users](http://www.tug.org/mactex/)
   * Preferred editor: [Texmaker 5.0.3](https://www.xm1math.net/texmaker/download.html)
   * Online editor: [Overleaf](https://www.overleaf.com)
