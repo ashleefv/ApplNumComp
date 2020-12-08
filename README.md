@@ -87,4 +87,4 @@ Upon completion of this course, you should be able to
   * Online editor: [Overleaf](https://www.overleaf.com)
 
   
-  (c) 2020 Ashlee N. Ford Versypt
+(c) 2020 Ashlee N. Ford Versypt
