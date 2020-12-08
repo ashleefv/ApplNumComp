@@ -6,19 +6,18 @@ Note: the instructions are provided for using Bitbucket as the site for hosting 
 
 ### **Git and Bitbucket Setup**
 Create an account on bitbucket.org with individual university email. 
-It is strongly recommended to set the username to the part of the email address that precedes the @ sign. ex: if university email is duncabm@okstate.edu, use duncabm as the bitbucket username.
 
-[Download and install Git](https://www.atlassian.com/git/tutorials/install-git)
+[Download and install Git](https://www.atlassian.com/git/tutorials/install-git). Note the instructions include how to configure your username and email address AND how to automatically save your password (credential helper). These are often overlooked but are really helpful. 
 
-Create two empty folders on the computer that are completely dedicated to tracking personal computational assignments and synchronous class activities. Don't put other class files or personal files in these folders. Also, don't put one of these folders inside the other.
+Create two empty folders on the computer that are completely dedicated to tracking personal computational assignments and synchronous class activities. Do not put other class files or personal files in these folders. Also, do not put one of these folders inside the other.
 
 * Folder 1: name it FirstnameLastnameApplNumComp (change firstname and lastname to own name) [ApplNumComp is a shortened reference to our course name]
 Students will control everything in this folder and submit their homework through this folder.
 
 * Folder 2: name it CHEclassFa20 [this folder is how to share coursenotes, examples, problems, etc.]
-In class activity files will be shared in this folder. Course instructor will control this shared folder.  
+In class activity files are shared in this folder. Course instructor controls this shared folder.  
 
-* Create a Bitbucket repository, this will be where stduents turn in their homeworks. It is recommended to name it the same as the first folder created on the local device.
+Create a Bitbucket repository. It is recommended to name it the same as the first folder created on the local device. In general, these names do not have to match, but it is really helpful when you are getting started or if you anticipate have several version controlled folders.
 [Create a Bitbucket account](https://support.atlassian.com/bitbucket-cloud/docs/create-a-git-repository/)
 
 [Creating Bitbucket account](https://www.youtube.com/watch?v=3KS6TaJPeHo&feature=emb_title)
