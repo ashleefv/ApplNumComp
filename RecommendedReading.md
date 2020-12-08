@@ -1,6 +1,6 @@
 # Applied Numerical Computing Recommended Reading
 
-## 1. Reading 1
+## Reading 1
 
 This section focuses on LATEX and computational science and engineering. The readings provide background and overview information.
 
@@ -8,7 +8,7 @@ This section focuses on LATEX and computational science and engineering. The rea
 * Reading 1.2 [2, p. 408–436]
 * Reading 1.3 [3, p. xii–xvi, 1–17]
 
-## 2. Reading 2
+## Reading 2
 
 This section focuses on best practices for software engineering in scientific computing and introducing the MATLAB programming environments.
 * Reading 2.1 [2, p.93–108]
@@ -19,7 +19,7 @@ This section focuses on best practices for software engineering in scientific co
 Additional Resources
 * Supplementary Material for Reading 2.3
 
-## 3. Reading 3
+## Reading 3
 
 This section focuses on basics of Python programming.
 * Reading 3.1 [6, p. 9–15]
@@ -39,7 +39,7 @@ Additional Resources
 * Python reference with brief examples and explanations of many Python built-in commands and functions [10]
 * Brief paper comparing the learning curves for C, MATLAB, and Python [11]
 
-## 4. Reading 4
+## Reading 4
 
 This section focuses on how to use built-in functions and standard libraries in MATLAB and Python for solving common classes of problems in scientific
 computing with established numerical methods. Specifically, we focus on nonlinear equations, numerical integration, and ordinary differential equations (initial value problems).
@@ -54,7 +54,7 @@ Additional Resources
 * Theory of numerical methods with MATLAB examples [14]
 * Theory of numerical methods with Python examples [15]
 
-## 5. Reading 5
+## Reading 5
 
 This section focuses on the Python modules NumPy and SciPy.
 * Reading 5.1 What is NumPy? [16] & NumPy Quickstart tutorial [17]
@@ -65,13 +65,13 @@ Additional Resources The following three optional readings provide more backgrou
 * Optional Reading 5.4 [20]
 * Optional Reading 5.5 [21]
 
-## 6. Reading 6
+## Reading 6
 
 This section focuses on parameter estimation by linear and nonlinear least squares regression.
 * Reading 6.1 Linear and nonlinear regression [22, p. 195–221]
 * Reading 6.2 Parameter estimation for dynamic models, including algorithms [23, p. 521–542, 554–557]
 
-## 7. Reading 7
+## Reading 7
 
 This section focuses on sensitivity analysis.
 * Reading 7.1 Review of Parameter Sensitivity Techniques (particularly Sections 2.1 and 3.8) [24]
@@ -81,7 +81,7 @@ Additional Resources
 * Optional Reading 7.3 Local and global sensitivity applied to reactor design [26]
 * Optional Reading 7.4 Global sensitivity using eFAST and PRC coefficients [27] with code implemented in MATLAB available at [28]
 
-## 8. Reading 8
+## Reading 8
 
 This section focuses on graphical user interfaces (GUIs) for scientific computing in MATLAB and Python.
 * Reading 8.1 General overview of using and developing GUIs for scientific computing applications (Sections 1, 2.5.4, 2.5.5, and 2.7 for background and Sections 3, 4, and 5 for examples/case studies of GUI development) [29, p. 1–2, 10, 13–17, 18–30]
@@ -93,7 +93,7 @@ Additional Resources
 * Optional Reading 8.2 Tutorial for MATLAB GUIDE [32, p. 1–6, the remainder is a reference with examples]
 * Optional Reading 8.3 Tutorial for Python Qt4 (PyQt4) tutorial [33, p. 1–15, the remainder is a reference with examples]
 
-## 9. Reading 9
+## Reading 9
 
 This section focuses on verification and validation in scientific computing.
 * Optional Reading 9.1 Definitions of verification and validation [34]
@@ -102,7 +102,7 @@ This section focuses on verification and validation in scientific computing.
 Additional Resources
 * Optional Reading 9.3 Ashlee N. Ford Versypt’s Ph.D. dissertation Chapter 10 on code and solution verification [36]
 
-## 10. Reading 10
+## Reading 10
 
 This section focuses on reproducible research computing and other tips for sharing figures, code, and documentation from computational projects.
 * Reading 10.1 Terminologies for reproducible research [37]
@@ -117,7 +117,7 @@ Additional Resources
 * Optional Reading 10.4 Overview of export_fig toolbox for exporting publication quality figures from MATLAB [44]
 * Optional Reading 10.5 Overview of mpltex Python tool for creating publication quality plots [45]
 
-## 11. MATLAB Reference Books
+## MATLAB Reference Books
 
 This section provides a list of MATLAB books targeted to different audiences that provide good information and examples. The Mathworks website also has help pages for every function and many example codes and plots. MATLAB Central is a website that hosts an open exchange repository of MATLAB files and discussion boards contributed by an extensive user community. 
 * [46] Introductory text on programming and basic numerical methods using MATLAB targeted at those who have absolutely no prior knowledge of programming
