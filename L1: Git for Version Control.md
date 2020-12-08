@@ -65,6 +65,3 @@ Link these repositories to Bitbucket
 
 Want more practice?
   [Software Carpentry Git Tutorial](http://swcarpentry.github.io/git-novice/)
-
-  
-[![](http://img.youtube.com/vi/5rqZkdkussA/0.jpg)](http://www.youtube.com/watch?v=5rqZkdkussA "SynchronousClass1")
