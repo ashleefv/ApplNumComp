@@ -76,11 +76,11 @@ Upon completion of this course, you should be able to
 ## Recommended Software
 * [Anaconda Python 3.8] (https://www.anaconda.com/products/individual)
   * Online editor: [Google Colab] (https://colab.research.google.com/)
-•	MATLAB R2020a through [OSU software downloads for OSU students and faculty only] (https://ceat.okstate.edu/itservices/software-downloads/mathworks-matlab-simulink.html)
+*	MATLAB R2020a through [OSU software downloads for OSU students and faculty only] (https://ceat.okstate.edu/itservices/software-downloads/mathworks-matlab-simulink.html)
   * Online editor: [MATLAB Online] (https://matlab.mathworks.com/)
-•	Git https://www.atlassian.com/git/tutorials/install-git
+*	Git https://www.atlassian.com/git/tutorials/install-git
   * Online repository location: [Github] (https://github.com/) or [Bitbucket] (https://bitbucket.org/)
-•	LaTeX (see more detailed instructions until LaTeX Links page on Canvas)
+*	LaTeX (see more detailed instructions until LaTeX Links page on Canvas)
   * [MikTeX 2.9] (https://miktex.org/download)
   * [MacTeX for Mac users] (http://www.tug.org/mactex/)
   * Preferred editor: [Texmaker 5.0.3]  (https://www.xm1math.net/texmaker/download.html)
