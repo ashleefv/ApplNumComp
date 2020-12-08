@@ -4,6 +4,9 @@ This lecture focuses on Git for version control.
 
 Note: the instructions are provided for using Bitbucket as the site for hosting version control repositories. Alternatively, GitHub may be used instead.
 
+### **Motivation for Version Control***
+["Final".doc](http://phdcomics.com/comics/archive_print.php?comicid=1531)
+
 ### **Git and Bitbucket Setup**
 Create an account on bitbucket.org with individual university email. 
 
@@ -29,7 +32,7 @@ Link these repositories to Bitbucket
 [![](http://img.youtube.com/vi/euEwNW4v82M/0.jpg)](http://www.youtube.com/watch?v=euEwNW4v82M "Linking Local Folder")
 
 
-### **Helpful links and References**
+### **Helpful Links and References**
 [Basic UNIX shell commands for Git control](https://swcarpentry.github.io/shell-novice/reference/)
 
 [Standard Git commands](https://www.youtube.com/watch?v=rfBZTlGImg8&feature=emb_title)
@@ -40,7 +43,7 @@ Link these repositories to Bitbucket
 * A helpful additional reading:
 
 * J. D. Blischak, E. R. Davenport, G. Wilson, A quick introduction to version control with Git and GitHub, PLoS Computational Biology, 12(1):e1004668
-### **Try this Activity**
+### **Try This Activity**
 
 **Demo with CHEclassFa20 folder
 
