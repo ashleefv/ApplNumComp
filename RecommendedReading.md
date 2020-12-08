@@ -60,7 +60,9 @@ This section focuses on the Python modules NumPy and SciPy.
 * Reading 5.1 What is NumPy? [16] & NumPy Quickstart tutorial [17]
 * Reading 5.2 NumPy for MATLAB users [18]
 
-Additional Resources The following three optional readings provide more background information for the methods covered in Reading 5 focusing on the tools available in SciPy.
+Additional Resources 
+
+The following three optional readings provide more background information for the methods covered in Reading 5 focusing on the tools available in SciPy.
 * Optional Reading 5.3 SciPy Reference Guide introduction [19]
 * Optional Reading 5.4 [20]
 * Optional Reading 5.5 [21]
