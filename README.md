@@ -81,8 +81,8 @@ Upon completion of this course, you should be able to
 *	[Git](https://www.atlassian.com/git/tutorials/install-git)
   * Online repository location: [Github](https://github.com/) or [Bitbucket](https://bitbucket.org/)
 *	LaTeX
-  * [MikTeX 2.9](https://miktex.org/download)
-  * [MacTeX for Mac users](http://www.tug.org/mactex/)
+  * MikTeX 2.9](https://miktex.org/download)
+  * MacTeX for Mac users](http://www.tug.org/mactex/)
   * Preferred editor: [Texmaker 5.0.3](https://www.xm1math.net/texmaker/download.html)
   * Online editor: [Overleaf](https://www.overleaf.com)
 
