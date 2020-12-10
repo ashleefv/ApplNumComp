@@ -1,7 +1,7 @@
 # **Validation, Verification and Agent Based Models**
 This lesson focuses on validation and verification- the definitions and necessity therein, as well as an introduction to and example of agent based models
 
-## **Introductory videos**
+### **Introductory videos**
  * None for this lesson
 
 ### **Validation and Verification**
