@@ -2,7 +2,7 @@
 Parameter estimation or curve fitting is the process of finding the coefficients or parameters to fit some model or curve to a set of data.
 This lesson covers how to use MATLAB tools for this process.
 
-## **Introductory videos**
+### **Introductory videos**
 * [Estimating Parameters Using Measured Data](https://www.mathworks.com/videos/estimating-parameters-of-a-dc-motor-68856.html)
 * [What is Curve Fitting Toolbox](https://www.mathworks.com/videos/curve-fitting-toolbox-overview-61198.html)
 * [Using curve fitting toolbox for polynomial functions](https://www.youtube.com/watch?v=dc7YdW_3wGs&feature=emb_title&ab_channel=AnselmGriffin)
