@@ -1,9 +1,9 @@
-# **Matlab to Python Conversions**
-Live work through of converting a code from matlab into python, using system of odes.
+# **MATLAB to Python Conversions**
+Live work through of converting a code from MATLAB into python, using system of odes.
 
 ### **Walkthrough**
 #### **Starting file**
- ```matlab
+ ```MATLAB
  function output = system_of_ODEs(varargin)
 %% Documentation for System_of_ODEs.m
 % This function defines a system of ordinary differential equations
