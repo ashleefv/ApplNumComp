@@ -1,7 +1,7 @@
 # **Sensitivity Analysis**
 This lesson focuses on sensitivity analysis definitions, and an example walkthrough
 
-## **Introductory videos**
+### **Introductory videos**
  * None for this lesson
  
 ### **Introduction**
@@ -12,7 +12,7 @@ This lesson focuses on sensitivity analysis definitions, and an example walkthro
 ### **Live coding walkthrough**
   * Take sample skeleton code and fill in the blanks
   * Recreate code to fulfill [sample problem](https://github.com/ashleefv/ApplNumComp/blob/master/SensitivityAnalysis.pdf)
-  #### **Sample Skeleton Code**
+#### **Sample Skeleton Code**
 ```MATLAB
   function ICPL14
 %% ICPL14 Local sensitivity analysis
