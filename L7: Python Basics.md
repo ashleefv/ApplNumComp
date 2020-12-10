@@ -1,7 +1,7 @@
 # **Python Basics**
 Introduces the basics of Python programming.
 
-## **Why Python**
+### **Why Python**
   [Python Motivation](https://towardsdatascience.com/why-python-is-not-the-programming-language-of-the-future-30ddc5339b66)
   
 ### **Installation and Access**
