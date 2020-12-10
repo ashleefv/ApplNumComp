@@ -2,7 +2,7 @@
 Graphical User Interfaces, or GUIs, are everywhere in our world. 
 This lesson introduces this topic and an overview of the MATLAB functionality in creating them therein.
 
-## **Introductory videos**
+### **Introductory videos**
  * [Introduction to Graphical User Interfaces](https://www.youtube.com/watch?v=XIGSJshYb90&feature=emb_title&ab_channel=CrashCourse)
  * [![](http://img.youtube.com/vi/XIGSJshYb90/0.jpg)](http://www.youtube.com/watch?v=XIGSJshYb90 "")
 
