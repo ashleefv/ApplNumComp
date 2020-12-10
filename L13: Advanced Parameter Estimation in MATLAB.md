@@ -1,16 +1,16 @@
-# **Advanced Parameter Estimation in Matlab**
+# **Advanced Parameter Estimation in MATLAB**
 This lesson focuses on parameter estimation with more advanced examples in MATLAB
 
 ## **Introductory videos**
 None for this lesson
 
-### **Live Matlab Plotting**
+### **Live MATLAB Plotting**
 * Working examples together
-* [Prompts for live practice](https://github.com/ashleefv/ApplNumComp/blob/master/Lecture%2014%20Examples.pdf)
+* [Prompts for practice](https://github.com/ashleefv/ApplNumComp/blob/master/Lecture%2014%20Examples.pdf)
 
 ### **Example 1**
 * Sample code
-```matlab
+```MATLAB
 function ODEParamEstimExample1
 tdata = [0 0.5 1.0 5.0 30]; % independent variable, x-axis
 xdata = [0 0.5 1.2 2.5 2.7]; % dependent variable, y-axis
@@ -61,7 +61,7 @@ end
 
 ### **Example 2**
 * Sample Code
-```matlab
+```MATLAB
 function ODEParamEstimExample2
 tdata = [0.5 1.0 5.0 20]; % independent variable, x-axis
 xdata = [99 98 50 3; 2 4 35 7]; % dependent variables, y-axis
@@ -133,7 +133,6 @@ end
 end
 ```
 ### **Additional Example**
-* [Additional resource for weighted sum of squared residuals in parameter estimation](https://github.com/ashleefv/ApplNumComp/blob/master/WSSR.pdf)
-* Example on Weighted Sum Squares Residuals
+* [Weighted sum of squared residuals in parameter estimation](https://github.com/ashleefv/ApplNumComp/blob/master/WSSR.pdf)
 ### **Additional Resources**
 * None for this lesson
