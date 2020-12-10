@@ -1,5 +1,5 @@
 # **Publication Quality Images**
-This lesson focuses on developing publication quality images in Matlab and Python, and exporting them for use.
+This lesson focuses on developing publication quality images in MATLAB and Python, and exporting them for use.
 
 ## **Introductory videos**
  * None for this lesson
@@ -8,7 +8,7 @@ This lesson focuses on developing publication quality images in Matlab and Pytho
 * [Export Fig](https://github.com/altmany/export_fig) introduction
 * [Sample Publication with images](https://github.com/ashleefv/ApplNumComp/blob/master/Ford%20Versypt%2C%20Harrell%2C%20and%20McPeak%2C%20Computers%20and%20Chem%20Eng%202017.pdf)
 * Sample code for using export fig
-```matlab
+```MATLAB
 x = 1:2:101;
 y = 2*x+5;
 plot(x,y,'Linewidth',5)
