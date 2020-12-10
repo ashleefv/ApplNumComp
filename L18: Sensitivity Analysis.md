@@ -1,5 +1,5 @@
 # **Sensitivity Analysis**
-This lesson focuses on sensitivity analysis definitions, and a live walkthrough
+This lesson focuses on sensitivity analysis definitions, and an example walkthrough
 
 ## **Introductory videos**
  * None for this lesson
@@ -13,7 +13,7 @@ This lesson focuses on sensitivity analysis definitions, and a live walkthrough
   * Take sample skeleton code and fill in the blanks
   * Recreate code to fulfill [sample problem](https://github.com/ashleefv/ApplNumComp/blob/master/SensitivityAnalysis.pdf)
   #### **Sample Skeleton Code**
-```matlab
+```MATLAB
   function ICPL14
 %% ICPL14 Local sensitivity analysis
 clc
@@ -71,7 +71,7 @@ f=
 ```
 
 ####** Final Working Version**
-```matlab
+```MATLAB
 %% Local sensitivity analysis
 function ICPL14
 clc
