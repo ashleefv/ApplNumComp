@@ -63,5 +63,5 @@ Link these repositories to Bitbucket
 [![](http://img.youtube.com/vi/rfBZTlGImg8/0.jpg)](http://www.youtube.com/watch?v=rfBZTlGImg8 "Daily Git Commands")
 
 
-Want more practice?
+Further Resources
   [Software Carpentry Git Tutorial](http://swcarpentry.github.io/git-novice/)
