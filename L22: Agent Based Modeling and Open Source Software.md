@@ -22,6 +22,6 @@ This lesson focuses on further examples of Agent Based Models (ABM) and Open sou
 * [FEBio](https://febio.org/)
 * [TensorFlow](https://www.tensorflow.org/)
 * Discussion of JOSS
-  *Journal of open Source Software- publications with code for access and reuse
+  * Journal of open Source Software- publications with code for access and reuse
 ### **Additional Resources**
 * None for this lesson
