@@ -35,6 +35,7 @@ and has the potential to be the most immediately useful.
 Demonstrating power of LaTeX
 
 * Demonstrating how to create a figure, after integrating the correct packages
+```LaTeX
 <code>
 \begin{figure}[h!]
 \centering
@@ -43,18 +44,18 @@ Demonstrating power of LaTeX
 \label{fig:universe}
 \end{figure}
 </code>
-
+```
 * Demonstrating how to create an equation
-
+```LaTeX
 <code>
 \begin{equation}
 \frac{d}{dt}=\int_0^\infty
 \label{eq:integral}
 \end{equation}
 </code>
-
+```
 * Commenting and Uncommenting
-
+```LaTeX
 <code>
 %\usecolortheme{beetle}
 %\usecolortheme{crane}
@@ -67,8 +68,9 @@ Demonstrating power of LaTeX
 %\usecolortheme{seagull}
 %\usecolortheme{seahorse}
 </code>
-
+```
 * uncomment by removing the percent sign
+```LaTeX
 <code>
 %\usecolortheme{beetle}
 %\usecolortheme{crane}
@@ -81,6 +83,6 @@ Demonstrating power of LaTeX
 %\usecolortheme{seagull}
 %\usecolortheme{seahorse}
 </code>
-
+```
 See how the colors look. 
 Try with multiple variations of colors and themes commented and uncommented. 
