@@ -13,10 +13,10 @@ Introduces the basics of Python programming.
 
 * [Python code demos](https://bitbucket.org/ashleefv/checlassfa20/src/master/Pre%20Class%20Activities/Python/)
 
-### **Matlab to Python conversion Tutorial**
+### **MATLAB to Python conversion Tutorial**
 Walk through real time coding of the following examples to show how to debug and the uses.
 * Start from this matlab code
-```matlab
+```MATLAB
 %% ICPL5matlab
 % Used for comparison to Python function executing the same method.
 
