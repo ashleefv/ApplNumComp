@@ -1,7 +1,7 @@
 # **Python GUIs**
 This lesson focuses on developing GUIs in Python using the PyQt5 tool via QtDesigner
 
-## **Introductory videos**
+### **Introductory videos**
  * [PyQt5](https://www.youtube.com/watch?v=Vde5SH8e1OQ&feature=emb_title&ab_channel=TechWithTim)
   * [![](http://img.youtube.com/vi/Vde5SH8e1OQ/0.jpg)](http://www.youtube.com/watch?v=Vde5SH8e1OQ "")
 * [QtDesigner Demo](https://www.youtube.com/watch?v=FVpho_UiDAY&feature=emb_title&ab_channel=TechWithTim)
@@ -18,7 +18,7 @@ This lesson focuses on developing GUIs in Python using the PyQt5 tool via QtDesi
     * wxpython
     * Pyqt
 ### **PyQt5 Tutorial**
-  *Starting Point Code for PyQt5
+  * Starting Point Code for PyQt5
 ```python
 import sys
 from PyQt5 import QtCore, QtGui, QtWidgets, uic
