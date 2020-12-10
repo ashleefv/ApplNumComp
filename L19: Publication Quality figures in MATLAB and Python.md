@@ -1,7 +1,7 @@
 # **Publication Quality Images**
 This lesson focuses on developing publication quality images in MATLAB and Python, and exporting them for use.
 
-## **Introductory videos**
+### **Introductory videos**
  * None for this lesson
  
 ### **Export Fig for Matlab publications**
