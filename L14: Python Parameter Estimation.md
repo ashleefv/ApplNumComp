@@ -2,7 +2,7 @@
 Parameter estimation or curve fitting is the process of finding the coefficients or parameters to fit some model or curve to a set of data.
 This lesson covers how to use Python tools for this process.
 
-## **Introductory videos**
+### **Introductory videos**
  * None for this lesson
 
 ### **Python Plotting Example**
