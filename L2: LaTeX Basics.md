@@ -2,7 +2,7 @@
 
 This lecture focuses on LaTeX for typesetting.
 
-## **LaTeX download and installation**
+### **LaTeX download and installation**
 To run LaTeX on a computer, you need to install both the LaTeX implementation (MikTeX or MacTeX) AND an editor. 
 Some editors come with the implementation, but TeXMaker is preferred because of its layout and formatting.
 
@@ -35,7 +35,7 @@ Some editors come with the implementation, but TeXMaker is preferred because of 
  * [Hands-on tutorial for LaTeX](https://www.latex-tutorial.com/tutorials/)
  
  
-## **Helpful links and References**
+### **Helpful links and References**
   * [Details on how to use TeXMaker, especially how to compile the documents](https://www.xm1math.net/texmaker/doc.html)
   * [Nice reference or for more background on LaTeX](http://ctan.mirrors.hoobly.com/info/lshort/english/lshort.pdf)
   
