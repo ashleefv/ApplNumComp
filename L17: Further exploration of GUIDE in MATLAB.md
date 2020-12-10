@@ -1,10 +1,10 @@
 # **Exploration of guide in MATLAB**
 This lesson focuses on GUI examples within MATLAB, exploring in depth the capabilities of guide
 
-## **Introductory videos**
+### **Introductory videos**
  * [Packaging and installing MATLAB Apps](https://www.mathworks.com/videos/packaging-and-installing-matlab-apps-101563.html)
  
-## **Pre-Lesson activities**
+### **Pre-Lesson activities**
   * Download and install [MATLAB App](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/MATLAB/2D%20Heat%20Conduction.mlappinstall)
 
 ### **Matlab Guide Walkthrough**
