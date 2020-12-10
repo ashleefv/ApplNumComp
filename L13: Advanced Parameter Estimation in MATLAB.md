@@ -1,7 +1,7 @@
 # **Advanced Parameter Estimation in MATLAB**
 This lesson focuses on parameter estimation with more advanced examples in MATLAB
 
-## **Introductory videos**
+### **Introductory videos**
 None for this lesson
 
 ### **Live MATLAB Plotting**
