@@ -1,8 +1,8 @@
 # **Matlab Basics**
 
-This lecture focuses on basic Matlab functionality, an overview of the versatility and functions Matlab can do. 
+This lecture focuses on basic MATLAB functionality, an overview of the versatility and functions MATLAB can do. 
 
-## **Uses of Matlab**
+## **Uses of MATLAB**
   * Calculator
   * Scripts
   * Built in Plotting
@@ -12,27 +12,27 @@ This lecture focuses on basic Matlab functionality, an overview of the versatili
   * Loops
   
 ### **Before Class**
-* Matlab installation- activate a code through [Mathworks](https://www.mathworks.com/academia.html), some institutions have access 
-* If you can get access, download and install. If not, once you purchase an access code or activate one through an institution, you can use [Matlab online](https://matlab.mathworks.com/)  
-* [Matlab Coding Best Practices](https://www.youtube.com/watch?v=ThDNl4m7GsI&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+* MATLAB installation- activate a code through [Mathworks](https://www.mathworks.com/academia.html), some institutions have access 
+* If you can get access, download and install. If not, once you purchase an access code or activate one through an institution, you can use [MATLAB online](https://matlab.mathworks.com/)  
+* [MATLAB Coding Best Practices](https://www.youtube.com/watch?v=ThDNl4m7GsI&feature=emb_title&ab_channel=AshleeN.FordVersypt)
 [![](http://img.youtube.com/vi/ThDNl4m7GsI/0.jpg)](http://www.youtube.com/watch?v=ThDNl4m7GsI "")
 
 ### **Walkthrough and Tutorial**
 Walk through real time coding of the following examples to show how to debug and the uses.
 * Calculator- do some basic calculations
-```matlab
+```MATLAB
 2+2
 3*4
 ```
 * Scripts
-```matlab
+```MATLAB
 
 %% calculate function values
 f = 3*x.^2;
 g=x;
 ```
 * Built in Plotting
-```matlab
+```MATLAB
 %% MATLABBasicsStart.m
 %   make a very simple plot of one function.
 
@@ -56,7 +56,7 @@ title('A simple plot')
 grid on
 ```
 * Built in Functions
-```matlab
+```MATLAB
  xmin = 0; 
  xmax = 3;
  Nx = 200;
@@ -75,7 +75,7 @@ x=linspace(xmin,xmax,Nx);
 f = 3*x.^2;
 ```
 * Publication Tool
-```matlab
+```MATLAB
 %% calculate function values
 f = 3*x.^2;
 g=x;
@@ -93,7 +93,7 @@ end
 saveas(matlabbasics.jpg)
 ```
 * Loops
-```matlab
+```MATLAB
 function MATLABBasics(varargin)
 
 if nargin < 1
@@ -117,5 +117,5 @@ end
   
 ### **Additional Resources**
 * [Mathworks Website](https://www.mathworks.com/help/matlab/)
-* [Matlab Central](https://www.mathworks.com/matlabcentral/)
-* [Video Tutorials for Matlab GUI Tools](http://learningmatlab.com/videos/index.html)
+* [MATLAB Central](https://www.mathworks.com/matlabcentral/)
+* [Video Tutorials for MATLAB GUI Tools](http://learningmatlab.com/videos/index.html)
