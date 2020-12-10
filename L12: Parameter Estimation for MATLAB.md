@@ -1,9 +1,9 @@
-# **Parameter Estimation in Matlab**
+# **Parameter Estimation in MATLAB**
 Parameter estimation or curve fitting is the process of finding the coefficients or parameters to fit some model or curve to a set of data.
-This lesson covers how to use Matlab tools for this process.
+This lesson covers how to use MATLAB tools for this process.
 
 ## **Introductory videos**
- * [Estimating Parameters Using Measured Data](https://www.mathworks.com/videos/estimating-parameters-of-a-dc-motor-68856.html)
+* [Estimating Parameters Using Measured Data](https://www.mathworks.com/videos/estimating-parameters-of-a-dc-motor-68856.html)
 * [What is Curve Fitting Toolbox](https://www.mathworks.com/videos/curve-fitting-toolbox-overview-61198.html)
 * [Using curve fitting toolbox for polynomial functions](https://www.youtube.com/watch?v=dc7YdW_3wGs&feature=emb_title&ab_channel=AnselmGriffin)
 * [![](http://img.youtube.com/vi/dc7YdW_3wGs/0.jpg)](http://www.youtube.com/watch?v=dc7YdW_3wGs "")
@@ -12,7 +12,7 @@ This lesson covers how to use Matlab tools for this process.
 * [Using lsqcurvefit for simple functions](https://www.youtube.com/watch?v=kXAtvLHJAus&feature=emb_title&ab_channel=FreeSource)
 * [![](http://img.youtube.com/vi/kXAtvLHJAus/0.jpg)](http://www.youtube.com/watch?v=kXAtvLHJAus "")
 
-### **Live Matlab Plotting**
+### **Live MATLAB Plotting**
 * Working example together
 * Compare the procedures for curve fitting/parameter estimation in MATLAB using the following techniques with [data](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/MATLAB/ParamEstimData.m)
   * cftool
