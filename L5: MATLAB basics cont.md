@@ -2,12 +2,12 @@
 
 This lecture continues the introduction of basics of MATLAB programming for scientific computing. 
   
-### **Before Class**
+### **Introductory Videos**
 * [Learning MATLAB Functions](http://www.learningmatlab.com/videos/IndividualPages/10-Functions/FunctionsIntro.html)
 * [Publishing MATLAB Code from the Editor](https://www.youtube.com/watch?v=CWgl5Ylltxk&feature=emb_title&ab_channel=MATLAB)
 [![](http://img.youtube.com/vi/CWgl5Ylltxk/0.jpg)](http://www.youtube.com/watch?v=CWgl5Ylltxk "")
 
-## **Two Part guided problem**
+### **Two Part guided problem**
 ### **Walkthrough and Tutorial**
 #### **Part One**
 * Provided the code below (which can be downloaded from [here](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/MATLAB/MATLABBasicsStart.m))
