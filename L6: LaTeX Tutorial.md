@@ -3,7 +3,7 @@
 This lecture focuses on advanced LaTeX topics, specifically article writing, dissertaion options, and formatting. This is some of the most frequently requested inofrmation
 and has the potential to be the most immediately useful.
 
-## **Advantages of LaTeX for Technical or Long documents**
+### **Advantages of LaTeX for Technical or Long documents**
 * Integration of templates from publishers, univeristies, conferences
 * File size streamlining
 * Easier integration with figure and equation numbering, cross referencing, table of contents, and modularizing chapters to include or exclude
