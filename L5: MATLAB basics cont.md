@@ -1,4 +1,4 @@
-# **Matlab Basics continued**
+# **MATLAB Basics continued**
 
 This lecture continues the introduction of basics of MATLAB programming for scientific computing. 
   
@@ -10,8 +10,8 @@ This lecture continues the introduction of basics of MATLAB programming for scie
 ## **Two Part guided problem**
 ### **Walkthrough and Tutorial**
 #### **Part One**
-* Provided the code below (which can be downloaded from [here](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/MATLAB/MATLABBasicsStart.m)
-```matlab
+* Provided the code below (which can be downloaded from [here](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/MATLAB/MATLABBasicsStart.m))
+```MATLAB
 %% MATLABBasicsStart.m
 %   make a very simple plot of one function.
 
@@ -41,7 +41,7 @@ grid on
   * Label both f(x) and g(x) using a legend
   
 Below is that code
-```matlab
+```MATLAB
 %% MATLABBasicsStart.m
 %   make a very simple plot of one function.
 
@@ -73,23 +73,23 @@ grid on
 
 * Confirm the new function works and accepts input by typing in the command window
 
-```matlab
+```MATLAB
 MATLABBasics(0,10,200)
 ```
 This should work; however the below should not
-```matlab
+```MATLAB
 MATLABBasics()
 ```
 This is due to the lack of inputs
 
 * Now modify the function MATLABBasics to accpet a variable number ofa rguments using keyword **varargin**
 * Set the default values to 
-```matlab
+```MATLAB
 xmin=0; xmax=3; Nx=200;
 ```
 * For example, use the following snippet to check if xmin is given, and either use varargin{1} [1 for first input] or use the default value
 
-```matlab
+```MATLAB
 if nargin < 1
 xmin=0;
 else
@@ -97,14 +97,14 @@ xmin=varargin{1};
 end
 ```
 
-*Test the new function by retyping in the command window
-```matlab
+* Test the new function by retyping in the command window
+```MATLAB
 MATLABasics()
 ```
 * This should now recreate the same graph as the first command
 
 #### **Solution to Part 2**
-```matlab
+```MATLAB
 %% MATLABBasics.m
 %   make a very simple plot of one function.
 function MATLABBasics(varargin)
@@ -146,7 +146,7 @@ grid on
 end
 ```
 Or
-```matlab
+```MATLAB
 % Uses user-defined input if 3 inputs are provided
 % Uses defaults otherwise
 
@@ -181,5 +181,5 @@ end
 ```
 ### **Additional Resources**
 * [Mathworks Website](https://www.mathworks.com/help/matlab/)
-* [Matlab Central](https://www.mathworks.com/matlabcentral/)
+* [MATLAB Central](https://www.mathworks.com/matlabcentral/)
 * [Publish and Share MATLAB Code](https://www.mathworks.com/help/matlab/matlab_prog/publishing-matlab-code.html)
