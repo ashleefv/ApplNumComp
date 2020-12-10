@@ -1,17 +1,17 @@
 # **2D and 3D visualization in MATLAB and Python**
-Introduces methods and commands for 2D and 3D plotting in Matlab and Python, as well as how to use them
+Introduces methods and commands for 2D and 3D plotting in MATLAB and Python, as well as how to use them
 
 ## **Introductory videos**
  * [Plotting Examples](https://www.youtube.com/watch?v=Pykrn0DpesA&feature=emb_title&ab_channel=AshleeN.FordVersypt)
   [![](http://img.youtube.com/vi/Pykrn0DpesA/0.jpg)](http://www.youtube.com/watch?v=Pykrn0DpesA "")
-* [Example Matlab figures](https://www.mathworks.com/help/matlab/examples.html?category=graphics&s_tid=CRUX_topnav)
+* [Example MATLAB figures](https://www.mathworks.com/help/matlab/examples.html?category=graphics&s_tid=CRUX_topnav)
 * [Example Python figures](https://matplotlib.org/gallery/index.html)
-### **Matlab Plotting**
-* Working example together
-* Note: in Matlab, to plot Y vs. X plot(x,y)
+### **MATLAB Plotting**
+* Working example 
+* Note: in MATLAB, to plot Y vs. X plot(x,y)
 * Work through several plotting examples sequentially, increasing complexity with each graph, debugging live.
 * Sample code
-```matlab
+```MATLAB
 %close all
 clear all
 x = [1, 2, 3, 4];
@@ -66,7 +66,7 @@ figure(7)
 errorbar(x,Y(1,:),Yerror(1,:))
 ```
 
-* Another example of Matlab plotting functionalities
+* Another example of MATLAB plotting functionalities
 ```matlab
 x = [1, 2, 3, 4];
 y = [1, 4, 9, 16];
@@ -192,7 +192,7 @@ plt.show()
 ```
 
 ### **Additional Resources**
-* [Matlab Graphics Documentation](https://www.mathworks.com/help/matlab/graphics.html)
+* [MATLAB Graphics Documentation](https://www.mathworks.com/help/matlab/graphics.html)
 * [Python Graphics Documentation](https://matplotlib.org/)
-* [Matlab Line specifications](https://www.mathworks.com/help/matlab/ref/linespec.html)
-* [Matlab default color order](http://math.loyola.edu/~loberbro/matlab/html/colorsInMatlab.html)
+* [MATLAB Line specifications](https://www.mathworks.com/help/matlab/ref/linespec.html)
+* [MATLAB default color order](http://math.loyola.edu/~loberbro/matlab/html/colorsInMatlab.html)
