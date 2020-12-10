@@ -1,7 +1,7 @@
 # **MATLAB Functions**
 Introduces built-in Matlab functions for common classes of numerical methods for solving nonlinear equations, numerical integration, and ordinary differntial equations (initial value problems)
 
-## **Introductory videos**
+### **Introductory videos**
  * [Numerical Methods](https://www.youtube.com/watch?v=430j9WP1uTQ&feature=emb_title&ab_channel=AshleeN.FordVersypt)
   [![](http://img.youtube.com/vi/430j9WP1uTQ/0.jpg)](http://www.youtube.com/watch?v=430j9WP1uTQ "")
 * [Using MATLAB to solve a system of linear equations](https://www.youtube.com/watch?v=C4Ineu8uqGg&feature=emb_title&ab_channel=AshleeN.FordVersypt)
