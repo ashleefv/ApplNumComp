@@ -2,7 +2,7 @@
 
 This lecture focuses on basic MATLAB functionality, an overview of the versatility and functions MATLAB can do. 
 
-## **Uses of MATLAB**
+### **Uses of MATLAB**
   * Calculator
   * Scripts
   * Built in Plotting
@@ -11,7 +11,7 @@ This lecture focuses on basic MATLAB functionality, an overview of the versatili
   * Publication tool
   * Loops
   
-### **Before Class**
+### **Introductory Activities**
 * MATLAB installation- activate a code through [Mathworks](https://www.mathworks.com/academia.html), some institutions have access 
 * If you can get access, download and install. If not, once you purchase an access code or activate one through an institution, you can use [MATLAB online](https://matlab.mathworks.com/)  
 * [MATLAB Coding Best Practices](https://www.youtube.com/watch?v=ThDNl4m7GsI&feature=emb_title&ab_channel=AshleeN.FordVersypt)
