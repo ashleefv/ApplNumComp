@@ -1,7 +1,7 @@
 # **2D and 3D visualization in MATLAB and Python**
 Introduces methods and commands for 2D and 3D plotting in MATLAB and Python, as well as how to use them
 
-## **Introductory videos**
+### **Introductory videos**
  * [Plotting Examples](https://www.youtube.com/watch?v=Pykrn0DpesA&feature=emb_title&ab_channel=AshleeN.FordVersypt)
   [![](http://img.youtube.com/vi/Pykrn0DpesA/0.jpg)](http://www.youtube.com/watch?v=Pykrn0DpesA "")
 * [Example MATLAB figures](https://www.mathworks.com/help/matlab/examples.html?category=graphics&s_tid=CRUX_topnav)
