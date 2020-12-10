@@ -5,7 +5,7 @@ This lesson covers how to use Python tools for this process.
 ## **Introductory videos**
  * None for this lesson
 
-### **Live Python Plotting**
+### **Python Plotting Example**
 * Working [example](https://github.com/ashleefv/ApplNumComp/blob/master/Lecture%2014%20Examples.pdf) together
     * This is the same example from [lecture 14](https://github.com/ashleefv/ApplNumComp/blob/master/L12:%20Parameter%20Estimation%20for%20Matlab.md) , but now in Python.
 
