@@ -31,7 +31,7 @@ Upon completion of this course, you should be able to
 A full list of recommended and optional reading materials that complement the course lessons are available [here](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md)
 
 ## Lessons
-* [Git](https://github.com/ashleefv/ApplNumComp/blob/master/L1:%20Git%20for%20Version%20Control.md)
+* [L1: Git for Version Control](doc:L1:%20Git%20for%20Version%20Control.md)
   * Downloading, installing, and using Git for version control
 * [LaTeX basics](https://github.com/ashleefv/ApplNumComp/blob/master/L2:%20LaTeX%20Basics)
   * Downloading, installing, and using LaTeX for typesetting and computational writing
