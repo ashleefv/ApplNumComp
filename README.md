@@ -33,47 +33,47 @@ A full list of recommended and optional reading materials that complement the co
 ## Lessons
 * [L1: Git for Version Control](/L1:%20Git%20for%20Version%20Control.md)
   * Downloading, installing, and using Git for version control
-* [LaTeX basics](https://github.com/ashleefv/ApplNumComp/blob/master/L2:%20LaTeX%20Basics)
+* [L2: LaTeX basics](/L2:%20LaTeX%20Basics)
   * Downloading, installing, and using LaTeX for typesetting and computational writing
-* [LaTeX tutorial](https://github.com/ashleefv/ApplNumComp/blob/master/LaTeX%20Tutorial.md)
+* [L3: Advnaced LaTeX Topics](/L3:%20Advanced%20LaTeX%20Topics.md)
   * Guided walkthrough of LaTeX functionality, examples, and templates for journals or thesis writing
-* [Matlab Basics](https://github.com/ashleefv/ApplNumComp/blob/master/L4:%20Matlab%20basics.md)
+* [L4: Matlab Basics](/L4:%20Matlab%20basics.md)
   * Basic Matlab functionality, an overview of the versatility and functions Matlab can do.
-* [Matlab Basics Cont.](https://github.com/ashleefv/ApplNumComp/blob/master/L5:%20Matlab%20basics%20cont.md)
+* [L5: Matlab Basics Cont.](/L5:%20Matlab%20basics%20cont.md)
   * Learning Matlab functions, how to write modules, and sample problems to walkthrough with students
-* [Python Basics](https://github.com/ashleefv/ApplNumComp/blob/master/Python%20Basics.md)
+* [L6: Python Basics](/L6:%20Python%20Basics.md)
   * Learning basics of python, and accustoming to coding by converting an existing matlab code into python
-* [Matlab Functions](https://github.com/ashleefv/ApplNumComp/blob/master/Matlab%20Functions.md)
+* [L7: Matlab Functions](/L7:%20MATLAB%20Functions.md)
   * Introducing matlab built-in functions: nonlinear equation solving, integration, ODE IVPs
-* [Python Functions](https://github.com/ashleefv/ApplNumComp/blob/master/L9:%20Python%20Functions)
+* [L8: Python Functions](/L8:%20Python%20Functions.md)
   * Introducing Python built in functions: nonlinear equation solving, integration and basic ODEs.
-* [Matlab to Python Conversion](https://github.com/ashleefv/ApplNumComp/blob/master/L10:%20Matlab%20to%20Python%20conversions.md)
+* [L9: Matlab to Python Conversion](/L9:%20MATLAB%20to%20Python%20conversions.md)
   * Converting matlab code into python code, using system of odes as example
-* [Matlab and Python Plotting](https://github.com/ashleefv/ApplNumComp/blob/master/L11:%20Python%20and%20Matlab%20Plotting.md)
+* [L10: Matlab and Python Plotting](/L10:%20Python%20and%20MATLAB%20Plotting.md)
   * Lesson on the plotting capabilities of Matlab and Python, including live examples
-* [Matlab Parameter Estimation](https://github.com/ashleefv/ApplNumComp/blob/master/L12:%20Parameter%20Estimation%20for%20Matlab.md)
+* [L11: Matlab Parameter Estimation](/L11:%20Parameter%20Estimation%20for%20MATLAB.md)
   *  Lesson on Parameter estimation with live examples within Matlab
-* [Advanced Matlab Parameter Estimation](https://github.com/ashleefv/ApplNumComp/blob/master/L13:%20Advanced%20Parameter%20Estimation%20in%20Matlab.md)
+* [L12: Advanced Matlab Parameter Estimation](/L12:%20Advanced%20Parameter%20Estimation%20in%20MATLAB.md)
   * Lesson on further possibilities of Matlab for parameter estimation
-* [Parameter Estimation for Python](https://github.com/ashleefv/ApplNumComp/blob/master/L14:%20Python%20Parameter%20Estimation.md)
+* [L13: Parameter Estimation for Python](/L13:%20Python%20Parameter%20Estimation.md)
   * Lesson on python estimation of parameters; using the same example as from Matlab session to show comparison/contrast
-* [Introduction to GUIs and matlab methods for creating them](https://github.com/ashleefv/ApplNumComp/blob/master/L15:%20Introduction%20to%20GUIs.md)
+* [L14: Introduction to GUIs and matlab methods for creating them](/L14:%20Introduction%20to%20GUIs.md)
   * Lesson on GUIs, their prevalence in everyday life, and an overview of the Matlab tools for creating them
-* [Matlab Guide exploration](https://github.com/ashleefv/ApplNumComp/blob/master/L16:%20Matlab%20and%20GUIDE.md)
+* [L15: Matlab Guide exploration](/L15:%20MATLAB%20and%20GUIDE.md)
   * Lesson demonstrating the power of guide, how to design callbacks and walkthrough of a sample GUI
-* [Matlab Guide live walkthrough](https://github.com/ashleefv/ApplNumComp/blob/master/L17:%20Further%20exploration%20of%20GUIDE%20in%20Matlab.md)
+* [L16: Matlab Guide live walkthrough](/L16:%20Further%20exploration%20of%20GUIDE%20in%20MATLAB.md)
   * Lesson demonstrating and live walkthrough of editing an app within guide
-* [Sensitivity Analysis in Matlab](https://github.com/ashleefv/ApplNumComp/blob/master/L18:%20Sensitivity%20Analysis.md)
+* [L17: Sensitivity Analysis in Matlab](/L17:%20Sensitivity%20Analysis.md)
   * Lesson on sensitivity analysis, and how to code this within Matlab
-* [Publication Quality Images in Matlab and Python](https://github.com/ashleefv/ApplNumComp/blob/master/L19:%20Publication%20Quality%20figures%20in%20Matlab%20and%20Python.md)
+* [L18: Publication Quality Images in Matlab and Python](/L18:%20Publication%20Quality%20figures%20in%20MATLAB%20and%20Python.md)
   * Lesson on publication quality images in Matlab and Python, how to create and export them, and examples of publications using them, as well as description of JOSS
-* [Python GUIs](https://github.com/ashleefv/ApplNumComp/blob/master/L20:%20GUIs%20in%20Python.md)
+* [L19: Python GUIs](/L19:%20GUIs%20in%20Python.md)
   * Lesson on Python GUIs, PyQt5, and creation or utilization thereof.
-* [Validation, Verification, and ABM](https://github.com/ashleefv/ApplNumComp/blob/master/L21:%20Validation%20and%20Verification%20of%20ABM.md)
+* [L20: Validation, Verification, and ABM](/L20:%20Validation%20and%20Verification%20of%20ABM.md)
   * Lesson on Verification, Validation, and Agent Based Modeling introduction
-* [ABM and Open Source Software Examples](https://github.com/ashleefv/ApplNumComp/blob/master/L22:%20Agent%20Based%20Modeling%20and%20Open%20Source%20Software.md)
+* [L21: ABM and Open Source Software Examples](/L21:%20Agent%20Based%20Modeling%20and%20Open%20Source%20Software.md)
   * Lesson focusing on further explanations of ABM, as well as a variety of tools and examples of open source software, as well as introduction to JOSS 
-* [Reproducible Research](https://github.com/ashleefv/ApplNumComp/blob/master/L23:%20Reproducible%20Research%20Computing.md)
+* [L22: Reproducible Research](/L22:%20Reproducible%20Research%20Computing.md)
   * Lesson focusing on the case for reproducible research
 
 ## Recommended Software
