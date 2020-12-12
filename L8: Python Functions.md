@@ -30,6 +30,7 @@ Introduces built-in Python functions for common classes of numerical methods for
   * ode: allows for integrator algorithm to be explicitly specified
   * Newer functions for RK23 and RK45
     * ODE Python Example
+    * [Core Python File](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/L9_odeint_example.py)
 ```python
 import numpy as np
 from scipy.integrate import odeint
