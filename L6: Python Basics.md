@@ -14,7 +14,8 @@ Introduces the basics of Python programming.
 * [Python code demos](https://bitbucket.org/ashleefv/checlassfa20/src/master/Pre%20Class%20Activities/Python/)
 
 ### **MATLAB to Python conversion Tutorial**
-Walk through real time coding of the following examples to show how to debug and the uses.
+Walk through coding of the following examples to show how to debug and the uses.
+[Starting MATLAB File](/CHEclassFa20/In%20Class%20Problem%20Activities/Python/ConvertFromMATLABtoPython.m)
 * Start from this matlab code
 ```MATLAB
 %% ICPL5matlab
@@ -56,6 +57,7 @@ end
 * Convert piecewise to Python code, debugging live
 
 #### **Solution Python Code**
+[Starting Python Code](/CHEclassFa20/In%20Class%20Problem%20Activities/Python/ConverFromMATLABtoPython.ipynb)
 ```python
 """
 ICPL7python
