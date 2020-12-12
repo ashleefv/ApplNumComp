@@ -18,7 +18,8 @@ This lecture focuses on basic MATLAB functionality, an overview of the versatili
 [![](http://img.youtube.com/vi/ThDNl4m7GsI/0.jpg)](http://www.youtube.com/watch?v=ThDNl4m7GsI "")
 
 ### **Walkthrough and Tutorial**
-Walk through real time coding of the following examples to show how to debug and the uses.
+Walk through coding of the following examples to show how to debug and the uses.
+* [Raw File](/CHEclassFa20/In%20Class%20Problem%20Activities/MATLAB/MATLABBasicsStart.m)
 * Calculator- do some basic calculations
 ```MATLAB
 2+2
