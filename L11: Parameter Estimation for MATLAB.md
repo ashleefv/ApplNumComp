@@ -71,3 +71,8 @@ end
 
 ### **Additional Resources**
 * None
+
+### **Previous Lesson**
+ * [Lesson 10: Python and MATLAB Plotting](/L10:%20Python%20and%20MATLAB%20Plotting.md)
+### **Next Lesson**
+ * [Lesson 12: Advanced Parameter Estimation for MATLAB](/L12:%20Advanced%20Parameter%20Estimation%20in%20MATLAB.md)
