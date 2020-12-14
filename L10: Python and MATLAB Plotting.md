@@ -198,3 +198,8 @@ plt.show()
 * [Python Graphics Documentation](https://matplotlib.org/)
 * [MATLAB Line specifications](https://www.mathworks.com/help/matlab/ref/linespec.html)
 * [MATLAB default color order](http://math.loyola.edu/~loberbro/matlab/html/colorsInMatlab.html)
+
+### **Previous Lesson**
+ * [Lesson 9: MATLAB to Python Conversions](/L9:%20MATLAB%20to%20Python%20conversions.md)
+### **Next Lesson**
+ * [Lesson 11: Parameter Estimation for MATLAB](/L11:%20Parameter%20Estimation%20for%20MATLAB.md)
