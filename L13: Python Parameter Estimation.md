@@ -9,13 +9,12 @@ This lesson covers how to use Python tools for this process.
 * Working [example](https://github.com/ashleefv/ApplNumComp/blob/master/Lecture%2014%20Examples.pdf) together
     * This is the same example from [lecture 14](https://github.com/ashleefv/ApplNumComp/blob/master/L12:%20Parameter%20Estimation%20for%20Matlab.md) , but now in Python.
 
-* Sample code for Example 1
-```python
+* [Sample code for Example 1](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ODEParamEstimExample1.py)
+```Python
 # -*- coding: utf-8 -*-
 """
-
+Created on Wed Oct  7 08:25:49 2020
 @author: Ashlee
-
 ODE Example 1
 $\frac{dx}{dt} = b1-b2*x
 """
@@ -80,14 +79,12 @@ plt.ylabel('x')
 plt.show()
  
 ```
-
-* Sample code for example 2
+* [Sample code for example 2](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ODEParamEstimExample2.py)
 ```python
 # -*- coding: utf-8 -*-
 """
-
+Created on Wed Oct  7 08:25:49 2020
 @author: Ashlee
-
 ODE Example 1
 $\frac{dx}{dt} = b1-b2*x
 """
