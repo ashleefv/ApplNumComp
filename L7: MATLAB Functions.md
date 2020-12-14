@@ -72,3 +72,8 @@ print("x =",x)
   
 ### **Additional Resources**
 * [Algorithms for finding the root of nonlinear equations](https://www.youtube.com/watch?v=ujcZc5sPX4c&ab_channel=LearnChemE)
+
+### **Previous Lesson**
+ * [Lesson 6: Python Basics](/L6:%20Python%20Basics.md)
+### **Next Lesson**
+ * [Lesson 8: Python Functions](/L8:%20Python%20Functions.md)
