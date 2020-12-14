@@ -3,6 +3,7 @@ Live work through of converting a code from MATLAB into python, using system of 
 
 ### **Walkthrough**
 #### **Starting file**
+[Raw MATLAB code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/system_of_ODEs.m)
  ```MATLAB
  function output = system_of_ODEs(varargin)
 %% Documentation for System_of_ODEs.m
@@ -82,6 +83,7 @@ dC_B_dt=k1*C_A-k3-k4*C_B;
 output = [dC_A_dt; dC_B_dt]; 
  ```
 #### **Final Python code**
+[Raw Python Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ConvertFromMATLABtoPythonSoln.py)
 ```python
 # -*- coding: utf-8 -*-
 """
