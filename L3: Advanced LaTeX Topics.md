@@ -87,3 +87,9 @@
 ### **Additional Resources**
 * [Math into LaTeX: An Introduction to LaTeX and AMS-LaTeX](https://www.amazon.com/George-Gr%C3%A4tzer/dp/0817641319/ref=sr_1_1?dchild=1&keywords=Math+into+LaTeX%3A+An+Introduction+to+LaTeX+and+AMS-LaTeX&qid=1598194957&sr=8-1)
 * [Short Math Guide for LaTeX](http://tug.ctan.org/info/short-math-guide/short-math-guide.pdf)
+
+### **Previous Lesson**
+* [LaTeX Basics](/L2:%20LaTeX%20Basics.md)
+
+### **Next Lesson**
+* [MATLAB Basics](/L4:%20MATLAB%20basics.md)
