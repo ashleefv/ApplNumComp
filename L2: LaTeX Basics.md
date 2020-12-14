@@ -48,3 +48,9 @@ Some editors come with the implementation, but TeXMaker is preferred because of 
 * Discuss
 * Switch roles, stay with the same partner,try part 2 of the activity
 * Discussion
+
+### **Previous Lesson**
+* [Git for Version Control](/L1:%20Git%20for%20Version%20Control.md)
+
+### **Next Lesson**
+* [Advanced LaTeX Topics](/L3:%20Advanced%20LaTeX%20Topics.md)
