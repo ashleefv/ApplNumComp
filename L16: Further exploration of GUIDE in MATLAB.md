@@ -15,3 +15,8 @@ This lesson focuses on GUI examples within MATLAB, exploring in depth the capabi
 * [Walkthrough Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/simpleGUIusingGUIDE.m)
 ### **Additional Resources**
 * None for this lesson
+
+### **Previous Lesson**
+ * [Lesson 15: MATLAB and GUIDE](/L15:%20MATLAB%20and%20GUIDE.md)
+### **Next Lesson**
+ * [Lesson 17: Sensitivity Analysis](/L17:%20Sensitivity%20Analysis.md)
