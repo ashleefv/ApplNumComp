@@ -6,8 +6,8 @@ This lesson focuses on developing publication quality images in MATLAB and Pytho
  
 ### **Export Fig for Matlab publications**
 * [Export Fig](https://github.com/altmany/export_fig) introduction
-* [Sample Publication with images](https://github.com/ashleefv/ApplNumComp/blob/master/Ford%20Versypt%2C%20Harrell%2C%20and%20McPeak%2C%20Computers%20and%20Chem%20Eng%202017.pdf)
-* Sample code for using export fig
+* [Sample Publication with images](/Ford%20Versypt%2C%20Harrell%2C%20and%20McPeak%2C%20Computers%20and%20Chem%20Eng%202017.pdf)
+* [Sample code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/export_fig_example.m) for using export fig
 ```MATLAB
 x = 1:2:101;
 y = 2*x+5;
