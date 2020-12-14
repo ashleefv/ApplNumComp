@@ -30,3 +30,8 @@ export_fig('test','-r1000',  '-q101', '-painters', '-eps', '-png', '-tiff');
 
 ### **Additional Resources**
 * None for this lesson
+
+### **Previous Lesson**
+ * [Lesson 17: Sensitivity Analysis](/L17:%20Sensitivity%20Analysis.md)
+### **Next Lesson**
+ * [Lesson 19: GUIs in Python](/L19:%20GUIs%20in%20Python.md)
