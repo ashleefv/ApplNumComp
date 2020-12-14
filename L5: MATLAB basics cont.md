@@ -183,3 +183,8 @@ end
 * [Mathworks Website](https://www.mathworks.com/help/matlab/)
 * [MATLAB Central](https://www.mathworks.com/matlabcentral/)
 * [Publish and Share MATLAB Code](https://www.mathworks.com/help/matlab/matlab_prog/publishing-matlab-code.html)
+
+### **Previous Lesson**
+ * [Lesson 4: MATLAB Basics](/L4:%20MATLAB%20basics.md)
+### **Next Lesson**
+ * [Lesson 6: Python Basics](/L6:%20Python%20Basics.md)
