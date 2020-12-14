@@ -86,3 +86,8 @@ plt.show()
   * More capabilities than MATLAB for loops using iterators and iterables
 ### **Additional Resources**
 * [Python Modules](https://docs.python.org/3/tutorial/modules.html)
+
+### **Previous Lesson**
+ * [Lesson 7: MATLAB Functions](/L7:%20MATLAB%20Functions.md)
+### **Next Lesson**
+ * [Lesson 9: MATLAB to Python Conversions](/L9:%20MATLAB%20to%20Python%20conversions.md)
