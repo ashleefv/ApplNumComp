@@ -147,4 +147,4 @@ f=a*exp(b*x) + c*exp(d*x);
 ```
 
 ### **Additional Resources**
-* None for this lesson
+* [Example of WSSR Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/WSSR_Example.m)
