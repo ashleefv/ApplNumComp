@@ -18,7 +18,7 @@ This lesson focuses on developing GUIs in Python using the PyQt5 tool via QtDesi
     * wxpython
     * Pyqt
 ### **PyQt5 Tutorial**
-  * Starting Point Code for PyQt5
+  * [Starting Point Code for PyQt5](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PythonGUIexample.py)
 ```python
 import sys
 from PyQt5 import QtCore, QtGui, QtWidgets, uic
