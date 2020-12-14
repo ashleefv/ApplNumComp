@@ -15,3 +15,8 @@ This lesson introduces this topic and an overview of the MATLAB functionality in
 
 ### **Additional Resources**
 * None for this lesson
+
+### **Previous Lesson**
+ * [Lesson 13: Python Parameter Estimation](/L13:%20Python%20Parameter%20Estimation.md)
+### **Next Lesson**
+ * [Lesson 15: MATLAB and GUIDE](/L15:%20MATLAB%20and%20GUIDE.md)
