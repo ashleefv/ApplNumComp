@@ -9,10 +9,11 @@ This lesson focuses on sensitivity analysis definitions, and an example walkthro
 * Global vs Local sensitivity
 * Normalization
 
-### **Live coding walkthrough**
+### **Example coding walkthrough**
   * Take sample skeleton code and fill in the blanks
   * Recreate code to fulfill [sample problem](https://github.com/ashleefv/ApplNumComp/blob/master/SensitivityAnalysis.pdf)
 #### **Sample Skeleton Code**
+[Raw Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/SensitivityExampleStarting.m)
 ```MATLAB
   function ICPL14
 %% ICPL14 Local sensitivity analysis
@@ -71,6 +72,7 @@ f=
 ```
 
 ####** Final Working Version**
+[Raw Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/SensitivityExample.m)
 ```MATLAB
 %% Local sensitivity analysis
 function ICPL14
