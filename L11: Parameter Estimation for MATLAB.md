@@ -12,13 +12,13 @@ This lesson covers how to use MATLAB tools for this process.
 * [Using lsqcurvefit for simple functions](https://www.youtube.com/watch?v=kXAtvLHJAus&feature=emb_title&ab_channel=FreeSource)
 * [![](http://img.youtube.com/vi/kXAtvLHJAus/0.jpg)](http://www.youtube.com/watch?v=kXAtvLHJAus "")
 
-### **Live MATLAB Plotting**
+### **MATLAB Plotting Example**
 * Working example together
 * Compare the procedures for curve fitting/parameter estimation in MATLAB using the following techniques with [data](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/MATLAB/ParamEstimData.m)
   * cftool
   * lsqnonlin
   * lsqcurvefit
-* Sample code
+* [Sample code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ParamEstimExample.m)
 ```matlab
 %% Parameter Estimation Example
 % ParamEstimExample.m
