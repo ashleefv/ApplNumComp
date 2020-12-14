@@ -18,3 +18,6 @@ This lesson focuses on further examples of Agent Based Models (ABM) and Open sou
   * [Lorena Barbara](https://github.com/barbagroup/essential_skills_RRC) Excellent example of reproducible science module
 ### **Additional Resources**
 * None for this lesson
+
+### **Previous Lesson**
+ * [Lesson 21: Agent Based Modeling and Open Source Software](/L21:%20Agent%20Based%20Modeling%20and%20Open%20Source%20Software.md)
