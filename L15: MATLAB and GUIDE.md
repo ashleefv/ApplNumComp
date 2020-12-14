@@ -13,3 +13,8 @@ This lesson focuses on GUI examples within MATLAB, specifically guide and its fu
   
 ### **Additional Resources**
 * None for this lesson
+
+### **Previous Lesson**
+ * [Lesson 14: Introduction to GUIs](/L14:%20Introduction%20to%20GUIs.md)
+### **Next Lesson**
+ * [Lesson 16: Further Exploration of GUIDE in MATLAB](/L16:%20Further%20exploration%20of%20GUIDE%20in%20MATLAB.md)
