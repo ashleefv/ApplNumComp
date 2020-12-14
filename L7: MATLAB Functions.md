@@ -24,9 +24,9 @@ Introduces built-in Matlab functions for common classes of numerical methods for
 * [Numerical Integration and Differentiation](mathworks.com/help/matlab/numerical-integration-and-differentiation.html)
   * quad, quadl, quadv --> integral
   * trapz
-  * Example 2: 
-  * Example 3: 
+
 #### **Solution Python Code**
+[Raw Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ConvertFromMATLABtoPythonSoln.py)
 ```python
 """
 ICPL7python
