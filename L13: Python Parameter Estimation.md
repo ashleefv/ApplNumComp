@@ -190,3 +190,8 @@ plt.show()
 
 ### **Additional Resources**
 * [Python Curve Fitting tools](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html)
+
+### **Previous Lesson**
+ * [Lesson 12: Advanced Parameter Estimation for MATLAB](/L12:%20Advanced%20Parameter%20Estimation%20in%20MATLAB.md)
+### **Next Lesson**
+ * [Lesson 14: Introduction to GUIs](/L14:%20Introduction%20to%20GUIs.md)
