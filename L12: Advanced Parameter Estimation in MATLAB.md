@@ -136,3 +136,8 @@ end
 * [Weighted sum of squared residuals in parameter estimation](https://github.com/ashleefv/ApplNumComp/blob/master/WSSR.pdf)
 ### **Additional Resources**
 * None for this lesson
+
+### **Previous Lesson**
+ * [Lesson 11: Parameter Estimation for MATLAB](/L11:%20Parameter%20Estimation%20for%20MATLAB.md)
+### **Next Lesson**
+ * [Lesson 13: Python Parameter Estimation](/L13:%20Python%20Parameter%20Estimation.md)
