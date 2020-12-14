@@ -4,12 +4,12 @@ This lesson focuses on parameter estimation with more advanced examples in MATLA
 ### **Introductory videos**
 None for this lesson
 
-### **Live MATLAB Plotting**
+### **Example MATLAB Plotting**
 * Working examples together
 * [Prompts for practice](https://github.com/ashleefv/ApplNumComp/blob/master/Lecture%2014%20Examples.pdf)
 
 ### **Example 1**
-* Sample code
+* [Sample code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ODEParamEstimExample1.m)
 ```MATLAB
 function ODEParamEstimExample1
 tdata = [0 0.5 1.0 5.0 30]; % independent variable, x-axis
@@ -60,7 +60,7 @@ end
 ```
 
 ### **Example 2**
-* Sample Code
+* [Sample Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ODEParamEstimExample2.m)
 ```MATLAB
 function ODEParamEstimExample2
 tdata = [0.5 1.0 5.0 20]; % independent variable, x-axis
