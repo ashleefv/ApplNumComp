@@ -67,6 +67,7 @@ errorbar(x,Y(1,:),Yerror(1,:))
 ```
 
 * Another example of MATLAB plotting functionalities
+[Raw MATLAB Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/PlotExamples.m)
 ```matlab
 x = [1, 2, 3, 4];
 y = [1, 4, 9, 16];
@@ -145,6 +146,7 @@ legend('t vs. t','t^2 vs. t','t^3 vs. t','location','best')
 
 ```
 ### **Python Plotting**
+[Raw Python File](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PlotExamples.py)
 * Python uses 
 ```python
 import matplotlib.pyplot as plt
