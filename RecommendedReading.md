@@ -223,7 +223,6 @@ of environmental models. Environmental Monitoring and Assessment,
 analysis for a reactor design with parameter uncertainty. Transactions
 of IChemE, 82:591–598, 2004.
 
-
 [27] S. Marino, I. B. Hogue, C. J. Ray, and D. E. Kirschner. A methodology
 for performing global uncertainty and sensitivity analysis in systems
 biology. Journal of Theoretical Biology, 254:178–196, 2008.
@@ -261,7 +260,6 @@ IL, 2012.
 
 [37] L. A. Barba. Terminologies for reproducible research.arXiv, 1802.03311,
 2018.
-
 
 [38] Yale Law School Roundtable on Data and Code Sharing. Reproducible
 research: Addressing the need for data and code sharing in computational science. Comput Sci Eng, 12:8–12, 2010.
