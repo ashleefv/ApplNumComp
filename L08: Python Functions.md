@@ -88,6 +88,6 @@ plt.show()
 * [Python Modules](https://docs.python.org/3/tutorial/modules.html)
 
 ### **Previous Lesson**
- * [Lesson 7: MATLAB Functions](/L7:%20MATLAB%20Functions.md)
+ * [Lesson 7: MATLAB Functions](/L07:%20MATLAB%20Functions.md)
 ### **Next Lesson**
- * [Lesson 9: MATLAB to Python Conversions](/L9:%20MATLAB%20to%20Python%20conversions.md)
+ * [Lesson 9: MATLAB to Python Conversions](/L09:%20MATLAB%20to%20Python%20conversions.md)
