@@ -54,7 +54,7 @@ function [x] = gaussElimin(a,b)
     x = b;
 end
 ```
-* Convert piecewise to Python code, debugging live
+* Convert piecewise to Python code, debugging
 
 #### **Solution Python Code**
 [Starting Python Code](/CHEclassFa20/In%20Class%20Problem%20Activities/Python/ConverFromMATLABtoPython.ipynb)
