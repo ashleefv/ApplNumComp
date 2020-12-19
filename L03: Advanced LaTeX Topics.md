@@ -89,7 +89,7 @@
 * [Short Math Guide for LaTeX](http://tug.ctan.org/info/short-math-guide/short-math-guide.pdf)
 
 ### **Previous Lesson**
-* [LaTeX Basics](/L2:%20LaTeX%20Basics.md)
+* [LaTeX Basics](/L02:%20LaTeX%20Basics.md)
 
 ### **Next Lesson**
-* [MATLAB Basics](/L4:%20MATLAB%20basics.md)
+* [MATLAB Basics](/L04:%20MATLAB%20basics.md)
