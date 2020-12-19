@@ -50,7 +50,7 @@ Some editors come with the implementation, but TeXMaker is preferred because of 
 * Discussion
 
 ### **Previous Lesson**
-* [Git for Version Control](/L1:%20Git%20for%20Version%20Control.md)
+* [Git for Version Control](/L01:%20Git%20for%20Version%20Control.md)
 
 ### **Next Lesson**
-* [Advanced LaTeX Topics](/L3:%20Advanced%20LaTeX%20Topics.md)
+* [Advanced LaTeX Topics](/L03:%20Advanced%20LaTeX%20Topics.md)
