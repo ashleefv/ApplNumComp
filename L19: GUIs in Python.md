@@ -40,7 +40,7 @@ if __name__ == "__main__":
     window.show()
     sys.exit(app.exec_())
 ```
-* Starting point for QtDesigner example- live walkthrough
+* Starting point for QtDesigner example- walkthrough
 ```python
 import sys
 from PyQt5 import QtCore, QtGui, QtWidgets, uic
@@ -82,4 +82,4 @@ if __name__ == "__main__":
 ### **Previous Lesson**
  * [Lesson 18: Publication Quality Figures in MATLAB and Python](/L18:%20Publication%20Quality%20figures%20in%20MATLAB%20and%20Python.md)
 ### **Next Lesson**
- * [Lesson 20: Validation and Verification](/L20:%20Validation%20and%20Verification%20of%20ABM.md
+ * [Lesson 20: Validation and Verification](/L20:%20Validation%20and%20Verification%20of%20ABM.md)
