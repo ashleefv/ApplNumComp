@@ -67,4 +67,4 @@ Further Resources
   [Software Carpentry Git Tutorial](http://swcarpentry.github.io/git-novice/)
 
 ### **Next Lesson**
-  * [L2: LaTeX Basics](/L1:%20Git%20for%20Version%20Control.md)
+  * [L2: LaTeX Basics](/L02:%20LaTeX%20Basics.md)
