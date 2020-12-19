@@ -1,5 +1,5 @@
 # **MATLAB to Python Conversions**
-Live work through of converting a code from MATLAB into python, using system of odes.
+Work through of converting a code from MATLAB into python, using system of odes.
 
 ### **Walkthrough**
 #### **Starting file**
