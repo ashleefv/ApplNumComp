@@ -9,7 +9,7 @@ Introduces methods and commands for 2D and 3D plotting in MATLAB and Python, as 
 ### **MATLAB Plotting**
 * Working example 
 * Note: in MATLAB, to plot Y vs. X plot(x,y)
-* Work through several plotting examples sequentially, increasing complexity with each graph, debugging live.
+* Work through several plotting examples sequentially, increasing complexity with each graph, debugging.
 * Sample code
 ```MATLAB
 %close all
