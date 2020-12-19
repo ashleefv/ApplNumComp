@@ -31,23 +31,23 @@ Upon completion of this course, you should be able to
 A full list of recommended and optional reading materials that complement the course lessons are available [here](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md)
 
 ## Lessons
-* [L1: Git for Version Control](/L1:%20Git%20for%20Version%20Control.md)
+* [L1: Git for Version Control](/L01:%20Git%20for%20Version%20Control.md)
   * Downloading, installing, and using Git for version control
-* [L2: LaTeX basics](/L2:%20LaTeX%20Basics)
+* [L2: LaTeX basics](/L02:%20LaTeX%20Basics)
   * Downloading, installing, and using LaTeX for typesetting and computational writing
-* [L3: Advnaced LaTeX Topics](/L3:%20Advanced%20LaTeX%20Topics.md)
+* [L3: Advnaced LaTeX Topics](/L03:%20Advanced%20LaTeX%20Topics.md)
   * Guided walkthrough of LaTeX functionality, examples, and templates for journals or thesis writing
-* [L4: Matlab Basics](/L4:%20Matlab%20basics.md)
+* [L4: Matlab Basics](/L04:%20Matlab%20basics.md)
   * Basic Matlab functionality, an overview of the versatility and functions Matlab can do.
-* [L5: Matlab Basics Cont.](/L5:%20Matlab%20basics%20cont.md)
+* [L5: Matlab Basics Cont.](/L05:%20Matlab%20basics%20cont.md)
   * Learning Matlab functions, how to write modules, and sample problems to walkthrough with students
-* [L6: Python Basics](/L6:%20Python%20Basics.md)
+* [L6: Python Basics](/L06:%20Python%20Basics.md)
   * Learning basics of python, and accustoming to coding by converting an existing matlab code into python
-* [L7: Matlab Functions](/L7:%20MATLAB%20Functions.md)
+* [L7: Matlab Functions](/L07:%20MATLAB%20Functions.md)
   * Introducing matlab built-in functions: nonlinear equation solving, integration, ODE IVPs
-* [L8: Python Functions](/L8:%20Python%20Functions.md)
+* [L8: Python Functions](/L08:%20Python%20Functions.md)
   * Introducing Python built in functions: nonlinear equation solving, integration and basic ODEs.
-* [L9: Matlab to Python Conversion](/L9:%20MATLAB%20to%20Python%20conversions.md)
+* [L9: Matlab to Python Conversion](/L09:%20MATLAB%20to%20Python%20conversions.md)
   * Converting matlab code into python code, using system of odes as example
 * [L10: Matlab and Python Plotting](/L10:%20Python%20and%20MATLAB%20Plotting.md)
   * Lesson on the plotting capabilities of Matlab and Python, including live examples
