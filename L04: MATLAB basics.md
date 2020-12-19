@@ -122,6 +122,6 @@ end
 * [Video Tutorials for MATLAB GUI Tools](http://learningmatlab.com/videos/index.html)
 
 ### **Previous Lesson**
- * [Lesson 3: Advanced LaTeX Topics](/L3:%20Advanced%20LaTeX%20Topics.md)
+ * [Lesson 3: Advanced LaTeX Topics](/L03:%20Advanced%20LaTeX%20Topics.md)
 ### **Next Lesson**
- * [Lesson 5: MATLAB Basics Continued](/L5:%20MATLAB%20basics%20cont.md)
+ * [Lesson 5: MATLAB Basics Continued](/L05:%20MATLAB%20basics%20cont.md)
