@@ -19,7 +19,7 @@ Some editors come with the implementation, but TeXMaker is preferred because of 
       After it has downloaded run the .exe file and follow the installation instructions.
       
       
-### **LaTeX tutorials**
+### **Introductory Videos**
  * [LaTeX basics, Figures,and Math usage](https://www.youtube.com/watch?v=2SE4oedooUM&feature=emb_title)
  
  * [![](http://img.youtube.com/vi/2SE4oedooUM/0.jpg)](http://www.youtube.com/watch?v=2SE4oedooUM "LaTeX basics fig and bib")
