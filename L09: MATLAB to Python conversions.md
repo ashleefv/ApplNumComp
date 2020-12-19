@@ -129,6 +129,6 @@ print("x =",x)
 ```
 
 ### **Previous Lesson**
- * [Lesson 8: Python Functions](/L8:%20Python%20Functions.md)
+ * [Lesson 8: Python Functions](/L08:%20Python%20Functions.md)
 ### **Next Lesson**
  * [Lesson 10: MATLAB and Python Plotting](/L10:%20Python%20and%20MATLAB%20Plotting.md)
