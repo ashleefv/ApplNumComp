@@ -15,7 +15,7 @@ This lesson focuses on further examples of Agent Based Models (ABM) and Open sou
 ### **Additional Arguments for Reproducible Research**
   * [Reproducibility Editorial](https://link.springer.com/article/10.1007/s11538-018-0501-8)
   * [Bulletin of Mathematical Biology 2018](https://link.springer.com/journal/11538/80/12/page/1)
-  * [Lorena Barbara](https://github.com/barbagroup/essential_skills_RRC) Excellent example of reproducible science module
+  * [Lorena Barba](https://github.com/barbagroup/essential_skills_RRC) Excellent example of reproducible science module
 ### **Additional Resources**
 * None for this lesson
 
