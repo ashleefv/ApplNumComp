@@ -11,6 +11,10 @@
  * [LaTeX activity Solutions](https://www.youtube.com/watch?v=KSrDadBdp7w&feature=emb_title&ab_channel=AshleeN.FordVersypt)
    * [![](http://img.youtube.com/vi/KSrDadBdp7w/0.jpg)](http://www.youtube.com/watch?v=KSrDadBdp7w "")
 
+#### **Comprehension Check**
+* For a scientific journal in your field, perform an internet search to find the link to an online .tex template or instructions for using a TeX template . If you're not familiar with any scientific journals yet, try "tex template _____ journal"  ____ 
+Download the template you found and look through the .tex file like Dr. Ford Versypt does in the LaTeX Templates PLoS Example video. What are some of the similarities? Differences?
+
 ### **LaTeX Advantages for longer and technical documents**
 * Version Control
 * Integration of Templates for conferences, publishers, additional universities
