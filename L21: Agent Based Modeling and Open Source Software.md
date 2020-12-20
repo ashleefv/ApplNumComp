@@ -4,7 +4,9 @@ This lesson focuses on further examples of Agent Based Models (ABM) and Open sou
 ### **Introductory videos**
  * [Examples of Open Source Software](https://www.youtube.com/watch?v=60tMapC53Sw&feature=emb_title&ab_channel=AshleeN.FordVersypt)
     * [![](http://img.youtube.com/vi/60tMapC53Sw/0.jpg)](http://www.youtube.com/watch?v=60tMapC53Sw "")
-
+#### **Comprehension Check**
+   * Do you have any experience with validation or verification of computer models?
+   * Can you think of an example relevant to your field that is similar to the examples provided by the students in the video?
 ### **Agent Based Modeling Examples**
   * ABM [Bee Example](https://github.com/ashleefv/BeeNestABM)
     * ABM [Presentation](https://github.com/ashleefv/ApplNumComp/blob/master/AIChE%20Bee%20pres%20ANFV.pdf) on Bee Example
