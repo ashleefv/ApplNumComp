@@ -12,6 +12,12 @@ This lesson covers how to use MATLAB tools for this process.
 * [Using lsqcurvefit for simple functions](https://www.youtube.com/watch?v=kXAtvLHJAus&feature=emb_title&ab_channel=FreeSource)
 * [![](http://img.youtube.com/vi/kXAtvLHJAus/0.jpg)](http://www.youtube.com/watch?v=kXAtvLHJAus "")
 
+#### **Comprehension Check**
+ * Based on your understanding of the videos, what are some of the advantages and disadvantages of using the following for curve fitting aka parameter estimation
+
+  ** polyfit
+  ** curve fitting toolbox
+  ** lsqcurvefit
 ### **MATLAB Plotting Example**
 * Working example together
 * Compare the procedures for curve fitting/parameter estimation in MATLAB using the following techniques with [data](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/MATLAB/ParamEstimData.m)
