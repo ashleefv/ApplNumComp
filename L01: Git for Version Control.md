@@ -17,6 +17,9 @@ Note: the instructions are provided for using Bitbucket as the site for hosting 
 [Linking to Bitbucket repositories](https://www.youtube.com/watch?v=euEwNW4v82M&feature=emb_title)
 [![](http://img.youtube.com/vi/euEwNW4v82M/0.jpg)](http://www.youtube.com/watch?v=euEwNW4v82M "Linking Local Folder")
 
+#### **Comprehension Check**
+  * Do you have any experiences like that pictured in the ["Final".doc](http://phdcomics.com/comics/archive_print.php?comicid=1531) cartoon? If so, briefly describe one of your experiences. If not, why might an experience like this be challenging?
+  * Did you encounter any challenges or errors in the Setting Up Version Control Software section?
 ### **Motivation for Version Control**
 ["Final".doc](http://phdcomics.com/comics/archive_print.php?comicid=1531)
 
