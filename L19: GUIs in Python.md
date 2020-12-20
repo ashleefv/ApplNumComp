@@ -6,7 +6,8 @@ This lesson focuses on developing GUIs in Python using the PyQt5 tool via QtDesi
   * [![](http://img.youtube.com/vi/Vde5SH8e1OQ/0.jpg)](http://www.youtube.com/watch?v=Vde5SH8e1OQ "")
 * [QtDesigner Demo](https://www.youtube.com/watch?v=FVpho_UiDAY&feature=emb_title&ab_channel=TechWithTim)
   * [![](http://img.youtube.com/vi/FVpho_UiDAY/0.jpg)](http://www.youtube.com/watch?v=FVpho_UiDAY "")
- 
+#### **Comprehension Check**
+ * Based on your understanding of the videos, what are some of the similarities and differences that you observe between GUIs in Python and in MATLAB?
 ### **Pre-Lesson Setup**
   * Open Anaconda prompt
   * Type:
