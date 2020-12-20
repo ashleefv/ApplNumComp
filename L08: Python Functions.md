@@ -7,6 +7,8 @@ Introduces built-in Python functions for common classes of numerical methods for
 * [Python built-in functions for numerical methods for nonlinear equations](https://www.youtube.com/watch?v=nnCDaHCulAU&feature=emb_title&ab_channel=APMonitor.com)
   [![](http://img.youtube.com/vi/nnCDaHCulAU/0.jpg)](http://www.youtube.com/watch?v=nnCDaHCulAU "")
 
+#### **Comprehension Check**
+  * Find the Python documentation for fsolve. Share the link
 ### **Optimization Functions**
 * [Scipy Linalg Solver](https://docs.scipy.org/doc/scipy/reference/generated/scipy.linalg.solve.html
 * Systems of linear equations: scipy.linalg.solve function
