@@ -6,6 +6,11 @@ Introduces methods and commands for 2D and 3D plotting in MATLAB and Python, as 
   [![](http://img.youtube.com/vi/Pykrn0DpesA/0.jpg)](http://www.youtube.com/watch?v=Pykrn0DpesA "")
 * [Example MATLAB figures](https://www.mathworks.com/help/matlab/examples.html?category=graphics&s_tid=CRUX_topnav)
 * [Example Python figures](https://matplotlib.org/gallery/index.html)
+#### **Comprehension Check**
+  * Find an example of common type of 2D or 3D visualization from your research or science, engineering, or mathematics coursework. Include an image of the example as a file upload (common image file formats like .png or .jpg preferable) 
+  * Browse through the MATLAB and Python example galleries. Which type, if any, of the examples are similar to visualization example you found for question 1?
+    * [MATLAB Gallery](https://www.mathworks.com/help/matlab/examples.html?category=graphics&s_tid=CRUX_topnav)
+    * [Python Gallery](https://matplotlib.org/gallery/index.html)
 ### **MATLAB Plotting**
 * Working example 
 * Note: in MATLAB, to plot Y vs. X plot(x,y)
