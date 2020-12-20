@@ -17,7 +17,10 @@ This lecture focuses on LaTeX for typesetting.
  
  * [Hands-on tutorial for LaTeX](https://www.latex-tutorial.com/tutorials/)
  
- 
+#### **Comprehension Check**
+* What did you find the most interesting or surprising from the videos?
+* What was the most unclear or most confusing point in the videos?
+* Do you have a big report for class, article for research, thesis, or dissertation to write either this semester or within the     next few years in your degree program? 
 ### **LaTeX download and installation**
 To run LaTeX on a computer, you need to install both the LaTeX implementation (MikTeX or MacTeX) AND an editor. 
 Some editors come with the implementation, but TeXMaker is preferred because of its layout and formatting.
