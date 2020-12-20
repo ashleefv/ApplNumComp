@@ -6,7 +6,7 @@ This lesson introduces this topic and an overview of the MATLAB functionality in
  * [Introduction to Graphical User Interfaces](https://www.youtube.com/watch?v=XIGSJshYb90&feature=emb_title&ab_channel=CrashCourse)
  * [![](http://img.youtube.com/vi/XIGSJshYb90/0.jpg)](http://www.youtube.com/watch?v=XIGSJshYb90 "")
 #### **Comprehension Check**
- * Have you encountered GUIs for scientific or engineering applications for research or classes? If so, which one(s)?
+ * Based on your understanding of the video, what are examples of common graphical user interfaces (GUIs) that you use on a regular   basis for non-scientific applications?
 ### **Introduction to GUIs**
 * Examples of GUIs in everyday life- student examples can be very good, ask them all to provide an example of a GUI they interact with regularly
 * Use of each of the following websites to demonstrate functionality; includes 2 walkghrough examples from Mathworks
