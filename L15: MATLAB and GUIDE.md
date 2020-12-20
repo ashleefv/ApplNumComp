@@ -5,6 +5,9 @@ This lesson focuses on GUI examples within MATLAB, specifically guide and its fu
  * [Sample GUIs for Research](https://www.youtube.com/watch?v=k_JD7kmkeTM&ab_channel=AshleeN.FordVersypt)
  * [![](http://img.youtube.com/vi/k_JD7kmkeTM/0.jpg)](http://www.youtube.com/watch?v=k_JD7kmkeTM "")
  * [Example GUIs](/CHEclassFa20/GUI%20examples)
+ #### **Comprehension Check**
+  * Were you able to install and open the MATLAB GUI?
+  * What are some weaknesses of this GUI design?
 ### **GUI Creation in Matlab using GUIDE**
 * Guided walkthrough of an example GUI within guide
   * [Guided example with guide](https://www.mathworks.com/help/matlab/creating_guis/about-the-simple-guide-gui-example.html)
