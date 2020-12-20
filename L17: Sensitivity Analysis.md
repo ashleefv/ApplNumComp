@@ -3,7 +3,8 @@ This lesson focuses on sensitivity analysis definitions, and an example walkthro
 
 ### **Introductory videos**
  * None for this lesson
- 
+#### **Comprehension Check**
+ * None for this lesson
 ### **Introduction**
 * Definitions of Sensitvity
 * Global vs Local sensitivity
