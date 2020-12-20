@@ -7,6 +7,11 @@ This lecture continues the introduction of basics of MATLAB programming for scie
 * [Publishing MATLAB Code from the Editor](https://www.youtube.com/watch?v=CWgl5Ylltxk&feature=emb_title&ab_channel=MATLAB)
 [![](http://img.youtube.com/vi/CWgl5Ylltxk/0.jpg)](http://www.youtube.com/watch?v=CWgl5Ylltxk "")
 
+#### **Comprehension Check**
+* Fill in the blank. Input parameters to MATLAB functions are passed by _________.
+* Fill in the blank. Variables created inside the function are ____________ variables.
+* The ___________ feature in MATLAB allows you to create html, pdf, doc, etc. external documentation of your MATLAB code file and   output values, plots, and/or error messages for sharing. 
+
 ### **Two Part guided problem**
 ### **Walkthrough and Tutorial**
 #### **Part One**
