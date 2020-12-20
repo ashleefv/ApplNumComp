@@ -8,7 +8,8 @@ Introduces built-in Matlab functions for common classes of numerical methods for
   [![](http://img.youtube.com/vi/C4Ineu8uqGg/0.jpg)](http://www.youtube.com/watch?v=C4Ineu8uqGg "")
 * [MATLAB Solvers](https://www.youtube.com/watch?v=8g_LB9J0RAQ&feature=emb_title&ab_channel=LearnChemE)
   [![](http://img.youtube.com/vi/8g_LB9J0RAQ/0.jpg)](http://www.youtube.com/watch?v=8g_LB9J0RAQ "")
-
+#### **Comprehension Check**
+* Find the MATLAB documentation for one of the built-in functions shown in the videos. Share the link
 ### **Optimization Functions**
 * [Optimization Toolbox](https://www.mathworks.com/help/optim/referencelist.html?type=function)
 * Solving nonlinear equations
