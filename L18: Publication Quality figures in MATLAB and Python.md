@@ -3,7 +3,8 @@ This lesson focuses on developing publication quality images in MATLAB and Pytho
 
 ### **Introductory videos**
  * None for this lesson
- 
+ #### **Comprehension Check**
+  * None for this lesson
 ### **Export Fig for Matlab publications**
 * [Export Fig](https://github.com/altmany/export_fig) introduction
 * [Sample Publication with images](/Ford%20Versypt%2C%20Harrell%2C%20and%20McPeak%2C%20Computers%20and%20Chem%20Eng%202017.pdf)
