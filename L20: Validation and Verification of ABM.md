@@ -3,7 +3,8 @@ This lesson focuses on validation and verification- the definitions and necessit
 
 ### **Introductory videos**
  * None for this lesson
-
+#### **Comprehension Check**
+ * None for this lesson
 ### **Validation and Verification**
   * Definitions
     * Validation
