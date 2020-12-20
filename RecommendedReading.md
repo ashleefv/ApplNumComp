@@ -4,27 +4,27 @@
 
 This section focuses on LATEX and computational science and engineering. The readings provide background and overview information.
 
-* Reading 1.1 [1]
-* Reading 1.2 [2, p. 408–436]
-* Reading 1.3 [3, p. xii–xvi, 1–17]
+* Reading 1.1 [1] [link](http://swcarpentry.github.io/modern-scientific-authoring/01-mess/)
+* Reading 1.2 [2, p. 408–436] [DOI](https://doi.org/10.1142/9019)
+* Reading 1.3 [3, p. xii–xvi, 1–17] [DOI](https://doi.org/10.1201/9781315151748)
 
 ## Reading 2
 
 This section focuses on best practices for software engineering in scientific computing and introducing the MATLAB programming environments.
-* Reading 2.1 [2, p.93–108]
-* Reading 2.2 [4]
-* Reading 2.3 [5]
-* Reading 2.4 [3, p. 21–30]
+* Reading 2.1 [2, p.93–108] [DOI](https://doi.org/10.1142/9019)
+* Reading 2.2 [4] [DOI](https://doi.org/10.1371/journal.pbio.1001745)
+* Reading 2.3 [5] [DOI](https://doi.org/10.1371/journal.pcbi.1003506)
+* Reading 2.4 [3, p. 21–30] [DOI](https://doi.org/10.1201/9781315151748)
 
 Additional Resources
-* Supplementary Material for Reading 2.3
+* Supplementary Material for Reading 2.3 [DOI](https://doi.org/10.1371/journal.pcbi.1003506.s001)
 
 ## Reading 3
 
 This section focuses on basics of Python programming.
-* Reading 3.1 [6, p. 9–15]
-* Reading 3.2 [3, p. 30–42]
-* Reading 3.3 [7] selected sections
+* Reading 3.1 [6, p. 9–15] [DOI](10.5281/zenodo.1411868)
+* Reading 3.2 [3, p. 30–42] [DOI](https://doi.org/10.1201/9781315151748)
+* Reading 3.3 [7] selected sections [DOI](https://doi.org/10.1371/journal.pcbi.1004867)
     - Abstract p. 1
     - A New Kind of Scientist p. 3
     - Code Organization and Scope p. 13–15
@@ -32,102 +32,108 @@ This section focuses on basics of Python programming.
     - Object-Oriented Programming in a Nutshell: Classes, Objects, Methods, and All That p. 25–30
 
 Additional Resources
-* Optional Tutorial Reading 3 [8, p. 17–45] You are strongly encouraged to work through this reading with Python open on your computer and treat it like a tutorial.
-* Online textbook (pdf format) for University of Southampton Computational Science and Engineering courses [6]
-* Great text for science and engineering students learning to program in Python [8]
-* Easy to read Python programming guide [9]
-* Python reference with brief examples and explanations of many Python built-in commands and functions [10]
-* Brief paper comparing the learning curves for C, MATLAB, and Python [11]
+* Optional Tutorial Reading 3 [8, p. 17–45] [ISBN: 0691169586, 9780691169583](https://press.princeton.edu/books/paperback/9780691180571/a-students-guide-to-python-for-physical-modeling) You are strongly encouraged to work through this reading with Python open on your computer and treat it like a tutorial.
+* Online textbook (pdf format) for University of Southampton Computational Science and Engineering courses [6] [DOI](10.5281/zenodo.1411868)
+* Great text for science and engineering students learning to program in Python [8]  [ISBN: 0691169586, 9780691169583](https://press.princeton.edu/books/paperback/9780691180571/a-students-guide-to-python-for-physical-modeling)
+* Easy to read Python programming guide [9] [DOI](https://doi.org/10.1007/978-1-4302-1633-9)
+* Python reference with brief examples and explanations of many Python built-in commands and functions [10] [DOI](https://doi.org/10.1007/978-1-4302-6479-8)
+* Brief paper comparing the learning curves for C, MATLAB, and Python [11] [DOI](https://doi.org/10.1007/978-3-540-25944-2_157)
 
 ## Reading 4
 
 This section focuses on how to use built-in functions and standard libraries in MATLAB and Python for solving common classes of problems in scientific
 computing with established numerical methods. Specifically, we focus on nonlinear equations, numerical integration, and ordinary differential equations (initial value problems).
-* Reading 4.1 [12, p. 309–312 and p. 57–59]
-* Reading 4.2 [13, p. 171–182]
-* Reading 4.3 [8, p. 75–83]
+* Reading 4.1 [12, p. 309–312 and p. 57–59] [ISBN: ISBN-13: 978-1118888315
+ISBN-10: 1118888316](http://faculty.washington.edu/finlayso/ebook/Intro_Ch_E.pdf)
+* Reading 4.2 [13, p. 171–182] [ISBN:ISBN-13: 978-0898715781
+ISBN-10: 0898715784](http://www.ma.man.ac.uk/~higham/mg2/)
+* Reading 4.3 [8, p. 75–83] [ISBN: 0691169586, 9780691169583](https://press.princeton.edu/books/paperback/9780691180571/a-students-guide-to-python-for-physical-modeling)
 
 Additional Resources
-* Optional Reading 4.4: Brief recommendations on when to use each of the MATLAB ODE solvers [14, p. 210–211]
+* Optional Reading 4.4: Brief recommendations on when to use each of the MATLAB ODE solvers [14, p. 210–211] [DOI](https://doi.org/10.1137/1.9780898717952)
 * MATLAB website documentation for numerical integration and differential equations: http://www.mathworks.com/help/matlab/numerical-integration-and-differential-equations.html
 * SciPy website documentation for scipy.integrate subpackage: http://docs.scipy.org/doc/scipy/reference/tutorial/integrate.html
-* Theory of numerical methods with MATLAB examples [14]
-* Theory of numerical methods with Python examples [15]
+* Theory of numerical methods with MATLAB examples [14][DOI](https://doi.org/10.1137/1.9780898717952)
+* Theory of numerical methods with Python examples [15] [DOI](https://doi.org/10.1017/CBO9781139523899)
 
 ## Reading 5
 
 This section focuses on the Python modules NumPy and SciPy.
-* Reading 5.1 What is NumPy? [16] & NumPy Quickstart tutorial [17]
-* Reading 5.2 NumPy for MATLAB users [18]
+* Reading 5.1 What is NumPy? [16] [Link](https://docs.scipy.org/doc/numpy-1.11.0/user/index.html) & NumPy Quickstart tutorial [17] [Link]([http://docs.scipy.org/doc/numpy/user/](http://docs.scipy.org/doc/numpy/user/)
+quickstart.html)
+* Reading 5.2 NumPy for MATLAB users [18] [Link](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
 
 Additional Resources 
 
 The following three optional readings provide more background information for the methods covered in Reading 5 focusing on the tools available in SciPy.
-* Optional Reading 5.3 SciPy Reference Guide introduction [19]
-* Optional Reading 5.4 [20]
-* Optional Reading 5.5 [21]
+* Optional Reading 5.3 SciPy Reference Guide introduction [19] [Link](https://docs.scipy.org/doc/scipy/reference/tutorial/general.html)
+* Optional Reading 5.4 [20] [Link](https://docs.scipy.org/doc/scipy/reference/tutorial/integrate.html)
+* Optional Reading 5.5 [21] [Link](https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html)
 
 ## Reading 6
 
 This section focuses on parameter estimation by linear and nonlinear least squares regression.
-* Reading 6.1 Linear and nonlinear regression [22, p. 195–221]
-* Reading 6.2 Parameter estimation for dynamic models, including algorithms [23, p. 521–542, 554–557]
+* Reading 6.1 Linear and nonlinear regression [22, p. 195–221] [ISBN:eBook ISBN: 9780080559988](https://www.elsevier.com/books/introduction-to-modeling-in-physiology-and-medicine/cobelli/978-0-12-160240-6)
+* Reading 6.2 Parameter estimation for dynamic models, including algorithms [23, p. 521–542, 554–557] [ISBN:eBook ISBN: 9780124104938](https://www.elsevier.com/books/dynamic-systems-biology-modeling-and-simulation/distefano-iii/978-0-12-410411-2)
 
 ## Reading 7
 
 This section focuses on sensitivity analysis.
-* Reading 7.1 Review of Parameter Sensitivity Techniques (particularly Sections 2.1 and 3.8) [24]
-* Reading 7.2 Lecture notes on sensitivity analysis [25]
+* Reading 7.1 Review of Parameter Sensitivity Techniques (particularly Sections 2.1 and 3.8) [24] [DOI](https://doi.org/10.1007/BF00547132)
+* Reading 7.2 Lecture notes on sensitivity analysis [25] [Link](http://www.math.ualberta.ca/~hwang/sensitivity)
 
 Additional Resources
-* Optional Reading 7.3 Local and global sensitivity applied to reactor design [26]
-* Optional Reading 7.4 Global sensitivity using eFAST and PRC coefficients [27] with code implemented in MATLAB available at [28]
+* Optional Reading 7.3 Local and global sensitivity applied to reactor design [26] [DOI](https://doi.org/10.1205/026387604323142630)
+* Optional Reading 7.4 Global sensitivity using eFAST and PRC coefficients [27] [DOI] (https://doi.org/10.1016/j.jtbi.2008.04.011) with code implemented in MATLAB available at [28] [Link](http://malthus.micro.med.umich.edu/lab/usadata/)
 
 ## Reading 8
 
 This section focuses on graphical user interfaces (GUIs) for scientific computing in MATLAB and Python.
-* Reading 8.1 General overview of using and developing GUIs for scientific computing applications (Sections 1, 2.5.4, 2.5.5, and 2.7 for background and Sections 3, 4, and 5 for examples/case studies of GUI development) [29, p. 1–2, 10, 13–17, 18–30]
-* Reading 8.2 Building a Graphical User Interface [30, Ch. 9]
-* Reading 8.3 Transforming a MATLAB Program into a GUI Tool [30, Ch. 10]
+* Reading 8.1 General overview of using and developing GUIs for scientific computing applications (Sections 1, 2.5.4, 2.5.5, and 2.7 for background and Sections 3, 4, and 5 for examples/case studies of GUI development) [29, p. 1–2, 10, 13–17, 18–30] [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.9252&rep=rep1&type=pdf)
+* Reading 8.2 Building a Graphical User Interface [30, Ch. 9] [ISBN: ISBN: 978-0-470-93644-3](https://www.wiley.com/en-us/Learning+to+Program+with+MATLAB%3A+Building+GUI+Tools-p-9780470936443)
+* Reading 8.3 Transforming a MATLAB Program into a GUI Tool [30, Ch. 10] [ISBN: ISBN: 978-0-470-93644-3](https://www.wiley.com/en-us/Learning+to+Program+with+MATLAB%3A+Building+GUI+Tools-p-9780470936443)
 
 Additional Resources
-* Optional Reading 8.1 Extremely helpful crash course tutorial and video about object oriented programming demonstrated in Python with a built-in framework for developing GUIs [31]
-* Optional Reading 8.2 Tutorial for MATLAB GUIDE [32, p. 1–6, the remainder is a reference with examples]
-* Optional Reading 8.3 Tutorial for Python Qt4 (PyQt4) tutorial [33, p. 1–15, the remainder is a reference with examples]
+* Optional Reading 8.1 Extremely helpful crash course tutorial and video about object oriented programming demonstrated in Python with a built-in framework for developing GUIs [31] [Link](https://pythonprogramming.net/object-oriented-programming-crash-course-tkinter/)
+* Optional Reading 8.2 Tutorial for MATLAB GUIDE [32, p. 1–6, the remainder is a reference with examples] [Link](https:
+//www.mathworks.com/help/matlab/gui-development.html)
+* Optional Reading 8.3 Tutorial for Python Qt4 (PyQt4) tutorial [33, p. 1–15, the remainder is a reference with examples] [Link](https://www.tutorialspoint.com/pyqt/pyqt_tutorial.pdf)
 
 ## Reading 9
 
 This section focuses on verification and validation in scientific computing.
-* Optional Reading 9.1 Definitions of verification and validation [34]
-* Optional Reading 9.2 Solution verification methods and challenges [35]
+* Optional Reading 9.1 Definitions of verification and validation [34] [DOI](https://doi.org/10.2514/2.457)
+* Optional Reading 9.2 Solution verification methods and challenges [35] [DOI](https://doi.org/10.1007/978-3-540-77362-7_10)
 
 Additional Resources
-* Optional Reading 9.3 Ashlee N. Ford Versypt’s Ph.D. dissertation Chapter 10 on code and solution verification [36]
+* Optional Reading 9.3 Ashlee N. Ford Versypt’s Ph.D. dissertation Chapter 10 on code and solution verification [36] [DOI](https://doi.org/10.1016/j.jconrel.2012.10.015)
 
 ## Reading 10
 
 This section focuses on reproducible research computing and other tips for sharing figures, code, and documentation from computational projects.
-* Reading 10.1 Terminologies for reproducible research [37]
-* Reading 10.2 Reproducible research: Addressing the need for data and code sharing in computational science [38]
-* Reading 10.3 Ten simple rules for the open development of scientific software [39]
-* Reading 10.4 Tools and techniques for computational reproducibility [40]
+* Reading 10.1 Terminologies for reproducible research [37] [Link](https://arxiv.org/abs/1802.03311)
+* Reading 10.2 Reproducible research: Addressing the need for data and code sharing in computational science [38] [DOI](https://doi.org/10.1109/MCSE.2010.113)
+* Reading 10.3 Ten simple rules for the open development of scientific software [39] [DOI](https://doi.org/10.1371/journal.pcbi.1002802)
+* Reading 10.4 Tools and techniques for computational reproducibility [40] [DOI](https://doi.org/10.1186/s13742-016-0135-4)
 
 Additional Resources
-* Optional Reading 10.1 What makes computational open source software libraries successful? [41]
-* Optional Reading 10.2 Reproducible research in computational science [42]
-* Optional Reading 10.3 Best practices for computational science: software infrastructure and environments for reproducible and extensible research [43]
-* Optional Reading 10.4 Overview of export_fig toolbox for exporting publication quality figures from MATLAB [44]
-* Optional Reading 10.5 Overview of mpltex Python tool for creating publication quality plots [45]
+* Optional Reading 10.1 What makes computational open source software libraries successful? [41] [Link](https://iopscience.iop.org/article/10.1088/1749-4699/6/1/015010/meta)
+* Optional Reading 10.2 Reproducible research in computational science [42] [DOI](https://doi.org/10.1126/science.1213847)
+* Optional Reading 10.3 Best practices for computational science: software infrastructure and environments for reproducible and extensible research [43] [DOI](http://doi.org/10.5334/jors.ay) 
+* Optional Reading 10.4 Overview of export_fig toolbox for exporting publication quality figures from MATLAB [44] [Link](https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig)
+* Optional Reading 10.5 Overview of mpltex Python tool for creating publication quality plots [45] [Link](https://github.com/liuyxpp/mpltex)
 
 ## MATLAB Reference Books
 
 This section provides a list of MATLAB books targeted to different audiences that provide good information and examples. The Mathworks website also has help pages for every function and many example codes and plots. MATLAB Central is a website that hosts an open exchange repository of MATLAB files and discussion boards contributed by an extensive user community. 
-* [46] Introductory text on programming and basic numerical methods using MATLAB targeted at those who have absolutely no prior knowledge of programming
-* [47] Comprehensive overview of MATLAB programming basics with many examples
-* [13] Comprehensive overview of MATLAB including basic and advanced numerical methods targeted at those familiar with the basics of programming
-* [14] Numerical methods implemented in MATLAB, written by Cleve Moler, one of the creators of MATLAB
-* [12] Chemical engineering applications solved using MATLAB, COMSOL, Excel, and Aspen targeted to chemical engineering undergraduates
-* [48] Computing and numerical methods topics using MATLAB that are important in biomedical engineering applications targeted to biomedical engineering undergraduates
+* [46] Introductory text on programming and basic numerical methods using MATLAB targeted at those who have absolutely no prior knowledge of programming [DOI](https://doi.org/10.1016/C2012-0-00145-7)
+* [47] Comprehensive overview of MATLAB programming basics with many examples [ISBN:eBook ISBN: 9780124058538](https://www.elsevier.com/books/matlab-by-example/gdeisat/978-0-12-405212-3)
+* [13] Comprehensive overview of MATLAB including basic and advanced numerical methods targeted at those familiar with the basics of programming [ISBN:ISBN-13: 978-0898715781
+ISBN-10: 0898715784](http://www.ma.man.ac.uk/~higham/mg2/
+* [14] Numerical methods implemented in MATLAB, written by Cleve Moler, one of the creators of MATLAB [DOI](https://doi.org/10.1137/1.9780898717952)
+* [12] Chemical engineering applications solved using MATLAB, COMSOL, Excel, and Aspen targeted to chemical engineering undergraduates [ISBN: ISBN-13: 978-1118888315
+ISBN-10: 1118888316](http://faculty.washington.edu/finlayso/ebook/Intro_Ch_E.pdf)
+* [48] Computing and numerical methods topics using MATLAB that are important in biomedical engineering applications targeted to biomedical engineering undergraduates [ISBN: eBook ISBN: 9780080470801](https://www.elsevier.com/books/numerical-methods-in-biomedical-engineering/dunn/978-0-12-186031-8)
 
 ## References
 
