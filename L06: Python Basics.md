@@ -1,6 +1,13 @@
 # **Python Basics**
 Introduces the basics of Python programming.
 
+### **Introductory Video**
+* [Four Ways to Run Python Code](https://www.youtube.com/watch?v=BRQ2DDpByE4&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+[![](http://img.youtube.com/vi/BRQ2DDpByE4/0.jpg)](http://www.youtube.com/watch?v=BRQ2DDpByE4 "")
+
+#### **Comprehension Check**
+* List the four ways described in the video to run Python codes. 
+
 ### **Why Python**
   [Python Motivation](https://towardsdatascience.com/why-python-is-not-the-programming-language-of-the-future-30ddc5339b66)
   
@@ -8,8 +15,6 @@ Introduces the basics of Python programming.
 * Python installation- Install the most recent version of [Anaconda python](https://www.anaconda.com/products/individual)
   * This installs both Spyder and Jupyter notebooks
 * If you can't download, use [Python Jupyter Notebooks online](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) 
-* [Four Ways to Run Python Code](https://www.youtube.com/watch?v=BRQ2DDpByE4&feature=emb_title&ab_channel=AshleeN.FordVersypt)
-[![](http://img.youtube.com/vi/BRQ2DDpByE4/0.jpg)](http://www.youtube.com/watch?v=BRQ2DDpByE4 "")
 
 * [Python code demos](https://bitbucket.org/ashleefv/checlassfa20/src/master/Pre%20Class%20Activities/Python/)
 
