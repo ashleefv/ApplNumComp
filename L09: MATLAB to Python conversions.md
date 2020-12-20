@@ -1,6 +1,10 @@
 # **MATLAB to Python Conversions**
 Work through of converting a code from MATLAB into python, using system of odes.
 
+### **Introductory Videos**
+ * None for this lesson
+#### **Comprehension Check*
+ * None for this lesson
 ### **Walkthrough**
 #### **Starting file**
 [Raw MATLAB code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/system_of_ODEs.m)
