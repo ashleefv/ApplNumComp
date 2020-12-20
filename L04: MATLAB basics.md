@@ -17,6 +17,13 @@ This lecture focuses on basic MATLAB functionality, an overview of the versatili
 * [MATLAB Coding Best Practices](https://www.youtube.com/watch?v=ThDNl4m7GsI&feature=emb_title&ab_channel=AshleeN.FordVersypt)
 [![](http://img.youtube.com/vi/ThDNl4m7GsI/0.jpg)](http://www.youtube.com/watch?v=ThDNl4m7GsI "")
 
+#### **Comprehension Check**
+* Were any of the best practices new to you?
+* Did any surprise you?
+* Did any confuse you?
+* Describe a situation where you have successfully adopted one of the best practices.
+* Describe a situation where you wish in retrospect that you had adopted one of the best practices, but you didn't at the time.     Which best practice was it? Why might it have made a difference to you?
+
 ### **Walkthrough and Tutorial**
 Walk through coding of the following examples to show how to debug and the uses.
 * [Raw File](/CHEclassFa20/In%20Class%20Problem%20Activities/MATLAB/MATLABBasicsStart.m)
