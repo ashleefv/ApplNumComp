@@ -16,6 +16,8 @@ Introduces methods and commands for 2D and 3D plotting in MATLAB and Python, as 
 * Note: in MATLAB, to plot Y vs. X plot(x,y)
 * Work through several plotting examples sequentially, increasing complexity with each graph, debugging.
 * Sample code
+* These plots exhibit the ability of MATLAB to run functions, as well as different methods of plotting: delineating the dataset, noting a function in terms of another variable, and manually typing the equations in the plot line
+* Additionally, figure 3 demonstrates some of the options a user can specify within the 
 ```MATLAB
 %close all
 clear all
@@ -43,7 +45,9 @@ end
 hold off
 %legend('y','y^2','y^3','y^4')
 legend('-DynamicLegend')
-
+```
+* The following figures demonstrate how to run loops, only plot portions of those loops,how to plot multiple plots in the same window, and how to plot errorbars
+```MATLAB
 figure(4)
 hold on
 plot(x,Y(1,:),'o')
@@ -73,7 +77,7 @@ errorbar(x,Y(1,:),Yerror(1,:))
 
 * Another example of MATLAB plotting functionalities
 [Raw MATLAB Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/PlotExamples.m)
-```matlab
+```MATLAB
 x = [1, 2, 3, 4];
 y = [1, 4, 9, 16];
 plot(x,y)
@@ -114,7 +118,10 @@ subplot(223)
 errorbar(y,.1*y)
 subplot(224)
 errorbar(y,.1*y,'b')
-
+```
+* Demonstrating tile layouts with the following figures, as well as demonstrating that each of separate tiles is unique figure.
+* Also demonstrating the ability to force intervals on graphs.
+```MATLAB
 figure(2)
 tiledlayout('flow') %tiledlayout(2,2)
 nexttile
@@ -159,6 +166,7 @@ import matplotlib.pyplot as plt
 to access style functions similar to Matlab
 
 * Python example code for plotting
+* Demonstrating Python's ability to subplot/create tiles for multiple graphs in a single window. 
 ```python
 # -*- coding: utf-8 -*-
 """
