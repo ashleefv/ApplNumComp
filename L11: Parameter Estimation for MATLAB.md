@@ -46,7 +46,9 @@ parameters0 = [a0, b0, c0, d0];
 % plot the data
 figure(1)
 plot(xdata,ydata,'o')
-
+```
+* Below is the plotting section, which is a useful visual check that the model solution is working as desired.
+```MATLAB
 xforplotting = linspace(xdata(1),xdata(end),100);
 yforplotting = sumExponentials(parameters,xforplotting);
 hold on
