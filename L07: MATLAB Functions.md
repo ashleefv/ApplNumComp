@@ -27,6 +27,7 @@ Introduces built-in Matlab functions for common classes of numerical methods for
   * trapz
 
 #### **Solution Python Code**
+Note this code is identical to the version in L06, and here can be used to demonstrate relationships between MATLAB functions and their analog in Python, allowing students to make the connection to whichever language is more intrinsic to their understanding.
 [Raw Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ConvertFromMATLABtoPythonSoln.py)
 ```python
 """
