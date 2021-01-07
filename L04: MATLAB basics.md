@@ -82,7 +82,7 @@ x=linspace(xmin,xmax,Nx);
 %% calculate function values
 f = 3*x.^2;
 ```
-* Publication Tool
+* Publication Tool for exporting figures
 ```MATLAB
 %% calculate function values
 f = 3*x.^2;
