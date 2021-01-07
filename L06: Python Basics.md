@@ -59,7 +59,7 @@ function [x] = gaussElimin(a,b)
     x = b;
 end
 ```
-* Convert piecewise to Python code, debugging
+* Convert piecewise to Python code, debugging. Note the reduction in requisite logic statements; 4 "if" or "for" loops down to only 2 in Python. Also note the distinction between how to create matrices in both languages. 
 
 #### **Solution Python Code**
 [Starting Python Code](/CHEclassFa20/In%20Class%20Problem%20Activities/Python/ConverFromMATLABtoPython.ipynb)
