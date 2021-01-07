@@ -67,7 +67,9 @@ initial_val = A0, B0
 a1 = 1 # [m]
 a2 = 1 # [m]
 parameters = (a1, a2)
-
+```
+* Calling solver subprogram to solve the above defined system, then plotting the output for visual interpretation of results.
+```Python
 # Calling odeint to solve ODEs
 output = odeint(systems_of_ODEs, initial_val, xrange, args = (parameters,)   )
 
