@@ -47,7 +47,7 @@ A full list of recommended and optional reading materials that complement the co
   * Introducing matlab built-in functions: nonlinear equation solving, integration, ODE IVPs
 * [L08 Python Functions](/L08%20Python%20Functions.md)
   * Introducing Python built in functions: nonlinear equation solving, integration and basic ODEs.
-* [L09 Matlab to Python Conversion](/L09%20MATLAB%20to%20Python%20conversions.md)
+* [L09 Matlab to Python Conversion](/L09%20MATLAB%20to%20Python%20Conversion.md)
   * Converting matlab code into python code, using system of odes as example
 * [L10 Matlab and Python Plotting](/L10%20Python%20and%20MATLAB%20Plotting.md)
   * Lesson on the plotting capabilities of Matlab and Python, including live examples
