@@ -1,4 +1,4 @@
-# **Agent Based Models and Open Source Software**
+# **Lecture 22: Agent Based Models and Open Source Software**
 This lesson focuses on further examples of Agent Based Models (ABM) and Open source software.
 
 ### **Introductory videos**
@@ -23,4 +23,4 @@ This lesson focuses on further examples of Agent Based Models (ABM) and Open sou
 * None for this lesson
 
 ### **Previous Lesson**
- * [Lesson 21: Agent Based Modeling and Open Source Software](/L21:%20Agent%20Based%20Modeling%20and%20Open%20Source%20Software.md)
+ * [L21 Agent Based Modeling and Open Source Software](/L21%20Agent%20Based%20Modeling%20and%20Open%20Source%20Software.md)
