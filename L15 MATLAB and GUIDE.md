@@ -1,5 +1,5 @@
-# **GUIs Examples in MATLAB**
-This lesson focuses on GUI examples within MATLAB, specifically guide and its functionality
+# **Lesoson 15: GUIs Examples in MATLAB**
+This lesson focuses on GUI examples within MATLAB, specifically guide and its functionality.
 
 ### **Introductory videos**
  * [Sample GUIs for Research](https://www.youtube.com/watch?v=k_JD7kmkeTM&ab_channel=AshleeN.FordVersypt)
@@ -20,6 +20,6 @@ This lesson focuses on GUI examples within MATLAB, specifically guide and its fu
 * None for this lesson
 
 ### **Previous Lesson**
- * [Lesson 14: Introduction to GUIs](/L14:%20Introduction%20to%20GUIs.md)
+ * [L14 Introduction to GUIs](/L14%20Introduction%20to%20GUIs.md)
 ### **Next Lesson**
- * [Lesson 16: Further Exploration of GUIDE in MATLAB](/L16:%20Further%20exploration%20of%20GUIDE%20in%20MATLAB.md)
+ * [L16 Further Exploration of GUIDE in MATLAB](/L16%20Further%20exploration%20of%20GUIDE%20in%20MATLAB.md)
