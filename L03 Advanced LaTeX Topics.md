@@ -1,4 +1,4 @@
-# **Advanced LaTeX Topics**
+# **L03: Advanced LaTeX Topics**
 * This lesson focuses on LaTeX topics, specifically for writing papers and theses/dissertations
 
 ### **Introductory videos**
