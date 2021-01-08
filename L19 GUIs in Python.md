@@ -1,5 +1,5 @@
-# **Python GUIs**
-This lesson focuses on developing GUIs in Python using the PyQt5 tool via QtDesigner
+# **Lesson 19: Python GUIs**
+This lesson focuses on developing GUIs in Python using the PyQt5 tool via QtDesigner.
 
 ### **Introductory videos**
  * [PyQt5](https://www.youtube.com/watch?v=Vde5SH8e1OQ&feature=emb_title&ab_channel=TechWithTim)
@@ -81,6 +81,6 @@ if __name__ == "__main__":
 * None for this lesson
 
 ### **Previous Lesson**
- * [Lesson 18: Publication Quality Figures in MATLAB and Python](/L18:%20Publication%20Quality%20figures%20in%20MATLAB%20and%20Python.md)
+ * [L18 Publication Quality Figures in MATLAB and Python](/L18%20Publication%20Quality%20Figures%20in%20MATLAB%20and%20Python.md)
 ### **Next Lesson**
- * [Lesson 20: Validation and Verification](/L20:%20Validation%20and%20Verification%20of%20ABM.md)
+ * [L20 Validation and Verification](/L20%20Validation%20and%20Verification%20of%20ABM.md)
