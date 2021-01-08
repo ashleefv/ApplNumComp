@@ -214,6 +214,6 @@ plt.show()
 * [MATLAB default color order](http://math.loyola.edu/~loberbro/matlab/html/colorsInMatlab.html)
 
 ### **Previous Lesson**
- * [L09 MATLAB to Python Conversions](/L09%20MATLAB%20to%20Python%20conversions.md)
+ * [L09 MATLAB to Python Conversion](/L09%20MATLAB%20to%20Python%20conversion.md)
 ### **Next Lesson**
  * [L11 Parameter Estimation for MATLAB](/L11%20Parameter%20Estimation%20for%20MATLAB.md)
