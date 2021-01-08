@@ -1,6 +1,6 @@
-# **Lecture 2: LaTeX basics**
+# **Lesson 2: LaTeX basics**
 
-This lecture focuses on LaTeX for typesetting.
+This lesson focuses on LaTeX for typesetting.
 
 ### **Introductory Videos**
  * [LaTeX basics, Figures,and Math usage](https://www.youtube.com/watch?v=2SE4oedooUM&feature=emb_title)
