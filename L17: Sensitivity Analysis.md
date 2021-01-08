@@ -1,5 +1,5 @@
-# **Sensitivity Analysis**
-This lesson focuses on sensitivity analysis definitions, and an example walkthrough
+# **Lesson 17: Sensitivity Analysis**
+This lesson focuses on sensitivity analysis, definitions, and an example walkthrough.
 
 ### **Introductory videos**
  * None for this lesson
@@ -158,6 +158,6 @@ f=a*exp(b*x) + c*exp(d*x);
 * [Example of WSSR Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/WSSR_Example.m)
 
 ### **Previous Lesson**
- * [Lesson 16: Further Exploration of GUIDE in MATLAB](/L16:%20Further%20exploration%20of%20GUIDE%20in%20MATLAB.md)
+ * [L16 Further Exploration of GUIDE in MATLAB](/L16%20Further%20exploration%20of%20GUIDE%20in%20MATLAB.md)
 ### **Next Lesson**
- * [Lesson 18: Publication Quality Images in MATLAB and Python](/L18:%20Publication%20Quality%20figures%20in%20MATLAB%20and%20Python.md)
+ * [L18 Publication Quality Images in MATLAB and Python](/L18%20Publication%20Quality%20figures%20in%20MATLAB%20and%20Python.md)
