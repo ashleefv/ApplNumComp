@@ -1,6 +1,6 @@
-# **Lecture 1: Git for Version Control**
+# **Lesson 1: Git for Version Control**
 
-This lecture focuses on Git for version control.
+This lesson focuses on Git for version control.
 
 Note: the instructions are provided for using Bitbucket as the site for hosting version control repositories. Alternatively, GitHub may be used instead.
 ## **Introductory Videos**
