@@ -1,6 +1,6 @@
-# **Introduction to GUIs and MATLAB Capabilities**
-Graphical User Interfaces, or GUIs, are everywhere in our world. 
-This lesson introduces this topic and an overview of the MATLAB functionality in creating them therein.
+# **Lesson 14: Introduction to GUIs and MATLAB Capabilities**
+Graphical user interfaces (GUIs) are everywhere in the digital world. 
+This lesson introduces this topic and an overview of the MATLAB functionality in creating them.
 
 ### **Introductory videos**
  * [Introduction to Graphical User Interfaces](https://www.youtube.com/watch?v=XIGSJshYb90&feature=emb_title&ab_channel=CrashCourse)
@@ -21,6 +21,6 @@ This lesson introduces this topic and an overview of the MATLAB functionality in
 * None for this lesson
 
 ### **Previous Lesson**
- * [Lesson 13: Python Parameter Estimation](/L13:%20Python%20Parameter%20Estimation.md)
+ * [L13 Python Parameter Estimation](/L13%20Python%20Parameter%20Estimation.md)
 ### **Next Lesson**
- * [Lesson 15: MATLAB and GUIDE](/L15:%20MATLAB%20and%20GUIDE.md)
+ * [L15 MATLAB and GUIDE](/L15%20MATLAB%20and%20GUIDE.md)
