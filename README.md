@@ -31,49 +31,49 @@ Upon completion of this course, you should be able to
 A full list of recommended and optional reading materials that complement the course lessons are available [here](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md)
 
 ## Lessons
-* [L1: Git for Version Control](/L01:%20Git%20for%20Version%20Control.md)
+* [L01 Git for Version Control](/L01%20Git%20for%20Version%20Control.md)
   * Downloading, installing, and using Git for version control
-* [L2: LaTeX basics](/L02:%20LaTeX%20Basics)
+* [L02 LaTeX basics](/L02%20LaTeX%20Basics)
   * Downloading, installing, and using LaTeX for typesetting and computational writing
-* [L3: Advnaced LaTeX Topics](/L03:%20Advanced%20LaTeX%20Topics.md)
+* [L03 Advnaced LaTeX Topics](/L03%20Advanced%20LaTeX%20Topics.md)
   * Guided walkthrough of LaTeX functionality, examples, and templates for journals or thesis writing
-* [L4: Matlab Basics](/L04:%20Matlab%20basics.md)
+* [L04 Matlab Basics](/L04%20Matlab%20basics.md)
   * Basic Matlab functionality, an overview of the versatility and functions Matlab can do.
-* [L5: Matlab Basics Cont.](/L05:%20Matlab%20basics%20cont.md)
+* [L05 Matlab Basics Cont.](/L05%20Matlab%20basics%20cont.md)
   * Learning Matlab functions, how to write modules, and sample problems to walkthrough with students
-* [L6: Python Basics](/L06:%20Python%20Basics.md)
+* [L06 Python Basics](/L06%20Python%20Basics.md)
   * Learning basics of python, and accustoming to coding by converting an existing matlab code into python
-* [L7: Matlab Functions](/L07:%20MATLAB%20Functions.md)
+* [L07 Matlab Functions](/L07%20MATLAB%20Functions.md)
   * Introducing matlab built-in functions: nonlinear equation solving, integration, ODE IVPs
-* [L8: Python Functions](/L08:%20Python%20Functions.md)
+* [L08 Python Functions](/L08%20Python%20Functions.md)
   * Introducing Python built in functions: nonlinear equation solving, integration and basic ODEs.
-* [L9: Matlab to Python Conversion](/L09:%20MATLAB%20to%20Python%20conversions.md)
+* [L09 Matlab to Python Conversion](/L09%20MATLAB%20to%20Python%20conversions.md)
   * Converting matlab code into python code, using system of odes as example
-* [L10: Matlab and Python Plotting](/L10:%20Python%20and%20MATLAB%20Plotting.md)
+* [L10 Matlab and Python Plotting](/L10%20Python%20and%20MATLAB%20Plotting.md)
   * Lesson on the plotting capabilities of Matlab and Python, including live examples
-* [L11: Matlab Parameter Estimation](/L11:%20Parameter%20Estimation%20for%20MATLAB.md)
+* [L11 Matlab Parameter Estimation](/L11%20Parameter%20Estimation%20for%20MATLAB.md)
   *  Lesson on Parameter estimation with live examples within Matlab
-* [L12: Advanced Matlab Parameter Estimation](/L12:%20Advanced%20Parameter%20Estimation%20in%20MATLAB.md)
+* [L12 Advanced Matlab Parameter Estimation](/L12%20Advanced%20Parameter%20Estimation%20in%20MATLAB.md)
   * Lesson on further possibilities of Matlab for parameter estimation
-* [L13: Parameter Estimation for Python](/L13:%20Python%20Parameter%20Estimation.md)
+* [L13 Parameter Estimation for Python](/L13%20Python%20Parameter%20Estimation.md)
   * Lesson on python estimation of parameters; using the same example as from Matlab session to show comparison/contrast
-* [L14: Introduction to GUIs and matlab methods for creating them](/L14:%20Introduction%20to%20GUIs.md)
+* [L14 Introduction to GUIs and matlab methods for creating them](/L14%20Introduction%20to%20GUIs.md)
   * Lesson on GUIs, their prevalence in everyday life, and an overview of the Matlab tools for creating them
-* [L15: Matlab Guide exploration](/L15:%20MATLAB%20and%20GUIDE.md)
+* [L15 Matlab Guide exploration](/L15%20MATLAB%20and%20GUIDE.md)
   * Lesson demonstrating the power of guide, how to design callbacks and walkthrough of a sample GUI
-* [L16: Matlab Guide live walkthrough](/L16:%20Further%20exploration%20of%20GUIDE%20in%20MATLAB.md)
+* [L16 Matlab Guide live walkthrough](/L16%20Further%20exploration%20of%20GUIDE%20in%20MATLAB.md)
   * Lesson demonstrating and live walkthrough of editing an app within guide
-* [L17: Sensitivity Analysis in Matlab](/L17:%20Sensitivity%20Analysis.md)
+* [L17 Sensitivity Analysis in Matlab](/L17%20Sensitivity%20Analysis.md)
   * Lesson on sensitivity analysis, and how to code this within Matlab
-* [L18: Publication Quality Images in Matlab and Python](/L18:%20Publication%20Quality%20figures%20in%20MATLAB%20and%20Python.md)
+* [L18 Publication Quality Images in Matlab and Python](/L18%20Publication%20Quality%20figures%20in%20MATLAB%20and%20Python.md)
   * Lesson on publication quality images in Matlab and Python, how to create and export them, and examples of publications using them, as well as description of JOSS
-* [L19: Python GUIs](/L19:%20GUIs%20in%20Python.md)
+* [L19 Python GUIs](/L19%20GUIs%20in%20Python.md)
   * Lesson on Python GUIs, PyQt5, and creation or utilization thereof.
-* [L20: Validation, Verification, and ABM](/L20:%20Validation%20and%20Verification%20of%20ABM.md)
+* [L20 Validation, Verification, and ABM](/L20%20Validation%20and%20Verification%20of%20ABM.md)
   * Lesson on Verification, Validation, and Agent Based Modeling introduction
-* [L21: ABM and Open Source Software Examples](/L21:%20Agent%20Based%20Modeling%20and%20Open%20Source%20Software.md)
+* [L21 ABM and Open Source Software Examples](/L21%20Agent%20Based%20Modeling%20and%20Open%20Source%20Software.md)
   * Lesson focusing on further explanations of ABM, as well as a variety of tools and examples of open source software, as well as introduction to JOSS 
-* [L22: Reproducible Research](/L22:%20Reproducible%20Research%20Computing.md)
+* [L22 Reproducible Research](/L22%20Reproducible%20Research%20Computing.md)
   * Lesson focusing on the case for reproducible research
 
 ## Recommended Software
@@ -90,4 +90,4 @@ A full list of recommended and optional reading materials that complement the co
   * Online editor: [Overleaf](https://www.overleaf.com)
 
   
-(c) 2020 Ashlee N. Ford Versypt
+(c) 2020 Ashlee N. Ford Versypt, Duncan H. Mullins
