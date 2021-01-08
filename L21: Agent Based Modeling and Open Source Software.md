@@ -12,6 +12,7 @@ This lesson focuses on further examples of Agent Based Models (ABM) and Open sou
     * ABM [Presentation](https://github.com/ashleefv/ApplNumComp/blob/master/AIChE%20Bee%20pres%20ANFV.pdf) on Bee Example
     
 ### **Open Source Software Examples**
+* This lesson is very focused on Open Source Software, and as a result the introductory video is more in depth to provide more power to this lesson
 * [SciPy](https://scipy.org/)
 * [matplotlib](https://matplotlib.org/)
 * [Software Carpentry](https://github.com/swcarpentry)
