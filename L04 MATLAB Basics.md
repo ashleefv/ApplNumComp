@@ -131,4 +131,4 @@ end
 ### **Previous Lesson**
  * [L03 Advanced LaTeX Topics](/L03%20Advanced%20LaTeX%20Topics.md)
 ### **Next Lesson**
- * [L05 MATLAB Basics Continued](/L05%20MATLAB%20basics%20cont.md)
+ * [L05 MATLAB Basics Continued](/L05%20MATLAB%20Basics%20Cont.md)
