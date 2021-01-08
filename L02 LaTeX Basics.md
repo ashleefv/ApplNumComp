@@ -1,4 +1,4 @@
-# **Lesson 2: LaTeX basics**
+# **Lesson 2: LaTeX Basics**
 
 This lesson focuses on LaTeX for typesetting.
 
