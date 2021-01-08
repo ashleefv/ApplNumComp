@@ -1,5 +1,5 @@
-# **Publication Quality Images**
-This lesson focuses on developing publication quality images in MATLAB and Python, and exporting them for use.
+# **Lesson 18: Publication Quality Figures**
+This lesson focuses on developing publication quality images in MATLAB and Python and exporting them for use in other software.
 
 ### **Introductory videos**
  * None for this lesson
@@ -38,6 +38,6 @@ export_fig('test','-r1000',  '-q101', '-painters', '-eps', '-png', '-tiff');
 * None for this lesson
 
 ### **Previous Lesson**
- * [Lesson 17: Sensitivity Analysis](/L17:%20Sensitivity%20Analysis.md)
+ * [L17 Sensitivity Analysis](/L17%20Sensitivity%20Analysis.md)
 ### **Next Lesson**
- * [Lesson 19: GUIs in Python](/L19:%20GUIs%20in%20Python.md)
+ * [L19 GUIs in Python](/L19%20GUIs%20in%20Python.md)
