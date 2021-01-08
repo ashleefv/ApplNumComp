@@ -190,6 +190,6 @@ end
 * [Publish and Share MATLAB Code](https://www.mathworks.com/help/matlab/matlab_prog/publishing-matlab-code.html)
 
 ### **Previous Lesson**
- * [L04 MATLAB Basics](/L04%20MATLAB%20basics.md)
+ * [L04 MATLAB Basics](/L04%20MATLAB%20Basics.md)
 ### **Next Lesson**
  * [L06 Python Basics](/L06%20Python%20Basics.md)
