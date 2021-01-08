@@ -1,6 +1,6 @@
-# **Lecture 5: MATLAB Basics continued**
+# **Lesson 5: MATLAB Basics continued**
 
-This lecture continues the introduction of basics of MATLAB programming for scientific computing. 
+This lesson continues the introduction of basics of MATLAB programming for scientific computing. 
   
 ### **Introductory Videos**
 * [Learning MATLAB Functions](http://www.learningmatlab.com/videos/IndividualPages/10-Functions/FunctionsIntro.html)
