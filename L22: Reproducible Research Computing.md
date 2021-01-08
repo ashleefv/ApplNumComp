@@ -4,7 +4,7 @@ This lesson focuses on further examples of Agent Based Models (ABM) and Open sou
 ### **Introductory videos**
  * [Discussion of Reproducible Research For Computing Readings](https://www.youtube.com/watch?v=j25h5oeCzCk&feature=emb_title&ab_channel=AshleeN.FordVersypt)
     * [![](http://img.youtube.com/vi/j25h5oeCzCk/0.jpg)](http://www.youtube.com/watch?v=j25h5oeCzCk "")
-    
+    * This video is significantly longer than usual, as it is an in depth lesson conducted by students over readings, specifically [reading 10](RecommendedReading.md), and as such composes the majority of this lesson.
 #### **Comprehension Check**
    * None for this lesson
 ### **Resources Discussed in Video**
