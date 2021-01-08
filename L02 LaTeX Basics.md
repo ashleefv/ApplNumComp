@@ -1,4 +1,4 @@
-# **Lecture 2:LaTeX basics**
+# **Lecture 2: LaTeX basics**
 
 This lecture focuses on LaTeX for typesetting.
 
