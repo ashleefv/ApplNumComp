@@ -1,5 +1,6 @@
-# **Python Functions**
-Introduces built-in Python functions for common classes of numerical methods for solving nonlinear equations, numerical integration, and ordinary differntial equations (initial value problems)
+# **Lesson 8: Python Functions**
+
+This lesson introduces built-in Python functions for common classes of numerical methods for solving nonlinear equations, numerical integration, and ordinary differential equations (initial value problems).
 
 ### **Introductory videos**
  * [Using Python to solve a system of linear equations](https://www.youtube.com/watch?v=g2aX77LAc0o&feature=emb_title&ab_channel=AshleeN.FordVersypt)
@@ -92,6 +93,6 @@ plt.show()
 * [Python Modules](https://docs.python.org/3/tutorial/modules.html)
 
 ### **Previous Lesson**
- * [Lesson 7: MATLAB Functions](/L07:%20MATLAB%20Functions.md)
+ * [L07 MATLAB Functions](/L07%20MATLAB%20Functions.md)
 ### **Next Lesson**
- * [Lesson 9: MATLAB to Python Conversions](/L09:%20MATLAB%20to%20Python%20conversions.md)
+ * [L09 MATLAB to Python Conversions](/L09%20MATLAB%20to%20Python%20conversions.md)
