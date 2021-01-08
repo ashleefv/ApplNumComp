@@ -1,4 +1,4 @@
-# **L03: Advanced LaTeX Topics**
+# **Lecture 3: Advanced LaTeX Topics**
 * This lesson focuses on LaTeX topics, specifically for writing papers and theses/dissertations
 
 ### **Introductory videos**
@@ -93,7 +93,7 @@ Download the template you found and look through the .tex file like Dr. Ford Ver
 * [Short Math Guide for LaTeX](http://tug.ctan.org/info/short-math-guide/short-math-guide.pdf)
 
 ### **Previous Lesson**
-* [LaTeX Basics](/L02:%20LaTeX%20Basics.md)
+* [L02 LaTeX Basics](/L02%20LaTeX%20Basics.md)
 
 ### **Next Lesson**
-* [MATLAB Basics](/L04:%20MATLAB%20basics.md)
+* [L04 MATLAB Basics](/L04%20MATLAB%20basics.md)
