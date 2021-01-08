@@ -97,4 +97,4 @@ Download the template you found and look through the .tex file like Dr. Ford Ver
 * [L02 LaTeX Basics](/L02%20LaTeX%20Basics.md)
 
 ### **Next Lesson**
-* [L04 MATLAB Basics](/L04%20MATLAB%20basics.md)
+* [L04 MATLAB Basics](/L04%20MATLAB%20Basics.md)
