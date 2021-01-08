@@ -1,6 +1,6 @@
-# **Lesson 4: Matlab Basics**
+# **Lesson 4: MATLAB Basics**
 
-This lesson focuses on basic MATLAB functionality, an overview of the versatility and functions MATLAB can do. 
+This lesson focuses on basic MATLAB functionality. 
 
 ### **Uses of MATLAB**
   * Calculator
