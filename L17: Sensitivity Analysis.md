@@ -15,6 +15,7 @@ This lesson focuses on sensitivity analysis definitions, and an example walkthro
   * Recreate code to fulfill [sample problem](https://github.com/ashleefv/ApplNumComp/blob/master/SensitivityAnalysis.pdf)
 #### **Sample Skeleton Code**
 [Raw Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/SensitivityExampleStarting.m)
+* Note the use of each internalized function
 ```MATLAB
   function ICPL14
 %% ICPL14 Local sensitivity analysis
@@ -51,6 +52,9 @@ for i = 1:length(parametersNominal)
             /outputNominal/ParamChange;
     end
 end
+```
+* Note the figures for plotting the outputs of the sensitivity analysis
+```MATLAB
 %% Display the sensivity at a specific value of the independent variable
 % user can specify which value of the independent variable at which to evaluate 
 % the local sensitivity Here: the "end" is specified to determine the sensitivity 
@@ -74,6 +78,7 @@ f=
 
 ####** Final Working Version**
 [Raw Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/SensitivityExample.m)
+* Note the parameters, the defined ranges and internal functions. 
 ```MATLAB
 %% Local sensitivity analysis
 function ICPL14
@@ -118,7 +123,9 @@ for i = 1:length(parametersNominal)
             /outputNominal/ParamChange;
     end
 end
-
+```
+* Note the re definition of each parameter as a unit from a matrix of the solution 
+```MATLAB
 %% Display the sensivity at a specific value of the independent variable
 % user can specify which value of the independent variable at which to
 % evaluate the local sensitivity
