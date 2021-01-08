@@ -9,12 +9,19 @@ This lesson focuses on validation and verification- the definitions and necessit
   * Definitions
     * Validation
     * Verification
+    * The difference between the two and importance of each
+      * Validation is ensuring model works correctly the way it is expected to
+      * Verification ensures model is useful beyond the data used to develop it.
   * Case Studies
-    * Dissertation chapter
+    * insert some
 ### **Agent Based Models**
 * [Case study](https://github.com/ashleefv/BeeNestABM)
+ * Consider ABM and explain what agent-based models are, some of their uses and powers
+  * Allow for tracking of unique items in simulation, allowing statistical analytics to be performed
 * [Introduction to ABM](https://github.com/ashleefv/ApplNumComp/blob/master/Intro%20to%20ABM.pdf)
+ * Shows good walkthrough of ABM
 * [AiCHe Bee Presentation](https://github.com/ashleefv/ApplNumComp/blob/master/AIChE%20Bee%20pres%20ANFV.pdf)
+ * Powerpoint which explains in further depth development and uses of the Case study simulation
 ### **Additional Resources**
 * None for this lesson
 
