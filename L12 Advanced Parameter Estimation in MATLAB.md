@@ -1,5 +1,5 @@
-# **Advanced Parameter Estimation in MATLAB**
-This lesson focuses on parameter estimation with more advanced examples in MATLAB
+# **Lesson 12: Advanced Parameter Estimation in MATLAB**
+This lesson focuses on parameter estimation with more advanced examples in MATLAB.
 
 ### **Introductory videos**
 None for this lesson
@@ -146,6 +146,6 @@ end
 * None for this lesson
 
 ### **Previous Lesson**
- * [Lesson 11: Parameter Estimation for MATLAB](/L11:%20Parameter%20Estimation%20for%20MATLAB.md)
+ * [L11 Parameter Estimation for MATLAB](/L11%20Parameter%20Estimation%20for%20MATLAB.md)
 ### **Next Lesson**
- * [Lesson 13: Python Parameter Estimation](/L13:%20Python%20Parameter%20Estimation.md)
+ * [L13 Python Parameter Estimation](/L13%20Python%20Parameter%20Estimation.md)
