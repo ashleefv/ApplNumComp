@@ -1,4 +1,4 @@
-# **Matlab Basics**
+# **Lecture 4: Matlab Basics**
 
 This lecture focuses on basic MATLAB functionality, an overview of the versatility and functions MATLAB can do. 
 
@@ -129,6 +129,6 @@ end
 * [Video Tutorials for MATLAB GUI Tools](http://learningmatlab.com/videos/index.html)
 
 ### **Previous Lesson**
- * [Lesson 3: Advanced LaTeX Topics](/L03:%20Advanced%20LaTeX%20Topics.md)
+ * [L03 Advanced LaTeX Topics](/L03%20Advanced%20LaTeX%20Topics.md)
 ### **Next Lesson**
- * [Lesson 5: MATLAB Basics Continued](/L05:%20MATLAB%20basics%20cont.md)
+ * [L05 MATLAB Basics Continued](/L05%20MATLAB%20basics%20cont.md)
