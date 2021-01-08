@@ -1,5 +1,6 @@
-# **2D and 3D visualization in MATLAB and Python**
-Introduces methods and commands for 2D and 3D plotting in MATLAB and Python, as well as how to use them
+# **Lesson 10: 2D and 3D visualization in MATLAB and Python**
+
+This lesson introduces methods and commands for 2D and 3D plotting in MATLAB and Python, as well as how to use them.
 
 ### **Introductory videos**
  * [Plotting Examples](https://www.youtube.com/watch?v=Pykrn0DpesA&feature=emb_title&ab_channel=AshleeN.FordVersypt)
@@ -213,6 +214,6 @@ plt.show()
 * [MATLAB default color order](http://math.loyola.edu/~loberbro/matlab/html/colorsInMatlab.html)
 
 ### **Previous Lesson**
- * [Lesson 9: MATLAB to Python Conversions](/L9:%20MATLAB%20to%20Python%20conversions.md)
+ * [L09 MATLAB to Python Conversions](/L09%20MATLAB%20to%20Python%20conversions.md)
 ### **Next Lesson**
- * [Lesson 11: Parameter Estimation for MATLAB](/L11:%20Parameter%20Estimation%20for%20MATLAB.md)
+ * [L11 Parameter Estimation for MATLAB](/L11%20Parameter%20Estimation%20for%20MATLAB.md)
