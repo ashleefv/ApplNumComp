@@ -1,4 +1,4 @@
-# **MATLAB Basics continued**
+# **Lecture 5: MATLAB Basics continued**
 
 This lecture continues the introduction of basics of MATLAB programming for scientific computing. 
   
@@ -190,6 +190,6 @@ end
 * [Publish and Share MATLAB Code](https://www.mathworks.com/help/matlab/matlab_prog/publishing-matlab-code.html)
 
 ### **Previous Lesson**
- * [Lesson 4: MATLAB Basics](/L04:%20MATLAB%20basics.md)
+ * [L04 MATLAB Basics](/L04%20MATLAB%20basics.md)
 ### **Next Lesson**
- * [Lesson 6: Python Basics](/L06:%20Python%20Basics.md)
+ * [L06 Python Basics](/L06%20Python%20Basics.md)
