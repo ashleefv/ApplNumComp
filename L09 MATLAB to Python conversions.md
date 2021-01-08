@@ -1,5 +1,5 @@
-# **MATLAB to Python Conversions**
-Work through of converting a code from MATLAB into python, using system of odes.
+# **Lesson 9: MATLAB to Python Conversions**
+This lesson work through converting a code from MATLAB into Python using a system of ODEs.
 
 ### **Introductory Videos**
  * None for this lesson
@@ -147,6 +147,6 @@ print(system_of_ODEs(1,[1,1],k4=1,k3=1,k2=1,k1=1))
 ```
 
 ### **Previous Lesson**
- * [Lesson 8: Python Functions](/L08:%20Python%20Functions.md)
+ * [L08 Python Functions](/L08%20Python%20Functions.md)
 ### **Next Lesson**
- * [Lesson 10: MATLAB and Python Plotting](/L10:%20Python%20and%20MATLAB%20Plotting.md)
+ * [L10 MATLAB and Python Plotting](/L10%20Python%20and%20MATLAB%20Plotting.md)
