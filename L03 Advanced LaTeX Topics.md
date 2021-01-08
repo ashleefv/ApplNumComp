@@ -1,6 +1,6 @@
 # **Lesson 3: Advanced LaTeX Topics**
 
-* This lesson focuses on LaTeX topics, specifically for writing papers and theses/dissertations
+This lesson focuses on LaTeX topics, specifically for writing papers and theses/dissertations
 
 ### **Introductory videos**
  * [LaTeX Templates Thesis and Dissertation Examples](https://www.youtube.com/watch?v=gHp1IWxEink&feature=emb_title&ab_channel=AshleeN.FordVersypt)
