@@ -1,5 +1,6 @@
-# **MATLAB Functions**
-Introduces built-in Matlab functions for common classes of numerical methods for solving nonlinear equations, numerical integration, and ordinary differntial equations (initial value problems)
+# **Lesson 7: MATLAB Functions**
+
+This lesson introduces built-in MATLAB functions for common classes of numerical methods for solving nonlinear equations, numerical integration, and ordinary differential equations (initial value problems).
 
 ### **Introductory videos**
  * [Numerical Methods](https://www.youtube.com/watch?v=430j9WP1uTQ&feature=emb_title&ab_channel=AshleeN.FordVersypt)
@@ -76,6 +77,6 @@ print("x =",x)
 * [Algorithms for finding the root of nonlinear equations](https://www.youtube.com/watch?v=ujcZc5sPX4c&ab_channel=LearnChemE)
 
 ### **Previous Lesson**
- * [Lesson 6: Python Basics](/L06:%20Python%20Basics.md)
+ * [L06 Python Basics](/L06%20Python%20Basics.md)
 ### **Next Lesson**
- * [Lesson 8: Python Functions](/L08:%20Python%20Functions.md)
+ * [L08 Python Functions](/L08%20Python%20Functions.md)
