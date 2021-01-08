@@ -1,4 +1,4 @@
-# **Parameter Estimation in Python**
+# **Lesson 13: Parameter Estimation in Python**
 Parameter estimation or curve fitting is the process of finding the coefficients or parameters to fit some model or curve to a set of data.
 This lesson covers how to use Python tools for this process.
 
@@ -206,6 +206,6 @@ plt.show()
 * [Python Curve Fitting tools](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html)
 
 ### **Previous Lesson**
- * [Lesson 12: Advanced Parameter Estimation for MATLAB](/L12:%20Advanced%20Parameter%20Estimation%20in%20MATLAB.md)
+ * [L12 Advanced Parameter Estimation for MATLAB](/L12%20Advanced%20Parameter%20Estimation%20in%20MATLAB.md)
 ### **Next Lesson**
- * [Lesson 14: Introduction to GUIs](/L14:%20Introduction%20to%20GUIs.md)
+ * [L14 Introduction to GUIs](/L14%20Introduction%20to%20GUIs.md)
