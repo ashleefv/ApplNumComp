@@ -1,5 +1,6 @@
-# **Exploration of guide in MATLAB**
-This lesson focuses on GUI examples within MATLAB, exploring in depth the capabilities of guide
+# **Lesson 16: Exploration of guide in MATLAB**
+
+This lesson focuses on GUI examples within MATLAB, exploring in depth the capabilities of GUIDE.
 
 ### **Introductory videos**
  * [Packaging and installing MATLAB Apps](https://www.mathworks.com/videos/packaging-and-installing-matlab-apps-101563.html)
@@ -23,6 +24,6 @@ This lesson focuses on GUI examples within MATLAB, exploring in depth the capabi
 * None for this lesson
 
 ### **Previous Lesson**
- * [Lesson 15: MATLAB and GUIDE](/L15:%20MATLAB%20and%20GUIDE.md)
+ * [L15 MATLAB and GUIDE](/L15%20MATLAB%20and%20GUIDE.md)
 ### **Next Lesson**
- * [Lesson 17: Sensitivity Analysis](/L17:%20Sensitivity%20Analysis.md)
+ * [L17 Sensitivity Analysis](/L17%20Sensitivity%20Analysis.md)
