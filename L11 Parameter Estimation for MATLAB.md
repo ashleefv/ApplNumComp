@@ -1,4 +1,4 @@
-# **Parameter Estimation in MATLAB**
+# **Lesson 11: Parameter Estimation in MATLAB**
 Parameter estimation or curve fitting is the process of finding the coefficients or parameters to fit some model or curve to a set of data.
 This lesson covers how to use MATLAB tools for this process.
 
@@ -81,6 +81,6 @@ end
 * None
 
 ### **Previous Lesson**
- * [Lesson 10: Python and MATLAB Plotting](/L10:%20Python%20and%20MATLAB%20Plotting.md)
+ * [L10 Python and MATLAB Plotting](/L10%20Python%20and%20MATLAB%20Plotting.md)
 ### **Next Lesson**
- * [Lesson 12: Advanced Parameter Estimation for MATLAB](/L12:%20Advanced%20Parameter%20Estimation%20in%20MATLAB.md)
+ * [L12 Advanced Parameter Estimation for MATLAB](/L12%20Advanced%20Parameter%20Estimation%20in%20MATLAB.md)
