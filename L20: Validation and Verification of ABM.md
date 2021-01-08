@@ -13,7 +13,8 @@ This lesson focuses on validation and verification- the definitions and necessit
       * Validation is ensuring model works correctly the way it is expected to
       * Verification ensures model is useful beyond the data used to develop it.
   * Case Studies
-    * insert some
+    * [Reading 9](/RecommendedReading.md) has some very good examples
+    * [Software Testing](https://www.softwaretestinghelp.com/what-is-verification-and-validation/) has a good definition of the difference
 ### **Agent Based Models**
 * [Case study](https://github.com/ashleefv/BeeNestABM)
  * Consider ABM and explain what agent-based models are, some of their uses and powers
