@@ -77,4 +77,4 @@ Link these repositories to Bitbucket
 * J. D. Blischak, E. R. Davenport, G. Wilson, A quick introduction to version control with Git and GitHub, PLoS Computational Biology, 12(1):e1004668
 
 ### **Next Lesson**
-  * [L2: LaTeX Basics](/L02:%20LaTeX%20Basics.md)
+  * [L02 LaTeX Basics](/L02%20LaTeX%20Basics.md)
