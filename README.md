@@ -33,29 +33,29 @@ A full list of recommended and optional reading materials that complement the co
 ## Lessons
 * [L01 Git for Version Control](/L01%20Git%20for%20Version%20Control.md)
   * Downloading, installing, and using Git for version control
-* [L02 LaTeX basics](/L02%20LaTeX%20Basics)
+* [L02 LaTeX Basics](/L02%20LaTeX%20Basics)
   * Downloading, installing, and using LaTeX for typesetting and computational writing
 * [L03 Advnaced LaTeX Topics](/L03%20Advanced%20LaTeX%20Topics.md)
   * Guided walkthrough of LaTeX functionality, examples, and templates for journals or thesis writing
-* [L04 Matlab Basics](/L04%20Matlab%20basics.md)
-  * Basic Matlab functionality, an overview of the versatility and functions Matlab can do.
-* [L05 Matlab Basics Cont.](/L05%20Matlab%20basics%20cont.md)
-  * Learning Matlab functions, how to write modules, and sample problems to walkthrough with students
+* [L04 MATLAB Basics](/L04%20MATLAB%20Basics.md)
+  * Basic MATLAB functionality
+* [L05 MATLAB Basics Continued](/L05%20MATLAB%20Basics%20Cont.md)
+  * Learning MATLAB functions, how to write modules, and sample problems
 * [L06 Python Basics](/L06%20Python%20Basics.md)
-  * Learning basics of python, and accustoming to coding by converting an existing matlab code into python
-* [L07 Matlab Functions](/L07%20MATLAB%20Functions.md)
-  * Introducing matlab built-in functions: nonlinear equation solving, integration, ODE IVPs
+  * Learning basics of Python and converting an existing MATLAB code into Python
+* [L07 MATLAB Functions](/L07%20MATLAB%20Functions.md)
+  * Introducing MATLAB built-in functions: nonlinear equation solving, integration, ODE IVPs
 * [L08 Python Functions](/L08%20Python%20Functions.md)
-  * Introducing Python built in functions: nonlinear equation solving, integration and basic ODEs.
-* [L09 Matlab to Python Conversion](/L09%20MATLAB%20to%20Python%20Conversion.md)
-  * Converting matlab code into python code, using system of odes as example
-* [L10 Matlab and Python Plotting](/L10%20Python%20and%20MATLAB%20Plotting.md)
-  * Lesson on the plotting capabilities of Matlab and Python, including live examples
-* [L11 Matlab Parameter Estimation](/L11%20Parameter%20Estimation%20for%20MATLAB.md)
-  *  Lesson on Parameter estimation with live examples within Matlab
-* [L12 Advanced Matlab Parameter Estimation](/L12%20Advanced%20Parameter%20Estimation%20in%20MATLAB.md)
+  * Introducing Python built-in functions: nonlinear equation solving, integration, and basic ODEs
+* [L09 MATLAB to Python Conversion](/L09%20MATLAB%20to%20Python%20Conversion.md)
+  * Converting MATLAB code into Python code, using a system of ODEs
+* [L10 Python and MATLAB Plotting](/L10%20Python%20and%20MATLAB%20Plotting.md)
+  * Lesson on the plotting capabilities of Python and MATLAB
+* [L11 MATLAB Parameter Estimation](/L11%20MATLAB%20Parameter%20Estimation.md)
+  *  Lesson on parameter estimation with MATLAB examples
+* [L12 Advanced MATLAB Parameter Estimation](/L12%20Advanced%20MATLAB%20Parameter%20Estimation.md)
   * Lesson on further possibilities of Matlab for parameter estimation
-* [L13 Parameter Estimation for Python](/L13%20Python%20Parameter%20Estimation.md)
+* [L13 Python Parameter Estimation](/L13%20Python%20Parameter%20Estimation.md)
   * Lesson on python estimation of parameters; using the same example as from Matlab session to show comparison/contrast
 * [L14 Introduction to GUIs and matlab methods for creating them](/L14%20Introduction%20to%20GUIs.md)
   * Lesson on GUIs, their prevalence in everyday life, and an overview of the Matlab tools for creating them
@@ -65,8 +65,8 @@ A full list of recommended and optional reading materials that complement the co
   * Lesson demonstrating and live walkthrough of editing an app within guide
 * [L17 Sensitivity Analysis in Matlab](/L17%20Sensitivity%20Analysis.md)
   * Lesson on sensitivity analysis, and how to code this within Matlab
-* [L18 Publication Quality Images in Matlab and Python](/L18%20Publication%20Quality%20figures%20in%20MATLAB%20and%20Python.md)
-  * Lesson on publication quality images in Matlab and Python, how to create and export them, and examples of publications using them, as well as description of JOSS
+* [L18 Publication Quality Figures in MATLAB and Python](/L18%20Publication%20Quality%20Figures%20in%20MATLAB%20and%20Python.md)
+  * Lesson on publication quality images in MATLAB and Python, how to create and export them, and examples of publications using them, as well as description of JOSS
 * [L19 Python GUIs](/L19%20GUIs%20in%20Python.md)
   * Lesson on Python GUIs, PyQt5, and creation or utilization thereof.
 * [L20 Validation, Verification, and ABM](/L20%20Validation%20and%20Verification%20of%20ABM.md)
