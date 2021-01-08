@@ -95,4 +95,4 @@ plt.show()
 ### **Previous Lesson**
  * [L07 MATLAB Functions](/L07%20MATLAB%20Functions.md)
 ### **Next Lesson**
- * [L09 MATLAB to Python Conversion](/L09%20MATLAB%20to%20Python%20conversions.md)
+ * [L09 MATLAB to Python Conversion](/L09%20MATLAB%20to%20Python%20Conversion.md)
