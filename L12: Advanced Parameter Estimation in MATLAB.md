@@ -12,6 +12,8 @@ None for this lesson
 
 ### **Example 1**
 * [Sample code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ODEParamEstimExample1.m)
+* Note the 2 separate parameter estimatation method options 
+* Also note the separate graphs and loops that can modify the logic flow of the code.
 ```MATLAB
 function ODEParamEstimExample1
 tdata = [0 0.5 1.0 5.0 30]; % independent variable, x-axis
@@ -63,6 +65,8 @@ end
 
 ### **Example 2**
 * [Sample Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ODEParamEstimExample2.m)
+* Note the commented out second option for describing a datast and parameters coding.
+* Also note the plotting tiles
 ```MATLAB
 function ODEParamEstimExample2
 tdata = [0.5 1.0 5.0 20]; % independent variable, x-axis
@@ -107,7 +111,9 @@ plot(tforplotting,xatguesses(2,:))
 plot(tforplotting,xatsoln(2,:),'g')
 legend('data','x2 at guesses', 'x2 at soln parameters')
 hold off
-
+```
+* Note the separate outputs, the flipping of the matrix of solutions
+```MATLAB
 function output = model(parameters,t,x0)
     for i = 1:length(t)
         if t(i) == 0 
