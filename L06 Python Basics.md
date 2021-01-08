@@ -1,5 +1,6 @@
-# **Lecture 6: Python Basics**
-Introduces the basics of Python programming.
+# **Lesson 6: Python Basics**
+
+The lesson introduces the basics of Python programming.
 
 ### **Introductory Video**
 * [Four Ways to Run Python Code](https://www.youtube.com/watch?v=BRQ2DDpByE4&feature=emb_title&ab_channel=AshleeN.FordVersypt)
