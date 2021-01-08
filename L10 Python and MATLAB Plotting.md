@@ -1,4 +1,4 @@
-# **Lesson 10: 2D and 3D visualization in MATLAB and Python**
+# **Lesson 10: Python and MATLAB Plotting**
 
 This lesson introduces methods and commands for 2D and 3D plotting in MATLAB and Python, as well as how to use them.
 
