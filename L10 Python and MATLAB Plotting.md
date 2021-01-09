@@ -47,6 +47,9 @@ hold off
 %legend('y','y^2','y^3','y^4')
 legend('-DynamicLegend')
 ```
+![Expected Graph 1](/Lesson_images/figure1_L10.jpg)
+![Expected Graph 2](/Lesson_images/figure2_L10.jpg)
+![Expected Graph 3](/Lesson_images/Figure3_L10.jpg)
 * The following figures demonstrate how to run loops, only plot portions of those loops,how to plot multiple plots in the same window, and how to plot errorbars
 ```MATLAB
 figure(4)
@@ -75,7 +78,8 @@ end
 figure(7)
 errorbar(x,Y(1,:),Yerror(1,:))
 ```
-
+![Expected Graph 4](/Lesson_images/Figure4_L10.jpg)
+![Expected Graph 5](/Lesson_images/Figure5_L10.jpg)
 * Another example of MATLAB plotting functionalities
 [Raw MATLAB Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/PlotExamples.m)
 ```MATLAB
@@ -206,7 +210,9 @@ axes3.plot(t,t**3,'g^')
 fig.tight_layout()
 plt.show()
 ```
-
+![Expected Graph 1](/Lesson_images/Figure1_L10.png)
+![Expected Graph 2](/Lesson_images/Figure2_L10.png)
+![Expected Graph 3](/Lesson_images/Figure3_L10.png)
 ### **Additional Resources**
 * [MATLAB Graphics Documentation](https://www.mathworks.com/help/matlab/graphics.html)
 * [Python Graphics Documentation](https://matplotlib.org/)
