@@ -39,6 +39,7 @@ legend('f(x) = 3x^2','Location','Best');
 title('A simple plot')
 grid on
 ```
+![Expected Graph](/Lesson_images/figure_L05.jpg)
 * Next, edit the code to do the following things
   * Calculate a second expression g(x)=x
   * Suppress printing of this new expression
