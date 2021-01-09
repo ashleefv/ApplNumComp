@@ -63,6 +63,7 @@ legend('f(x) = 3x^2','Location','Best');
 title('A simple plot')
 grid on
 ```
+![Expected Graph](/Lesson_images/figure_L04.jpg)
 * Built in Functions
 ```MATLAB
  xmin = 0; 
@@ -100,6 +101,7 @@ grid on
 end
 saveas(matlabbasics.jpg)
 ```
+![Expected Graph](Lesson_images/figure_L04.jpg)
 * Loops
 ```MATLAB
 function MATLABBasics(varargin)
