@@ -86,6 +86,7 @@ plt.ylabel('$A$ and $B$')
 plt.xlabel('$x$')
 plt.show()
 ```
+![Expected Graph](/Lesson_images/figure_L8.png)
  * [Default values in Python](https://docs.python.org/3.7/tutorial/controlflow.html#more-on-defining-functions)
  * [Python for Loops](https://www.codementor.io/@sheena/python-generators-and-iterators-du1082iua)
   * More capabilities than MATLAB for loops using iterators and iterables
