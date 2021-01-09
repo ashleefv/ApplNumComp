@@ -21,7 +21,6 @@ This lesson introduces built-in MATLAB functions for common classes of numerical
 * General Optimization (minimization)
   * fminbnd
   * fmincon
-  * Example 1: 
 ### **Numerical Integration Functions**
 * [Numerical Integration and Differentiation](mathworks.com/help/matlab/numerical-integration-and-differentiation.html)
   * quad, quadl, quadv --> integral
