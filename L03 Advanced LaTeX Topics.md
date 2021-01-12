@@ -4,13 +4,13 @@ This lesson focuses on LaTeX topics, specifically for writing papers and theses/
 
 ### **Introductory videos**
  * [LaTeX Templates Thesis and Dissertation Examples](https://www.youtube.com/watch?v=gHp1IWxEink&feature=emb_title&ab_channel=AshleeN.FordVersypt)
-   * [![](http://img.youtube.com/vi/gHp1IWxEink/0.jpg)](http://www.youtube.com/watch?v=gHp1IWxEink "")
+   [![](http://img.youtube.com/vi/gHp1IWxEink/0.jpg)](http://www.youtube.com/watch?v=gHp1IWxEink "")
  * [LaTeX Templates Elsevier Example](https://www.youtube.com/watch?v=vO9O7Nuk0XM&feature=emb_title&ab_channel=AshleeN.FordVersypt)
-   * [![](http://img.youtube.com/vi/vO9O7Nuk0XM/0.jpg)](http://www.youtube.com/watch?v=vO9O7Nuk0XM "")
+   [![](http://img.youtube.com/vi/vO9O7Nuk0XM/0.jpg)](http://www.youtube.com/watch?v=vO9O7Nuk0XM "")
  * [LaTeX Templates PLOS One Example](https://www.youtube.com/watch?v=2IpdTQhj6cg&feature=emb_title&ab_channel=AshleeN.FordVersypt)
-   * [![](http://img.youtube.com/vi/2IpdTQhj6cg/0.jpg)](http://www.youtube.com/watch?v=2IpdTQhj6cg "")
+   [![](http://img.youtube.com/vi/2IpdTQhj6cg/0.jpg)](http://www.youtube.com/watch?v=2IpdTQhj6cg "")
  * [LaTeX activity Solutions](https://www.youtube.com/watch?v=KSrDadBdp7w&feature=emb_title&ab_channel=AshleeN.FordVersypt)
-   * [![](http://img.youtube.com/vi/KSrDadBdp7w/0.jpg)](http://www.youtube.com/watch?v=KSrDadBdp7w "")
+  [![](http://img.youtube.com/vi/KSrDadBdp7w/0.jpg)](http://www.youtube.com/watch?v=KSrDadBdp7w "")
 
 #### **Comprehension Check**
 * For a scientific journal in your field, perform an internet search to find the link to an online .tex template or instructions for using a TeX template . If you're not familiar with any scientific journals yet, try "tex template _____ journal"  ____ 
