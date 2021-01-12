@@ -92,7 +92,7 @@ output = [dC_A_dt; dC_B_dt];
  ```
 #### **Final Python code**
 [Raw Python Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/system_of_ODEs.py)
-```python
+```Python
 # -*- coding: utf-8 -*-
 """
 Created on Mon Sep 10 08:36:12 2018
