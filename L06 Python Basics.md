@@ -114,6 +114,6 @@ print("x =",x)
 * [Introduction to Colab and Python](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb#scrollTo=X9uIpOS2zx7k)
 
 ### **Previous Lesson**
- * [L05 MATLAB Basics Continued](/L05%20MATLAB%20basics%20cont.md)
+ * [L05 MATLAB Basics Continued](/L05%20MATLAB%20Basics%20Cont.md)
 ### **Next Lesson**
  * [L07 MATLAB Functions](/L07%20MATLAB%20Functions.md)
