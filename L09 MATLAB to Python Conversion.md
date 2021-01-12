@@ -1,5 +1,5 @@
 # **Lesson 9: MATLAB to Python Conversion**
-This lesson work through converting a code from MATLAB into Python using a system of ODEs.
+This lesson focuses on work through converting a code from MATLAB into Python using a system of ODEs.
 
 ### **Introductory Videos**
  * None for this lesson
