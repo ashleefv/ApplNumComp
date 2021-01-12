@@ -222,4 +222,4 @@ plt.show()
 ### **Previous Lesson**
  * [L09 MATLAB to Python Conversion](/L09%20MATLAB%20to%20Python%20Conversion.md)
 ### **Next Lesson**
- * [L11 Parameter Estimation for MATLAB](/L11%20Parameter%20Estimation%20for%20MATLAB.md)
+ * [L11 Parameter Estimation in MATLAB](/L11%20Parameter%20Estimation%20in%20MATLAB.md)
