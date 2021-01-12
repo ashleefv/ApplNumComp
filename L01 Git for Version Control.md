@@ -6,15 +6,19 @@ Note: the instructions are provided for using Bitbucket as the site for hosting 
 ## **Introductory Videos**
 
 [Creating Bitbucket account](https://www.youtube.com/watch?v=3KS6TaJPeHo&feature=emb_title)
+
 [![](http://img.youtube.com/vi/3KS6TaJPeHo/0.jpg)](http://www.youtube.com/watch?v=3KS6TaJPeHo "Bitbucket Controls")
 
 [Linking to Bitbucket repositories](https://www.youtube.com/watch?v=euEwNW4v82M&feature=emb_title)
+
 [![](http://img.youtube.com/vi/euEwNW4v82M/0.jpg)](http://www.youtube.com/watch?v=euEwNW4v82M "Linking Local Folder")
 
 [Standard Git commands](https://www.youtube.com/watch?v=rfBZTlGImg8&feature=emb_title)
+
 [![](http://img.youtube.com/vi/rfBZTlGImg8/0.jpg)](http://www.youtube.com/watch?v=rfBZTlGImg8 "Daily Git Commands")
 
 [Linking to Bitbucket repositories](https://www.youtube.com/watch?v=euEwNW4v82M&feature=emb_title)
+
 [![](http://img.youtube.com/vi/euEwNW4v82M/0.jpg)](http://www.youtube.com/watch?v=euEwNW4v82M "Linking Local Folder")
 
 #### **Comprehension Check**
