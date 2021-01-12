@@ -5,6 +5,7 @@ This lesson continues the introduction of basics of MATLAB programming for scien
 ### **Introductory Videos**
 * [Learning MATLAB Functions](http://www.learningmatlab.com/videos/IndividualPages/10-Functions/FunctionsIntro.html)
 * [Publishing MATLAB Code from the Editor](https://www.youtube.com/watch?v=CWgl5Ylltxk&feature=emb_title&ab_channel=MATLAB)
+
 [![](http://img.youtube.com/vi/CWgl5Ylltxk/0.jpg)](http://www.youtube.com/watch?v=CWgl5Ylltxk "")
 
 #### **Comprehension Check**
