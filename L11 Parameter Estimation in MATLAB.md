@@ -3,8 +3,8 @@ Parameter estimation or curve fitting is the process of finding the coefficients
 This lesson covers how to use MATLAB tools for this process.
 
 ### **Introductory videos**
-* [Estimating Parameters Using Measured Data](https://www.mathworks.com/videos/estimating-parameters-of-a-dc-motor-68856.html)
-* [What is Curve Fitting Toolbox](https://www.mathworks.com/videos/curve-fitting-toolbox-overview-61198.html)
+* [Estimating parameters using measured data](https://www.mathworks.com/videos/estimating-parameters-of-a-dc-motor-68856.html)
+* [What is curve fitting toolbox](https://www.mathworks.com/videos/curve-fitting-toolbox-overview-61198.html)
 * [Using curve fitting toolbox for polynomial functions](https://www.youtube.com/watch?v=dc7YdW_3wGs&feature=emb_title&ab_channel=AnselmGriffin)
 
 [![](http://img.youtube.com/vi/dc7YdW_3wGs/0.jpg)](http://www.youtube.com/watch?v=dc7YdW_3wGs "")
@@ -30,7 +30,7 @@ This lesson covers how to use MATLAB tools for this process.
   * lsqnonlin
   * lsqcurvefit
 * [Sample code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ParamEstimExample.m)
-```matlab
+```MATLAB
 %% Parameter Estimation Example
 % ParamEstimExample.m
 
