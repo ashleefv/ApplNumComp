@@ -12,12 +12,12 @@ This lesson focuses on agent based models (ABM) and open source software.
     * [Software Testing](https://www.softwaretestinghelp.com/what-is-verification-and-validation/) has a good definition of the difference
 ### **Agent Based Models**
 * [Case study](https://github.com/ashleefv/BeeNestABM)
- * Consider ABM and explain what agent-based models are, some of their uses and powers
-  * Allow for tracking of unique items in simulation, allowing statistical analytics to be performed
+* Consider ABM and explain what agent-based models are, some of their uses and powers
+* Allow for tracking of unique items in simulation, allowing statistical analytics to be performed
 * [Introduction to ABM](https://github.com/ashleefv/ApplNumComp/blob/master/Intro%20to%20ABM.pdf)
 * ABM [Bee Example](https://github.com/ashleefv/BeeNestABM)
-* [AIChE Bee Presentation](https://github.com/ashleefv/ApplNumComp/blob/master/AIChE%20Bee%20pres%20ANFV.pdf)
- * Powerpoint that explains in further depth development and uses of the case study simulation
+  * [AIChE Bee Presentation](https://github.com/ashleefv/ApplNumComp/blob/master/AIChE%20Bee%20pres%20ANFV.pdf)
+    * Powerpoint that explains in further depth development and uses of the case study simulation
 ### **Open Source Software Examples**
 * This lesson is very focused on open source software and as a result the introductory video is more in depth to provide more power to this lesson
 * [SciPy](https://scipy.org/)
