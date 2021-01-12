@@ -6,15 +6,15 @@ This lesson focuses on sensitivity analysis, definitions, and an example walkthr
 #### **Comprehension Check**
  * None for this lesson
 ### **Introduction**
-* Definitions of Sensitvity
-* Global vs Local sensitivity
+* Definitions of sensitvity
+* Global vs local sensitivity
 * Normalization
 
 ### **Example coding walkthrough**
   * Take sample skeleton code and fill in the blanks
   * Recreate code to fulfill [sample problem](https://github.com/ashleefv/ApplNumComp/blob/master/SensitivityAnalysis.pdf)
-#### **Sample Skeleton Code**
-[Raw Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/SensitivityExampleStarting.m)
+#### **Sample skeleton code**
+[Raw code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/SensitivityExampleStarting.m)
 * Note the use of each internalized function
 ```MATLAB
   function ICPL14
@@ -76,8 +76,8 @@ a = parameters(1);
 f=
 ```
 
-####** Final Working Version**
-[Raw Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/SensitivityExample.m)
+####** Final working version**
+[Raw code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/SensitivityExample.m)
 * Note the parameters, the defined ranges and internal functions. 
 ```MATLAB
 %% Local sensitivity analysis
@@ -155,7 +155,7 @@ f=a*exp(b*x) + c*exp(d*x);
 ```
 
 ### **Additional Resources**
-* [Example of WSSR Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/WSSR_Example.m)
+* [Example of WSSR code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/WSSR_Example.m)
 
 ### **Previous Lesson**
  * [L16 Further Exploration of GUIDE in MATLAB](/L16%20Further%20Exploration%20of%20GUIDE%20in%20MATLAB.md)
