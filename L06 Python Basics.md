@@ -4,6 +4,7 @@ The lesson introduces the basics of Python programming.
 
 ### **Introductory Video**
 * [Four Ways to Run Python Code](https://www.youtube.com/watch?v=BRQ2DDpByE4&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+
 [![](http://img.youtube.com/vi/BRQ2DDpByE4/0.jpg)](http://www.youtube.com/watch?v=BRQ2DDpByE4 "")
 
 #### **Comprehension Check**
