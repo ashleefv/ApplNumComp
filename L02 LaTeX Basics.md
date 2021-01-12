@@ -5,15 +5,15 @@ This lesson focuses on LaTeX for typesetting.
 ### **Introductory Videos**
  * [LaTeX basics, figures, and math usage](https://www.youtube.com/watch?v=2SE4oedooUM&feature=emb_title)
  
- * [![](http://img.youtube.com/vi/2SE4oedooUM/0.jpg)](http://www.youtube.com/watch?v=2SE4oedooUM "LaTeX basics fig and bib")
+ [![](http://img.youtube.com/vi/2SE4oedooUM/0.jpg)](http://www.youtube.com/watch?v=2SE4oedooUM "LaTeX basics fig and bib")
 
  * [LaTeX further discussion of math](https://www.youtube.com/watch?v=6Wx8wb19wUM&feature=emb_title)
  
- * [![](http://img.youtube.com/vi/6Wx8wb19wUM/0.jpg)](http://www.youtube.com/watch?v=6Wx8wb19wUM "LaTeX basics math")
+ [![](http://img.youtube.com/vi/6Wx8wb19wUM/0.jpg)](http://www.youtube.com/watch?v=6Wx8wb19wUM "LaTeX basics math")
  
  * [LaTeX description of files](https://www.youtube.com/watch?time_continue=1&v=n2l9VYJwJK4&feature=emb_title)
  
- * [![](http://img.youtube.com/vi/n2l9VYJwJK4/0.jpg)](http://www.youtube.com/watch?v=n2l9VYJwJK4 "LaTeX files descriptions")
+ [![](http://img.youtube.com/vi/n2l9VYJwJK4/0.jpg)](http://www.youtube.com/watch?v=n2l9VYJwJK4 "LaTeX files descriptions")
  
  * [Hands-on tutorial for LaTeX](https://www.latex-tutorial.com/tutorials/)
  
