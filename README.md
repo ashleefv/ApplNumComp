@@ -51,17 +51,17 @@ A full list of recommended and optional reading materials that complement the co
   * Converting MATLAB code into Python code, using a system of ODEs
 * [L10 Python and MATLAB Plotting](/L10%20Python%20and%20MATLAB%20Plotting.md)
   * Lesson on the plotting capabilities of Python and MATLAB
-* [L11 MATLAB Parameter Estimation](/L11%20MATLAB%20Parameter%20Estimation.md)
+* [L11 MATLAB Parameter Estimation](/L11%20Parameter%20Estimation%in%20MATLAB.md)
   *  Lesson on parameter estimation with MATLAB examples
 * [L12 Advanced MATLAB Parameter Estimation](/L12%20Advanced%20MATLAB%20Parameter%20Estimation.md)
   * Lesson on further possibilities of Matlab for parameter estimation
 * [L13 Python Parameter Estimation](/L13%20Python%20Parameter%20Estimation.md)
   * Lesson on python estimation of parameters; using the same example as from Matlab session to show comparison/contrast
-* [L14 Introduction to GUIs and matlab methods for creating them](/L14%20Introduction%20to%20GUIs.md)
-  * Lesson on GUIs, their prevalence in everyday life, and an overview of the Matlab tools for creating them
-* [L15 Matlab Guide exploration](/L15%20MATLAB%20and%20GUIDE.md)
+* [L14 Introduction to GUIs and MATLAB methods for creating them](/L14%20Introduction%20to%20GUIs.md)
+  * Lesson on GUIs, their prevalence in everyday life, and an overview of the MATLAB tools for creating them
+* [L15 MATLAB and GUIDE](/L15%20MATLAB%20and%20GUIDE.md)
   * Lesson demonstrating the power of guide, how to design callbacks and walkthrough of a sample GUI
-* [L16 Matlab Guide live walkthrough](/L16%20Further%20exploration%20of%20GUIDE%20in%20MATLAB.md)
+* [L16 Further Eploration of GUIDE in MATLAB](/L16%20Further%20Exploration%20of%20GUIDE%20in%20MATLAB.md)
   * Lesson demonstrating and live walkthrough of editing an app within guide
 * [L17 Sensitivity Analysis in Matlab](/L17%20Sensitivity%20Analysis.md)
   * Lesson on sensitivity analysis, and how to code this within Matlab
@@ -69,7 +69,7 @@ A full list of recommended and optional reading materials that complement the co
   * Lesson on publication quality images in MATLAB and Python, how to create and export them, and examples of publications using them, as well as description of JOSS
 * [L19 Python GUIs](/L19%20GUIs%20in%20Python.md)
   * Lesson on Python GUIs, PyQt5, and creation or utilization thereof.
-* [L20 Validation, Verification, and ABM](/L20%20Validation%20and%20Verification%20of%20ABM.md)
+* [L20 Validation and Verification](/L20%20Validation%20and%20Verification.md)
   * Lesson on Verification, Validation, and Agent Based Modeling introduction
 * [L21 ABM and Open Source Software Examples](/L21%20Agent%20Based%20Modeling%20and%20Open%20Source%20Software.md)
   * Lesson focusing on further explanations of ABM, as well as a variety of tools and examples of open source software, as well as introduction to JOSS 
