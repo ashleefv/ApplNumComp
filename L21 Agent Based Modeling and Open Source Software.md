@@ -2,7 +2,7 @@
 This lesson focuses on agent based models (ABM) and open source software.
 
 ### **Introductory Videos**
- * [Examples of open Ssurce software](https://www.youtube.com/watch?v=60tMapC53Sw&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+ * [Examples of open source software](https://www.youtube.com/watch?v=60tMapC53Sw&feature=emb_title&ab_channel=AshleeN.FordVersypt)
     * [![](http://img.youtube.com/vi/60tMapC53Sw/0.jpg)](http://www.youtube.com/watch?v=60tMapC53Sw "")
 #### **Comprehension Check**
    * Do you have any experience with validation or verification of computer models?
