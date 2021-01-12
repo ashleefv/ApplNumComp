@@ -24,6 +24,6 @@ This lesson focuses on GUI examples within MATLAB, exploring the capabilities of
 * None for this lesson
 
 ### **Previous Lesson**
- * [L15 MATLAB and GUIDE](/L15%20MATLAB%20and%20GUIDE.md)
+ * [L15 GUI Examples in MATLAB](/L15%20MATLAB%20and%20GUIDE.md)
 ### **Next Lesson**
  * [L17 Sensitivity Analysis](/L17%20Sensitivity%20Analysis.md)
