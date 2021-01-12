@@ -4,7 +4,7 @@ This lesson introduces this topic and an overview of the MATLAB functionality in
 
 ### **Introductory videos**
  * [Introduction to Graphical User Interfaces](https://www.youtube.com/watch?v=XIGSJshYb90&feature=emb_title&ab_channel=CrashCourse)
- * [![](http://img.youtube.com/vi/XIGSJshYb90/0.jpg)](http://www.youtube.com/watch?v=XIGSJshYb90 "")
+[![](http://img.youtube.com/vi/XIGSJshYb90/0.jpg)](http://www.youtube.com/watch?v=XIGSJshYb90 "")
 #### **Comprehension Check**
  * Based on your understanding of the video, what are examples of common graphical user interfaces (GUIs) that you use on a regular   basis for non-scientific applications?
 ### **Introduction to GUIs**
