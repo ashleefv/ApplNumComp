@@ -14,6 +14,7 @@ This lesson focuses on validation and verification.
       * Verification ensures model is useful beyond the data used to develop it.
   * Case Studies
     * [Reading 9](/RecommendedReading.md) has some very good examples
+    * [Disseration Chapters on Validation and Verification](https://www.sciencedirect.com/science/article/abs/pii/S0168365912007353?via%3Dihub)
 
 ### **Additional Resources**
 * None for this lesson
