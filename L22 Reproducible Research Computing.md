@@ -1,5 +1,5 @@
 # **Lesson 22: Reproducible Research Computing**
-This lesson focuses on reproducting research computing.
+This lesson focuses on reproducible research computing.
 
 ### **Introductory Videos**
  * [Discussion of Reproducible Research For Computing Readings](https://www.youtube.com/watch?v=j25h5oeCzCk&feature=emb_title&ab_channel=AshleeN.FordVersypt)
