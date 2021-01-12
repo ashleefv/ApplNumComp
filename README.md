@@ -55,7 +55,7 @@ A full list of recommended and optional reading materials that complement the co
   *  Lesson on parameter estimation with MATLAB examples
 * [L12 Advanced Parameter Estimation in MATLAB](/L12%20Advanced%20MATLAB%20Parameter%20Estimation.md)
   * Lesson on further capabilities of MATLAB for parameter estimation
-* [L13 Parameter Estimation in Python](/L13%20Parameter%20Estimation%20%20Python.md)
+* [L13 Parameter Estimation in Python](/L13%20Parameter%20Estimation%20in%20Python.md)
   * Lesson on parameter estimatation with Python examples
 * [L14 Introduction to GUIs and MATLAB methods for creating them](/L14%20Introduction%20to%20GUIs.md)
   * Lesson on GUIs, their prevalence in everyday life, and an overview of the MATLAB tools for creating them
