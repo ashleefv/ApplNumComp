@@ -7,7 +7,7 @@ This lesson covers how to use Python tools for this process.
 
 #### **Comprehension Check**
    * None for this lesson
-### **Python Plotting Example**
+### **Python plotting example**
 * Working [example](https://github.com/ashleefv/ApplNumComp/blob/master/Lecture%2014%20Examples.pdf) together
     * This is the same example from [lecture 14](https://github.com/ashleefv/ApplNumComp/blob/master/L12:%20Parameter%20Estimation%20for%20Matlab.md) , but now in Python.
 
@@ -203,7 +203,7 @@ plt.show()
 ```
 
 ### **Additional Resources**
-* [Python Curve Fitting tools](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html)
+* [Python curve fitting tools](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html)
 
 ### **Previous Lesson**
  * [L12 Advanced Parameter Estimation for MATLAB](/L12%20Advanced%20Parameter%20Estimation%20in%20MATLAB.md)
