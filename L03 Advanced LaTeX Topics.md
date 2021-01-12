@@ -1,21 +1,21 @@
 # **Lesson 3: Advanced LaTeX Topics**
 
-This lesson focuses on LaTeX topics, specifically for writing papers and theses/dissertations
+This lesson focuses on LaTeX topics, specifically for writing papers, theses and dissertations
 
 ### **Introductory videos**
- * [LaTeX Templates Thesis and Dissertation Examples](https://www.youtube.com/watch?v=gHp1IWxEink&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+ * [LaTeX templates thesis and dissertation examples](https://www.youtube.com/watch?v=gHp1IWxEink&feature=emb_title&ab_channel=AshleeN.FordVersypt)
    
    [![](http://img.youtube.com/vi/gHp1IWxEink/0.jpg)](http://www.youtube.com/watch?v=gHp1IWxEink "")
  
- * [LaTeX Templates Elsevier Example](https://www.youtube.com/watch?v=vO9O7Nuk0XM&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+ * [LaTeX templates Elsevier example](https://www.youtube.com/watch?v=vO9O7Nuk0XM&feature=emb_title&ab_channel=AshleeN.FordVersypt)
    
    [![](http://img.youtube.com/vi/vO9O7Nuk0XM/0.jpg)](http://www.youtube.com/watch?v=vO9O7Nuk0XM "")
  
- * [LaTeX Templates PLOS One Example](https://www.youtube.com/watch?v=2IpdTQhj6cg&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+ * [LaTeX templates PLOS One example](https://www.youtube.com/watch?v=2IpdTQhj6cg&feature=emb_title&ab_channel=AshleeN.FordVersypt)
    
    [![](http://img.youtube.com/vi/2IpdTQhj6cg/0.jpg)](http://www.youtube.com/watch?v=2IpdTQhj6cg "")
  
- * [LaTeX activity Solutions](https://www.youtube.com/watch?v=KSrDadBdp7w&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+ * [LaTeX activity solutions](https://www.youtube.com/watch?v=KSrDadBdp7w&feature=emb_title&ab_channel=AshleeN.FordVersypt)
   
    [![](http://img.youtube.com/vi/KSrDadBdp7w/0.jpg)](http://www.youtube.com/watch?v=KSrDadBdp7w "")
 
@@ -23,7 +23,7 @@ This lesson focuses on LaTeX topics, specifically for writing papers and theses/
 * For a scientific journal in your field, perform an internet search to find the link to an online .tex template or instructions for using a TeX template . If you're not familiar with any scientific journals yet, try "tex template _____ journal"  ____ 
 Download the template you found and look through the .tex file like Dr. Ford Versypt does in the LaTeX Templates PLoS Example video. What are some of the similarities? Differences?
 
-### **LaTeX Advantages for longer and technical documents**
+### **LaTeX advantages for longer and technical documents**
 * Version Control
 * Integration of Templates for conferences, publishers, additional universities
 * File size reduction- 256 pg thesis is only 2.9 MG
