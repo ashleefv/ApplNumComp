@@ -15,6 +15,7 @@ This lesson focuses on basic MATLAB functionality.
 * MATLAB installation- activate a code through [Mathworks](https://www.mathworks.com/academia.html), some institutions have access 
 * If you can get access, download and install. If not, once you purchase an access code or activate one through an institution, you can use [MATLAB online](https://matlab.mathworks.com/)  
 * [MATLAB Coding Best Practices](https://www.youtube.com/watch?v=ThDNl4m7GsI&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+
 [![](http://img.youtube.com/vi/ThDNl4m7GsI/0.jpg)](http://www.youtube.com/watch?v=ThDNl4m7GsI "")
 
 #### **Comprehension Check**
