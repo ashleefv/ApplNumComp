@@ -6,10 +6,15 @@ This lesson covers how to use MATLAB tools for this process.
 * [Estimating Parameters Using Measured Data](https://www.mathworks.com/videos/estimating-parameters-of-a-dc-motor-68856.html)
 * [What is Curve Fitting Toolbox](https://www.mathworks.com/videos/curve-fitting-toolbox-overview-61198.html)
 * [Using curve fitting toolbox for polynomial functions](https://www.youtube.com/watch?v=dc7YdW_3wGs&feature=emb_title&ab_channel=AnselmGriffin)
+
 [![](http://img.youtube.com/vi/dc7YdW_3wGs/0.jpg)](http://www.youtube.com/watch?v=dc7YdW_3wGs "")
+
 * [Using polyfit and curve fitting toolbox](https://www.youtube.com/watch?v=NsT5BAofRN0&feature=emb_title&ab_channel=LearnChemE)
+
 [![](http://img.youtube.com/vi/NsT5BAofRN0/0.jpg)](http://www.youtube.com/watch?v=NsT5BAofRN0 "")
+
 * [Using lsqcurvefit for simple functions](https://www.youtube.com/watch?v=kXAtvLHJAus&feature=emb_title&ab_channel=FreeSource)
+
 [![](http://img.youtube.com/vi/kXAtvLHJAus/0.jpg)](http://www.youtube.com/watch?v=kXAtvLHJAus "")
 
 #### **Comprehension Check**
