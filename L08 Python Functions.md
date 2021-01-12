@@ -11,10 +11,10 @@ This lesson introduces built-in Python functions for common classes of numerical
 #### **Comprehension Check**
   * Find the Python documentation for fsolve. Share the link
 ### **Optimization Functions**
-* [Scipy Linalg Solver](https://docs.scipy.org/doc/scipy/reference/generated/scipy.linalg.solve.html
+* [Scipy linalg solver](https://docs.scipy.org/doc/scipy/reference/generated/scipy.linalg.solve.html
 * Systems of linear equations: scipy.linalg.solve function
   * backlash equivalent: solve
-* [Scipy Linalg optimize](https://docs.scipy.org/doc/scipy-0.13.0/reference/optimize.html)
+* [Scipy linalg optimize](https://docs.scipy.org/doc/scipy-0.13.0/reference/optimize.html)
 * Optimization functions: use scipy.optimize package for all of the following functions
   * Solving nonlinear equations
     * fzero equivalents: brenq, brenth, ridder, bisect, newton
@@ -24,7 +24,7 @@ This lesson introduces built-in Python functions for common classes of numerical
   * General optimization (minimization)
     * fminsearch equivalents: fmin, fmin_powell, fmin_cg, fmin_bfgs, fmin_ncg
     * fmincon equivalents: fmin_cobyla, fmin_tinc
-* [Scipy Integrate](https://docs.scipy.org/doc/scipy/reference/integrate.html)
+* [Scipy integrate](https://docs.scipy.org/doc/scipy/reference/integrate.html)
 * Numerical integration: use scipy.integrate package for all of the following functions
   * quad (integral) equivalent: quad
   * trapz equivalent (relies on sampled data, not a function formula): numpy.trapz and scipy.optimize.simps
@@ -32,9 +32,9 @@ This lesson introduces built-in Python functions for common classes of numerical
   * odeint: uses lsoda from FORTRAN library odepack for stiff or non-stiff systems with Adams and BDF algorithms
   * ode: allows for integrator algorithm to be explicitly specified
   * Newer functions for RK23 and RK45
-    * ODE Python Example
-    * [Core Python File](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/L9_odeint_example.py)
-```python
+    * ODE Python example
+    * [Core Python file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/L9_odeint_example.py)
+```Python
 import numpy as np
 from scipy.integrate import odeint
 import matplotlib.pyplot as plt
@@ -88,10 +88,10 @@ plt.show()
 ```
 ![Expected Graph](/Lesson_images/figure_L8.png)
  * [Default values in Python](https://docs.python.org/3.7/tutorial/controlflow.html#more-on-defining-functions)
- * [Python for Loops](https://www.codementor.io/@sheena/python-generators-and-iterators-du1082iua)
+ * [Python for loops](https://www.codementor.io/@sheena/python-generators-and-iterators-du1082iua)
   * More capabilities than MATLAB for loops using iterators and iterables
 ### **Additional Resources**
-* [Python Modules](https://docs.python.org/3/tutorial/modules.html)
+* [Python modules](https://docs.python.org/3/tutorial/modules.html)
 
 ### **Previous Lesson**
  * [L07 MATLAB Functions](/L07%20MATLAB%20Functions.md)
