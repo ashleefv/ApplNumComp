@@ -83,4 +83,4 @@ if __name__ == "__main__":
 ### **Previous Lesson**
  * [L18 Publication Quality Figures in MATLAB and Python](/L18%20Publication%20Quality%20Figures%20in%20MATLAB%20and%20Python.md)
 ### **Next Lesson**
- * [L20 Validation and Verification](/L20%20Validation%20and%20Verification%20of%20ABM.md)
+ * [L20 Validation and Verification](/L20%20Validation%20and%20Verification.md)
