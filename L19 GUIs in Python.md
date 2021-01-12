@@ -7,7 +7,7 @@ This lesson focuses on developing GUIs in Python using the PyQt5 tool via QtDesi
   
  [![](http://img.youtube.com/vi/Vde5SH8e1OQ/0.jpg)](http://www.youtube.com/watch?v=Vde5SH8e1OQ "")
 
-* [QtDesigner Demo](https://www.youtube.com/watch?v=FVpho_UiDAY&feature=emb_title&ab_channel=TechWithTim)
+* [QtDesigner demo](https://www.youtube.com/watch?v=FVpho_UiDAY&feature=emb_title&ab_channel=TechWithTim)
 
 [![](http://img.youtube.com/vi/FVpho_UiDAY/0.jpg)](http://www.youtube.com/watch?v=FVpho_UiDAY "")
 #### **Comprehension Check**
@@ -24,7 +24,7 @@ This lesson focuses on developing GUIs in Python using the PyQt5 tool via QtDesi
     * Pyqt
 ### **PyQt5 Tutorial**
   * [Starting Point Code for PyQt5](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PythonGUIexample.py)
-```python
+```Python
 import sys
 from PyQt5 import QtCore, QtGui, QtWidgets, uic
 
@@ -46,7 +46,7 @@ if __name__ == "__main__":
     sys.exit(app.exec_())
 ```
 * Starting point for QtDesigner example- walkthrough
-```python
+```Python
 import sys
 from PyQt5 import QtCore, QtGui, QtWidgets, uic
 from decimal import Decimal
@@ -76,7 +76,7 @@ if __name__ == "__main__":
     sys.exit(app.exec_())
 ```
 ### **Resources for Python PyQt5**
-* [PyQt5 Tutorial](http://zetcode.com/gui/pyqt5/)
+* [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/)
 * [Converting .ui to  .py from command prompt](https://www.codementor.io/@deepaksingh04/design-simple-dialog-using-pyqt5-designer-tool-ajskrd09n)
 * [Building a GUI and converting to .py file](http://projects.skylogic.ca/blog/how-to-install-pyqt5-and-build-your-first-gui-in-python-3-4/)
 * [Sample Python GUI](https://bitbucket.org/ashleefv/checlassfa20/src/master/GUI%20examples/Python/)
