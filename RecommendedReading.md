@@ -283,7 +283,7 @@ software libraries successful? Comp Sci Discovery, 6:015010, 2013.
 
 [43] V. Stodden and S. Miguez. Best practices for computational science:
 software infrastructure and environments for reproducible and extensible
-research.J Open Res Software, 2:e21, 2014.
+research. J Open Res Software, 2:e21, 2014.
 
 [44] O. Woodford. exportfig: A MATLAB toolbox for exporting publication
 quality figures, 2013 (accessed November 12, 2016). https://github.
