@@ -3,7 +3,7 @@
 This lesson introduces methods and commands for 2D and 3D plotting in Python and MATLAB, as well as how to use them.
 
 ### **Introductory videos**
- * [Plotting Examples](https://www.youtube.com/watch?v=Pykrn0DpesA&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+ * [Plotting examples](https://www.youtube.com/watch?v=Pykrn0DpesA&feature=emb_title&ab_channel=AshleeN.FordVersypt)
   
  [![](http://img.youtube.com/vi/Pykrn0DpesA/0.jpg)](http://www.youtube.com/watch?v=Pykrn0DpesA "")
 * [Example Python figures](https://matplotlib.org/gallery/index.html)
@@ -11,21 +11,21 @@ This lesson introduces methods and commands for 2D and 3D plotting in Python and
 #### **Comprehension Check**
   * Find an example of common type of 2D or 3D visualization from your research or science, engineering, or mathematics coursework. Include an image of the example as a file upload (common image file formats like .png or .jpg preferable) 
   * Browse through the MATLAB and Python example galleries. Which type, if any, of the examples are similar to visualization example you found for question 1?
-    * [Python Gallery](https://matplotlib.org/gallery/index.html)
-    * [MATLAB Gallery](https://www.mathworks.com/help/matlab/examples.html?category=graphics&s_tid=CRUX_topnav)
+    * [Python gallery](https://matplotlib.org/gallery/index.html)
+    * [MATLAB gallery](https://www.mathworks.com/help/matlab/examples.html?category=graphics&s_tid=CRUX_topnav)
 
 
 ### **Python Plotting**
-[Raw Python File](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PlotExamples.py)
+[Raw Python file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PlotExamples.py)
 * Python uses 
-```python
+```Python
 import matplotlib.pyplot as plt
 ```
 to access style functions similar to Matlab
 
 * Python example code for plotting
 * Demonstrating Python's ability to subplot/create tiles for multiple graphs in a single window. 
-```python
+```Python
 # -*- coding: utf-8 -*-
 """
 Created on Wed Sep 12 09:00:32 2018
@@ -67,7 +67,7 @@ plt.show()
 ![Expected Graph 2](/Lesson_images/Figure2_L10.png)
 ![Expected Graph 3](/Lesson_images/Figure3_L10.png)
 
-### **MATLAB Plotting**
+### **MATLAB plotting**
 * Working example 
 * Note: in MATLAB, to plot Y vs. X plot(x,y)
 * Work through several plotting examples sequentially, increasing complexity with each graph, debugging.
@@ -136,7 +136,7 @@ errorbar(x,Y(1,:),Yerror(1,:))
 ![Expected Graph 4](/Lesson_images/Figure4_L10.jpg)
 ![Expected Graph 5](/Lesson_images/Figure5_L10.jpg)
 * Another example of MATLAB plotting functionalities
-[Raw MATLAB Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/PlotExamples.m)
+[Raw MATLAB code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/PlotExamples.m)
 ```MATLAB
 x = [1, 2, 3, 4];
 y = [1, 4, 9, 16];
@@ -218,9 +218,9 @@ legend('t vs. t','t^2 vs. t','t^3 vs. t','location','best')
 
 ```
 ### **Additional Resources**
-* [MATLAB Graphics Documentation](https://www.mathworks.com/help/matlab/graphics.html)
-* [Python Graphics Documentation](https://matplotlib.org/)
-* [MATLAB Line specifications](https://www.mathworks.com/help/matlab/ref/linespec.html)
+* [MATLAB graphics documentation](https://www.mathworks.com/help/matlab/graphics.html)
+* [Python graphics documentation](https://matplotlib.org/)
+* [MATLAB line specifications](https://www.mathworks.com/help/matlab/ref/linespec.html)
 * [MATLAB default color order](http://math.loyola.edu/~loberbro/matlab/html/colorsInMatlab.html)
 
 ### **Previous Lesson**
