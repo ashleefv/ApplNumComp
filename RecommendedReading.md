@@ -1,5 +1,5 @@
 # Applied Numerical Computing Recommended Reading
-
+* Citations for the readings are located at the bottom of the page.
 ## Reading 1
 
 This section focuses on LATEX and computational science and engineering. The readings provide background and overview information.
@@ -53,7 +53,7 @@ Additional Resources
 * Optional Reading 4.4: Brief recommendations on when to use each of the MATLAB ODE solvers [14, p. 210–211] [DOI](https://doi.org/10.1137/1.9780898717952)
 * MATLAB website documentation for numerical integration and differential equations: http://www.mathworks.com/help/matlab/numerical-integration-and-differential-equations.html
 * SciPy website documentation for scipy.integrate subpackage: http://docs.scipy.org/doc/scipy/reference/tutorial/integrate.html
-* Theory of numerical methods with MATLAB examples [14][DOI](https://doi.org/10.1137/1.9780898717952)
+* Theory of numerical methods with MATLAB examples [14] [DOI](https://doi.org/10.1137/1.9780898717952)
 * Theory of numerical methods with Python examples [15] [DOI](https://doi.org/10.1017/CBO9781139523899)
 
 ## Reading 5
@@ -138,162 +138,167 @@ ISBN-10: 1118888316](http://faculty.washington.edu/finlayso/ebook/Intro_Ch_E.pdf
 ## References
 
 [1] Software Carpentry Foundation. Modern Scientific Authoring: The 
-Mess We’re In, 2016 (accessed August 15, 2016). http://swcarpentry.github.io/modern-scientific-authoring/01-mess/
+Mess We’re In, 2016 (accessed August 15, 2016). http://swcarpentry.github.io/modern-scientific-authoring/01-mess/ [link](http://swcarpentry.github.io/modern-scientific-authoring/01-mess/)
 
 [2] A. K. Hartmann. Big Practical Guide to Computer Simulations. World
-Scientific, Hackensack, NJ, 2nd edition, 2015.
+Scientific, Hackensack, NJ, 2nd edition, 2015. [DOI](https://doi.org/10.1142/9019)
 
 [3] S. I. Gordon and B. Guilfoos. Introduction to Modeling and Simulation
-with MATLAB and Python. CRC Press, Boca Raton, FL, 2017.
+with MATLAB and Python. CRC Press, Boca Raton, FL, 2017. [DOI](https://doi.org/10.1201/9781315151748)
 
 [4] G. Wilson, D. A. Aruliah, C. T. Brown, N. P. C. Hong, M. Davis, R. T.
 Guy, S. H. D. Haddock, K. D. Huff, I. M. Mitchell, M. D. Plumbley,
 B. Waugh, E. P. White, and P. Wilson. Best Practices for Scientific
-Computing. PLOS Biology, 12:e1001745, 2014.
+Computing. PLOS Biology, 12:e1001745, 2014. [DOI](https://doi.org/10.1142/9019)
 
 [5] J. M. Osborne, M. O. Bernabeu, M. Bruna, B. Calderhead, J. Cooper,
 N. Dalchau, S.-J. Dunn, A. G. Fletcher, R. Freeman, D. Groen,
 B. Knapp, G. J. McInerny, G. R. Mirams, J. Pitt-Francis, B. Sengupta,
 D. W. Wright, C. A. Yates, D. J. Gavaghan, S. Emmott, and C. Deane.
-Ten Simple Rules for Effective Computational Research. PLOS Computational Biology, 10:e1003506, 2014.
+Ten Simple Rules for Effective Computational Research. PLOS Computational Biology, 10:e1003506, 2014. [DOI](https://doi.org/10.1371/journal.pcbi.1003506)
 
 [6] H. Fangohr. Introduction to Python for Computational Science and
 Engineering: A beginner’s guide, 2015 (accessed August 22, 2016).
 http://www.southampton.ac.uk/~fangohr/training/python/pdfs/
-Python-for-Computational-Science-and-Engineering.pdf.
+Python-for-Computational-Science-and-Engineering.pdf. [DOI](10.5281/zenodo.1411868)
 
 [7] B. Ekmekci, C. E. McAnany, and C. Mura. An introduction to programming for bioscientists: A Python-based primer. PLOS Computational
-Biology, 12:e1004867, 2016.
+Biology, 12:e1004867, 2016. [DOI](https://doi.org/10.1371/journal.pcbi.1004867)
 
 [8] J. M. Kinder and P. Nelson. A Student’s Guide to Python for Physical
-Modeling. Princeton University Press, Princeton, NJ, 2015.
+Modeling. Princeton University Press, Princeton, NJ, 2015. [ISBN: 0691169586, 9780691169583](https://press.princeton.edu/books/paperback/9780691180571/a-students-guide-to-python-for-physical-modeling)
 
 [9] T. Hall and J-P Stacey. Python 3 for Absolute Beginners. Springer, New
-York, 2009.
+York, 2009. [DOI](https://doi.org/10.1007/978-1-4302-1633-9)
 
 [10] G. Walters. The Python Quick Syntax Reference. Springer, New York,
-2014.
+2014. [DOI](https://doi.org/10.1007/978-1-4302-6479-8)
 
 [11] H. Fangohr. A comparison of C, MATLAB and Python as teaching
 languages in engineering. Lecture Notes on Computational Science,
-3039:1210–1217, 2004.
+3039:1210–1217, 2004. [DOI](https://doi.org/10.1007/978-3-540-25944-2_157)
 
 [12] B. A. Finlayson.Introduction to Chemical Engineering Computing. Wi-
-ley, Hoboken, NJ, 2nd edition, 2014.
+ley, Hoboken, NJ, 2nd edition, 2014. [ISBN: ISBN-13: 978-1118888315
+ISBN-10: 1118888316](http://faculty.washington.edu/finlayso/ebook/Intro_Ch_E.pdf)
 
 [13] D. J. Higham and N. J. Higham.MATLAB Guide. Society for Industrial
-and Applied Mathematics, Philadelphia, 2nd edition, 2005.
+and Applied Mathematics, Philadelphia, 2nd edition, 2005. [ISBN:ISBN-13: 978-0898715781
+ISBN-10: 0898715784](http://www.ma.man.ac.uk/~higham/mg2/)
 
 [14] C. B. Moler.Numerical Computing with MATLAB. Society for Indus-
-trial and Applied Mathematics, Philadelphia, 2004.
+trial and Applied Mathematics, Philadelphia, 2004. [DOI](https://doi.org/10.1137/1.9780898717952)
 
 [15] J. Kiusalaas. Numerical Methods in Engineering with Python. Cam-
-bridge University Press, New York, 2005.
+bridge University Press, New York, 2005. [DOI](https://doi.org/10.1017/CBO9781139523899)
 
 [16] SciPy.org. What is NumPy?—NumPy v1.11 Manual, 2016 (accessed
 September 15, 2016). [http://docs.scipy.org/doc/numpy/user/](http://docs.scipy.org/doc/numpy/user/)
-whatisnumpy.html.
+whatisnumpy.html. [Link](https://docs.scipy.org/doc/numpy-1.11.0/user/index.html)
 
 [17] SciPy.org. Quickstart tutorial—NumPy v1.11 Manual, 2016 (accessed
 September 15, 2016). [http://docs.scipy.org/doc/numpy/user/](http://docs.scipy.org/doc/numpy/user/)
-quickstart.html.
+quickstart.html. [Link]([http://docs.scipy.org/doc/numpy/user/](http://docs.scipy.org/doc/numpy/user/)
 
 [18] SciPy.org. Numpy for Matlab users—NumPy v1.11 Manual, 2016
 (accessed September 15, 2016). [http://docs.scipy.org/doc/](http://docs.scipy.org/doc/)
-numpy-dev/user/numpy-for-matlab-users.html.
+numpy-dev/user/numpy-for-matlab-users.html. [Link](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
 
 [19] SciPy.org. Introduction—SciPy v0.18.0 Reference Guide, 2016 (ac-
 cessed September 15, 2016). [http://docs.scipy.org/doc/scipy/](http://docs.scipy.org/doc/scipy/)
-reference/tutorial/general.html.
+reference/tutorial/general.html. [Link](https://docs.scipy.org/doc/scipy/reference/tutorial/general.html)
 
 [20] SciPy.org.Integration (scipy.integrate)—SciPy v0.18.0 Reference Guide,
-2016 (accessed September 15, 2016). [http://docs.scipy.org/doc/](http://docs.scipy.org/doc/scipy/reference/tutorial/integrate.html).
+2016 (accessed September 15, 2016). [http://docs.scipy.org/doc/](http://docs.scipy.org/doc/scipy/reference/tutorial/integrate.html). [Link](https://docs.scipy.org/doc/scipy/reference/tutorial/integrate.html)
 
 [21] SciPy.org. Optimization (scipy.optimize)—SciPy v0.18.0 Reference
 Guide, 2016 (accessed September 15, 2016). http://docs.scipy.org/
-doc/scipy/reference/tutorial/optimize.html.
+doc/scipy/reference/tutorial/optimize.html. [Link](https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html)
 
 [22] C. Cobelli and E. Carson. Introduction to Modeling in Physiology and
-Medicine. Academic Press, New York, 2008.
+Medicine. Academic Press, New York, 2008. [ISBN:eBook ISBN: 9780080559988](https://www.elsevier.com/books/introduction-to-modeling-in-physiology-and-medicine/cobelli/978-0-12-160240-6)
 
 [23] DiStefano III, J. Dynamic Systems Biology Modeling and Simulation.
-Academic Press, New York, 2014.
+Academic Press, New York, 2014. [ISBN:eBook ISBN: 9780124104938](https://www.elsevier.com/books/dynamic-systems-biology-modeling-and-simulation/distefano-iii/978-0-12-410411-2)
 
 [24] D. M. Hamby. Review of techniques for parameter sensitivity analysis
 of environmental models. Environmental Monitoring and Assessment,
-32:135–154, 1994.
+32:135–154, 1994. [DOI](https://doi.org/10.1007/BF00547132)
 
-[25] Huang, Q. Sensitivity Analysis in Biological Modelling, 2012 (accessed October 3, 2016). [http://www.math.ualberta.ca/~hwang/](http://www.math.ualberta.ca/~hwang/sensitivity).
+[25] Huang, Q. Sensitivity Analysis in Biological Modelling, 2012 (accessed October 3, 2016). [http://www.math.ualberta.ca/~hwang/](http://www.math.ualberta.ca/~hwang/sensitivity). [Link](http://www.math.ualberta.ca/~hwang/sensitivity)
+
 [26] M. P. R. Haaker and P. J. T. Verheijen. Local and global sensitivity
 analysis for a reactor design with parameter uncertainty. Transactions
-of IChemE, 82:591–598, 2004.
+of IChemE, 82:591–598, 2004.  [DOI](https://doi.org/10.1205/026387604323142630)
 
 [27] S. Marino, I. B. Hogue, C. J. Ray, and D. E. Kirschner. A methodology
 for performing global uncertainty and sensitivity analysis in systems
-biology. Journal of Theoretical Biology, 254:178–196, 2008.
+biology. Journal of Theoretical Biology, 254:178–196, 2008. [DOI] (https://doi.org/10.1016/j.jtbi.2008.04.011)
 
-[28] Kirschner, D. Uncertainty and Sensitivity Analysis, 2018 (accessed October 3, 2016).http://malthus.micro.med.umich.edu/lab/usadata/.
+[28] Kirschner, D. Uncertainty and Sensitivity Analysis, 2018 (accessed October 3, 2016).http://malthus.micro.med.umich.edu/lab/usadata/. [Link](http://malthus.micro.med.umich.edu/lab/usadata/)
 
 [29] M. Ashworth, R. Allan, C. Mller, H. van Dam, W. Smith,
 D. Hanlon, B. Searly, and A. Sunderland. Graphical user environments for scientific computing, 2003 (accessed October 16,
 2016). [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.)
-1.1.126.9252&rep=rep1&type=pdf.
+1.1.126.9252&rep=rep1&type=pdf. [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.9252&rep=rep1&type=pdf)
 
 [30] C. S. Lent. Learning to Program with MATLAB: Building GUI Tools.
-Wiley, Hoboken, NJ, 2013.
+Wiley, Hoboken, NJ, 2013. [ISBN: ISBN: 978-0-470-93644-3](https://www.wiley.com/en-us/Learning+to+Program+with+MATLAB%3A+Building+GUI+Tools-p-9780470936443)
 
 [31] PythonProgramming. Object Oriented Programming Crash
 Course with Tkinter: Learning OOP with Python 3, 2014 (accessed October 16, 2016). https://pythonprogramming.net/
-object-oriented-programming-crash-course-tkinter/.
+object-oriented-programming-crash-course-tkinter/. [Link](https://pythonprogramming.net/object-oriented-programming-crash-course-tkinter/)
 
 [32] MathWorks. App Building, 2016 (accessed October 16, 2016). https:
-//www.mathworks.com/help/matlab/gui-development.html.
+//www.mathworks.com/help/matlab/gui-development.html. [Link](https:
+//www.mathworks.com/help/matlab/gui-development.html)
 
 [33] Tutorials Point. PyQt: Python Binding, 2015 (accessed October 16,
-2016).https://www.tutorialspoint.com/pyqt/pyqt_tutorial.pdf.
+2016).https://www.tutorialspoint.com/pyqt/pyqt_tutorial.pdf. [Link](https://www.tutorialspoint.com/pyqt/pyqt_tutorial.pdf)
+
 
 [34] P. J. Roache. Verification of codes and calculations. AIAA Journal,
-36(5):696–702, 1998.
+36(5):696–702, 1998. [DOI](https://doi.org/10.2514/2.457)
 
 [35] F. M. Hemez and J. R. Kamm. A brief overview of the state-of-the-
 practice and current challenges in solution verification. In F. Graziani,
-editor, Computational Methods in Transport: Verification and Validation, pages 229–250. Springer-Verlag, Berlin, 2008.
+editor, Computational Methods in Transport: Verification and Validation, pages 229–250. Springer-Verlag, Berlin, 2008. [DOI](https://doi.org/10.1007/978-3-540-77362-7_10)
 
 [36] A. N. Ford Versypt. Modeling of Controlled-Release Drug Delivery from
 Autocatalytically Degrading Polymer Microspheres. PhD thesis, Urbana,
-IL, 2012.
+IL, 2012. [DOI](https://doi.org/10.1016/j.jconrel.2012.10.015)
 
 [37] L. A. Barba. Terminologies for reproducible research.arXiv, 1802.03311,
-2018.
+2018. [Link](https://arxiv.org/abs/1802.03311)
 
 [38] Yale Law School Roundtable on Data and Code Sharing. Reproducible
-research: Addressing the need for data and code sharing in computational science. Comput Sci Eng, 12:8–12, 2010.
+research: Addressing the need for data and code sharing in computational science. Comput Sci Eng, 12:8–12, 2010. [DOI](https://doi.org/10.1109/MCSE.2010.113)
 
 [39] A. Prlic and J. B. Procter. Ten simple rules for the open development
-of scientific software. PLOS Comput Biol, 8:e1002802, 2012.
+of scientific software. PLOS Comput Biol, 8:e1002802, 2012. [DOI](https://doi.org/10.1371/journal.pcbi.1002802)
 
-[40] S. R. Piccolo and M. B. Frampton. Tools and techniques for computational reproducibility. GigaScience, 5:30, 2016.
+[40] S. R. Piccolo and M. B. Frampton. Tools and techniques for computational reproducibility. GigaScience, 5:30, 2016. [DOI](https://doi.org/10.1186/s13742-016-0135-4)
 
 [41] W. Bangerth and T. Heister. What makes computational open source
-software libraries successful? Comp Sci Discovery, 6:015010, 2013.
+software libraries successful? Comp Sci Discovery, 6:015010, 2013. [Link](https://iopscience.iop.org/article/10.1088/1749-4699/6/1/015010/meta)
 
 [42] R. D. Peng. Reproducible research in computational science. Science,
-334:1226–1227, 2011.
+334:1226–1227, 2011. [DOI](https://doi.org/10.1126/science.1213847)
 
 [43] V. Stodden and S. Miguez. Best practices for computational science:
 software infrastructure and environments for reproducible and extensible
-research. J Open Res Software, 2:e21, 2014.
+research. J Open Res Software, 2:e21, 2014. [DOI](http://doi.org/10.5334/jors.ay) 
 
 [44] O. Woodford. exportfig: A MATLAB toolbox for exporting publication
 quality figures, 2013 (accessed November 12, 2016). https://github.
-com/altmany/export\_fig.
+com/altmany/export\_fig. [Link](https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig)
 
-[45] Liu, Y. mpltex: A tool for creating publication quality plots, 2014 (accessed November 12, 2016).http://ngpy.org/2014/09/mpltex/.
+[45] Liu, Y. mpltex: A tool for creating publication quality plots, 2014 (accessed November 12, 2016).http://ngpy.org/2014/09/mpltex/. [Link](https://github.com/liuyxpp/mpltex)
 
 [46] T. Siauw and A. M. Bayen. An Introduction to MATLAB Programming
-and Numerical Methods for Engineers. Academic Press, New York, 2015.
+and Numerical Methods for Engineers. Academic Press, New York, 2015. [DOI](https://doi.org/10.1016/C2012-0-00145-7)
 
-[47] M. Gdeisat and F. Lilley. MATLAB by Example. Elsevier, Boston, 2013.
+[47] M. Gdeisat and F. Lilley. MATLAB by Example. Elsevier, Boston, 2013. [ISBN:eBook ISBN: 9780124058538](https://www.elsevier.com/books/matlab-by-example/gdeisat/978-0-12-405212-3)
 
 [48] S. M. Dunn, A. Constantinides, and P. V. Moghe. Numerical Methods
-in Biomedical Engineering. Academic Press, New York, 2006.
+in Biomedical Engineering. Academic Press, New York, 2006. [ISBN: eBook ISBN: 9780080470801](https://www.elsevier.com/books/numerical-methods-in-biomedical-engineering/dunn/978-0-12-186031-8)
