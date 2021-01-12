@@ -4,7 +4,8 @@ This lesson introduces methods and commands for 2D and 3D plotting in ?Python an
 
 ### **Introductory videos**
  * [Plotting Examples](https://www.youtube.com/watch?v=Pykrn0DpesA&feature=emb_title&ab_channel=AshleeN.FordVersypt)
-  [![](http://img.youtube.com/vi/Pykrn0DpesA/0.jpg)](http://www.youtube.com/watch?v=Pykrn0DpesA "")
+  
+ [![](http://img.youtube.com/vi/Pykrn0DpesA/0.jpg)](http://www.youtube.com/watch?v=Pykrn0DpesA "")
 * [Example Python figures](https://matplotlib.org/gallery/index.html)
 * [Example MATLAB figures](https://www.mathworks.com/help/matlab/examples.html?category=graphics&s_tid=CRUX_topnav)
 #### **Comprehension Check**
