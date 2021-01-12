@@ -1,17 +1,17 @@
-# **Lesson 16: Exploration of guide in MATLAB**
+# **Lesson 16: Further Eploration of GUIDE in MATLAB**
 
-This lesson focuses on GUI examples within MATLAB, exploring in depth the capabilities of GUIDE.
+This lesson focuses on GUI examples within MATLAB, exploring the capabilities of GUIDE.
 
-### **Introductory videos**
+### **Introductory Videos**
  * [Packaging and installing MATLAB Apps](https://www.mathworks.com/videos/packaging-and-installing-matlab-apps-101563.html)
  
 #### **Comprehension Check**
  * Were you able to install and open the MATLAB GUI?
  * What are some weaknesses of this GUI design?
-### **Pre-Lesson activities**
+### **Pre-Lesson Activities**
   * Download and install [MATLAB App](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/MATLAB/2D%20Heat%20Conduction.mlappinstall)
 
-### **Matlab Guide Walkthrough**
+### **MMATLAB GUIDE Walkthrough**
 * Example of callback components
   * [Specific component callbacks](https://www.mathworks.com/help/matlab/creating_guis/add-code-for-components-in-callbacks.html)
     * Add each component, demonstrate where its callbacks are within the code environment and how to modify them
