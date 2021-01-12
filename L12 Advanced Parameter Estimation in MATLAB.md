@@ -5,7 +5,7 @@ This lesson focuses on parameter estimation with more advanced examples in MATLA
 None for this lesson
 
 #### **Comprehension Check**
-    * None for this lesson
+None for this lesson
 ### **Example MATLAB Plotting**
 * Working examples together
 * [Prompts for practice](https://github.com/ashleefv/ApplNumComp/blob/master/Lecture%2014%20Examples.pdf)
