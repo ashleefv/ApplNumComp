@@ -3,7 +3,7 @@ This lesson work through converting a code from MATLAB into Python using a syste
 
 ### **Introductory Videos**
  * None for this lesson
-#### **Comprehension Check*
+#### **Comprehension Check**
  * None for this lesson
 ### **Walkthrough**
 #### **Starting file**
