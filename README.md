@@ -51,12 +51,12 @@ A full list of recommended and optional reading materials that complement the co
   * Converting MATLAB code into Python code, using a system of ODEs
 * [L10 Python and MATLAB Plotting](/L10%20Python%20and%20MATLAB%20Plotting.md)
   * Lesson on the plotting capabilities of Python and MATLAB
-* [L11 MATLAB Parameter Estimation](/L11%20Parameter%20Estimation%in%20MATLAB.md)
+* [L11 Parameter Estimation in MATLAB](/L11%20Parameter%20Estimation%in%20MATLAB.md)
   *  Lesson on parameter estimation with MATLAB examples
-* [L12 Advanced MATLAB Parameter Estimation](/L12%20Advanced%20MATLAB%20Parameter%20Estimation.md)
-  * Lesson on further possibilities of Matlab for parameter estimation
-* [L13 Python Parameter Estimation](/L13%20Python%20Parameter%20Estimation.md)
-  * Lesson on python estimation of parameters; using the same example as from Matlab session to show comparison/contrast
+* [L12 Advanced Parameter Estimation in MATLAB](/L12%20Advanced%20MATLAB%20Parameter%20Estimation.md)
+  * Lesson on further capabilities of MATLAB for parameter estimation
+* [L13 Parameter Estimation in Python](/L13%20Parameter%20Estimation%20%20Python.md)
+  * Lesson on parameter estimatation with Python examples
 * [L14 Introduction to GUIs and MATLAB methods for creating them](/L14%20Introduction%20to%20GUIs.md)
   * Lesson on GUIs, their prevalence in everyday life, and an overview of the MATLAB tools for creating them
 * [L15 MATLAB and GUIDE](/L15%20MATLAB%20and%20GUIDE.md)
