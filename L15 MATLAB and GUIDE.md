@@ -3,7 +3,7 @@
 This lesson focuses on GUI examples within MATLAB, specifically using GUIDE.
 
 ### **Introductory videos**
- * [Sample GUIs for Research](https://www.youtube.com/watch?v=k_JD7kmkeTM&ab_channel=AshleeN.FordVersypt)
+ * [Sample GUIs for research](https://www.youtube.com/watch?v=k_JD7kmkeTM&ab_channel=AshleeN.FordVersypt)
  
  [![](http://img.youtube.com/vi/k_JD7kmkeTM/0.jpg)](http://www.youtube.com/watch?v=k_JD7kmkeTM "")
  
@@ -12,10 +12,10 @@ This lesson focuses on GUI examples within MATLAB, specifically using GUIDE.
   * Have you encountered GUIs for scientific or engineering applications for research or classes? If so, which one(s)?
 ### **GUI Creation in Matlab using GUIDE**
 * Guided walkthrough of an example GUI within guide
-  * [Guided example with guide](https://www.mathworks.com/help/matlab/creating_guis/about-the-simple-guide-gui-example.html)
+  * [Guided example with GUIDE](https://www.mathworks.com/help/matlab/creating_guis/about-the-simple-guide-gui-example.html)
   * Create this GUI as a walkthrough, demonstrating where the callbacks are, what each button/interactable item does
 * Demonstrating Callbacks within guide environment
-  * [Guide callbacks demonstration](https://www.mathworks.com/help/matlab/creating_guis/add-code-for-components-in-callbacks.html)
+  * [GUIDE callbacks demonstration](https://www.mathworks.com/help/matlab/creating_guis/add-code-for-components-in-callbacks.html)
    * Create a callback for each type of interactable item within GUIDE: buttons, dropdown menus, etc.
    * Show how to create and where the callback goes within the associated code
   
