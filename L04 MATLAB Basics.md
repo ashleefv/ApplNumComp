@@ -40,7 +40,7 @@ Walk through coding of the following examples to show how to debug and the uses.
 f = 3*x.^2;
 g=x;
 ```
-* Built in Plotting
+* Built in plotting
 ```MATLAB
 %% MATLABBasicsStart.m
 %   make a very simple plot of one function.
@@ -65,14 +65,14 @@ title('A simple plot')
 grid on
 ```
 ![Expected Graph](/Lesson_images/figure_L04.jpg)
-* Built in Functions
+* Built in functions
 ```MATLAB
  xmin = 0; 
  xmax = 3;
  Nx = 200;
 x=linspace(xmin,xmax,Nx);
 * User Defined functions
-```matlab
+```MATLAB
 %% set parameters
 xmin=0;
 xmax=3;
@@ -84,7 +84,7 @@ x=linspace(xmin,xmax,Nx);
 %% calculate function values
 f = 3*x.^2;
 ```
-* Publication Tool for exporting figures
+* Publication tool for exporting figures
 ```MATLAB
 %% calculate function values
 f = 3*x.^2;
@@ -100,7 +100,7 @@ legend('f(x) = 3x^2','g(x) = x','Location','Best');
 title('A simple plot')
 grid on
 end
-saveas(matlabbasics.jpg)
+saveas(MATLABbasics.jpg)
 ```
 ![Expected Graph](Lesson_images/figure_L04.jpg)
 * Loops
