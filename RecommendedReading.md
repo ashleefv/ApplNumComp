@@ -138,8 +138,7 @@ ISBN-10: 1118888316](http://faculty.washington.edu/finlayso/ebook/Intro_Ch_E.pdf
 ## References
 
 [1] Software Carpentry Foundation. Modern Scientific Authoring: The 
-Mess We’re In, 2016 (accessed August 15, 2016).http://swcarpentry.
-github.io/modern-scientific-authoring/01-mess/.
+Mess We’re In, 2016 (accessed August 15, 2016). http://swcarpentry.github.io/modern-scientific-authoring/01-mess/
 
 [2] A. K. Hartmann. Big Practical Guide to Computer Simulations. World
 Scientific, Hackensack, NJ, 2nd edition, 2015.
