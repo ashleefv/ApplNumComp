@@ -83,4 +83,4 @@ end
 ### **Previous Lesson**
  * [L10 Python and MATLAB Plotting](/L10%20Python%20and%20MATLAB%20Plotting.md)
 ### **Next Lesson**
- * [L12 Advanced Parameter Estimation for MATLAB](/L12%20Advanced%20Parameter%20Estimation%20in%20MATLAB.md)
+ * [L12 Advanced Parameter Estimation in MATLAB](/L12%20Advanced%20Parameter%20Estimation%20in%20MATLAB.md)
