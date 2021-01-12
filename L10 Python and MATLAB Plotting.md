@@ -1,6 +1,6 @@
 # **Lesson 10: Python and MATLAB Plotting**
 
-This lesson introduces methods and commands for 2D and 3D plotting in ?Python and MATLAB, as well as how to use them.
+This lesson introduces methods and commands for 2D and 3D plotting in Python and MATLAB, as well as how to use them.
 
 ### **Introductory videos**
  * [Plotting Examples](https://www.youtube.com/watch?v=Pykrn0DpesA&feature=emb_title&ab_channel=AshleeN.FordVersypt)
