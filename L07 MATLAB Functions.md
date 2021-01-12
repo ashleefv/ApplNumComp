@@ -3,13 +3,13 @@
 This lesson introduces built-in MATLAB functions for common classes of numerical methods for solving nonlinear equations, numerical integration, and ordinary differential equations (initial value problems).
 
 ### **Introductory videos**
- * [Numerical Methods](https://www.youtube.com/watch?v=430j9WP1uTQ&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+ * [Numerical methods](https://www.youtube.com/watch?v=430j9WP1uTQ&feature=emb_title&ab_channel=AshleeN.FordVersypt)
  
   [![](http://img.youtube.com/vi/430j9WP1uTQ/0.jpg)](http://www.youtube.com/watch?v=430j9WP1uTQ "")
 * [Using MATLAB to solve a system of linear equations](https://www.youtube.com/watch?v=C4Ineu8uqGg&feature=emb_title&ab_channel=AshleeN.FordVersypt)
   
   [![](http://img.youtube.com/vi/C4Ineu8uqGg/0.jpg)](http://www.youtube.com/watch?v=C4Ineu8uqGg "")
-* [MATLAB Solvers](https://www.youtube.com/watch?v=8g_LB9J0RAQ&feature=emb_title&ab_channel=LearnChemE)
+* [MATLAB solvers](https://www.youtube.com/watch?v=8g_LB9J0RAQ&feature=emb_title&ab_channel=LearnChemE)
   
   [![](http://img.youtube.com/vi/8g_LB9J0RAQ/0.jpg)](http://www.youtube.com/watch?v=8g_LB9J0RAQ "")
 #### **Comprehension Check**
@@ -21,20 +21,20 @@ This lesson introduces built-in MATLAB functions for common classes of numerical
   * fsolve
 * Non-linear data-fitting
   * lsqcurvefit
-* General Optimization (minimization)
+* General optimization (minimization)
   * fminbnd
   * fmincon
 ### **Numerical Integration Functions**
-* [Numerical Integration and Differentiation](mathworks.com/help/matlab/numerical-integration-and-differentiation.html)
+* [Numerical integration and differentiation](mathworks.com/help/matlab/numerical-integration-and-differentiation.html)
   * quad, quadl, quadv --> integral
   * trapz
 
 #### **Solution Python Code**
 Note this code is identical to the version in L06, and here can be used to demonstrate relationships between MATLAB functions and their analog in Python, allowing students to make the connection to whichever language is more intrinsic to their understanding.
-[Raw Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ConvertFromMATLABtoPythonSoln.py)
-```python
+[Raw code](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ConvertFromMATLABtoPythonSoln.py)
+```Python
 """
-ICPL7python
+ICPL7Python
 
 Used for comparison to MATLAB function executing the same method.
 
