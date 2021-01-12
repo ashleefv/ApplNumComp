@@ -1,17 +1,71 @@
 # **Lesson 10: Python and MATLAB Plotting**
 
-This lesson introduces methods and commands for 2D and 3D plotting in MATLAB and Python, as well as how to use them.
+This lesson introduces methods and commands for 2D and 3D plotting in ?Python and MATLAB, as well as how to use them.
 
 ### **Introductory videos**
  * [Plotting Examples](https://www.youtube.com/watch?v=Pykrn0DpesA&feature=emb_title&ab_channel=AshleeN.FordVersypt)
   [![](http://img.youtube.com/vi/Pykrn0DpesA/0.jpg)](http://www.youtube.com/watch?v=Pykrn0DpesA "")
-* [Example MATLAB figures](https://www.mathworks.com/help/matlab/examples.html?category=graphics&s_tid=CRUX_topnav)
 * [Example Python figures](https://matplotlib.org/gallery/index.html)
+* [Example MATLAB figures](https://www.mathworks.com/help/matlab/examples.html?category=graphics&s_tid=CRUX_topnav)
 #### **Comprehension Check**
   * Find an example of common type of 2D or 3D visualization from your research or science, engineering, or mathematics coursework. Include an image of the example as a file upload (common image file formats like .png or .jpg preferable) 
   * Browse through the MATLAB and Python example galleries. Which type, if any, of the examples are similar to visualization example you found for question 1?
-    * [MATLAB Gallery](https://www.mathworks.com/help/matlab/examples.html?category=graphics&s_tid=CRUX_topnav)
     * [Python Gallery](https://matplotlib.org/gallery/index.html)
+    * [MATLAB Gallery](https://www.mathworks.com/help/matlab/examples.html?category=graphics&s_tid=CRUX_topnav)
+
+
+### **Python Plotting**
+[Raw Python File](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PlotExamples.py)
+* Python uses 
+```python
+import matplotlib.pyplot as plt
+```
+to access style functions similar to Matlab
+
+* Python example code for plotting
+* Demonstrating Python's ability to subplot/create tiles for multiple graphs in a single window. 
+```python
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Sep 12 09:00:32 2018
+
+@author: Ashlee
+"""
+import numpy as np
+import matplotlib.pyplot as plt
+
+t = np.arange(0,101,1)
+plt.plot(t,t,'r--')
+plt.ylabel('t')
+#plt.show() #somewhat like hold on in matlab
+
+plt.plot(t,t**2,'bs')
+plt.plot(t,t**3,'g^')
+
+#plt.axis([0, 20, 0, 30])
+plt.savefig('exampleplot.png')
+plt.show()
+
+fig = plt.figure(figsize=(10.0,3.0))
+
+axes1 = fig.add_subplot(1,3,1)
+axes2 = fig.add_subplot(1,3,2)
+axes3 = fig.add_subplot(1,3,3)
+
+axes1.set_ylabel('t')
+axes1.plot(t,t,'r--')
+axes2.set_ylabel('t^2')
+axes2.plot(t,t**2,'bs')
+axes3.set_ylabel('t^3')
+axes3.plot(t,t**3,'g^')
+
+fig.tight_layout()
+plt.show()
+```
+![Expected Graph 1](/Lesson_images/Figure1_L10.png)
+![Expected Graph 2](/Lesson_images/Figure2_L10.png)
+![Expected Graph 3](/Lesson_images/Figure3_L10.png)
+
 ### **MATLAB Plotting**
 * Working example 
 * Note: in MATLAB, to plot Y vs. X plot(x,y)
@@ -162,57 +216,6 @@ hold off
 legend('t vs. t','t^2 vs. t','t^3 vs. t','location','best')
 
 ```
-### **Python Plotting**
-[Raw Python File](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PlotExamples.py)
-* Python uses 
-```python
-import matplotlib.pyplot as plt
-```
-to access style functions similar to Matlab
-
-* Python example code for plotting
-* Demonstrating Python's ability to subplot/create tiles for multiple graphs in a single window. 
-```python
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 12 09:00:32 2018
-
-@author: Ashlee
-"""
-import numpy as np
-import matplotlib.pyplot as plt
-
-t = np.arange(0,101,1)
-plt.plot(t,t,'r--')
-plt.ylabel('t')
-#plt.show() #somewhat like hold on in matlab
-
-plt.plot(t,t**2,'bs')
-plt.plot(t,t**3,'g^')
-
-#plt.axis([0, 20, 0, 30])
-plt.savefig('exampleplot.png')
-plt.show()
-
-fig = plt.figure(figsize=(10.0,3.0))
-
-axes1 = fig.add_subplot(1,3,1)
-axes2 = fig.add_subplot(1,3,2)
-axes3 = fig.add_subplot(1,3,3)
-
-axes1.set_ylabel('t')
-axes1.plot(t,t,'r--')
-axes2.set_ylabel('t^2')
-axes2.plot(t,t**2,'bs')
-axes3.set_ylabel('t^3')
-axes3.plot(t,t**3,'g^')
-
-fig.tight_layout()
-plt.show()
-```
-![Expected Graph 1](/Lesson_images/Figure1_L10.png)
-![Expected Graph 2](/Lesson_images/Figure2_L10.png)
-![Expected Graph 3](/Lesson_images/Figure3_L10.png)
 ### **Additional Resources**
 * [MATLAB Graphics Documentation](https://www.mathworks.com/help/matlab/graphics.html)
 * [Python Graphics Documentation](https://matplotlib.org/)
