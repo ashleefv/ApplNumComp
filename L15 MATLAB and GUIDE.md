@@ -1,4 +1,4 @@
-# **Lesson 15: GUIs Examples in MATLAB**
+# **Lesson 15: GUI Examples in MATLAB**
 
 This lesson focuses on GUI examples within MATLAB, specifically using GUIDE.
 
