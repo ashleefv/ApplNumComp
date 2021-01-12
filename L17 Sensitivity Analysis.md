@@ -158,6 +158,6 @@ f=a*exp(b*x) + c*exp(d*x);
 * [Example of WSSR Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/WSSR_Example.m)
 
 ### **Previous Lesson**
- * [L16 Further Exploration of GUIDE in MATLAB](/L16%20Further%20exploration%20of%20GUIDE%20in%20MATLAB.md)
+ * [L16 Further Exploration of GUIDE in MATLAB](/L16%20Further%20Exploration%20of%20GUIDE%20in%20MATLAB.md)
 ### **Next Lesson**
  * [L18 Publication Quality Figures in MATLAB and Python](/L18%20Publication%20Quality%20Figures%20in%20MATLAB%20and%20Python.md)
