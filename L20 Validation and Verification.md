@@ -20,6 +20,6 @@ This lesson focuses on validation and verification.
 * None for this lesson
 
 ### **Previous Lesson**
- * [L19 GUIs in Python](/L19%20GUIs%20in%20Python.md)
+ * [L19 Python GUIs](/L19%20GUIs%20in%20Python.md)
 ### **Next Lesson**
  * [L21 Agent Based Modeling and Open Source Software](/L21%20Agent%20Based%20Modeling%20and%20Open%20Source%20Software.md)
