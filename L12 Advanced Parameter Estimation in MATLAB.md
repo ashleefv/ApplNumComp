@@ -146,6 +146,6 @@ end
 * None for this lesson
 
 ### **Previous Lesson**
- * [L11 Parameter Estimation for MATLAB](/L11%20Parameter%20Estimation%20in%20MATLAB.md)
+ * [L11 Parameter Estimation in MATLAB](/L11%20Parameter%20Estimation%20in%20MATLAB.md)
 ### **Next Lesson**
- * [L13 Python Parameter Estimation](/L13%20Python%20Parameter%20Estimation.md)
+ * [L13 Parameter Estimationin Python](/L13%20Parameter%20Estimation%20%20Python.md)
