@@ -1,11 +1,16 @@
 # **Lessson 20: Validation and Verification**
 This lesson focuses on validation and verification.
-
 ### **Introductory Videos**
- * None for this lesson
+ * [Examples of open source software](https://www.youtube.com/watch?v=60tMapC53Sw&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+  
+  [![](http://img.youtube.com/vi/60tMapC53Sw/0.jpg)](http://www.youtube.com/watch?v=60tMapC53Sw "")
+  
 #### **Comprehension Check**
- * None for this lesson
+   * Do you have any experience with validation or verification of computer models?
+   * Can you think of an example relevant to your field that is similar to the examples provided by the students in the video?
+   *  [Software Testing](https://www.softwaretestinghelp.com/what-is-verification-and-validation/) has a good definition of the difference
 ### **Validation and Verification**
+* This lesson's introductory video contains is longer and more in-depth. It demonstrates a student led discussion of validation, where they found sources of validation or verification that was pertinent to their research or an aera of personal interest.
   * Definitions
     * Validation
     * Verification
