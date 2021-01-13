@@ -2,14 +2,9 @@
 This lesson focuses on agent based models (ABM) and open source software.
 
 ### **Introductory Videos**
- * [Examples of open source software](https://www.youtube.com/watch?v=60tMapC53Sw&feature=emb_title&ab_channel=AshleeN.FordVersypt)
-  
-  [![](http://img.youtube.com/vi/60tMapC53Sw/0.jpg)](http://www.youtube.com/watch?v=60tMapC53Sw "")
-  
+ * None for this lesson
 #### **Comprehension Check**
-   * Do you have any experience with validation or verification of computer models?
-   * Can you think of an example relevant to your field that is similar to the examples provided by the students in the video?
-   *  [Software Testing](https://www.softwaretestinghelp.com/what-is-verification-and-validation/) has a good definition of the difference
+ * None for this lesson
 ### **Agent Based Models**
 * [Case study](https://github.com/ashleefv/BeeNestABM)
 * Consider ABM and explain what agent-based models are, some of their uses and powers
