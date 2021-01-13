@@ -13,6 +13,7 @@ This lesson focuses on agent based models (ABM) and open source software.
 * ABM [Bee Example](https://github.com/ashleefv/BeeNestABM)
   * [AIChE Bee Presentation](https://github.com/ashleefv/ApplNumComp/blob/master/AIChE%20Bee%20pres%20ANFV.pdf)
     * Powerpoint that explains in further depth development and uses of the case study simulation
+    * For a recording of the presentation, please [watch](https://www.youtube.com/watch?v=xCO1k6Gaex0&feature=emb_title&ab_channel=AshleeN.FordVersypt) from 01:30-29:05
 ### **Open Source Software Examples**
 * This lesson is very focused on open source software and as a result the introductory video is more in depth to provide more power to this lesson
 * [SciPy](https://scipy.org/)
