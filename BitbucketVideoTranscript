@@ -41,7 +41,9 @@ issues, downloads. So the source and the commit are the main features that I use
 basic use, those are appropriate. There's also these three little dots that you can manage your
 notifications. If you'd like to know when something new is posted here. You can also if you are the
 owner, you can share the repository and you can change the settings. So I gave explicit permission to
-specific people in my class last year. But this one, I believe, is also a public repository. So that's where you can add users here, I can search for myself, it's going to tell me that I'm already my own teammate. I already have permissions I don't need to have more permissions. And then the last thing I'll point out
+specific people in my class last year. But this one, I believe, is also a public repository. So that's 
+where you can add users here, I can search for myself, it's going to tell me that I'm already my own teammate. 
+I already have permissions I don't need to have more permissions. And then the last thing I'll point out
 is that git works best on plain text. text documents. So MATLAB and Python script. So here I've got also
 laTex or HTML and markdown documents. So this README is written in markdown, you can you can
 edit online, and I usually do edit my README online because I can do the markdown features. There's
