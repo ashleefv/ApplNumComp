@@ -30,6 +30,9 @@ Upon completion of this course, you should be able to
 ## Reading Materials
 A full list of recommended and optional reading materials that complement the course lessons are available [here](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md)
 
+## Note on Accessibility
+All of the YouTube videos produced by Dr. Ford Versypt have captions transcribed by Otter.ai and edited by Dr. Ford Veryspt and Duncan Mullins. PDF versions of all video transcripts are available upon request.
+
 ## Lessons
 * [L01 Git for Version Control](/L01%20Git%20for%20Version%20Control.md)
   * Downloading, installing, and using Git for version control.
