@@ -3,7 +3,7 @@ Applied Numerical Computing Course
 
 This repository contains a set of lessons on Applied Numerical Computing covering Git for version control, LaTeX for typesetting, and MATLAB and Python for high-level programming and scientific computing. 
 
-Note: this site is based on the Fall 2020 course offering: CHE 4753/5753 Applied Numerical Computing for Scientists & Engineers at Oklahoma State University created and taught by Ashlee N. Ford Versypt, Ph.D. and assisted by Duncan H. Mullins. The translation of course materials to the online lessons here was supported by a mini-grant from the [Computer Aids in Chemical Engineering (CACHE) Corporation](/https://cache.org/).
+Note: this site is based on the Fall 2020 course offering: CHE 4753/5753 Applied Numerical Computing for Scientists & Engineers at Oklahoma State University created and taught by Ashlee N. Ford Versypt, Ph.D. and assisted by Duncan H. Mullins. The translation of course materials to the online lessons here was supported by a mini-grant from the [Computer Aids in Chemical Engineering (CACHE) Corporation](https://cache.org/).
 
 ## Course Description
 Practical software tools for computational problem solving in science and engineering: version control (e.g., Git), mathematical typesetting (e.g., LaTeX), graphical user interfaces, and high level programming languages with libraries of solvers and visualization tools (e.g., Python and MATLAB). Application of numerical computing methods to solve systems of differential and algebraic equations and to estimate model parameters using optimization.
