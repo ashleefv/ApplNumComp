@@ -36,7 +36,7 @@ All of the YouTube videos produced by Dr. Ford Versypt have captions transcribed
 ## Lessons
 * [L01 Git for Version Control](/L01%20Git%20for%20Version%20Control.md)
   * Downloading, installing, and using Git for version control.
-* [L02 LaTeX Basics](/L02%20LaTeX%20Basics)
+* [L02 LaTeX Basics](/L02%20LaTeX%20Basics.md)
   * Downloading, installing, and using LaTeX for typesetting and computational writing.
 * [L03 Advanced LaTeX Topics](/L03%20Advanced%20LaTeX%20Topics.md)
   * Walkthrough of LaTeX functionality, examples, and templates for journals or thesis writing.
