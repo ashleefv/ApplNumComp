@@ -54,7 +54,7 @@ All of the YouTube videos produced by Dr. Ford Versypt have captions transcribed
   * Converting MATLAB code into Python code, using a system of ODEs.
 * [L10 Python and MATLAB Plotting](/L10%20Python%20and%20MATLAB%20Plotting.md)
   * Lesson on the plotting capabilities of Python and MATLAB.
-* [L11 Parameter Estimation in MATLAB](/L11%20Parameter%20Estimation%in%20MATLAB.md)
+* [L11 Parameter Estimation in MATLAB](/L11%20Parameter%20Estimation%20in%20MATLAB.md)
   *  Lesson on parameter estimation with MATLAB examples.
 * [L12 Advanced Parameter Estimation in MATLAB](/L12%20Advanced%20MATLAB%20Parameter%20Estimation.md)
   * Lesson on further capabilities of MATLAB for parameter estimation.
