@@ -64,13 +64,15 @@ legend('f(x) = 3x^2','Location','Best');
 title('A simple plot')
 grid on
 ```
-![Expected Graph](/Lesson_images/figure_L04.jpg)
+![Expected Graph](Lesson_images/L4.1.jpg)
+
 * Built in functions
 ```MATLAB
  xmin = 0; 
  xmax = 3;
  Nx = 200;
 x=linspace(xmin,xmax,Nx);
+```
 * User Defined functions
 ```MATLAB
 %% set parameters
@@ -102,7 +104,7 @@ grid on
 end
 saveas(MATLABbasics.jpg)
 ```
-![Expected Graph](Lesson_images/figure_L04.jpg)
+![Expected Graph](Lesson_images/L4.2.jpg)
 * Loops
 ```MATLAB
 function MATLABBasics(varargin)
