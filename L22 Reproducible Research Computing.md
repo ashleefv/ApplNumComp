@@ -5,7 +5,7 @@ This lesson focuses on reproducible research computing.
  * [Discussion of reproducible research for computing readings](https://www.youtube.com/watch?v=j25h5oeCzCk&feature=emb_title&ab_channel=AshleeN.FordVersypt)
     
     [![](http://img.youtube.com/vi/j25h5oeCzCk/0.jpg)](http://www.youtube.com/watch?v=j25h5oeCzCk "")
-    * This video is significantly longer than usual, as it is an in depth lesson conducted by students over readings, specifically [reading 10](RecommendedReading.md), and as such composes the majority of this lesson.
+    * This video is significantly longer than usual, as it is an in depth lesson conducted by students over readings, specifically [reading 10](RecommendedReading.md), and as such composes the majority of this lesson. For some examples, check out [Dr. Ford Versypt's github repository](https://github.com/ashleefv)
 #### **Comprehension Check**
    * None for this lesson
 ### **Resources**
