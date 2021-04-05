@@ -4,7 +4,7 @@ This lesson focuses on agent based models (ABM) and open source software.
 ### **Introductory Videos**
  * [Student Examples of Validation and Verification](https://www.youtube.com/watch?v=60tMapC53Sw&ab_channel=AshleeN.FordVersypt)
  * [![](http://img.youtube.com/vi/60tMapC53Sw/0.jpg)](http://www.youtube.com/watch?v=60tMapC53Sw "")
-
+ * NOTE: This is an audio recording of a pre-COVID synchronous class session, as such the audio may be a bit spotty, use of autocaptions is recommended.
 #### **Comprehension Check**
  * None for this lesson
 ### **Agent Based Models**
