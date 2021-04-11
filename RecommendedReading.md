@@ -121,11 +121,11 @@ Additional Resources
 
 This section provides a list of MATLAB books targeted to different audiences that provide good information and examples. The Mathworks website also has help pages for every function and many example codes and plots. MATLAB Central is a website that hosts an open exchange repository of MATLAB files and discussion boards contributed by an extensive user community. 
 * [44] Introductory text on programming and basic numerical methods using MATLAB targeted at those who have absolutely no prior knowledge of programming [DOI](https://doi.org/10.1016/C2012-0-00145-7)
-* [45] Comprehensive overview of MATLAB programming basics with many examples [ISBN:eBook ISBN: 9780124058538](https://www.elsevier.com/books/matlab-by-example/gdeisat/978-0-12-405212-3)
+* [45] Comprehensive overview of MATLAB programming basics with many examples [ISBN: 9780124052123](https://www.elsevier.com/books/matlab-by-example/gdeisat/978-0-12-405212-3)
 * [13] Comprehensive overview of MATLAB including basic and advanced numerical methods targeted at those familiar with the basics of programming  [ISBN: 0-89871-578-4](http://www.ma.man.ac.uk/~higham/mg2/)
 * [14] Numerical methods implemented in MATLAB, written by Cleve Moler, one of the creators of MATLAB [DOI](https://doi.org/10.1137/1.9780898717952)
 * [12] Chemical engineering applications solved using MATLAB, COMSOL, Excel, and Aspen targeted to chemical engineering undergraduates [ISBN: 978-1-118-88831-5](https://www.wiley.com/en-us/Introduction+to+Chemical+Engineering+Computing%2C+2nd+Edition+%28Update%29-p-9781118888315)
-* [46] Computing and numerical methods topics using MATLAB that are important in biomedical engineering applications targeted to biomedical engineering undergraduates [ISBN: eBook ISBN: 9780080470801](https://www.elsevier.com/books/numerical-methods-in-biomedical-engineering/dunn/978-0-12-186031-8)
+* [46] Computing and numerical methods topics using MATLAB that are important in biomedical engineering applications targeted to biomedical engineering undergraduates [ISBN: 9780121860318](https://www.elsevier.com/books/numerical-methods-in-biomedical-engineering/dunn/978-0-12-186031-8)
 
 ## References
 
@@ -258,10 +258,10 @@ quality figures, 2014. https://github.com/altmany/export_fig
 
 [43] Y. Liu. mpltex: A tool for creating publication quality plots, 2014. https://github.com/liuyxpp/mpltex
 
-[44] T. Siauw and A. M. Bayen. An Introduction to MATLAB Programming
+[44] A. M. Bayen and T. Siauw. An Introduction to MATLAB Programming
 and Numerical Methods for Engineers. Academic Press, New York, 2015. https://doi.org/10.1016/C2012-0-00145-7
 
-[45] M. Gdeisat and F. Lilley. MATLAB by Example. Elsevier, Boston, 2013. ISBN: 9780124058538. https://www.elsevier.com/books/matlab-by-example/gdeisat/978-0-12-405212-3
+[45] M. Gdeisat and F. Lilley. MATLAB by Example. Elsevier, Boston, 2013. ISBN: 9780124052123. https://www.elsevier.com/books/matlab-by-example/gdeisat/978-0-12-405212-3
 
 [46] S. M. Dunn, A. Constantinides, and P. V. Moghe. Numerical Methods
-in Biomedical Engineering. Academic Press, New York, 2006. ISBN: 9780080470801. https://www.elsevier.com/books/numerical-methods-in-biomedical-engineering/dunn/978-0-12-186031-8
+in Biomedical Engineering. Academic Press, New York, 2006. ISBN: 9780121860318. https://www.elsevier.com/books/numerical-methods-in-biomedical-engineering/dunn/978-0-12-186031-8
