@@ -85,9 +85,9 @@ Additional Resources
 ## Reading 8
 
 This section focuses on graphical user interfaces (GUIs) for scientific computing in MATLAB and Python.
-* Reading 8.1 General overview of using and developing GUIs for scientific computing applications (Sections 1, 2.5.4, 2.5.5, and 2.7 for background and Sections 3, 4, and 5 for examples/case studies of GUI development) [28, p. 1–2, 10, 13–17, 18–30] [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.9252&rep=rep1&type=pdf)
-* Reading 8.2 Building a Graphical User Interface [29, Ch. 9] [ISBN: ISBN: 978-0-470-93644-3](https://www.wiley.com/en-us/Learning+to+Program+with+MATLAB%3A+Building+GUI+Tools-p-9780470936443)
-* Reading 8.3 Transforming a MATLAB Program into a GUI Tool [29, Ch. 10] [ISBN: ISBN: 978-0-470-93644-3](https://www.wiley.com/en-us/Learning+to+Program+with+MATLAB%3A+Building+GUI+Tools-p-9780470936443)
+* Reading 8.1 General overview of using and developing GUIs for scientific computing applications (Sections 1, 2.5.4, 2.5.5, and 2.7 for background and Sections 3, 4, and 5 for examples/case studies of GUI development) [28, p. 1–2, 10, 13–17, 18–30] [Link](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.126.9252)
+* Reading 8.2 Building a Graphical User Interface [29, Ch. 9] [ISBN: 978-0-470-93644-3](https://www.wiley.com/en-us/Learning+to+Program+with+MATLAB%3A+Building+GUI+Tools-p-9780470936443)
+* Reading 8.3 Transforming a MATLAB Program into a GUI Tool [29, Ch. 10] [ISBN: 978-0-470-93644-3](https://www.wiley.com/en-us/Learning+to+Program+with+MATLAB%3A+Building+GUI+Tools-p-9780470936443)
 
 Additional Resources
 * Optional Reading 8.1 Extremely helpful crash course tutorial and video about object oriented programming demonstrated in Python with a built-in framework for developing GUIs [30] [Link](https://pythonprogramming.net/object-oriented-programming-crash-course-tkinter/)
@@ -212,15 +212,13 @@ biology. Journal of Theoretical Biology, 254:178–196, 2008. [DOI] (https://doi
 [27] Kirschner, D. Uncertainty and Sensitivity Analysis, 2018. http://malthus.micro.med.umich.edu/lab/usadata/
 
 [28] M. Ashworth, R. Allan, C. Mller, H. van Dam, W. Smith,
-D. Hanlon, B. Searly, and A. Sunderland. Graphical user environments for scientific computing, 2003. [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.)
-1.1.126.9252&rep=rep1&type=pdf. [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.9252&rep=rep1&type=pdf)
+D. Hanlon, B. Searly, and A. Sunderland. Graphical user environments for scientific computing, 2003. http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.126.9252
 
 [29] C. S. Lent. Learning to Program with MATLAB: Building GUI Tools.
-Wiley, Hoboken, NJ, 2013. [ISBN: ISBN: 978-0-470-93644-3](https://www.wiley.com/en-us/Learning+to+Program+with+MATLAB%3A+Building+GUI+Tools-p-9780470936443)
+Wiley, Hoboken, NJ, 2013. [ISBN: 978-0-470-93644-3](https://www.wiley.com/en-us/Learning+to+Program+with+MATLAB%3A+Building+GUI+Tools-p-9780470936443)
 
 [30] PythonProgramming. Object Oriented Programming Crash
-Course with Tkinter: Learning OOP with Python 3, 2014. https://pythonprogramming.net/
-object-oriented-programming-crash-course-tkinter/. [Link](https://pythonprogramming.net/object-oriented-programming-crash-course-tkinter/)
+Course with Tkinter: Learning OOP with Python 3, 2014. https://pythonprogramming.net/object-oriented-programming-crash-course-tkinter/
 
 [31] MathWorks. App Building, 2016. https:
 //www.mathworks.com/help/matlab/gui-development.html. [Link](https:
