@@ -177,33 +177,27 @@ languages in engineering. Lecture Notes on Computational Science,
 [13] D. J. Higham and N. J. Higham. MATLAB Guide. Society for Industrial
 and Applied Mathematics, Philadelphia, 2nd edition, 2005. [ISBN: 0-89871-578-4](http://www.ma.man.ac.uk/~higham/mg2/)
 
-[14] C. B. Moler.Numerical Computing with MATLAB. Society for Indus-
-trial and Applied Mathematics, Philadelphia, 2004. [DOI](https://doi.org/10.1137/1.9780898717952)
+[14] C. B. Moler. Numerical Computing with MATLAB. Society for Industrial and Applied Mathematics, Philadelphia, 2004. [DOI](https://doi.org/10.1137/1.9780898717952)
 
-[15] J. Kiusalaas. Numerical Methods in Engineering with Python. Cam-
-bridge University Press, New York, 2005. [DOI](https://doi.org/10.1017/CBO9781139523899)
+[15] J. Kiusalaas. Numerical Methods in Engineering with Python 3. Cambridge University Press, New York, 2005. [DOI](https://doi.org/10.1017/CBO9781139523899)
 
-[16] SciPy.org. What is NumPy?—NumPy v1.11 Manual, 2016 (accessed
-September 15, 2016). [http://docs.scipy.org/doc/numpy/user/](http://docs.scipy.org/doc/numpy/user/)
+[16] SciPy.org. What is NumPy?—NumPy v1.11 Manual, 2016. [http://docs.scipy.org/doc/numpy/user/](http://docs.scipy.org/doc/numpy/user/)
 whatisnumpy.html. [Link](https://docs.scipy.org/doc/numpy-1.11.0/user/index.html)
 
-[17] SciPy.org. Quickstart tutorial—NumPy v1.11 Manual, 2016 (accessed
-September 15, 2016). [http://docs.scipy.org/doc/numpy/user/](http://docs.scipy.org/doc/numpy/user/)
+[17] SciPy.org. Quickstart tutorial—NumPy v1.11 Manual, 2016. [http://docs.scipy.org/doc/numpy/user/](http://docs.scipy.org/doc/numpy/user/)
 quickstart.html. [Link]([http://docs.scipy.org/doc/numpy/user/](http://docs.scipy.org/doc/numpy/user/)
 
-[18] SciPy.org. Numpy for Matlab users—NumPy v1.11 Manual, 2016
-(accessed September 15, 2016). [http://docs.scipy.org/doc/](http://docs.scipy.org/doc/)
+[18] SciPy.org. Numpy for Matlab users—NumPy v1.11 Manual, 2016. [http://docs.scipy.org/doc/](http://docs.scipy.org/doc/)
 numpy-dev/user/numpy-for-matlab-users.html. [Link](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
 
-[19] SciPy.org. Introduction—SciPy v0.18.0 Reference Guide, 2016 (ac-
-cessed September 15, 2016). [http://docs.scipy.org/doc/scipy/](http://docs.scipy.org/doc/scipy/)
+[19] SciPy.org. Introduction—SciPy v0.18.0 Reference Guide, 2016. [http://docs.scipy.org/doc/scipy/](http://docs.scipy.org/doc/scipy/)
 reference/tutorial/general.html. [Link](https://docs.scipy.org/doc/scipy/reference/tutorial/general.html)
 
 [20] SciPy.org.Integration (scipy.integrate)—SciPy v0.18.0 Reference Guide,
-2016 (accessed September 15, 2016). [http://docs.scipy.org/doc/](http://docs.scipy.org/doc/scipy/reference/tutorial/integrate.html). [Link](https://docs.scipy.org/doc/scipy/reference/tutorial/integrate.html)
+2016. [http://docs.scipy.org/doc/](http://docs.scipy.org/doc/scipy/reference/tutorial/integrate.html). [Link](https://docs.scipy.org/doc/scipy/reference/tutorial/integrate.html)
 
 [21] SciPy.org. Optimization (scipy.optimize)—SciPy v0.18.0 Reference
-Guide, 2016 (accessed September 15, 2016). http://docs.scipy.org/
+Guide, 2016. http://docs.scipy.org/
 doc/scipy/reference/tutorial/optimize.html. [Link](https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html)
 
 [22] C. Cobelli and E. Carson. Introduction to Modeling in Physiology and
@@ -216,7 +210,7 @@ Academic Press, New York, 2014. [ISBN:eBook ISBN: 9780124104938](https://www.els
 of environmental models. Environmental Monitoring and Assessment,
 32:135–154, 1994. [DOI](https://doi.org/10.1007/BF00547132)
 
-[25] Huang, Q. Sensitivity Analysis in Biological Modelling, 2012 (accessed October 3, 2016). [http://www.math.ualberta.ca/~hwang/](http://www.math.ualberta.ca/~hwang/sensitivity). [Link](http://www.math.ualberta.ca/~hwang/sensitivity)
+[25] Huang, Q. Sensitivity Analysis in Biological Modelling, 2012. [http://www.math.ualberta.ca/~hwang/](http://www.math.ualberta.ca/~hwang/sensitivity). [Link](http://www.math.ualberta.ca/~hwang/sensitivity)
 
 [26] M. P. R. Haaker and P. J. T. Verheijen. Local and global sensitivity
 analysis for a reactor design with parameter uncertainty. Transactions
@@ -226,26 +220,24 @@ of IChemE, 82:591–598, 2004.  [DOI](https://doi.org/10.1205/026387604323142630
 for performing global uncertainty and sensitivity analysis in systems
 biology. Journal of Theoretical Biology, 254:178–196, 2008. [DOI] (https://doi.org/10.1016/j.jtbi.2008.04.011)
 
-[28] Kirschner, D. Uncertainty and Sensitivity Analysis, 2018 (accessed October 3, 2016).http://malthus.micro.med.umich.edu/lab/usadata/. [Link](http://malthus.micro.med.umich.edu/lab/usadata/)
+[28] Kirschner, D. Uncertainty and Sensitivity Analysis, 2018.http://malthus.micro.med.umich.edu/lab/usadata/. [Link](http://malthus.micro.med.umich.edu/lab/usadata/)
 
 [29] M. Ashworth, R. Allan, C. Mller, H. van Dam, W. Smith,
-D. Hanlon, B. Searly, and A. Sunderland. Graphical user environments for scientific computing, 2003 (accessed October 16,
-2016). [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.)
+D. Hanlon, B. Searly, and A. Sunderland. Graphical user environments for scientific computing, 2003. [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.)
 1.1.126.9252&rep=rep1&type=pdf. [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.9252&rep=rep1&type=pdf)
 
 [30] C. S. Lent. Learning to Program with MATLAB: Building GUI Tools.
 Wiley, Hoboken, NJ, 2013. [ISBN: ISBN: 978-0-470-93644-3](https://www.wiley.com/en-us/Learning+to+Program+with+MATLAB%3A+Building+GUI+Tools-p-9780470936443)
 
 [31] PythonProgramming. Object Oriented Programming Crash
-Course with Tkinter: Learning OOP with Python 3, 2014 (accessed October 16, 2016). https://pythonprogramming.net/
+Course with Tkinter: Learning OOP with Python 3, 2014. https://pythonprogramming.net/
 object-oriented-programming-crash-course-tkinter/. [Link](https://pythonprogramming.net/object-oriented-programming-crash-course-tkinter/)
 
-[32] MathWorks. App Building, 2016 (accessed October 16, 2016). https:
+[32] MathWorks. App Building, 2016. https:
 //www.mathworks.com/help/matlab/gui-development.html. [Link](https:
 //www.mathworks.com/help/matlab/gui-development.html)
 
-[33] Tutorials Point. PyQt: Python Binding, 2015 (accessed October 16,
-2016).https://www.tutorialspoint.com/pyqt/pyqt_tutorial.pdf. [Link](https://www.tutorialspoint.com/pyqt/pyqt_tutorial.pdf)
+[33] Tutorials Point. PyQt: Python Binding, 2015. https://www.tutorialspoint.com/pyqt/pyqt_tutorial.pdf. [Link](https://www.tutorialspoint.com/pyqt/pyqt_tutorial.pdf)
 
 
 [34] P. J. Roache. Verification of codes and calculations. AIAA Journal,
@@ -281,10 +273,10 @@ software infrastructure and environments for reproducible and extensible
 research. J Open Res Software, 2:e21, 2014. [DOI](http://doi.org/10.5334/jors.ay) 
 
 [44] O. Woodford. exportfig: A MATLAB toolbox for exporting publication
-quality figures, 2013 (accessed November 12, 2016). https://github.
+quality figures, 2013. https://github.
 com/altmany/export\_fig. [Link](https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig)
 
-[45] Liu, Y. mpltex: A tool for creating publication quality plots, 2014 (accessed November 12, 2016).http://ngpy.org/2014/09/mpltex/. [Link](https://github.com/liuyxpp/mpltex)
+[45] Liu, Y. mpltex: A tool for creating publication quality plots, 2014. http://ngpy.org/2014/09/mpltex/. [Link](https://github.com/liuyxpp/mpltex)
 
 [46] T. Siauw and A. M. Bayen. An Introduction to MATLAB Programming
 and Numerical Methods for Engineers. Academic Press, New York, 2015. [DOI](https://doi.org/10.1016/C2012-0-00145-7)
