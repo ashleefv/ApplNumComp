@@ -67,17 +67,17 @@ All of the YouTube videos produced by Dr. Ford Versypt have captions transcribed
 * [L16 Further Exploration of GUIDE in MATLAB](/L16%20Further%20Exploration%20of%20GUIDE%20in%20MATLAB.md)
   * Lesson demonstrating and live walkthrough of editing an app within guide.
 * [L17 Sensitivity Analysis](/L17%20Sensitivity%20Analysis.md)
-  * Lesson on sensitivity analysis, and how to code this within Matlab.
+  * Lesson on sensitivity analysis.
 * [L18 Publication Quality Figures in MATLAB and Python](/L18%20Publication%20Quality%20Figures%20in%20MATLAB%20and%20Python.md)
   * Lesson on publication quality images in MATLAB and Python, how to create and export them, and examples of publications using them.
 * [L19 GUIs in Python](/L19%20GUIs%20in%20Python.md)
-  * Lesson on Python GUIs, PyQt5, and creation or utilization thereof.
+  * Lesson on Python GUIs, and PyQt5.
 * [L20 Validation and Verification](/L20%20Validation%20and%20Verification.md)
-  * Lesson on Verification and Validation.
+  * Lesson on validation and verification.
 * [L21 Agent Based Modeling and Open Source Software](/L21%20Agent%20Based%20Modeling%20and%20Open%20Source%20Software.md)
   * Lesson focusing on further explanations of ABM, as well as a variety of tools and examples of open source software.
 * [L22 Reproducible Research Computing](/L22%20Reproducible%20Research%20Computing.md)
-  * Lesson focusing on the case for reproducible research
+  * Lesson focusing on the case for reproducible research.
 
 ## Recommended Software
 * [Anaconda Python 3.x](https://www.anaconda.com/products/individual)
@@ -93,4 +93,4 @@ All of the YouTube videos produced by Dr. Ford Versypt have captions transcribed
   * Online editor: [Overleaf](https://www.overleaf.com)
 
   
-(c) 2020 Ashlee N. Ford Versypt, Duncan H. Mullins
+(c) 2021 Ashlee N. Ford Versypt, Duncan H. Mullins
