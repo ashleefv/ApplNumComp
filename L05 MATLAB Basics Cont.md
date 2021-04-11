@@ -1,4 +1,4 @@
-# **Lesson 5: MATLAB Basics continued**
+# **Lesson 5: MATLAB Basics Continued**
 
 This lesson continues the introduction of basics of MATLAB programming for scientific computing. 
   
