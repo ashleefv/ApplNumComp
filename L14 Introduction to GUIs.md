@@ -1,4 +1,4 @@
-# **Lesson 14: Introduction to GUIs and MATLAB Capabilities**
+# **Lesson 14: Introduction to GUIs and GUIs in MATLAB**
 Graphical user interfaces (GUIs) are everywhere in the digital world. 
 This lesson introduces this topic and an overview of the MATLAB functionality in creating them.
 
