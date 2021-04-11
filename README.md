@@ -62,8 +62,8 @@ All of the YouTube videos produced by Dr. Ford Versypt have captions transcribed
   * Parameter estimatation in Python  and examples.
 * [L14 Introduction to GUIs and GUIs in MATLAB](/L14%20Introduction%20to%20GUIs.md)
   * Graphical User Interfaces (GUIs) and an overview of the MATLAB tools for creating them.
-* [L15 MATLAB and GUIDE](/L15%20MATLAB%20and%20GUIDE.md)
-  * Using GUIDE in MATLAB and designing callbacks for a sample GUI.
+* [L15 GUI Examples in MATLAB](/L15%20MATLAB%20and%20GUIDE.md)
+  * Using GUIDE in MATLAB and designing callbacks.
 * [L16 Further Exploration of GUIDE in MATLAB](/L16%20Further%20Exploration%20of%20GUIDE%20in%20MATLAB.md)
   * Editing apps with GUIDE.
 * [L17 Sensitivity Analysis](/L17%20Sensitivity%20Analysis.md)
