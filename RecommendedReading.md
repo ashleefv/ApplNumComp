@@ -80,7 +80,7 @@ This section focuses on sensitivity analysis.
 
 Additional Resources
 * Optional Reading 7.2 Local and global sensitivity applied to reactor design [25] [DOI](https://doi.org/10.1205/026387604323142630)
-* Optional Reading 7.3 Global sensitivity using eFAST and PRC coefficients [26] [DOI] (https://doi.org/10.1016/j.jtbi.2008.04.011) with code implemented in MATLAB available at [27] [Link](http://malthus.micro.med.umich.edu/lab/usadata/)
+* Optional Reading 7.3 Global sensitivity using eFAST and PRC coefficients [26] [DOI](https://doi.org/10.1016/j.jtbi.2008.04.011) with code implemented in MATLAB available at [27] [Link](http://malthus.micro.med.umich.edu/lab/usadata/)
 
 ## Reading 8
 
@@ -210,7 +210,7 @@ of IChemE, 82:591–598, 2004.  [DOI](https://doi.org/10.1205/026387604323142630
 for performing global uncertainty and sensitivity analysis in systems
 biology. Journal of Theoretical Biology, 254:178–196, 2008. [DOI] (https://doi.org/10.1016/j.jtbi.2008.04.011)
 
-[27] Kirschner, D. Uncertainty and Sensitivity Analysis, 2018.http://malthus.micro.med.umich.edu/lab/usadata/. [Link](http://malthus.micro.med.umich.edu/lab/usadata/)
+[27] Kirschner, D. Uncertainty and Sensitivity Analysis, 2018. http://malthus.micro.med.umich.edu/lab/usadata/
 
 [28] M. Ashworth, R. Allan, C. Mller, H. van Dam, W. Smith,
 D. Hanlon, B. Searly, and A. Sunderland. Graphical user environments for scientific computing, 2003. [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.)
