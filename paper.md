@@ -1,10 +1,11 @@
 ---
-title: 'ApplNumComp: Applied Numerical Computing, an open access course for teaching graduate and undergraduate students scientific computing skills'
+title: 'ApplNumComp: An Open Access Introductory Course for Applied Numerical Computing'
 tags:
-  - Open Source
+  - LaTeX
   - Python
-  - mathematical model
+  - Git
   - MATLAB
+  - computational science and engineering
 authors:
  - name: Ashlee N. Ford Versypt
    orcid: 0000-0001-9059-5703
@@ -16,13 +17,13 @@ authors:
 affiliations:
  - name: School of Chemical Engineering, Oklahoma State University
    index: 1
- - name: Department of Chemical and Biological Engineering, University at Buffalo
+ - name: Department of Chemical and Biological Engineering, University at Buffalo, The State University of New York
    index: 2 
- - name: Department of Engineering Education, University at Buffalo
+ - name: Department of Engineering Education, University at Buffalo, The State University of New York
    index: 3  
- - name: 
+ - name: Institute for Computational and Data Sciences, University at Buffalo, The State University of New York
   index: 4
-date: 6 April 2021
+date: 11 April 2021
 bibliography: paper.bib
 ---
 # Summary
