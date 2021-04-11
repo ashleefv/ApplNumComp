@@ -220,9 +220,7 @@ Wiley, Hoboken, NJ, 2013. [ISBN: 978-0-470-93644-3](https://www.wiley.com/en-us/
 [30] PythonProgramming. Object Oriented Programming Crash
 Course with Tkinter: Learning OOP with Python 3, 2014. https://pythonprogramming.net/object-oriented-programming-crash-course-tkinter/
 
-[31] MathWorks. App Building, 2016. https:
-//www.mathworks.com/help/matlab/gui-development.html. [Link](https:
-//www.mathworks.com/help/matlab/gui-development.html)
+[31] MathWorks. App Building, 2021. https://www.mathworks.com/help/matlab/gui-development.html
 
 [32] Tutorials Point. PyQt: Python Binding, 2015. https://www.tutorialspoint.com/pyqt/pyqt_tutorial.pdf. [Link](https://www.tutorialspoint.com/pyqt/pyqt_tutorial.pdf)
 
