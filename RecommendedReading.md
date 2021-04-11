@@ -70,8 +70,8 @@ The following three optional readings provide more background information for th
 ## Reading 6
 
 This section focuses on parameter estimation by linear and nonlinear least squares regression.
-* Reading 6.1 Linear and nonlinear regression [22, p. 195–221] [ISBN:eBook ISBN: 9780080559988](https://www.elsevier.com/books/introduction-to-modeling-in-physiology-and-medicine/cobelli/978-0-12-160240-6)
-* Reading 6.2 Parameter estimation for dynamic models, including algorithms [23, p. 521–542, 554–557] [ISBN:eBook ISBN: 9780124104938](https://www.elsevier.com/books/dynamic-systems-biology-modeling-and-simulation/distefano-iii/978-0-12-410411-2)
+* Reading 6.1 Linear and nonlinear regression [22, p. 195–221] [ISBN: 9780121602406](https://www.elsevier.com/books/introduction-to-modeling-in-physiology-and-medicine/cobelli/978-0-12-160240-6)
+* Reading 6.2 Parameter estimation for dynamic models, including algorithms [23, p. 521–542, 554–557] [ISBN: 9780124104112](https://www.elsevier.com/books/dynamic-systems-biology-modeling-and-simulation/distefano-iii/978-0-12-410411-2)
 
 ## Reading 7
 
