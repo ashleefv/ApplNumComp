@@ -93,4 +93,4 @@ All of the YouTube videos produced by Dr. Ford Versypt have captions transcribed
   * Online editor: [Overleaf](https://www.overleaf.com)
 
   
-(c) 2021 Ashlee N. Ford Versypt, Duncan H. Mullins
+(c) 2021 Ashlee N. Ford Versypt and Duncan H. Mullins
