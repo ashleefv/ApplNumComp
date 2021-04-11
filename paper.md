@@ -27,14 +27,13 @@ date: 11 April 2021
 bibliography: paper.bib
 ---
 # Summary
-An open access course on topics including but not limited to solving systems of differential equations, estimating parameters for models 
-using regression, writing manuscripts and dissertations, and developing graphical user interfaces.
+ApplNumComp is a repository of open access materials supporting an introductory course for Applied Numerical Computing. Topics include but are not limited to solving systems of differential equations, estimating parameters for models using regression, writing manuscripts and dissertations, and developing graphical user interfaces.
 These modules could be used collectively for a similar course at another institution, could be used for independent study by an online learner, 
 or could be adapted piecemeal for incorporation into chemical engineering courses that involve programming,
 data analysis, or differential equations modeling. 
-Dr. Ford Versypt offered the Applied Numerical Computing course in Fall 2020, which was delivered in a hybrid of in-person, online synchronous, and online asynchronous formats.
-Duncan Mullins, a PhD student from Dr. Ford Versypt’s lab who took the course in Fall 2019, assisted in conversion of the course to its online, disseminatable version.
-Mr. Mullins was supported financially by NSF CAREER and CACHE grant support.
+Dr. Ford Versypt offered the Applied Numerical Computing course in Fall 2020 at Oklahoma State Univeristy, which was delivered in a hybrid of in-person, online synchronous, and online asynchronous formats.
+Duncan Mullins, a PhD student from Dr. Ford Versypt’s lab who took the course in Fall 2019, assisted in conversion of the course to its online open access version.
+
 Dr. Ford Versypt wrote an ASEE Conference Proceedings paper on the course and presented on the course at the ASEE Annual Conference in June 2019[@FordVersypt2019]. 
 # Statement of Need
 Many STEM programs offer an introductory computer programming course to undergraduate students. This type of course typically focuses on details of a specific software environment or language, functional programming in a procedural or object-oriented paradigm, 
@@ -56,5 +55,8 @@ These software environments were chosen due to the high rates of adoption in eng
 With competency in both of these software environments, students could extend their skills into other programming languages such as C, Java, or FORTRAN as needed. 
 Additional software tools including Git for version control and LaTeX for scientific communication are covered in the course. 
 The course has been taught four times since 2016 to a total of 74 OSU students across 11 STEM disciplines. 
+
+# Acknowledgments
+This material is based upon work supported by the National Science Foundation under Grant No. 1845117 and a minigrant from Computer Aids for Chemical Engineering Corp, both to Dr. Ford Versypt.
 
 # References
