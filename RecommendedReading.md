@@ -57,7 +57,7 @@ Additional Resources
 ## Reading 5
 
 This section focuses on the Python modules NumPy and SciPy.
-* Reading 5.1 What is NumPy? [16] [Link](https://docs.scipy.org/doc/numpy-1.11.0/user/index.html) & NumPy Quickstart tutorial [17] [Link]([http://docs.scipy.org/doc/numpy/user/](http://docs.scipy.org/doc/numpy/user/)
+* Reading 5.1 What is NumPy? [16] [Link](http://docs.scipy.org/doc/numpy/user/whatisnumpy.html) & NumPy Quickstart tutorial [17] [Link]([http://docs.scipy.org/doc/numpy/user/](http://docs.scipy.org/doc/numpy/user/)
 quickstart.html)
 * Reading 5.2 NumPy for MATLAB users [18] [Link](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
 
@@ -181,11 +181,9 @@ and Applied Mathematics, Philadelphia, 2nd edition, 2005. [ISBN: 0-89871-578-4](
 
 [15] J. Kiusalaas. Numerical Methods in Engineering with Python 3. Cambridge University Press, New York, 2005. [DOI](https://doi.org/10.1017/CBO9781139523899)
 
-[16] SciPy.org. What is NumPy?—NumPy v1.11 Manual, 2016. [http://docs.scipy.org/doc/numpy/user/](http://docs.scipy.org/doc/numpy/user/)
-whatisnumpy.html. [Link](https://docs.scipy.org/doc/numpy-1.11.0/user/index.html)
+[16] The SciPy Community. What is NumPy?, 2020. http://docs.scipy.org/doc/numpy/user/whatisnumpy.html
 
-[17] SciPy.org. Quickstart tutorial—NumPy v1.11 Manual, 2016. [http://docs.scipy.org/doc/numpy/user/](http://docs.scipy.org/doc/numpy/user/)
-quickstart.html. [Link]([http://docs.scipy.org/doc/numpy/user/](http://docs.scipy.org/doc/numpy/user/)
+[17] The SciPy Community. NumPy Quickstart, 2020. http://docs.scipy.org/doc/numpy/user/quickstart.html
 
 [18] SciPy.org. Numpy for Matlab users—NumPy v1.11 Manual, 2016. [http://docs.scipy.org/doc/](http://docs.scipy.org/doc/)
 numpy-dev/user/numpy-for-matlab-users.html. [Link](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
