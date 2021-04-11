@@ -60,7 +60,7 @@ All of the YouTube videos produced by Dr. Ford Versypt have captions transcribed
   * Further capabilities of MATLAB for parameter estimation.
 * [L13 Parameter Estimation in Python](/L13%20Parameter%20Estimation%20in%20Python.md)
   * Parameter estimatation in Python  and examples.
-* [L14 Introduction to GUIs](/L14%20Introduction%20to%20GUIs.md)
+* [L14 Introduction to GUIs and GUIs in MATLAB](/L14%20Introduction%20to%20GUIs.md)
   * Graphical User Interfaces (GUIs) and an overview of the MATLAB tools for creating them.
 * [L15 MATLAB and GUIDE](/L15%20MATLAB%20and%20GUIDE.md)
   * Using GUIDE in MATLAB and designing callbacks for a sample GUI.
