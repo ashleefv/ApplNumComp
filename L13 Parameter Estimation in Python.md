@@ -208,4 +208,4 @@ plt.show()
 ### **Previous Lesson**
  * [L12 Advanced Parameter Estimation for MATLAB](/L12%20Advanced%20Parameter%20Estimation%20in%20MATLAB.md)
 ### **Next Lesson**
- * [L14 Introduction to GUIs and MATLAB Capabilities](/L14%20Introduction%20to%20GUIs.md)
+ * [L14 Introduction to GUIs and GUIs in MATLAB](/L14%20Introduction%20to%20GUIs.md)
