@@ -17,7 +17,7 @@ This section focuses on best practices for software engineering in scientific co
 * Reading 2.4 [3, p. 21–30] [DOI](https://doi.org/10.1201/9781315151748)
 
 Additional Resources
-* Supplementary Material for Reading 2.3 [DOI](https://doi.org/10.1371/journal.pcbi.1003506.s001)
+* Supplementary Material for Reading 2.3 [DOI](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003506#s12)
 
 ## Reading 3
 
