@@ -57,7 +57,7 @@ Additional Resources
 ## Reading 5
 
 This section focuses on the Python modules NumPy and SciPy.
-* Reading 5.1 What is NumPy? [16] [Link](http://docs.scipy.org/doc/numpy/user/whatisnumpy.html) & NumPy quickstart tutorial [17] [Link]([http://docs.scipy.org/doc/numpy/user/quickstart.html]
+* Reading 5.1 What is NumPy? [16] [Link](http://docs.scipy.org/doc/numpy/user/whatisnumpy.html) & NumPy quickstart tutorial [17] [Link](http://docs.scipy.org/doc/numpy/user/quickstart.html)
 * Reading 5.2 NumPy for MATLAB users [18] [Link](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
 
 Additional Resources 
@@ -184,18 +184,14 @@ and Applied Mathematics, Philadelphia, 2nd edition, 2005. [ISBN: 0-89871-578-4](
 
 [17] The SciPy Community. NumPy Quickstart, 2020. http://docs.scipy.org/doc/numpy/user/quickstart.html
 
-[18] SciPy.org. Numpy for Matlab users—NumPy v1.11 Manual, 2016. [http://docs.scipy.org/doc/](http://docs.scipy.org/doc/)
-numpy-dev/user/numpy-for-matlab-users.html. [Link](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
+[18] The SciPy Community. NumPy for Matlab users, 2020. https://numpy.org/doc/stable/user/numpy-for-matlab-users.html
 
-[19] SciPy.org. Introduction—SciPy v0.18.0 Reference Guide, 2016. [http://docs.scipy.org/doc/scipy/](http://docs.scipy.org/doc/scipy/)
-reference/tutorial/general.html. [Link](https://docs.scipy.org/doc/scipy/reference/tutorial/general.html)
+[19] The SciPy Community. Introduction—SciPy Reference Guide, 2021. https://docs.scipy.org/doc/scipy/reference/tutorial/general.html
 
-[20] SciPy.org.Integration (scipy.integrate)—SciPy v0.18.0 Reference Guide,
-2016. [http://docs.scipy.org/doc/](http://docs.scipy.org/doc/scipy/reference/tutorial/integrate.html). [Link](https://docs.scipy.org/doc/scipy/reference/tutorial/integrate.html)
+[20] The SciPy Community. Integration (scipy.integrate),
+2016. https://docs.scipy.org/doc/scipy/reference/tutorial/integrate.html
 
-[21] SciPy.org. Optimization (scipy.optimize)—SciPy v0.18.0 Reference
-Guide, 2016. http://docs.scipy.org/
-doc/scipy/reference/tutorial/optimize.html. [Link](https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html)
+[21] The SciPy Community. Optimization (scipy.optimize), 2021. https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html
 
 [22] C. Cobelli and E. Carson. Introduction to Modeling in Physiology and
 Medicine. Academic Press, New York, 2008. [ISBN:eBook ISBN: 9780080559988](https://www.elsevier.com/books/introduction-to-modeling-in-physiology-and-medicine/cobelli/978-0-12-160240-6)
