@@ -75,9 +75,9 @@ All of the YouTube videos produced by Dr. Ford Versypt have captions transcribed
 * [L20 Validation and Verification](/L20%20Validation%20and%20Verification.md)
   * Lesson on validation and verification.
 * [L21 Agent Based Modeling and Open Source Software](/L21%20Agent%20Based%20Modeling%20and%20Open%20Source%20Software.md)
-  * Lesson focusing on further explanations of ABM, as well as a variety of tools and examples of open source software.
+  * Lesson on agent based modeling and a variety of tools and examples of open source software.
 * [L22 Reproducible Research Computing](/L22%20Reproducible%20Research%20Computing.md)
-  * Lesson focusing on the case for reproducible research.
+  * Lesson on the case for reproducible research.
 
 ## Recommended Software
 * [Anaconda Python 3.x](https://www.anaconda.com/products/individual)
