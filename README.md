@@ -5,10 +5,7 @@ This repository contains a set of lessons on Applied Numerical Computing coverin
 Note: this site is based on the Fall 2020 course offering: CHE 4753/5753 Applied Numerical Computing for Scientists & Engineers at Oklahoma State University created and taught by Ashlee N. Ford Versypt, Ph.D. and assisted by Duncan H. Mullins. The translation of course materials to the online lessons here was supported by a mini-grant from the [Computer Aids in Chemical Engineering (CACHE) Corporation](https://cache.org/). This material is based upon work supported by the National Science Foundation under Grant No. 1845117 to Dr. Ford Versypt. 
 
 Course repository:
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4458786.svg)](https://doi.org/10.5281/zenodo.4458786)
-
-
 
 ## Course Description
 Practical software tools for computational problem solving in science and engineering: version control (e.g., Git), mathematical typesetting (e.g., LaTeX), graphical user interfaces, and high level programming languages with libraries of solvers and visualization tools (e.g., Python and MATLAB). Application of numerical computing methods to solve systems of differential and algebraic equations and to estimate model parameters using optimization.
