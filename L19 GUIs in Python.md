@@ -1,4 +1,4 @@
-# **Lesson 19: Python GUIs**
+# **Lesson 19: GUIs in Python**
 This lesson focuses on developing GUIs in Python using the PyQt5 tool via QtDesigner.
 
 ### **Introductory videos**
