@@ -53,31 +53,31 @@ All of the YouTube videos produced by Dr. Ford Versypt have captions transcribed
 * [L09 MATLAB to Python Conversion](/L09%20MATLAB%20to%20Python%20Conversion.md)
   * Converting MATLAB code into Python code, using a system of ODEs.
 * [L10 Python and MATLAB Plotting](/L10%20Python%20and%20MATLAB%20Plotting.md)
-  * Lesson on the plotting capabilities of Python and MATLAB.
+  * Plotting capabilities of Python and MATLAB.
 * [L11 Parameter Estimation in MATLAB](/L11%20Parameter%20Estimation%20in%20MATLAB.md)
-  *  Lesson on parameter estimation with MATLAB examples.
+  * Estimating parameters in MATLAB and examples.
 * [L12 Advanced Parameter Estimation in MATLAB](/L12%20Advanced%20MATLAB%20Parameter%20Estimation.md)
-  * Lesson on further capabilities of MATLAB for parameter estimation.
+  * Further capabilities of MATLAB for parameter estimation.
 * [L13 Parameter Estimation in Python](/L13%20Parameter%20Estimation%20in%20Python.md)
-  * Lesson on parameter estimatation with Python examples.
+  * Parameter estimatation in Python  and examples.
 * [L14 Introduction to GUIs](/L14%20Introduction%20to%20GUIs.md)
-  * Lesson on GUIs, their prevalence in everyday life, and an overview of the MATLAB tools for creating them.
+  * Graphical User Interfaces (GUIs) and an overview of the MATLAB tools for creating them.
 * [L15 MATLAB and GUIDE](/L15%20MATLAB%20and%20GUIDE.md)
-  * Lesson demonstrating the power of GUIDE, how to design callbacks and walkthrough of a sample GUI.
+  * Using GUIDE in MATLAB and designing callbacks for a sample GUI.
 * [L16 Further Exploration of GUIDE in MATLAB](/L16%20Further%20Exploration%20of%20GUIDE%20in%20MATLAB.md)
-  * Lesson demonstrating and live walkthrough of editing an app within guide.
+  * Editing apps with GUIDE.
 * [L17 Sensitivity Analysis](/L17%20Sensitivity%20Analysis.md)
-  * Lesson on sensitivity analysis.
+  * Conducting a sensitivity analysis.
 * [L18 Publication Quality Figures in MATLAB and Python](/L18%20Publication%20Quality%20Figures%20in%20MATLAB%20and%20Python.md)
-  * Lesson on publication quality images in MATLAB and Python, how to create and export them, and examples of publications using them.
+  * Creating publication quality images in MATLAB and Python.
 * [L19 GUIs in Python](/L19%20GUIs%20in%20Python.md)
-  * Lesson on Python GUIs, and PyQt5.
+  * Creating GUIs in Python and PyQt5.
 * [L20 Validation and Verification](/L20%20Validation%20and%20Verification.md)
-  * Lesson on validation and verification.
+  * Validation and verification.
 * [L21 Agent Based Modeling and Open Source Software](/L21%20Agent%20Based%20Modeling%20and%20Open%20Source%20Software.md)
-  * Lesson on agent based modeling and a variety of tools and examples of open source software.
+  * Agent based modeling and a variety of tools and examples of open source software.
 * [L22 Reproducible Research Computing](/L22%20Reproducible%20Research%20Computing.md)
-  * Lesson on the case for reproducible research.
+  * Presenting the case for reproducible research computing.
 
 ## Recommended Software
 * [Anaconda Python 3.x](https://www.anaconda.com/products/individual)
