@@ -57,8 +57,7 @@ Additional Resources
 ## Reading 5
 
 This section focuses on the Python modules NumPy and SciPy.
-* Reading 5.1 What is NumPy? [16] [Link](http://docs.scipy.org/doc/numpy/user/whatisnumpy.html) & NumPy Quickstart tutorial [17] [Link]([http://docs.scipy.org/doc/numpy/user/](http://docs.scipy.org/doc/numpy/user/)
-quickstart.html)
+* Reading 5.1 What is NumPy? [16] [Link](http://docs.scipy.org/doc/numpy/user/whatisnumpy.html) & NumPy quickstart tutorial [17] [Link]([http://docs.scipy.org/doc/numpy/user/quickstart.html]
 * Reading 5.2 NumPy for MATLAB users [18] [Link](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
 
 Additional Resources 
