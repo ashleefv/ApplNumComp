@@ -32,9 +32,9 @@ This section focuses on basics of Python programming.
     - Object-Oriented Programming in a Nutshell: Classes, Objects, Methods, and All That p. 25–30
 
 Additional Resources
-* Optional Tutorial Reading 3 [8, p. 17–45] [ISBN: 0691169586, 9780691169583](https://press.princeton.edu/books/paperback/9780691180571/a-students-guide-to-python-for-physical-modeling) You are strongly encouraged to work through this reading with Python open on your computer and treat it like a tutorial.
+* Optional Tutorial Reading 3 [8, p. 17–45] [ISBN: 9780691180571](https://press.princeton.edu/books/paperback/9780691180571/a-students-guide-to-python-for-physical-modeling) You are strongly encouraged to work through this reading with Python open on your computer and treat it like a tutorial.
 * Online textbook (pdf format) for University of Southampton Computational Science and Engineering courses [DOI](https://doi.org/10.5281/zenodo.1411868)
-* Great text for science and engineering students learning to program in Python [8]  [ISBN: 0691169586, 9780691169583](https://press.princeton.edu/books/paperback/9780691180571/a-students-guide-to-python-for-physical-modeling)
+* Great text for science and engineering students learning to program in Python [8]  [ISBN: 9780691180571](https://press.princeton.edu/books/paperback/9780691180571/a-students-guide-to-python-for-physical-modeling)
 * Easy to read Python programming guide [9] [DOI](https://doi.org/10.1007/978-1-4302-1633-9)
 * Python reference with brief examples and explanations of many Python built-in commands and functions [10] [DOI](https://doi.org/10.1007/978-1-4302-6479-8)
 * Brief paper comparing the learning curves for C, MATLAB, and Python [11] [DOI](https://doi.org/10.1007/978-3-540-25944-2_157)
@@ -43,11 +43,10 @@ Additional Resources
 
 This section focuses on how to use built-in functions and standard libraries in MATLAB and Python for solving common classes of problems in scientific
 computing with established numerical methods. Specifically, we focus on nonlinear equations, numerical integration, and ordinary differential equations (initial value problems).
-* Reading 4.1 [12, p. 309–312 and p. 57–59] [ISBN: ISBN-13: 978-1118888315
-ISBN-10: 1118888316](http://faculty.washington.edu/finlayso/ebook/Intro_Ch_E.pdf)
+* Reading 4.1 [12, p. 309–312 and p. 57–59] [ISBN: 978-1-118-88831-5](https://www.wiley.com/en-us/Introduction+to+Chemical+Engineering+Computing%2C+2nd+Edition+%28Update%29-p-9781118888315)
 * Reading 4.2 [13, p. 171–182] [ISBN:ISBN-13: 978-0898715781
 ISBN-10: 0898715784](http://www.ma.man.ac.uk/~higham/mg2/)
-* Reading 4.3 [8, p. 75–83] [ISBN: 0691169586, 9780691169583](https://press.princeton.edu/books/paperback/9780691180571/a-students-guide-to-python-for-physical-modeling)
+* Reading 4.3 [8, p. 75–83] [ISBN: 9780691180571](https://press.princeton.edu/books/paperback/9780691180571/a-students-guide-to-python-for-physical-modeling)
 
 Additional Resources
 * Optional Reading 4.4: Brief recommendations on when to use each of the MATLAB ODE solvers [14, p. 210–211] [DOI](https://doi.org/10.1137/1.9780898717952)
@@ -131,8 +130,7 @@ This section provides a list of MATLAB books targeted to different audiences tha
 * [13] Comprehensive overview of MATLAB including basic and advanced numerical methods targeted at those familiar with the basics of programming [ISBN:ISBN-13: 978-0898715781
 ISBN-10: 0898715784](http://www.ma.man.ac.uk/~higham/mg2/
 * [14] Numerical methods implemented in MATLAB, written by Cleve Moler, one of the creators of MATLAB [DOI](https://doi.org/10.1137/1.9780898717952)
-* [12] Chemical engineering applications solved using MATLAB, COMSOL, Excel, and Aspen targeted to chemical engineering undergraduates [ISBN: ISBN-13: 978-1118888315
-ISBN-10: 1118888316](http://faculty.washington.edu/finlayso/ebook/Intro_Ch_E.pdf)
+* [12] Chemical engineering applications solved using MATLAB, COMSOL, Excel, and Aspen targeted to chemical engineering undergraduates [ISBN: 978-1-118-88831-5](https://www.wiley.com/en-us/Introduction+to+Chemical+Engineering+Computing%2C+2nd+Edition+%28Update%29-p-9781118888315)
 * [48] Computing and numerical methods topics using MATLAB that are important in biomedical engineering applications targeted to biomedical engineering undergraduates [ISBN: eBook ISBN: 9780080470801](https://www.elsevier.com/books/numerical-methods-in-biomedical-engineering/dunn/978-0-12-186031-8)
 
 ## References
@@ -176,9 +174,7 @@ York, 2009. [DOI](https://doi.org/10.1007/978-1-4302-1633-9)
 languages in engineering. Lecture Notes on Computational Science,
 3039:1210–1217, 2004. [DOI](https://doi.org/10.1007/978-3-540-25944-2_157)
 
-[12] B. A. Finlayson.Introduction to Chemical Engineering Computing. Wi-
-ley, Hoboken, NJ, 2nd edition, 2014. [ISBN: ISBN-13: 978-1118888315
-ISBN-10: 1118888316](http://faculty.washington.edu/finlayso/ebook/Intro_Ch_E.pdf)
+[12] B. A. Finlayson. Introduction to Chemical Engineering Computing. Wiley, Hoboken, NJ, 2nd edition, 2014. [ISBN: 978-1-118-88831-5](https://www.wiley.com/en-us/Introduction+to+Chemical+Engineering+Computing%2C+2nd+Edition+%28Update%29-p-9781118888315)
 
 [13] D. J. Higham and N. J. Higham.MATLAB Guide. Society for Industrial
 and Applied Mathematics, Philadelphia, 2nd edition, 2005. [ISBN:ISBN-13: 978-0898715781
