@@ -22,7 +22,7 @@ Additional Resources
 ## Reading 3
 
 This section focuses on basics of Python programming.
-* Reading 3.1 [6, p. 9–15] [DOI](10.5281/zenodo.1411868)
+* Reading 3.1 [6, p. 9–15] [link](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
 * Reading 3.2 [3, p. 30–42] [DOI](https://doi.org/10.1201/9781315151748)
 * Reading 3.3 [7] selected sections [DOI](https://doi.org/10.1371/journal.pcbi.1004867)
     - Abstract p. 1
