@@ -56,7 +56,7 @@ All of the YouTube videos produced by Dr. Ford Versypt have captions transcribed
   * Plotting capabilities of Python and MATLAB.
 * [L11 Parameter Estimation in MATLAB](/L11%20Parameter%20Estimation%20in%20MATLAB.md)
   * Estimating parameters in MATLAB and examples.
-* [L12 Advanced Parameter Estimation in MATLAB](/L12%20Advanced%20MATLAB%20Parameter%20Estimation%20in%20MATLAB.md)
+* [L12 Advanced Parameter Estimation in MATLAB](/L12%20Advanced%20Parameter%20Estimation%20in%20MATLAB.md)
   * Further capabilities of MATLAB for parameter estimation.
 * [L13 Parameter Estimation in Python](/L13%20Parameter%20Estimation%20in%20Python.md)
   * Parameter estimatation in Python  and examples.
