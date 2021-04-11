@@ -91,8 +91,7 @@ This section focuses on graphical user interfaces (GUIs) for scientific computin
 
 Additional Resources
 * Optional Reading 8.1 Extremely helpful crash course tutorial and video about object oriented programming demonstrated in Python with a built-in framework for developing GUIs [30] [Link](https://pythonprogramming.net/object-oriented-programming-crash-course-tkinter/)
-* Optional Reading 8.2 Tutorial for MATLAB GUIDE [31, p. 1–6, the remainder is a reference with examples] [Link](https:
-//www.mathworks.com/help/matlab/gui-development.html)
+* Optional Reading 8.2 Tutorial for MATLAB GUIDE [31, p. 1–6, the remainder is a reference with examples] [Link](https://www.mathworks.com/help/matlab/gui-development.html)
 * Optional Reading 8.3 Tutorial for Python Qt4 (PyQt4) tutorial [32, p. 1–15, the remainder is a reference with examples] [Link](https://www.tutorialspoint.com/pyqt/pyqt_tutorial.pdf)
 
 ## Reading 9
