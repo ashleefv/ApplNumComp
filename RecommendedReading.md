@@ -22,7 +22,7 @@ Additional Resources
 ## Reading 3
 
 This section focuses on basics of Python programming.
-* Reading 3.1 [6, p. 9–15] [link](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
+* Reading 3.1 [6, p. 9–15] [DOI](https://doi.org/10.5281/zenodo.1411868)
 * Reading 3.2 [3, p. 30–42] [DOI](https://doi.org/10.1201/9781315151748)
 * Reading 3.3 [7] selected sections [DOI](https://doi.org/10.1371/journal.pcbi.1004867)
     - Abstract p. 1
@@ -33,7 +33,7 @@ This section focuses on basics of Python programming.
 
 Additional Resources
 * Optional Tutorial Reading 3 [8, p. 17–45] [ISBN: 0691169586, 9780691169583](https://press.princeton.edu/books/paperback/9780691180571/a-students-guide-to-python-for-physical-modeling) You are strongly encouraged to work through this reading with Python open on your computer and treat it like a tutorial.
-* Online textbook (pdf format) for University of Southampton Computational Science and Engineering courses [6] [DOI](10.5281/zenodo.1411868)
+* Online textbook (pdf format) for University of Southampton Computational Science and Engineering courses [DOI](https://doi.org/10.5281/zenodo.1411868)
 * Great text for science and engineering students learning to program in Python [8]  [ISBN: 0691169586, 9780691169583](https://press.princeton.edu/books/paperback/9780691180571/a-students-guide-to-python-for-physical-modeling)
 * Easy to read Python programming guide [9] [DOI](https://doi.org/10.1007/978-1-4302-1633-9)
 * Python reference with brief examples and explanations of many Python built-in commands and functions [10] [DOI](https://doi.org/10.1007/978-1-4302-6479-8)
@@ -158,8 +158,7 @@ D. W. Wright, C. A. Yates, D. J. Gavaghan, S. Emmott, and C. Deane.
 Ten Simple Rules for Effective Computational Research. PLOS Computational Biology, 10:e1003506, 2014. [DOI](https://doi.org/10.1371/journal.pcbi.1003506)
 
 [6] H. Fangohr. Introduction to Python for Computational Science and
-Engineering: A beginner’s guide, 2015.
-http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf
+Engineering: A beginner’s guide, 2015. [DOI](https://doi.org/10.5281/zenodo.1411868)
 
 [7] B. Ekmekci, C. E. McAnany, and C. Mura. An introduction to programming for bioscientists: A Python-based primer. PLOS Computational
 Biology, 12:e1004867, 2016. [DOI](https://doi.org/10.1371/journal.pcbi.1004867)
