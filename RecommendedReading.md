@@ -114,7 +114,7 @@ Additional Resources
 * Optional Reading 10.1 What makes computational open source software libraries successful? [39] [Link](https://iopscience.iop.org/article/10.1088/1749-4699/6/1/015010/meta)
 * Optional Reading 10.2 Reproducible research in computational science [40] [DOI](https://doi.org/10.1126/science.1213847)
 * Optional Reading 10.3 Best practices for computational science: software infrastructure and environments for reproducible and extensible research [41] [DOI](http://doi.org/10.5334/jors.ay) 
-* Optional Reading 10.4 Overview of export_fig toolbox for exporting publication quality figures from MATLAB [42] [Link](https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig)
+* Optional Reading 10.4 Overview of export_fig toolbox for exporting publication quality figures from MATLAB [42] [Link](https://github.com/altmany/export_fig)
 * Optional Reading 10.5 Overview of mpltex Python tool for creating publication quality plots [43] [Link](https://github.com/liuyxpp/mpltex)
 
 ## MATLAB Reference Books
@@ -253,10 +253,10 @@ software libraries successful? Comp Sci Discovery, 6:015010, 2013. https://iopsc
 software infrastructure and environments for reproducible and extensible
 research. J Open Res Software, 2:e21, 2014. http://doi.org/10.5334/jors.ay
 
-[42] O. Woodford. exportfig: A MATLAB toolbox for exporting publication
-quality figures, 2013. https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig
+[42] O. J. Woodford and Y. M. Altman. export_fig: A MATLAB toolbox for exporting publication
+quality figures, 2014. https://github.com/altmany/export_fig
 
-[43] Liu, Y. mpltex: A tool for creating publication quality plots, 2014. https://github.com/liuyxpp/mpltex
+[43] Y. Liu. mpltex: A tool for creating publication quality plots, 2014. https://github.com/liuyxpp/mpltex
 
 [44] T. Siauw and A. M. Bayen. An Introduction to MATLAB Programming
 and Numerical Methods for Engineers. Academic Press, New York, 2015. https://doi.org/10.1016/C2012-0-00145-7
