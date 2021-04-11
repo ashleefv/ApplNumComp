@@ -194,10 +194,10 @@ and Applied Mathematics, Philadelphia, 2nd edition, 2005. [ISBN: 0-89871-578-4](
 [21] The SciPy Community. Optimization (scipy.optimize), 2021. https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html
 
 [22] C. Cobelli and E. Carson. Introduction to Modeling in Physiology and
-Medicine. Academic Press, New York, 2008. [ISBN:eBook ISBN: 9780080559988](https://www.elsevier.com/books/introduction-to-modeling-in-physiology-and-medicine/cobelli/978-0-12-160240-6)
+Medicine. Academic Press, New York, 2008. [ISBN: 9780121602406](https://www.elsevier.com/books/introduction-to-modeling-in-physiology-and-medicine/cobelli/978-0-12-160240-6)
 
 [23] DiStefano III, J. Dynamic Systems Biology Modeling and Simulation.
-Academic Press, New York, 2014. [ISBN:eBook ISBN: 9780124104938](https://www.elsevier.com/books/dynamic-systems-biology-modeling-and-simulation/distefano-iii/978-0-12-410411-2)
+Academic Press, New York, 2014. [ISBN: 9780124104112](https://www.elsevier.com/books/dynamic-systems-biology-modeling-and-simulation/distefano-iii/978-0-12-410411-2)
 
 [24] D. M. Hamby. Review of techniques for parameter sensitivity analysis
 of environmental models. Environmental Monitoring and Assessment,
