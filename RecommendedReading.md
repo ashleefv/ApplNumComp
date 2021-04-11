@@ -44,8 +44,7 @@ Additional Resources
 This section focuses on how to use built-in functions and standard libraries in MATLAB and Python for solving common classes of problems in scientific
 computing with established numerical methods. Specifically, we focus on nonlinear equations, numerical integration, and ordinary differential equations (initial value problems).
 * Reading 4.1 [12, p. 309–312 and p. 57–59] [ISBN: 978-1-118-88831-5](https://www.wiley.com/en-us/Introduction+to+Chemical+Engineering+Computing%2C+2nd+Edition+%28Update%29-p-9781118888315)
-* Reading 4.2 [13, p. 171–182] [ISBN:ISBN-13: 978-0898715781
-ISBN-10: 0898715784](http://www.ma.man.ac.uk/~higham/mg2/)
+* Reading 4.2 [13, p. 171–182]  [ISBN: 0-89871-578-4](http://www.ma.man.ac.uk/~higham/mg2/)
 * Reading 4.3 [8, p. 75–83] [ISBN: 9780691180571](https://press.princeton.edu/books/paperback/9780691180571/a-students-guide-to-python-for-physical-modeling)
 
 Additional Resources
@@ -176,9 +175,8 @@ languages in engineering. Lecture Notes on Computational Science,
 
 [12] B. A. Finlayson. Introduction to Chemical Engineering Computing. Wiley, Hoboken, NJ, 2nd edition, 2014. [ISBN: 978-1-118-88831-5](https://www.wiley.com/en-us/Introduction+to+Chemical+Engineering+Computing%2C+2nd+Edition+%28Update%29-p-9781118888315)
 
-[13] D. J. Higham and N. J. Higham.MATLAB Guide. Society for Industrial
-and Applied Mathematics, Philadelphia, 2nd edition, 2005. [ISBN:ISBN-13: 978-0898715781
-ISBN-10: 0898715784](http://www.ma.man.ac.uk/~higham/mg2/)
+[13] D. J. Higham and N. J. Higham. MATLAB Guide. Society for Industrial
+and Applied Mathematics, Philadelphia, 2nd edition, 2005. [ISBN: 0-89871-578-4](http://www.ma.man.ac.uk/~higham/mg2/)
 
 [14] C. B. Moler.Numerical Computing with MATLAB. Society for Indus-
 trial and Applied Mathematics, Philadelphia, 2004. [DOI](https://doi.org/10.1137/1.9780898717952)
