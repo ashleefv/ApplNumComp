@@ -1,9 +1,14 @@
-# ApplNumComp
-Applied Numerical Computing Course
+# ApplNumComp: Applied Numerical Computing Course
 
 This repository contains a set of lessons on Applied Numerical Computing covering Git for version control, LaTeX for typesetting, and MATLAB and Python for high-level programming and scientific computing. 
 
 Note: this site is based on the Fall 2020 course offering: CHE 4753/5753 Applied Numerical Computing for Scientists & Engineers at Oklahoma State University created and taught by Ashlee N. Ford Versypt, Ph.D. and assisted by Duncan H. Mullins. The translation of course materials to the online lessons here was supported by a mini-grant from the [Computer Aids in Chemical Engineering (CACHE) Corporation](https://cache.org/). This material is based upon work supported by the National Science Foundation under Grant No. 1845117 to Dr. Ford Versypt. 
+
+Course repository:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4458786.svg)](https://doi.org/10.5281/zenodo.4458786)
+
+
 
 ## Course Description
 Practical software tools for computational problem solving in science and engineering: version control (e.g., Git), mathematical typesetting (e.g., LaTeX), graphical user interfaces, and high level programming languages with libraries of solvers and visualization tools (e.g., Python and MATLAB). Application of numerical computing methods to solve systems of differential and algebraic equations and to estimate model parameters using optimization.
@@ -92,5 +97,8 @@ All of the YouTube videos produced by Dr. Ford Versypt have captions transcribed
   * Preferred editor: [Texmaker](https://www.xm1math.net/texmaker/download.html)
   * Online editor: [Overleaf](https://www.overleaf.com)
 
-  
+## Course Implementation Tips
+* A. N. Ford Versypt, An Interdisciplinary Elective Course to Build Computational Skills for Mathematical Modeling in Science and Engineering, Proceedings of the ASEE Annual Conference, Tampa, FL, 2019. [DOI: 10.18260/1-2--32072](https://strategy.asee.org/an-interdisciplinary-elective-course-to-build-computational-skills-for-mathematical-modeling-in-science-and-engineering).
+* “Teaching Computational Skills for Chemical Engineers,” Webinar, AIChE Education Division, Feb 2020. [Archived recording](https://www.aiche.org/academy/webinars/teaching-computational-skills-chemical-engineers-0)
+
 (c) 2021 Ashlee N. Ford Versypt and Duncan H. Mullins
