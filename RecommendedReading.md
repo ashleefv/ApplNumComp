@@ -149,7 +149,7 @@ with MATLAB and Python. CRC Press, Boca Raton, FL, 2017. [DOI](https://doi.org/1
 [4] G. Wilson, D. A. Aruliah, C. T. Brown, N. P. C. Hong, M. Davis, R. T.
 Guy, S. H. D. Haddock, K. D. Huff, I. M. Mitchell, M. D. Plumbley,
 B. Waugh, E. P. White, and P. Wilson. Best Practices for Scientific
-Computing. PLOS Biology, 12:e1001745, 2014. [DOI](https://doi.org/10.1142/9019)
+Computing. PLOS Biology, 12:e1001745, 2014. [DOI](https://doi.org/10.1371/journal.pbio.1001745)
 
 [5] J. M. Osborne, M. O. Bernabeu, M. Bruna, B. Calderhead, J. Cooper,
 N. Dalchau, S.-J. Dunn, A. G. Fletcher, R. Freeman, D. Groen,
@@ -158,15 +158,14 @@ D. W. Wright, C. A. Yates, D. J. Gavaghan, S. Emmott, and C. Deane.
 Ten Simple Rules for Effective Computational Research. PLOS Computational Biology, 10:e1003506, 2014. [DOI](https://doi.org/10.1371/journal.pcbi.1003506)
 
 [6] H. Fangohr. Introduction to Python for Computational Science and
-Engineering: A beginner’s guide, 2015 (accessed August 22, 2016).
-http://www.southampton.ac.uk/~fangohr/training/python/pdfs/
-Python-for-Computational-Science-and-Engineering.pdf. [DOI](10.5281/zenodo.1411868)
+Engineering: A beginner’s guide, 2015.
+http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf
 
 [7] B. Ekmekci, C. E. McAnany, and C. Mura. An introduction to programming for bioscientists: A Python-based primer. PLOS Computational
 Biology, 12:e1004867, 2016. [DOI](https://doi.org/10.1371/journal.pcbi.1004867)
 
 [8] J. M. Kinder and P. Nelson. A Student’s Guide to Python for Physical
-Modeling. Princeton University Press, Princeton, NJ, 2015. [ISBN: 0691169586, 9780691169583](https://press.princeton.edu/books/paperback/9780691180571/a-students-guide-to-python-for-physical-modeling)
+Modeling. Princeton University Press, Princeton, NJ, 2015. [ISBN: 9780691180571](https://press.princeton.edu/books/paperback/9780691180571/a-students-guide-to-python-for-physical-modeling)
 
 [9] T. Hall and J-P Stacey. Python 3 for Absolute Beginners. Springer, New
 York, 2009. [DOI](https://doi.org/10.1007/978-1-4302-1633-9)
