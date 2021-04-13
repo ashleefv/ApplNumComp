@@ -2,7 +2,7 @@
 
 This lesson focuses on LaTeX for typesetting.
 
-### **Introductory Videos**
+## **Introductory Videos**
  * [LaTeX basics, figures, and math usage](https://www.youtube.com/watch?v=2SE4oedooUM&feature=emb_title)
  
  [![](http://img.youtube.com/vi/2SE4oedooUM/0.jpg)](http://www.youtube.com/watch?v=2SE4oedooUM "LaTeX basics fig and bib")
@@ -17,11 +17,12 @@ This lesson focuses on LaTeX for typesetting.
  
  * [Hands-on tutorial for LaTeX](https://www.latex-tutorial.com/tutorials/)
  
-#### **Comprehension Check**
+### **Comprehension Check**
 * What did you find the most interesting or surprising from the videos?
 * What was the most unclear or most confusing point in the videos?
 * Do you have a big report for class, article for research, thesis, or dissertation to write either this semester or within the next few years in your degree program? 
-### **LaTeX Download and Installation**
+
+## **LaTeX Download and Installation**
 To run LaTeX on a computer, you need to install both the LaTeX implementation (MikTeX or MacTeX) AND an editor. 
 Some editors come with the implementation, but TeXMaker is preferred because of its layout and formatting.
 
@@ -39,22 +40,22 @@ Some editors come with the implementation, but TeXMaker is preferred because of 
       
       
 
-### **Helpful Links and References**
+## **Helpful Links and References**
   * [Details on how to use TeXMaker, especially how to compile the documents](https://www.xm1math.net/texmaker/doc.html)
   * [Nice reference or for more background on LaTeX](http://ctan.mirrors.hoobly.com/info/lshort/english/lshort.pdf)
   
   
-### **Try This Activity**
+## **Try This Activity**
 * [Coding activity](https://github.com/ashleefv/ApplNumComp/blob/master/LaTeX%20basics%20activity.pdf)
   
-#### Activity
+### Activity
 * Partner up, one person is the coder (actually doing the coding), the other is the navigator (watches the screen, reads values from the assignment, gives suggestions, and proofreads)
 * Discuss
 * Switch roles, stay with the same partner, try part 2 of the activity
 * Discuss
 
-### **Previous Lesson**
+## **Previous Lesson**
 * [L01 Git for Version Control](/L01%20Git%20for%20Version%20Control.md)
 
-### **Next Lesson**
+## **Next Lesson**
 * [L03 Advanced LaTeX Topics](/L03%20Advanced%20LaTeX%20Topics.md)
