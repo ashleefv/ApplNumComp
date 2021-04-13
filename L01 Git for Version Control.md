@@ -57,9 +57,10 @@ where yourusername is your personal username for bitbucket and repositoryname is
 * Create a new subfolder called Practice in your FirstnameLastnameApplNumComp folder on your computer.
 * Add any document or image file (preferably a small file) to the FirstnameLastnameApplNumComp/Practice folder.
 * Get this file into your FirstnameLastnameApplNumComp repository on bitbucket.
-* Can't get this to work? Contact Dr. Ford Versypt.
+* Can't get this to work? [See tips here](https://github.com/ashleefv/ApplNumComp/blob/master/README_UsingGitOnBitbucket.md#how-do-i-use-git-on-a-regular-basis). Still not working? Contact Dr. Ford Versypt.
   
 ## **References for Further Exploration**
+* [README for Using Git on Bitbucket](https://github.com/ashleefv/ApplNumComp/blob/master/README_UsingGitOnBitbucket.md)
 * Basic to advanced Git features and commands: https://git-scm.com/book/en/v2
 * [Quick intro to UNIX shell commands](https://swcarpentry.github.io/shell-novice/reference/)
 * J. D. Blischak, E. R. Davenport, and G. Wilson, A quick introduction to version control with Git and GitHub, PLoS Computational Biology, 12(1):e1004668 https://doi.org/10.1371/journal.pcbi.1004668
