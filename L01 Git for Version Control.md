@@ -42,40 +42,29 @@ $ git remote rm origin
 
 ### **Comprehension Check**
   * Do you have any experiences like that pictured in the ["Final".doc](http://phdcomics.com/comics/archive_print.php?comicid=1531) cartoon? If so, briefly describe one of your experiences. If not, why might an experience like this be challenging?
-  * Did you encounter any challenges or errors in the Setting Up Version Control Software section?
+  * Did you encounter any challenges or errors in the Set Up Version Control Software section?
 
-## **Helpful Links and References**
-[Basic UNIX shell commands for Git control](https://swcarpentry.github.io/shell-novice/reference/)
-
-[Standard Git commands](https://www.youtube.com/watch?v=rfBZTlGImg8&feature=emb_title)
-[![](http://img.youtube.com/vi/rfBZTlGImg8/0.jpg)](http://www.youtube.com/watch?v=rfBZTlGImg8 "Daily Git Commands")
-
-[Further readings regarding Git](https://git-scm.com/book/en/v2)
-
-* A helpful additional reading:
-
-* J. D. Blischak, E. R. Davenport, G. Wilson, A quick introduction to version control with Git and GitHub, PLoS Computational Biology, 12(1):e1004668
 ## **Try This Activity**
 
-**Demo with Class folder
-
-### Activity
-  In personal bitbucket.org account created with personal email account, go to the repository named FirstnameLastnameApplNumComp (change firstname and lastname to own name, and ApplNumComp to own version of shortened course name). This should have been created previously.
-  Setup the repository to have a local directory on personal computer and connect the local directory to the online repository.  
-    
-  Create a new subfolder called Practice.
-  Add any document or image file (preferably a small file) to the Practice folder.
-  Get this file into your FirstnameLastnameApplNumComp repository on bitbucket
+* Using your bitbucket.org account, go to the repository named FirstnameLastnameApplNumComp (change firstname and lastname to own name, and ApplNumComp to own version of shortened course name). This should have been created previously.
+* Setup the repository to have a local directory on personal computer and connect the local directory to the online repository.  
+* Open Git Bash in a specific file location and type the following
+```
+$ git init
+$ git remote add origin https://yourusername@bitbucket.org/yourusername/repositoryname.git
+$ git pull origin master
+```
+where yourusername is your personal username for bitbucket and repositoryname is the name of the repository exactly as you created it (capitalization, punctuation, and spelling matter). This should give you a copy of all of the files in this directory in your local folder where you where when you typed git init.
+* Create a new subfolder called Practice in your FirstnameLastnameApplNumComp folder on your computer.
+* Add any document or image file (preferably a small file) to the FirstnameLastnameApplNumComp/Practice folder.
+* Get this file into your FirstnameLastnameApplNumComp repository on bitbucket.
+* Can't get this to work? Contact Dr. Ford Versypt.
   
-## **Further Resources**
-* [Software Carpentry Git Tutorial](http://swcarpentry.github.io/git-novice/)
-* [Basic UNIX shell commands for Git control](https://swcarpentry.github.io/shell-novice/reference/)
-* [Standard Git commands](https://www.youtube.com/watch?v=rfBZTlGImg8&feature=emb_title)
-  [![](http://img.youtube.com/vi/rfBZTlGImg8/0.jpg)](http://www.youtube.com/watch?v=rfBZTlGImg8 "Daily Git Commands")
-
-* [Further readings regarding Git](https://git-scm.com/book/en/v2)
-
-* A helpful additional reading: J. D. Blischak, E. R. Davenport, and G. Wilson, A quick introduction to version control with Git and GitHub, PLoS Computational Biology, 12(1):e1004668 https://doi.org/10.1371/journal.pcbi.1004668
+## **References for Further Exploration**
+* Basic to advanced Git features and commands: https://git-scm.com/book/en/v2
+* [Quick intro to UNIX shell commands](https://swcarpentry.github.io/shell-novice/reference/)
+* J. D. Blischak, E. R. Davenport, and G. Wilson, A quick introduction to version control with Git and GitHub, PLoS Computational Biology, 12(1):e1004668 https://doi.org/10.1371/journal.pcbi.1004668
+* For more practice see the [Software Carpentry Git Tutorial](http://swcarpentry.github.io/git-novice/)
 
 ## **Next Lesson**
   * [L02 LaTeX Basics](/L02%20LaTeX%20Basics.md)
