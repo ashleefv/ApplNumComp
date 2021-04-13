@@ -229,8 +229,7 @@ practice and current challenges in solution verification. In F. Graziani,
 editor, Computational Methods in Transport: Verification and Validation, pages 229–250. Springer-Verlag, Berlin, 2008. https://doi.org/10.1007/978-3-540-77362-7_10
 
 [34] A. N. Ford Versypt. Modeling of Controlled-Release Drug Delivery from
-Autocatalytically Degrading Polymer Microspheres. PhD thesis, Urbana,
-IL, 2012. http://hdl.handle.net/2142/30970
+Autocatalytically Degrading Polymer Microspheres. PhD Thesis, Urbana, IL, 2012. http://hdl.handle.net/2142/30970
 
 [35] L. A. Barba. Terminologies for reproducible research.arXiv, 1802.03311,
 2018. https://arxiv.org/abs/1802.03311
