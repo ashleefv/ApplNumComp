@@ -28,9 +28,9 @@ $ git remote rm origin
 
 ## **Instructional Videos**
 
-* [Creating a Bitbucket account](https://www.youtube.com/watch?v=3KS6TaJPeHo&feature=emb_title)
+* [Git and Bitbucket](https://www.youtube.com/watch?v=3KS6TaJPeHo&feature=emb_title)
 
-[![](http://img.youtube.com/vi/3KS6TaJPeHo/0.jpg)](http://www.youtube.com/watch?v=3KS6TaJPeHo "Bitbucket Controls")
+[![](http://img.youtube.com/vi/3KS6TaJPeHo/0.jpg)](http://www.youtube.com/watch?v=3KS6TaJPeHo "Bitbucket")
 
 * [Linking to Bitbucket repositories](https://www.youtube.com/watch?v=euEwNW4v82M&feature=emb_title)
 
