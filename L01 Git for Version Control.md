@@ -8,7 +8,7 @@ Note: the instructions are provided for using Bitbucket as the site for hosting 
 ["Final".doc](http://phdcomics.com/comics/archive_print.php?comicid=1531)
 
 ## **Set Up Version Control Software: Git and Bitbucket**
-* Create an account on bitbucket.org with your university email address. 
+* Create an account on bitbucket.org with your university email address (this allows for unlimited private repositories as a default). 
 * [Download and install Git following the online instructions](https://www.atlassian.com/git/tutorials/install-git). Note the instructions include how to configure your username and email address AND how to automatically save your password (credentials). These are often overlooked but are really helpful. 
 * Create two empty folders on the computer that are completely dedicated to tracking personal computational assignments and synchronous class activities. Do not put other class files or personal files in these folders. Also, do not put one of these folders inside the other.
     - Folder 1: name it FirstnameLastnameApplNumComp (change firstname and lastname to own name). ApplNumComp is a shortened reference to our course name. Students will control everything in this folder and submit their homework through this folder.
