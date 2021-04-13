@@ -7,6 +7,20 @@ Note: the instructions are provided for using Bitbucket as the site for hosting 
 ## **Motivation for Version Control**
 ["Final".doc](http://phdcomics.com/comics/archive_print.php?comicid=1531)
 
+## **Instructional Videos**
+
+* [Git and Bitbucket](https://www.youtube.com/watch?v=3KS6TaJPeHo&feature=emb_title)
+
+[![](http://img.youtube.com/vi/3KS6TaJPeHo/0.jpg)](http://www.youtube.com/watch?v=3KS6TaJPeHo "Bitbucket")
+
+* [Linking to Bitbucket repositories](https://www.youtube.com/watch?v=euEwNW4v82M&feature=emb_title)
+
+[![](http://img.youtube.com/vi/euEwNW4v82M/0.jpg)](http://www.youtube.com/watch?v=euEwNW4v82M "Linking Local Folder")
+
+* [Standard Git commands](https://www.youtube.com/watch?v=rfBZTlGImg8&feature=emb_title)
+
+[![](http://img.youtube.com/vi/rfBZTlGImg8/0.jpg)](http://www.youtube.com/watch?v=rfBZTlGImg8 "Daily Git Commands")
+
 ## **Set Up Version Control Software: Git and Bitbucket**
 * Create an account on bitbucket.org with your university email address (this allows for unlimited private repositories as a default). 
 * [Download and install Git following the online instructions](https://www.atlassian.com/git/tutorials/install-git). Note the instructions include how to configure your username and email address AND how to automatically save your password (credentials). These are often overlooked but are really helpful. 
@@ -25,21 +39,6 @@ $ git pull origin master
 ```
 $ git remote rm origin
 ```
-
-## **Instructional Videos**
-
-* [Git and Bitbucket](https://www.youtube.com/watch?v=3KS6TaJPeHo&feature=emb_title)
-
-[![](http://img.youtube.com/vi/3KS6TaJPeHo/0.jpg)](http://www.youtube.com/watch?v=3KS6TaJPeHo "Bitbucket")
-
-* [Linking to Bitbucket repositories](https://www.youtube.com/watch?v=euEwNW4v82M&feature=emb_title)
-
-[![](http://img.youtube.com/vi/euEwNW4v82M/0.jpg)](http://www.youtube.com/watch?v=euEwNW4v82M "Linking Local Folder")
-
-* [Standard Git commands](https://www.youtube.com/watch?v=rfBZTlGImg8&feature=emb_title)
-
-[![](http://img.youtube.com/vi/rfBZTlGImg8/0.jpg)](http://www.youtube.com/watch?v=rfBZTlGImg8 "Daily Git Commands")
-
 ### **Comprehension Check**
   * Do you have any experiences like that pictured in the ["Final".doc](http://phdcomics.com/comics/archive_print.php?comicid=1531) cartoon? If so, briefly describe one of your experiences. If not, why might an experience like this be challenging?
   * Did you encounter any challenges or errors in the Set Up Version Control Software section?
