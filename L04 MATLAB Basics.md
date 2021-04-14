@@ -3,7 +3,7 @@
 This lesson focuses on best practices in scientific computing and basic MATLAB functionality. 
 
 ## **Related Readings**
-[Reading 2](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-1)
+[Reading 2](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-2)
 
 ## **Uses of MATLAB**
   * Calculator
