@@ -25,11 +25,11 @@ This lesson focuses on LaTeX templates for technical and/or longer documents, sp
 * File size reduction, e.g., Dr. Ford Versypt's 256 page thesis is only 2.9 MB
 * Reduce headaches with figure numbering, equation numbering, cross-referencing, table of contents, or turning on or off chapters (e.g., using \include)
 
-## **Advanced Tutorial**
-  * Walkthrough of Beamer Presentation Template
-  * Enabling various themes and color schemes, demonstrating LaTeX functionality
-  * Enable of Color schemes
-```LaTeX
+## **Activity**
+* Create a presentation using the Beamer package in LaTeX. [Beamer presentation template](https://github.com/ashleefv/ApplNumComp/blob/master/CHEclassFa20/In%20Class%20Problem%20Activities/LaTeX/BeamerPresTemplate.tex)
+* Either run the template in Overleaf or get the [Beamer package from CTAN](https://ctan.org/pkg/beamer?lang=en)
+* Enable various themes and color schemes to demonstrating LaTeX template functionality. Edit by commenting or uncommenting (via % at the start of the line) various themes and running
+```
 \usecolortheme{albatross}
 %\usecolortheme{beaver}
 %\usecolortheme{beetle}
@@ -40,18 +40,17 @@ This lesson focuses on LaTeX templates for technical and/or longer documents, sp
 %\usecolortheme{lily}
 %\usecolortheme{orchid}
 %\usecolortheme{rose}
-\usecolortheme{seagull}
+%\usecolortheme{seagull}
 %\usecolortheme{seahorse}
 %\usecolortheme{whale}
 %\usecolortheme{wolverine}
 
 %\setbeamertemplate{footline} % To remove the footer line in all slides uncomment this line
 %\setbeamertemplate{footline}[page number] % To replace the footer line in all slides with a simple slide count uncomment this line
+```
+* Enable various stylistic themes
 
 ```
-
-* Enabling of various stylistic themes
-```LaTeX
 % The Beamer class comes with a number of default slide themes
 % which change the colors and layouts of slides. Below this is a list
 % of all the themes, uncomment each in turn to see what they look like.
@@ -61,7 +60,7 @@ This lesson focuses on LaTeX templates for technical and/or longer documents, sp
 %\usetheme{Antibes}
 \usetheme{Bergen}
 %\usetheme{Berkeley}
-\usetheme{Berlin}
+%\usetheme{Berlin}
 %\usetheme{Boadilla}
 %\usetheme{CambridgeUS}
 %\usetheme{Copenhagen}
@@ -83,8 +82,10 @@ This lesson focuses on LaTeX templates for technical and/or longer documents, sp
 %\usetheme{Singapore}
 %\usetheme{Szeged}
 %\usetheme{Warsaw}
-
 ```
+* Edit text on the slides
+* Remove or comment out irrelevant slide types
+
 ## **Templates**
 * [OSU LaTeX Thesis Template](https://github.com/mitchute/OSULaTeXTheisTemplate)
 * [UIUC Thesis Template](https://github.com/bardsoftware/template-thes-uiuc)
