@@ -66,7 +66,7 @@ This lesson focuses on LaTeX templates for technical and/or longer documents, sp
 %\usetheme{Copenhagen}
 %\usetheme{Darmstadt}
 %\usetheme{Dresden}
-\usetheme{Frankfurt}
+%\usetheme{Frankfurt}
 %\usetheme{Goettingen}
 %\usetheme{Hannover}
 %\usetheme{Ilmenau}
