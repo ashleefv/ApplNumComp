@@ -16,7 +16,8 @@ Fill in the blanks.
 
 ## **Activity**
 ### **Part One**
-* [Starting file](/CHEclassFa20/In%20Class%20Problem%20Activities/MATLAB/MATLABBasicsStart.m)
+* Start with this [.m file](/CHEclassFa20/In%20Class%20Problem%20Activities/MATLAB/MATLABBasicsStart.m) or [MATLAB live script](https://github.com/ashleefv/ApplNumComp/blob/master/CHEclassFa20/In%20Class%20Problem%20Activities/MATLAB/MATLABBasicsStart.mlx)
+
 ```MATLAB
 %% MATLABBasicsStart.m
 %   make a very simple plot of one function.
@@ -41,60 +42,31 @@ title('A simple plot')
 grid on
 ```
 ![Expected Graph](/Lesson_images/figure_L05.jpg)
+
 * Next, edit the code to do the following things
-  * Calculate a second expression g(x)=x
-  * Suppress printing of this new expression
-  * Plot g(x) on the same figure as f(x)
-  * Label both f(x) and g(x) using a legend
+  1. Calculate a second expression g(x)=x
+  2. Suppress printing of this new expression
+  3. Plot g(x) on the same figure as f(x)
+  4. Label both f(x) and g(x) using a legend
   
-Below is that code
-```MATLAB
-%% MATLABBasicsStart.m
-%   make a very simple plot of one function.
-
-%% set parameters
-xmin=0;
-xmax=3;
-Nx=200;
-
-%% set independent variable
-x=linspace(xmin,xmax,Nx);
-
-%% calculate function values
-f = 3*x.^2;
-g=x;
-%% plot results
-plot(x,f)
-hold on
-plot(x,g)
-hold off
-xlabel('x')
-ylabel('functions of x')
-legend('f(x) = 3x^2','g(x)= x','Location','Best');
-title('A simple plot')
-grid on
-```
 ### **Part Two**
-* Copy and paste the code from problem 1, make it into a new function named MATLABBasics.m
-* Allow the three parameters xmin, xmax, and Nx to be inputs to the funciton in this order. No output required
-
+* Copy and paste the code from Part 1, make it into a new function named MATLABBasics.m
+* Allow the three parameters xmin, xmax, and Nx to be inputs to the funciton in this order. No output is required. 
 * Confirm the new function works and accepts input by typing in the command window
-
 ```MATLAB
 MATLABBasics(0,10,200)
 ```
-This should work; however the below should not
+This should work; however the following should not:
 ```MATLAB
 MATLABBasics()
 ```
-This is due to the lack of inputs
-
-* Now modify the function MATLABBasics to accpet a variable number ofa rguments using keyword **varargin**
+This should fail, because we've defined a function that must have three inputs. Without three inputs, the function doesn't know what to do for the missing values.
+* Now modify the function MATLABBasics to accept a variable number of arguments using keyword **varargin**
 * Set the default values to 
 ```MATLAB
 xmin=0; xmax=3; Nx=200;
 ```
-* For example, use the following snippet to check if xmin is given, and either use varargin{1} [1 for first input] or use the default value
+* For example, use the following snippet to check if xmin is given, and either use varargin{1} where 1 denotes the 1st input or use the default if the value is not given:
 
 ```MATLAB
 if nargin < 1
@@ -103,12 +75,13 @@ else
 xmin=varargin{1};
 end
 ```
-
-* Test the new function by retyping in the command window
+* Test the new function by running
 ```MATLAB
+MATLABBasics(0,3,200)
 MATLABasics()
 ```
-* This should now recreate the same graph as the first command
+* You should get the same plot for both commands.
+* If it doesn't work, did you make an if statement for each input? 
 
 ### **Solution to Part 2**
 ```MATLAB
@@ -157,12 +130,12 @@ Or
 % Uses user-defined input if 3 inputs are provided
 % Uses defaults otherwise
 
-% if nargin < 3
+if nargin < 3
      % default values
      xmin = 0; 
      xmax = 3;
      Nx = 200;
- else
+else
      xmin = varargin{1};
      xmax = varargin{2};
      Nx = varargin{3};
