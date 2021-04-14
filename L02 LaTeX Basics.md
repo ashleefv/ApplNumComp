@@ -38,10 +38,13 @@ Some editors come with the implementation, but TeXMaker is preferred because of 
 ## **Try This Activity**
 * Use LaTeX to complete the exercises in this [coding activity](https://github.com/ashleefv/ApplNumComp/blob/master/LaTeX%20basics%20activity.pdf)
 * Solution [file](https://github.com/ashleefv/ApplNumComp/blob/master/CHEclassFa20/In%20Class%20Problem%20Solutions/LaTeX/ICP%20LaTeX%20Basics%20simple%20version.tex)
-* Solution [video](https://youtu.be/KSrDadBdp7w&feature=emb_title)
-  [![](http://img.youtube.com/vi/KSrDadBdp7/0.jpg)](https://youtu.be/KSrDadBdp7w "ICP LaTeX Basics Solution")
+* Solution [video](https://www.youtube.com/watch?v=KSrDadBdp7w&feature=emb_title)
+  [![](http://img.youtube.com/vi/KSrDadBdp7/0.jpg)](http://www.youtube.com/watch?v=KSrDadBdp7w "ICP LaTeX Basics Solution")
+  
+  [LaTeX basics, figures, and bib files](https://www.youtube.com/watch?v=2SE4oedooUM&feature=emb_title)
+ 
+ [![](http://img.youtube.com/vi/2SE4oedooUM/0.jpg)](http://www.youtube.com/watch?v=2SE4oedooUM "LaTeX basics fig and bib")
 
-https://youtu.be/KSrDadBdp7w
 ## **References for Further Exploration**
 * For more practice see the [hands-on tutorial for LaTeX](https://www.latex-tutorial.com/tutorials/) 
 * [Details on how to use TeXMaker](https://www.xm1math.net/texmaker/doc.html)
