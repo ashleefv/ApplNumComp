@@ -29,7 +29,7 @@ This lesson focuses on LaTeX templates for technical and/or longer documents, sp
 * Create a presentation using the Beamer package in LaTeX. [Beamer presentation template](https://github.com/ashleefv/ApplNumComp/blob/master/CHEclassFa20/In%20Class%20Problem%20Activities/LaTeX/BeamerPresTemplate.tex)
 * Either run the template in Overleaf or get the [Beamer package from CTAN](https://ctan.org/pkg/beamer?lang=en)
 * Enable various themes and color schemes to demonstrating LaTeX template functionality. Edit by commenting or uncommenting (via % at the start of the line) various themes and running
-```
+```Latex
 \usecolortheme{albatross}
 %\usecolortheme{beaver}
 %\usecolortheme{beetle}
@@ -50,7 +50,7 @@ This lesson focuses on LaTeX templates for technical and/or longer documents, sp
 ```
 * Enable various stylistic themes
 
-```
+```Latex
 % The Beamer class comes with a number of default slide themes
 % which change the colors and layouts of slides. Below this is a list
 % of all the themes, uncomment each in turn to see what they look like.
