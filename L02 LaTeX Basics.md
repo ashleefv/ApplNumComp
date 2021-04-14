@@ -2,12 +2,15 @@
 
 This lesson focuses on LaTeX for typesetting.
 
-## **Introductory Videos**
- * [LaTeX basics, figures, and math usage](https://www.youtube.com/watch?v=2SE4oedooUM&feature=emb_title)
+## **Related Readings**
+[Reading 1](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-1)
+
+## **Instructional Videos**
+ * [LaTeX basics, figures, and bib files](https://www.youtube.com/watch?v=2SE4oedooUM&feature=emb_title)
  
  [![](http://img.youtube.com/vi/2SE4oedooUM/0.jpg)](http://www.youtube.com/watch?v=2SE4oedooUM "LaTeX basics fig and bib")
 
- * [LaTeX further discussion of math](https://www.youtube.com/watch?v=6Wx8wb19wUM&feature=emb_title)
+ * [LaTeX math basics](https://www.youtube.com/watch?v=6Wx8wb19wUM&feature=emb_title)
  
  [![](http://img.youtube.com/vi/6Wx8wb19wUM/0.jpg)](http://www.youtube.com/watch?v=6Wx8wb19wUM "LaTeX basics math")
  
@@ -15,10 +18,14 @@ This lesson focuses on LaTeX for typesetting.
  
  [![](http://img.youtube.com/vi/n2l9VYJwJK4/0.jpg)](http://www.youtube.com/watch?v=n2l9VYJwJK4 "LaTeX files descriptions")
  
- * [Hands-on tutorial for LaTeX](https://www.latex-tutorial.com/tutorials/)
+ ![image](https://user-images.githubusercontent.com/12647990/114635342-870f0980-9c92-11eb-921c-27a2cff090c0.png)
  
-### **Comprehension Check**
-* What did you find the most interesting or surprising from the videos?
+ 
+ 
+ 
+ * [Hands-on tutorial for LaTeX](https://www.latex-tutorial.com/tutorials/) 
+### **Reflection Questions**
+* What did you find the most interesting or surprising from the videos and readings?
 * What was the most unclear or most confusing point in the videos?
 * Do you have a big report for class, article for research, thesis, or dissertation to write either this semester or within the next few years in your degree program? 
 
@@ -30,30 +37,23 @@ Some editors come with the implementation, but TeXMaker is preferred because of 
   However, it is preferred to install LaTeX on your own computer.
 
   1. Install MikTeX
-    * [MikTex download](https://miktex.org/download) Select the tab for your operating system and follow the step by step tutorial if 
-     you want more guidance. Note: during the installation there should be an option to 
-     "set Install missing packages on the fly". Selecting "Yes" is helpful.
+    * [MikTex download](https://miktex.org/download) Select the tab for your operating system and follow the step by step tutorial if you want more guidance. Note: during the installation there should be an option to "set Install missing packages on the fly". Selecting "Yes" is helpful.
     * If you are a Mac user and this does not work well for you, [MacTex](http://www.tug.org/mactex/) is another alternative
   2. Install TexMaker
-    * [TexMaker download](https://www.xm1math.net/texmaker/download.html) click on the appropriate download link for your       operating system.
-      After it has downloaded run the .exe file and follow the installation instructions.
+    * [TexMaker download](https://www.xm1math.net/texmaker/download.html) click on the appropriate download link for your operating system. After it has downloaded run the .exe file and follow the installation instructions.
       
-      
-
-## **Helpful Links and References**
-  * [Details on how to use TeXMaker, especially how to compile the documents](https://www.xm1math.net/texmaker/doc.html)
-  * [Nice reference or for more background on LaTeX](http://ctan.mirrors.hoobly.com/info/lshort/english/lshort.pdf)
-  
-  
 ## **Try This Activity**
 * [Coding activity](https://github.com/ashleefv/ApplNumComp/blob/master/LaTeX%20basics%20activity.pdf)
-  
-### Activity
 * Partner up, one person is the coder (actually doing the coding), the other is the navigator (watches the screen, reads values from the assignment, gives suggestions, and proofreads)
 * Discuss
 * Switch roles, stay with the same partner, try part 2 of the activity
 * Discuss
 
+
+## **References for Further Exploration**
+  * [Details on how to use TeXMaker](https://www.xm1math.net/texmaker/doc.html)
+  * [Nice reference or for more background on LaTeX](http://ctan.mirrors.hoobly.com/info/lshort/english/lshort.pdf). You are not expected to read this in detail, just refer to it or use a search engine to find other things you’d like to do in LaTeX on an AS NEEDED basis.
+ 
 ## **Previous Lesson**
 * [L01 Git for Version Control](/L01%20Git%20for%20Version%20Control.md)
 
