@@ -1,33 +1,29 @@
 # **Lesson 3: Advanced LaTeX Topics**
 
-This lesson focuses on LaTeX topics, specifically for writing papers, theses, and dissertations
+This lesson focuses on LaTeX templates for technical and/or longer documents, specifically for writing papers, theses, and dissertations.
 
-## **Introductory videos**
- * [LaTeX templates thesis and dissertation examples](https://www.youtube.com/watch?v=gHp1IWxEink&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+## **Instructional Videos**
+* [LaTeX templates thesis and dissertation examples](https://www.youtube.com/watch?v=gHp1IWxEink&feature=emb_title&ab_channel=AshleeN.FordVersypt)
    
-   [![](http://img.youtube.com/vi/gHp1IWxEink/0.jpg)](http://www.youtube.com/watch?v=gHp1IWxEink "")
+[![](http://img.youtube.com/vi/gHp1IWxEink/0.jpg)](http://www.youtube.com/watch?v=gHp1IWxEink "")
  
- * [LaTeX templates Elsevier example](https://www.youtube.com/watch?v=vO9O7Nuk0XM&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+* [LaTeX templates Elsevier example](https://www.youtube.com/watch?v=vO9O7Nuk0XM&feature=emb_title&ab_channel=AshleeN.FordVersypt)
    
-   [![](http://img.youtube.com/vi/vO9O7Nuk0XM/0.jpg)](http://www.youtube.com/watch?v=vO9O7Nuk0XM "")
+[![](http://img.youtube.com/vi/vO9O7Nuk0XM/0.jpg)](http://www.youtube.com/watch?v=vO9O7Nuk0XM "")
  
- * [LaTeX templates PLOS One example](https://www.youtube.com/watch?v=2IpdTQhj6cg&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+* [LaTeX templates PLOS One example](https://www.youtube.com/watch?v=2IpdTQhj6cg&feature=emb_title&ab_channel=AshleeN.FordVersypt)
    
-   [![](http://img.youtube.com/vi/2IpdTQhj6cg/0.jpg)](http://www.youtube.com/watch?v=2IpdTQhj6cg "")
+[![](http://img.youtube.com/vi/2IpdTQhj6cg/0.jpg)](http://www.youtube.com/watch?v=2IpdTQhj6cg "")
  
- * [LaTeX activity solutions](https://www.youtube.com/watch?v=KSrDadBdp7w&feature=emb_title&ab_channel=AshleeN.FordVersypt)
-  
-   [![](http://img.youtube.com/vi/KSrDadBdp7w/0.jpg)](http://www.youtube.com/watch?v=KSrDadBdp7w "")
+## **Reflection Questions**
+* For a scientific journal in your field, perform an internet search to find the link to an online .tex template or instructions for using a TeX template . If you're not familiar with any scientific journals yet, try "tex template _ journal" where _ is the name of your field.
+* Download the template you found and look through the .tex file like in the LaTeX Templates PLoS Example video. What are some of the similarities? Differences?
 
-### **Reflection Questions**
-* For a scientific journal in your field, perform an internet search to find the link to an online .tex template or instructions for using a TeX template . If you're not familiar with any scientific journals yet, try "tex template _____ journal"  ____ 
-Download the template you found and look through the .tex file like Dr. Ford Versypt does in the LaTeX Templates PLoS Example video. What are some of the similarities? Differences?
-
-## **LaTeX advantages for longer and technical documents**
-* Version Control
-* Integration of Templates for conferences, publishers, additional universities
-* File size reduction- 256 pg thesis is only 2.9 MG
-* Ease of integration for equation numbering, figure captioning, table of contents, cross referencing, inclusion or exclusion of packaged chapters
+## **Advantages of LaTeX for Technical and/or Longer Documents**
+* Version control
+* Integration of templates for conferences, publishers, universities
+* File size reduction, e.g., Dr. Ford Versypt's 256 page thesis is only 2.9 MB
+* Reduce headaches with figure numbering, equation numbering, cross-referencing, table of contents, or turning on or off chapters (e.g., using \include)
 
 ## **Advanced Tutorial**
   * Walkthrough of Beamer Presentation Template
@@ -90,15 +86,16 @@ Download the template you found and look through the .tex file like Dr. Ford Ver
 
 ```
 ## **Templates**
-  * [UIUC Thesis Template](https://github.com/bardsoftware/template-thes-uiuc)
-  * [OSU LaTeX Thesis Template](https://github.com/mitchute/OSULaTeXTheisTemplate)
-  * [Elsevier Template](https://www.elsevier.com/authors/policies-and-guidelines/latex-instructions)
-  * [PLOS One Template](https://journals.plos.org/plosone/s/latex)
-  * [Full Beamer Template](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/LaTeX/BeamerPresTemplate.tex)
+* [OSU LaTeX Thesis Template](https://github.com/mitchute/OSULaTeXTheisTemplate)
+* [UIUC Thesis Template](https://github.com/bardsoftware/template-thes-uiuc)
+* [Elsevier Template](https://www.elsevier.com/authors/policies-and-guidelines/latex-instructions)
+* [PLOS One Template](https://journals.plos.org/plosone/s/latex)
+* [Full Beamer Template](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/LaTeX/BeamerPresTemplate.tex)
 
 ## **References for Further Exploration**
 * [Math into LaTeX: An Introduction to LaTeX and AMS-LaTeX](https://www.springer.com/gp/book/9780817641313)
 * [Short Math Guide for LaTeX](http://tug.ctan.org/info/short-math-guide/short-math-guide.pdf)
+* For more practice see [Beamer user guide](https://www.overleaf.com/learn/latex/beamer)
 
 ## **Previous Lesson**
 * [L02 LaTeX Basics](/L02%20LaTeX%20Basics.md)
