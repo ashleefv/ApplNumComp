@@ -16,7 +16,7 @@ Fill in the blanks.
 
 ## **Activity**
 ### **Part One**
-* Provided the code below (which can be downloaded from [here](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/MATLAB/MATLABBasicsStart.m))
+* [Starting file](/CHEclassFa20/In%20Class%20Problem%20Activities/MATLAB/MATLABBasicsStart.m)
 ```MATLAB
 %% MATLABBasicsStart.m
 %   make a very simple plot of one function.
