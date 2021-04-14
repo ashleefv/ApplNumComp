@@ -43,7 +43,7 @@ $ git remote rm origin
   * Do you have any experiences like that pictured in the ["Final".doc](http://phdcomics.com/comics/archive_print.php?comicid=1531) cartoon? If so, briefly describe one of your experiences. If not, why might an experience like this be challenging?
   * Did you encounter any challenges or errors in the Set Up Version Control Software section?
 
-## **Try This Activity**
+## **Activity**
 
 * Using your bitbucket.org account, go to the repository named FirstnameLastnameApplNumComp (change firstname and lastname to own name, and ApplNumComp to own version of shortened course name). This should have been created previously.
 * Setup the repository to have a local directory on personal computer and connect the local directory to the online repository.  
