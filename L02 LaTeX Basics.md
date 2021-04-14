@@ -6,15 +6,16 @@ This lesson focuses on LaTeX for typesetting.
 [Reading 1](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-1)
 
 ## **Instructional Videos**
- * [LaTeX basics, figures, and bib files](https://www.youtube.com/watch?v=2SE4oedooUM&feature=emb_title)
+* [LaTeX document shown in videos](https://github.com/ashleefv/ApplNumComp/blob/master/CHEclassFa20/Pre%20Class%20Activities/LaTeX%20Basics/Demo%20Git%20Basics.tex)
+* [LaTeX basics, figures, and bib files](https://www.youtube.com/watch?v=2SE4oedooUM&feature=emb_title)
  
  [![LaTeX basics fig and bib](http://img.youtube.com/vi/2SE4oedooUM/0.jpg)](http://www.youtube.com/watch?v=2SE4oedooUM "LaTeX basics fig and bib")
 
- * [LaTeX math basics](https://www.youtube.com/watch?v=6Wx8wb19wUM&feature=emb_title)
+* [LaTeX math basics](https://www.youtube.com/watch?v=6Wx8wb19wUM&feature=emb_title)
  
  [![LaTeX basics math](http://img.youtube.com/vi/6Wx8wb19wUM/0.jpg)](http://www.youtube.com/watch?v=6Wx8wb19wUM "LaTeX basics math")
  
- * [LaTeX description of files](https://www.youtube.com/watch?time_continue=1&v=n2l9VYJwJK4&feature=emb_title)
+* [LaTeX description of files](https://www.youtube.com/watch?time_continue=1&v=n2l9VYJwJK4&feature=emb_title)
  
  [![LaTeX files descriptions](http://img.youtube.com/vi/n2l9VYJwJK4/0.jpg)](http://www.youtube.com/watch?v=n2l9VYJwJK4 "LaTeX files descriptions")
  
