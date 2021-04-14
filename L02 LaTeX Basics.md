@@ -18,7 +18,7 @@ This lesson focuses on LaTeX for typesetting.
  
  [![LaTeX files descriptions](http://img.youtube.com/vi/n2l9VYJwJK4/0.jpg)](http://www.youtube.com/watch?v=n2l9VYJwJK4 "LaTeX files descriptions")
  
- ![image](https://user-images.githubusercontent.com/12647990/114635342-870f0980-9c92-11eb-921c-27a2cff090c0.png)
+ ![LaTeX file structure flow chart](https://user-images.githubusercontent.com/12647990/114635342-870f0980-9c92-11eb-921c-27a2cff090c0.png)
 
 ### **Reflection Questions**
 * What did you find the most interesting or surprising from the videos and readings?
@@ -39,6 +39,7 @@ Some editors come with the implementation, but TeXMaker is preferred because of 
 * Use LaTeX to complete the exercises in this [coding activity](https://github.com/ashleefv/ApplNumComp/blob/master/LaTeX%20basics%20activity.pdf)
 * Solution [file](https://github.com/ashleefv/ApplNumComp/blob/master/CHEclassFa20/In%20Class%20Problem%20Solutions/LaTeX/ICP%20LaTeX%20Basics%20simple%20version.tex)
 * Solution [video](https://www.youtube.com/watch?v=KSrDadBdp7w&feature=emb_title)
+
 [![ICP LaTeX Basics Solution](http://img.youtube.com/vi/KSrDadBdp7w/0.jpg)](http://www.youtube.com/watch?v=KSrDadBdp7w "ICP LaTeX Basics Solution")
 
 
