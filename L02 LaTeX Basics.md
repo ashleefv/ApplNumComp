@@ -36,7 +36,7 @@ Some editors come with the implementation, but TeXMaker is preferred because of 
 2. Install TexMaker
     * [TexMaker download](https://www.xm1math.net/texmaker/download.html) click on the appropriate download link for your operating system. After it has downloaded run the .exe file and follow the installation instructions.
       
-## **Try This Activity**
+## **Activity**
 * Use LaTeX to complete the exercises in this [coding activity](https://github.com/ashleefv/ApplNumComp/blob/master/LaTeX%20basics%20activity.pdf)
 * Solution [file](https://github.com/ashleefv/ApplNumComp/blob/master/CHEclassFa20/In%20Class%20Problem%20Solutions/LaTeX/ICP%20LaTeX%20Basics%20simple%20version.tex)
 * Solution [video](https://www.youtube.com/watch?v=KSrDadBdp7w&feature=emb_title)
