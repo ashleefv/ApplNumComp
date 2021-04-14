@@ -9,8 +9,9 @@ This lesson continues the introduction of basics of MATLAB programming for scien
 [![](http://img.youtube.com/vi/CWgl5Ylltxk/0.jpg)](http://www.youtube.com/watch?v=CWgl5Ylltxk "")
 
 ## **Reflection Questions**
-* Fill in the blank. Input parameters to MATLAB functions are passed by _________.
-* Fill in the blank. Variables created inside the function are ____________ variables.
+Fill in the blanks.
+* Input parameters to MATLAB functions are passed by _________.
+* Variables created inside the function are ____________ variables.
 * The ___________ feature in MATLAB allows you to create html, pdf, doc, etc. external documentation of your MATLAB code file and output values, plots, and/or error messages for sharing. 
 
 ## **Activity**
