@@ -1,8 +1,11 @@
 # **Lesson 4: MATLAB Basics**
 
-This lesson focuses on basic MATLAB functionality. 
+This lesson focuses on best practices in scientific computing and basic MATLAB functionality. 
 
-### **Uses of MATLAB**
+## **Related Readings**
+[Reading 2](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-1)
+
+## **Uses of MATLAB**
   * Calculator
   * Scripts
   * Built in Plotting
@@ -11,21 +14,21 @@ This lesson focuses on basic MATLAB functionality.
   * Publication tool
   * Loops
   
-### **Introductory Activities**
+## **Introductory Activities**
 * MATLAB installation- activate a code through [Mathworks](https://www.mathworks.com/academia.html), some institutions have access 
 * If you can get access, download and install. If not, once you purchase an access code or activate one through an institution, you can use [MATLAB online](https://matlab.mathworks.com/)  
 * [MATLAB Coding Best Practices](https://www.youtube.com/watch?v=ThDNl4m7GsI&feature=emb_title&ab_channel=AshleeN.FordVersypt)
 
 [![](http://img.youtube.com/vi/ThDNl4m7GsI/0.jpg)](http://www.youtube.com/watch?v=ThDNl4m7GsI "")
 
-#### **Comprehension Check**
+##**Reflection Questions**
 * Were any of the best practices new to you?
 * Did any surprise you?
 * Did any confuse you?
 * Describe a situation where you have successfully adopted one of the best practices.
 * Describe a situation where you wish in retrospect that you had adopted one of the best practices, but you didn't at the time.     Which best practice was it? Why might it have made a difference to you?
 
-### **Walkthrough and Tutorial**
+## **Activity**
 Walk through coding of the following examples to show how to debug and the uses.
 * [Raw File](/CHEclassFa20/In%20Class%20Problem%20Activities/MATLAB/MATLABBasicsStart.m)
 * Calculator- do some basic calculations
@@ -128,12 +131,12 @@ else
 end
 ``` 
   
-### **Additional Resources**
+## **References for Further Exploration**
 * [Mathworks Website](https://www.mathworks.com/help/matlab/)
 * [MATLAB Central](https://www.mathworks.com/matlabcentral/)
 * [Video Tutorials for MATLAB GUI Tools](http://learningmatlab.com/videos/index.html)
 
-### **Previous Lesson**
+## **Previous Lesson**
  * [L03 Advanced LaTeX Topics](/L03%20Advanced%20LaTeX%20Topics.md)
-### **Next Lesson**
+## **Next Lesson**
  * [L05 MATLAB Basics Continued](/L05%20MATLAB%20Basics%20Cont.md)
