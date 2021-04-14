@@ -83,7 +83,7 @@ This lesson focuses on LaTeX templates for technical and/or longer documents, sp
 %\usetheme{Szeged}
 %\usetheme{Warsaw}
 ```
-* Edit text on the slides
+* Edit text on the slides and duplicate slides as necessary to fill out a presentation
 * Remove or comment out irrelevant slide types
 
 ## **Templates**
