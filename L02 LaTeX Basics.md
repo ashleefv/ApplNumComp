@@ -20,7 +20,7 @@ This lesson focuses on LaTeX for typesetting.
  
  ![LaTeX file structure flow chart](https://user-images.githubusercontent.com/12647990/114635342-870f0980-9c92-11eb-921c-27a2cff090c0.png)
 
-### **Reflection Questions**
+## **Reflection Questions**
 * What did you find the most interesting or surprising from the videos and readings?
 * What was the most unclear or most confusing point in the videos?
 * Do you have a big report for class, article for research, thesis, or dissertation to write either this semester or within the next few years in your degree program? 
