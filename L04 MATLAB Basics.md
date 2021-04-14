@@ -5,40 +5,45 @@ This lesson focuses on best practices in scientific computing and basic MATLAB f
 ## **Related Readings**
 [Reading 2](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-2)
 
-## **Uses of MATLAB**
-  * Calculator
-  * Scripts
-  * Built in Plotting
-  * Built in Functions
-  * User defined functions
-  * Publication tool
-  * Loops
-  
-## **Introductory Activities**
-* MATLAB installation- activate a code through [Mathworks](https://www.mathworks.com/academia.html), some institutions have access 
-* If you can get access, download and install. If not, once you purchase an access code or activate one through an institution, you can use [MATLAB online](https://matlab.mathworks.com/)  
-* [MATLAB Coding Best Practices](https://www.youtube.com/watch?v=ThDNl4m7GsI&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+ 
+## **Instructional Video**
+* [Coding best practices](https://www.youtube.com/watch?v=ThDNl4m7GsI&feature=emb_title&ab_channel=AshleeN.FordVersypt)
 
-[![](http://img.youtube.com/vi/ThDNl4m7GsI/0.jpg)](http://www.youtube.com/watch?v=ThDNl4m7GsI "")
+[![](http://img.youtube.com/vi/ThDNl4m7GsI/0.jpg)](http://www.youtube.com/watch?v=ThDNl4m7GsI "Coding best practices")
+* Example project shown in the video: https://github.com/ashleefv/BeeNestABM
 
 ## **Reflection Questions**
 * Were any of the best practices new to you?
 * Did any surprise you?
 * Did any confuse you?
 * Describe a situation where you have successfully adopted one of the best practices.
-* Describe a situation where you wish in retrospect that you had adopted one of the best practices, but you didn't at the time.     Which best practice was it? Why might it have made a difference to you?
+* Describe a situation where you wish in retrospect that you had adopted one of the best practices, but you didn't at the time. Which best practice was it? Why might it have made a difference to you?
+
+## **Set Up MATLAB Software**
+* MATLAB installation: activate a code through [Mathworks](https://www.mathworks.com/academia.html), some institutions have access. You may also consult your institution to determine if a MATLAB license is available to you. 
+* If you can get access, download and install. If not, once you purchase an access code or activate one through an institution, you can use [MATLAB online](https://matlab.mathworks.com/)  
+
+## **Uses of MATLAB**
+  * Calculator
+  * Scripts
+  * Built in plotting
+  * Built in functions
+  * User defined functions
+  * Publish tool
+  * Flow control via loops
+  * [Why MATLAB?](https://www.mathworks.com/products/matlab/why-matlab.html)
 
 ## **Activity**
-Walk through coding of the following examples to show how to debug and the uses.
-* [Raw File](/CHEclassFa20/In%20Class%20Problem%20Activities/MATLAB/MATLABBasicsStart.m)
-* Calculator- do some basic calculations
+Walk through coding of the following examples.
+* [Starting file](/CHEclassFa20/In%20Class%20Problem%20Activities/MATLAB/MATLABBasicsStart.m)
+* Basic calculations
 ```MATLAB
 2+2
 3*4
 ```
 * Scripts
 ```MATLAB
-
+% MATLABBasicsStart.m
 %% calculate function values
 f = 3*x.^2;
 g=x;
@@ -69,14 +74,14 @@ grid on
 ```
 ![Expected Graph](Lesson_images/L4.1.jpg)
 
-* Built in functions
+* Built-in functions
 ```MATLAB
- xmin = 0; 
- xmax = 3;
- Nx = 200;
-x=linspace(xmin,xmax,Nx);
+xmin = 0; 
+xmax = 3;
+Nx = 200;
+x = linspace(xmin,xmax,Nx);
 ```
-* User Defined functions
+* User-defined functions
 ```MATLAB
 %% set parameters
 xmin=0;
@@ -89,7 +94,7 @@ x=linspace(xmin,xmax,Nx);
 %% calculate function values
 f = 3*x.^2;
 ```
-* Publication tool for exporting figures
+* Publish tool for sharing the output from running MATLAB files
 ```MATLAB
 %% calculate function values
 f = 3*x.^2;
@@ -130,11 +135,13 @@ else
     Nx = varargin{3};
 end
 ``` 
-  
+* [Solution file](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/MATLABBasics.m) or [solution MATLAB live script](https://github.com/ashleefv/ApplNumComp/blob/master/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/MATLABBasics.mlx) and publish output [pdf file](https://github.com/ashleefv/ApplNumComp/blob/master/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/MATLABBasicsSoln.pdf)
+
 ## **References for Further Exploration**
-* [Mathworks Website](https://www.mathworks.com/help/matlab/)
+* [Mathworks website](https://www.mathworks.com/help/matlab/)
 * [MATLAB Central](https://www.mathworks.com/matlabcentral/)
-* [Video Tutorials for MATLAB GUI Tools](http://learningmatlab.com/videos/index.html)
+* [Video tutorials based on Learning to Program with MATLAB: Building GUI Tools by Craig S. Lent](http://learningmatlab.com/videos/index.html)
+* [Additional MATLAB reference books](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#matlab-reference-books)
 
 ## **Previous Lesson**
  * [L03 Advanced LaTeX Topics](/L03%20Advanced%20LaTeX%20Topics.md)
