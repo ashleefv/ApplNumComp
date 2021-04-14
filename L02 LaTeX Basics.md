@@ -18,7 +18,7 @@ This lesson focuses on LaTeX for typesetting.
  
  [![LaTeX files descriptions](http://img.youtube.com/vi/n2l9VYJwJK4/0.jpg)](http://www.youtube.com/watch?v=n2l9VYJwJK4 "LaTeX files descriptions")
  
- ![LaTeX file structure flow chart](https://user-images.githubusercontent.com/12647990/114635342-870f0980-9c92-11eb-921c-27a2cff090c0.png)
+ ![LaTeX file structure flow chart](https://github.com/ashleefv/ApplNumComp/blob/master/CHEclassFa20/Pre%20Class%20Activities/LaTeX%20Basics/LaTeX_diagram.PNG)
 
 ## **Reflection Questions**
 * What did you find the most interesting or surprising from the videos and readings?
