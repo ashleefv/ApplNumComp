@@ -95,7 +95,7 @@ All of the YouTube videos produced by Dr. Ford Versypt have captions transcribed
   * Online editor: [Overleaf](https://www.overleaf.com)
 
 ## Computational Assignments
-The overviews for the assignments are as follows:
+The assignments, related files, and grading rubrics are available in the [Assignments folder of this repository](https://github.com/ashleefv/ApplNumComp/tree/master/Assignments). The overviews for the assignments are as follows:
 1.	Version control in Git and document typesetting in LaTeX 
     *	Create a Git repository to track versions of assignment files (in this and subsequent assignments)
     *	Produce a LaTeX document with several required components using research or major course work as the topic
@@ -116,11 +116,9 @@ The overviews for the assignments are as follows:
     *	Generate a Jupyter Notebook file and a LaTeX file to document the code from Python
 5.	Develop a GUI in MATLAB starting with an existing computational model
     *	Create a GUI in MATLAB to take user inputs and display simulation results from a set of user-defined functions provided by the instructor
-6.	Design and construct a GUI in MATLAB, verify code implementation, and review content covered throughout the course
+6.	"Final Project": Design and construct a GUI in MATLAB, verify code implementation, and review content covered throughout the course
     *	Develop a GUI for MATLAB that takes a user-specified number of ODEs and explicit equations as input, solves the system of ODEs using ode45 in MATLAB, returns and exports the solution vector, and plots the solution vector components against the independent variable
     *	Verify that the GUI works for test cases from the systems of ODEs used in Computational Assignments 3 and 4
-
-The assignments, related files, and grading rubrics are available in the [Assignments folder of this repository](https://github.com/ashleefv/ApplNumComp/tree/master/Assignments).
 
 ## Course Implementation Tips
 * A. N. Ford Versypt, An Interdisciplinary Elective Course to Build Computational Skills for Mathematical Modeling in Science and Engineering, Proceedings of the ASEE Annual Conference, Tampa, FL, 2019. [DOI: 10.18260/1-2--32072](https://strategy.asee.org/an-interdisciplinary-elective-course-to-build-computational-skills-for-mathematical-modeling-in-science-and-engineering).
