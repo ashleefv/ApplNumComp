@@ -42,9 +42,6 @@ Some editors come with the implementation, but TeXMaker is preferred because of 
 
 [![ICP LaTeX Basics Solution](http://img.youtube.com/vi/KSrDadBdp7w/0.jpg)](http://www.youtube.com/watch?v=KSrDadBdp7w "ICP LaTeX Basics Solution")
 
-## **Computational Assignment**
-[Computational Assignment 1](https://github.com/ashleefv/ApplNumComp/blob/master/Assignments/Computational%20Assignment%201.pdf) and [grading rubric](https://github.com/ashleefv/ApplNumComp/blob/master/Assignments/Computational%20Assignment%201%20grading%20rubric.pdf)
-
 ## **References for Further Exploration**
 * For more practice see the [hands-on tutorial for LaTeX](https://www.latex-tutorial.com/tutorials/) 
 * [Details on how to use TeXMaker](https://www.xm1math.net/texmaker/doc.html)
