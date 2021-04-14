@@ -94,6 +94,34 @@ All of the YouTube videos produced by Dr. Ford Versypt have captions transcribed
   * Preferred editor: [Texmaker](https://www.xm1math.net/texmaker/download.html)
   * Online editor: [Overleaf](https://www.overleaf.com)
 
+## Computational Assignments
+The overviews for the assignments are as follows:
+1.	Version control in Git and document typesetting in LaTeX 
+    *	Create a Git repository to track versions of assignment files (in this and subsequent assignments)
+    *	Produce a LaTeX document with several required components using research or major course work as the topic
+2.	Programming in MATLAB while developing best practices for scientific computing (version control, commenting, and documentation)
+    *	Write a function to define a system of ODEs
+    *	Provide well-documented code following specified standards
+    *	Generate an HTML output file from MATLAB documenting the code
+3.	Using built-in functions and library routines for numerical methods (specifically ODE solvers) in MATLAB and Python
+    *	Solve a system of ODEs using numerical solvers in MATLAB and Python
+    *	Plot the results
+    *	Generate an HTML file to document the code from MATLAB
+    *	Generate a Jupyter Notebook file and a LaTeX file to document the code from Python
+4.	Parameter estimation of dynamic models using MATLAB and Python
+    *	Solve a system of ODEs using numerical solvers in MATLAB and Python
+    *	Use an optimization routine to iterate the ODE model parameters to fit data
+    *	Plot the results
+    *	Generate an HTML file to document the code from MATLAB
+    *	Generate a Jupyter Notebook file and a LaTeX file to document the code from Python
+5.	Develop a GUI in MATLAB starting with an existing computational model
+    *	Create a GUI in MATLAB to take user inputs and display simulation results from a set of user-defined functions provided by the instructor
+6.	Design and construct a GUI in MATLAB, verify code implementation, and review content covered throughout the course
+    *	Develop a GUI for MATLAB that takes a user-specified number of ODEs and explicit equations as input, solves the system of ODEs using ode45 in MATLAB, returns and exports the solution vector, and plots the solution vector components against the independent variable
+    *	Verify that the GUI works for test cases from the systems of ODEs used in Computational Assignments 3 and 4
+
+The assignments, related files, and grading rubrics are available in the [Assignments folder of this repository](https://github.com/ashleefv/ApplNumComp/tree/master/Assignments).
+
 ## Course Implementation Tips
 * A. N. Ford Versypt, An Interdisciplinary Elective Course to Build Computational Skills for Mathematical Modeling in Science and Engineering, Proceedings of the ASEE Annual Conference, Tampa, FL, 2019. [DOI: 10.18260/1-2--32072](https://strategy.asee.org/an-interdisciplinary-elective-course-to-build-computational-skills-for-mathematical-modeling-in-science-and-engineering).
 * “Teaching Computational Skills for Chemical Engineers,” Webinar, AIChE Education Division, Feb 2020. [Archived recording](https://www.aiche.org/academy/webinars/teaching-computational-skills-chemical-engineers-0)
