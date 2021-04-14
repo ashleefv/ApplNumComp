@@ -2,20 +2,19 @@
 
 This lesson continues the introduction of basics of MATLAB programming for scientific computing. 
   
-### **Introductory Videos**
+## **Instructional Videos**
 * [Learning MATLAB Functions](http://www.learningmatlab.com/videos/IndividualPages/10-Functions/FunctionsIntro.html)
 * [Publishing MATLAB Code from the Editor](https://www.youtube.com/watch?v=CWgl5Ylltxk&feature=emb_title&ab_channel=MATLAB)
 
 [![](http://img.youtube.com/vi/CWgl5Ylltxk/0.jpg)](http://www.youtube.com/watch?v=CWgl5Ylltxk "")
 
-#### **Comprehension Check**
+## **Reflection Questions**
 * Fill in the blank. Input parameters to MATLAB functions are passed by _________.
 * Fill in the blank. Variables created inside the function are ____________ variables.
-* The ___________ feature in MATLAB allows you to create html, pdf, doc, etc. external documentation of your MATLAB code file and   output values, plots, and/or error messages for sharing. 
+* The ___________ feature in MATLAB allows you to create html, pdf, doc, etc. external documentation of your MATLAB code file and output values, plots, and/or error messages for sharing. 
 
-### **Two Part guided problem**
-### **Walkthrough and Tutorial**
-#### **Part One**
+## **Activity**
+### **Part One**
 * Provided the code below (which can be downloaded from [here](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/MATLAB/MATLABBasicsStart.m))
 ```MATLAB
 %% MATLABBasicsStart.m
@@ -74,7 +73,7 @@ legend('f(x) = 3x^2','g(x)= x','Location','Best');
 title('A simple plot')
 grid on
 ```
-#### **Part Two**
+### **Part Two**
 * Copy and paste the code from problem 1, make it into a new function named MATLABBasics.m
 * Allow the three parameters xmin, xmax, and Nx to be inputs to the funciton in this order. No output required
 
@@ -110,7 +109,7 @@ MATLABasics()
 ```
 * This should now recreate the same graph as the first command
 
-#### **Solution to Part 2**
+### **Solution to Part 2**
 ```MATLAB
 %% MATLABBasics.m
 %   make a very simple plot of one function.
@@ -186,12 +185,11 @@ title('A simple plot')
 grid on
 end
 ```
-### **Additional Resources**
-* [Mathworks Website](https://www.mathworks.com/help/matlab/)
-* [MATLAB Central](https://www.mathworks.com/matlabcentral/)
+## **References for Further Exploration**
+* C. S. Lent. Ch. 7 Writing your own MATLAB functions in Learning to Program with MATLAB: Building GUI Tools. Wiley, Hoboken, NJ, 2013. ISBN: 978-0-470-93644-3. https://www.wiley.com/en-us/Learning+to+Program+with+MATLAB%3A+Building+GUI+Tools-p-9780470936443
 * [Publish and Share MATLAB Code](https://www.mathworks.com/help/matlab/matlab_prog/publishing-matlab-code.html)
 
-### **Previous Lesson**
+## **Previous Lesson**
  * [L04 MATLAB Basics](/L04%20MATLAB%20Basics.md)
-### **Next Lesson**
+## **Next Lesson**
  * [L06 Python Basics](/L06%20Python%20Basics.md)
