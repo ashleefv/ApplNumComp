@@ -20,8 +20,9 @@ This lesson focuses on best practices in scientific computing and basic MATLAB f
 * Describe a situation where you wish in retrospect that you had adopted one of the best practices, but you didn't at the time. Which best practice was it? Why might it have made a difference to you?
 
 ## **Set Up MATLAB Software**
-* MATLAB installation: activate a code through [Mathworks](https://www.mathworks.com/academia.html), some institutions have access. You may also consult your institution to determine if a MATLAB license is available to you. 
-* If you can get access, download and install. If not, once you purchase an access code or activate one through an institution, you can use [MATLAB online](https://matlab.mathworks.com/)  
+* MATLAB installation: activate a code through [Mathworks](https://www.mathworks.com/academia.html) if your institutions have access. You may also consult your institution to determine if a MATLAB license is available to you. 
+* If you can get access, download and install. If not, once you purchase an access code or activate one through an institution, you can use [MATLAB online](https://matlab.mathworks.com/)
+* [Octave](https://www.gnu.org/software/octave/index) is an open access software program largely compatible with MATLAB. This can be considered as an alternative if you do not have a MATLAB license.
 
 ## **Uses of MATLAB**
   * Calculator
