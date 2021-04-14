@@ -19,11 +19,7 @@ This lesson focuses on LaTeX for typesetting.
  [![](http://img.youtube.com/vi/n2l9VYJwJK4/0.jpg)](http://www.youtube.com/watch?v=n2l9VYJwJK4 "LaTeX files descriptions")
  
  ![image](https://user-images.githubusercontent.com/12647990/114635342-870f0980-9c92-11eb-921c-27a2cff090c0.png)
- 
- 
- 
- 
- * [Hands-on tutorial for LaTeX](https://www.latex-tutorial.com/tutorials/) 
+
 ### **Reflection Questions**
 * What did you find the most interesting or surprising from the videos and readings?
 * What was the most unclear or most confusing point in the videos?
@@ -43,16 +39,16 @@ Some editors come with the implementation, but TeXMaker is preferred because of 
     * [TexMaker download](https://www.xm1math.net/texmaker/download.html) click on the appropriate download link for your operating system. After it has downloaded run the .exe file and follow the installation instructions.
       
 ## **Try This Activity**
-* [Coding activity](https://github.com/ashleefv/ApplNumComp/blob/master/LaTeX%20basics%20activity.pdf)
-* Partner up, one person is the coder (actually doing the coding), the other is the navigator (watches the screen, reads values from the assignment, gives suggestions, and proofreads)
-* Discuss
-* Switch roles, stay with the same partner, try part 2 of the activity
-* Discuss
+* Use LaTeX to complete the exercises in this [coding activity](https://github.com/ashleefv/ApplNumComp/blob/master/LaTeX%20basics%20activity.pdf)
+* Solution [file](https://github.com/ashleefv/ApplNumComp/blob/master/CHEclassFa20/In%20Class%20Problem%20Solutions/LaTeX/ICP%20LaTeX%20Basics%20simple%20version.tex)
+* Solution [video](https://youtu.be/KSrDadBdp7w&feature=emb_title)
+  [![](http://img.youtube.com/vi/KSrDadBdp7/0.jpg)](https://youtu.be/KSrDadBdp7w "ICP LaTeX Basics Solution")
 
-
+https://youtu.be/KSrDadBdp7w
 ## **References for Further Exploration**
-  * [Details on how to use TeXMaker](https://www.xm1math.net/texmaker/doc.html)
-  * [Nice reference or for more background on LaTeX](http://ctan.mirrors.hoobly.com/info/lshort/english/lshort.pdf). You are not expected to read this in detail, just refer to it or use a search engine to find other things you’d like to do in LaTeX on an AS NEEDED basis.
+* For more practice see the [hands-on tutorial for LaTeX](https://www.latex-tutorial.com/tutorials/) 
+* [Details on how to use TeXMaker](https://www.xm1math.net/texmaker/doc.html)
+* [Nice reference for more background on LaTeX](http://ctan.mirrors.hoobly.com/info/lshort/english/lshort.pdf). You are not expected to read this in detail, just refer to it or use a search engine to find other things you’d like to do in LaTeX on an AS NEEDED basis.
  
 ## **Previous Lesson**
 * [L01 Git for Version Control](/L01%20Git%20for%20Version%20Control.md)
