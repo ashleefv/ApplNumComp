@@ -5,7 +5,6 @@ This lesson focuses on best practices in scientific computing and basic MATLAB f
 ## **Related Readings**
 [Reading 2](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-2)
 
- 
 ## **Instructional Video**
 * [Coding best practices](https://www.youtube.com/watch?v=ThDNl4m7GsI&feature=emb_title&ab_channel=AshleeN.FordVersypt)
 
