@@ -21,7 +21,7 @@ This lesson focuses on best practices in scientific computing and basic MATLAB f
 
 [![](http://img.youtube.com/vi/ThDNl4m7GsI/0.jpg)](http://www.youtube.com/watch?v=ThDNl4m7GsI "")
 
-##**Reflection Questions**
+## **Reflection Questions**
 * Were any of the best practices new to you?
 * Did any surprise you?
 * Did any confuse you?
