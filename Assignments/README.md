@@ -1,0 +1,8 @@
+# Computational Assignments
+
+* [Computational Assignment 1](https://github.com/ashleefv/ApplNumComp/blob/master/Assignments/Computational%20Assignment%201.pdf) and [grading rubric](https://github.com/ashleefv/ApplNumComp/blob/master/Assignments/Computational%20Assignment%201%20grading%20rubric.pdf)
+* [Computational Assignment 2](https://github.com/ashleefv/ApplNumComp/blob/master/Assignments/Computational%20Assignment%202.pdf) and [grading rubric](https://github.com/ashleefv/ApplNumComp/blob/master/Assignments/Computational%20Assignment%202%20grading%20rubric.pdf)
+* [Computational Assignment 3](https://github.com/ashleefv/ApplNumComp/blob/master/Assignments/Computational%20Assignment%203.pdf) and [grading rubric](https://github.com/ashleefv/ApplNumComp/blob/master/Assignments/Computational%20Assignment%203%20grading%20rubric.pdf)
+* [Computational Assignment 4](https://github.com/ashleefv/ApplNumComp/blob/master/Assignments/Computational%20Assignment%204.pdf) and [grading rubric](https://github.com/ashleefv/ApplNumComp/blob/master/Assignments/Computational%20Assignment%204%20grading%20rubric.pdf)
+* [Computational Assignment 5](https://github.com/ashleefv/ApplNumComp/blob/master/Assignments/Computational%20Assignment%205.pdf) and [grading rubric](https://github.com/ashleefv/ApplNumComp/blob/master/Assignments/Computational%20Assignment%205%20grading%20rubric.pdf)
+* [Final Computational Project](https://github.com/ashleefv/ApplNumComp/blob/master/Assignments/Final%20Computational%20Project.pdf) and [grading rubric](https://github.com/ashleefv/ApplNumComp/blob/master/Assignments/Final%20Computational%20Project%20grading%20rubric.pdf)
