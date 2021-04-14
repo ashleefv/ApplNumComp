@@ -8,15 +8,15 @@ This lesson focuses on LaTeX for typesetting.
 ## **Instructional Videos**
  * [LaTeX basics, figures, and bib files](https://www.youtube.com/watch?v=2SE4oedooUM&feature=emb_title)
  
- [![](http://img.youtube.com/vi/2SE4oedooUM/0.jpg)](http://www.youtube.com/watch?v=2SE4oedooUM "LaTeX basics fig and bib")
+ [![LaTeX basics fig and bib](http://img.youtube.com/vi/2SE4oedooUM/0.jpg)](http://www.youtube.com/watch?v=2SE4oedooUM "LaTeX basics fig and bib")
 
  * [LaTeX math basics](https://www.youtube.com/watch?v=6Wx8wb19wUM&feature=emb_title)
  
- [![](http://img.youtube.com/vi/6Wx8wb19wUM/0.jpg)](http://www.youtube.com/watch?v=6Wx8wb19wUM "LaTeX basics math")
+ [![LaTeX basics math](http://img.youtube.com/vi/6Wx8wb19wUM/0.jpg)](http://www.youtube.com/watch?v=6Wx8wb19wUM "LaTeX basics math")
  
  * [LaTeX description of files](https://www.youtube.com/watch?time_continue=1&v=n2l9VYJwJK4&feature=emb_title)
  
- [![](http://img.youtube.com/vi/n2l9VYJwJK4/0.jpg)](http://www.youtube.com/watch?v=n2l9VYJwJK4 "LaTeX files descriptions")
+ [![LaTeX files descriptions](http://img.youtube.com/vi/n2l9VYJwJK4/0.jpg)](http://www.youtube.com/watch?v=n2l9VYJwJK4 "LaTeX files descriptions")
  
  ![image](https://user-images.githubusercontent.com/12647990/114635342-870f0980-9c92-11eb-921c-27a2cff090c0.png)
 
@@ -39,11 +39,8 @@ Some editors come with the implementation, but TeXMaker is preferred because of 
 * Use LaTeX to complete the exercises in this [coding activity](https://github.com/ashleefv/ApplNumComp/blob/master/LaTeX%20basics%20activity.pdf)
 * Solution [file](https://github.com/ashleefv/ApplNumComp/blob/master/CHEclassFa20/In%20Class%20Problem%20Solutions/LaTeX/ICP%20LaTeX%20Basics%20simple%20version.tex)
 * Solution [video](https://www.youtube.com/watch?v=KSrDadBdp7w&feature=emb_title)
-  [![](http://img.youtube.com/vi/KSrDadBdp7/0.jpg)](http://www.youtube.com/watch?v=KSrDadBdp7w "ICP LaTeX Basics Solution")
-  
-  [LaTeX basics, figures, and bib files](https://www.youtube.com/watch?v=2SE4oedooUM&feature=emb_title)
- 
- [![](http://img.youtube.com/vi/2SE4oedooUM/0.jpg)](http://www.youtube.com/watch?v=2SE4oedooUM "LaTeX basics fig and bib")
+[![ICP LaTeX Basics Solution](http://img.youtube.com/vi/KSrDadBdp7w/0.jpg)](http://www.youtube.com/watch?v=KSrDadBdp7w "ICP LaTeX Basics Solution")
+
 
 ## **References for Further Exploration**
 * For more practice see the [hands-on tutorial for LaTeX](https://www.latex-tutorial.com/tutorials/) 
