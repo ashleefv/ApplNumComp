@@ -49,7 +49,7 @@ Walk through coding of the following examples.
 f = 3*x.^2;
 g=x;
 ```
-* Built in plotting
+* Plotting
 ```MATLAB
 %% MATLABBasicsStart.m
 %   make a very simple plot of one function.
