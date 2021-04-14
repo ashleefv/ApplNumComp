@@ -36,7 +36,6 @@ This lesson focuses on best practices in scientific computing and basic MATLAB f
 
 ## **Activity**
 Walk through coding of the following examples.
-* [Starting file](/CHEclassFa20/In%20Class%20Problem%20Activities/MATLAB/MATLABBasicsStart.m)
 * Basic calculations
 ```MATLAB
 2+2
