@@ -28,50 +28,11 @@ Based on your understanding of the videos, what are some of the advantages and d
 
 ## **Activity**
 * Compare the procedures for curve fitting/parameter estimation in MATLAB using the following techniques with [data](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/MATLAB/ParamEstimData.m)
-  * cftool
-  * lsqnonlin
-  * lsqcurvefit
-* [Sample code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ParamEstimExample.m)
+   * cftool
+   * lsqnonlin
+   * lsqcurvefit
+* Define the function to fit
 ```MATLAB
-%% Parameter Estimation Example
-% ParamEstimExample.m
-
-% read in the xdata, ydata
-ParamEstimData
-
-% define initial parameters guesses
-a0 = 1;
-b0 = -1.6;
-c0 = -0.75;
-d0 = -2.7;
-
-% guesses for where to start parameter estimation
-parameters0 = [a0, b0, c0, d0]; 
-
-%parameters = lsqnonlin(@(sumExponentials-ydata).^2,parameters0); % in MATLAB documentation x is the parameters, not the xaxis or xdata
-[parameters, resnorm, residuals, exitflag, output] = lsqcurvefit(@sumExponentials, parameters0,xdata,ydata); % in MATLAB documentation x is the parameters, not the xaxis or xdata
-% plot the data
-figure(1)
-plot(xdata,ydata,'o')
-```
-* Below is the plotting section, which is a useful visual check that the model solution is working as desired.
-```MATLAB
-xforplotting = linspace(xdata(1),xdata(end),100);
-yforplotting = sumExponentials(parameters,xforplotting);
-hold on
-plot(xforplotting,yforplotting)
-
-yAtInitialGuess = sumExponentials(2*parameters,xforplotting);
-plot(xforplotting,yAtInitialGuess,'g')
-hold off
-legend('data', 'model with fitted parameters','initial guesses*2 in the model')
-
-parameters
-resnorm
-figure(2)
-plot(xdata,residuals)
-
-% defining the function to fit
 function output = sumExponentials(parameters,x)
     a = parameters(1);
     b = parameters(2);
@@ -82,9 +43,64 @@ function output = sumExponentials(parameters,x)
     output = y;
 end
 ```
-* Curve fitting toolbox solution [cftool](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Solutions/MATLAB/CurveFit1Example.sfit)
+* Read in the data file and set up the guesses for the parameters
+```MATLAB
+%% Parameter Estimation Example
+% ParamEstimExample.m
 
-* (Video of the synchronous class period where Dr. Ford Versypt demonstrated these examples](https://youtu.be/GUa801h1WaI)
+% fitting to a curve of this form:
+% y = a*exp(b*x)+c*exp(d*x);
+
+% read in the xdata, ydata
+ParamEstimData
+% output is xdata and ydata 
+
+% define initial parameters guesses
+a0 = 1;
+b0 = -1;
+c0 = -1;
+d0 = -2;
+
+% guesses for where to start parameter estimation
+parameters0 = [a0, b0, c0, d0];
+```
+* Estimate parameters using lsqnonlin https://www.mathworks.com/help/optim/ug/lsqnonlin.html
+```MATLAB
+parameters = lsqnonlin(@(parameters)(sumExponentials(parameters,xdata)-ydata),parameters0); % in MATLAB documentation x is the parameters, not the xaxis or xdata
+```
+* Estimate parameters using lsqcurvefit https://www.mathworks.com/help/optim/ug/lsqcurvefit.html
+```MATLAB
+[parameters, resnorm, residuals, exitflag, output] = lsqcurvefit(@sumExponentials, parameters0,xdata,ydata); % in MATLAB documentation x is the parameters, not the xaxis or xdata
+```
+* Output
+```MATLAB
+parameters =
+
+    0.7533   -1.6017   -0.7533   -2.6963
+
+
+resnorm =
+
+   5.7655e-06
+```
+* Plot the results
+```MATLAB
+figure(1)
+plot(xdata,ydata,'o')
+
+xforplotting = linspace(xdata(1),xdata(end),100);
+yforplotting = sumExponentials(parameters,xforplotting);
+hold on
+plot(xforplotting,yforplotting)
+
+yAtInitialGuess = sumExponentials(parameters0,xforplotting);
+plot(xforplotting,yAtInitialGuess,'g')
+hold off
+legend('data', 'model with fitted parameters','initial guesses in the model')
+```
+* Curve fitting toolbox solution [cftool output .sfit file](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Solutions/MATLAB/CurveFit1Example.sfit)
+* Solution using lsqnonlin and lsqcurvefit in an [.m file](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ParamEstimExample.m)
+* [Video of the synchronous class period where Dr. Ford Versypt demonstrated these examples](https://youtu.be/GUa801h1WaI)
 
 [![](http://img.youtube.com/vi/GUa801h1WaI/0.jpg)](https://youtu.be/GUa801h1WaI "")
 
