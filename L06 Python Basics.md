@@ -16,7 +16,7 @@ The lesson introduces the basics of Python programming.
   
 ## **Set Up Python Software**
 * Install the most recent version of [Anaconda Python](https://www.anaconda.com/products/individual)
-  * This installs both Spyder and Jupyter Motebook
+  * This installs both Spyder and Jupyter Notebook among other programs
 * If you can't download, use Python Jupyter Notebook online [via Google Colab](https://colab.research.google.com/) 
 
 ## **Activity**
