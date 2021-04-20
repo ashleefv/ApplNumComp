@@ -60,11 +60,9 @@ plt.show()
 ![Expected Graph 3](/Lesson_images/Figure3_L10.png)
 * Solution [.py file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PlotExamples.py)
 
-## **MATLAB plotting**
-* Working example 
-* Note: in MATLAB, to plot Y vs. X plot(x,y)
+## **MATLAB Plotting**
+* Note: to plot Y vs. X in MATLAB, use plot(x,y)
 * Work through several plotting examples sequentially, increasing complexity with each graph, debugging.
-* Sample code
 * These plots exhibit the ability of MATLAB to run functions, as well as different methods of plotting: delineating the dataset, noting a function in terms of another variable, and manually typing the equations in the plot line
 * Additionally, figure 3 demonstrates some of the options a user can specify within the 
 ```MATLAB
