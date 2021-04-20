@@ -15,11 +15,9 @@ The lesson introduces the basics of Python programming.
 * List the four ways described in the video to run Python codes. 
   
 ## **Set Up Python Software**
-* Python installation- Install the most recent version of [Anaconda Python](https://www.anaconda.com/products/individual)
-  * This installs both Spyder and Jupyter notebooks
-* If you can't download, use [Python Jupyter Notebooks online](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) 
-
-* [Python code demos](https://bitbucket.org/ashleefv/checlassfa20/src/master/Pre%20Class%20Activities/Python/)
+* Install the most recent version of [Anaconda Python](https://www.anaconda.com/products/individual)
+  * This installs both Spyder and Jupyter Motebook
+* If you can't download, use Python Jupyter Notebook online [via Google Colab](https://colab.research.google.com/) 
 
 ## **Activity**
 MATLAB to Python conversion Tutorial
