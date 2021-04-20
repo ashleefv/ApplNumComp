@@ -17,67 +17,53 @@ This lesson introduces built-in MATLAB functions for common classes of numerical
 * Find the MATLAB documentation for one of the built-in functions shown in the videos.
 
 ## **Optimization Functions**
-* [Optimization Toolbox](https://www.mathworks.com/help/optim/referencelist.html?type=function)
+* https://www.mathworks.com/help/matlab/optimization.html
 * Solving nonlinear equations
-  * fzero
-  * fsolve
+    * fzero
+    * fsolve
 * Non-linear data-fitting
-  * lsqcurvefit
+    * lsqcurvefit
 * General optimization (minimization)
-  * fminbnd
-  * fmincon
+    * fminbnd
+    * fmincon
+* Example 1 code snippet
+```MATLAB
+OPTIONS = optimoptions(@lsqcurvefit, 'Algorithm', 'trust-region-reflective', 'TolX', 1e-6, 'TolFun', 1e-6, 'StepTolerance', 1e-13, 'MaxFunEvals', 1000, 'MaxIter', 3000);
+[coefficients, resnorm] = lsqcurvefit(@(coefficients,Xdata) myModel(coefficients, Xdata, ModelParameters), coefficientsGuess, Xdata, Ydata, LB, UB, OPTIONS)
+```
 
 ## **Numerical Integration Functions**
-* [Numerical integration and differentiation](mathworks.com/help/matlab/numerical-integration-and-differentiation.html)
-  * quad, quadl, quadv --> integral
-  * trapz
+* mathworks.com/help/matlab/numerical-integration-and-differentiation.html
+    * quad, quadl, quadv --> integral
+    * trapz
+* Example 2 code snippet
+```MATLAB
+function quad_example    
+   for tt=2:numberTimePoints
+   % functions and NR for the polynomial    
+   % order in polyfits    
+   numeratorY=(cdrugt0(1:NR)-cdrug(1:NR,tt))'...        
+   .*radius(1:NR).*radius(1:NR);    
+   % fit numerator integrand with 10th order polynominal    
+   numerator_coef=polyfit(radius,numeratorY,10);    
+   cumulrel_num(tt)=quad(@(r) CRIN(numerator_coef,r),0,1,TOL);    
+   end
+end
 
-## **Solution Python Code**
-Note this code is identical to the version in L06, and here can be used to demonstrate relationships between MATLAB functions and their analog in Python, allowing students to make the connection to whichever language is more intrinsic to their understanding.
-[Raw code](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ConvertFromMATLABtoPythonSoln.py)
-```Python
-"""
-ICPL7Python
-
-Used for comparison to MATLAB function executing the same method.
-
-Example: ax = b 
-Equation 1: $3x_1-0.1x_2-0.2x_3=7.85$.                
-Equation 2: $0.1x_1+7x_2-0.3x_3=-19.3$. 
-Equation 3: $0.3x_1-0.2x_2+10x_3=71.4$.
-Soln x = [3; -2.5; 7]
-
-Created on Tue Aug 30 12:30:54 2016
-
-@author: Ashlee N. Ford Versypt
-"""
-
-import numpy as np
-
-# Initialize a matrix and b vector as numpy arrays
-a = np.array( [ [3.0, -.1, -.2], [0.1, 7.0, -0.3],[ 0.3, -.2, 10.0] ] )
-b = np.array( [ [7.85], [-19.3], [71.4] ] )
-
-# Define Gaussian elimination function
-def gaussElimin(a,b):
-    n = len(b)
-    for k in range(0,n-1):
-        for i in range(k+1,n):
-            if a[i,k] != 0.0:
-                lam = a[i,k]/a[k,k]
-                a[i,k+1:n] = a[i,k+1:n] - lam*a[k,k+1:n]
-                b[i] = b[i] - lam*b[k]
-    for k in range(n-1,-1,-1):
-        b[k] = (b[k] - np.dot(a[k,k+1:n],b[k+1:n]))/a[k,k]
-    return b
-
-# Solve for x
-x = gaussElimin(a,b)
-
-# Print x
-print("x =",x)
+function cumulrel_integrandnum = CRIN(numerator_coef,r)    
+   cumulrel_integrandnum = polyval(numerator_coef,r)
+end
 ```
-  
+
+* Example 3 code snippet to determine the cumulative amount over time of a chemical leaking from a sphere under certain conditions is
+Q(t)=100%∗3∫10(cdrug(r,0)−cdrug(r,t))r2dr
+```MATLAB
+for t=2:numberTimePoints    
+    Q(t) = 100*(3*dr*trapz((cdrugt0(1:NR) - cdrug(1:NR,t))'.*radius(1:NR) .*radius(1:NR)));
+end   
+```
+
+
 ## **References for Further Exploration**
 * [Algorithms for finding the root of nonlinear equations](https://www.youtube.com/watch?v=ujcZc5sPX4c&ab_channel=LearnChemE)
 
