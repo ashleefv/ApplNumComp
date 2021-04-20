@@ -56,7 +56,7 @@ end
 ```
 
 * Example 3 code snippet to determine the cumulative amount over time of a chemical leaking from a sphere under certain conditions is
-Q(t)=100%∗3∫10(cdrug(r,0)−cdrug(r,t))r2dr
+$Q(t)=100%∗3\integral ∫10(cdrug(r,0)−cdrug(r,t))r2dr$
 ```MATLAB
 for t=2:numberTimePoints    
     Q(t) = 100*(3*dr*trapz((cdrugt0(1:NR) - cdrug(1:NR,t))'.*radius(1:NR) .*radius(1:NR)));
