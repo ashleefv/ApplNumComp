@@ -20,9 +20,9 @@ The lesson introduces the basics of Python programming.
 * If you can't download, use Python Jupyter Notebook online [via Google Colab](https://colab.research.google.com/) 
 
 ## **Activity**
-MATLAB to Python conversion Tutorial
-
+MATLAB to Python conversion activity. 
 * Start from this [MATLAB .m file](/CHEclassFa20/In%20Class%20Problem%20Activities/Python/ConvertFromMATLABtoPython.m) for use in Spyder or other editror or from this [.ipynb file](/CHEclassFa20/In%20Class%20Problem%20Activities/Python/ConvertFromMATLABtoPython.ipynb) file for use in Jupyter Notebook or Google Colab
+* Convert the code from MATLAB to Python. Note the reduction in requisite logic statements; 4 "if" or "for" loops down to only 2 in Python. Also note the distinction between how to create and index matrices in both languages. 
 
 ```MATLAB
 % Used for comparison to Python function executing the same method.
@@ -60,7 +60,6 @@ function [x] = gaussElimin(a,b)
     x = b;
 end
 ```
-* Convert piecewise to Python code. Note the reduction in requisite logic statements; 4 "if" or "for" loops down to only 2 in Python. Also note the distinction between how to create matrices in both languages. 
 
 ## **Solution**
 * Solution [.py file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ConvertFromMATLABtoPythonSoln.py) and [.ipynb file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ConvertFromMATLABtoPythonSoln.ipynb)
