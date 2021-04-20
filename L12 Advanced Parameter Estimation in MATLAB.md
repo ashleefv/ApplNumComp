@@ -1,9 +1,8 @@
 # **Lesson 12: Advanced Parameter Estimation in MATLAB**
 This lesson focuses on parameter estimation with more advanced examples in MATLAB.
 
-### **Example MATLAB Plotting**
-* Working examples together
-* [Prompts for practice](https://github.com/ashleefv/ApplNumComp/blob/master/Lecture%2014%20Examples.pdf)
+## **Activity**
+* [Instructions for examples 1 and 2](https://github.com/ashleefv/ApplNumComp/blob/master/Lecture%2014%20Examples.pdf)
 
 ### **Example 1**
 * [Sample code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ODEParamEstimExample1.m)
