@@ -1,20 +1,30 @@
 %% Parameter Estimation Example
 % ParamEstimExample.m
 
+% fitting to a curve of this form:
+% y = a*exp(b*x)+c*exp(d*x);
+
 % read in the xdata, ydata
 ParamEstimData
+% output is xdata and ydata 
 
 % define initial parameters guesses
 a0 = 1;
-b0 = -1.6;
-c0 = -0.75;
-d0 = -2.7;
+b0 = -1;
+c0 = -1;
+d0 = -2;
 
 % guesses for where to start parameter estimation
 parameters0 = [a0, b0, c0, d0]; 
 
-%parameters = lsqnonlin(@(sumExponentials-ydata).^2,parameters0); % in MATLAB documentation x is the parameters, not the xaxis or xdata
+% Using lsqnonlin
+% parameters = lsqnonlin(@(parameters)(sumExponentials(parameters,xdata)-ydata),parameters0); % in MATLAB documentation x is the parameters, not the xaxis or xdata
+% MATLAB help for lsqnonlin: https://www.mathworks.com/help/optim/ug/lsqnonlin.html
+
+% Using lsqcurvefit
 [parameters, resnorm, residuals, exitflag, output] = lsqcurvefit(@sumExponentials, parameters0,xdata,ydata); % in MATLAB documentation x is the parameters, not the xaxis or xdata
+% MATLAB help for lsqcurvefit: https://www.mathworks.com/help/optim/ug/lsqcurvefit.html
+
 % plot the data
 figure(1)
 plot(xdata,ydata,'o')
@@ -24,15 +34,17 @@ yforplotting = sumExponentials(parameters,xforplotting);
 hold on
 plot(xforplotting,yforplotting)
 
-yAtInitialGuess = sumExponentials(2*parameters,xforplotting);
+yAtInitialGuess = sumExponentials(parameters0,xforplotting);
 plot(xforplotting,yAtInitialGuess,'g')
 hold off
-legend('data', 'model with fitted parameters','initial guesses*2 in the model')
+legend('data', 'model with fitted parameters','initial guesses in the model')
 
 parameters
+% solution:
+% parameters =
+% 
+%     0.7533   -1.6017   -0.7533   -2.6963
 resnorm
-figure(2)
-plot(xdata,residuals)
 
 % defining the function to fit
 function output = sumExponentials(parameters,x)
