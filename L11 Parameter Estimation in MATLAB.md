@@ -6,7 +6,7 @@ This lesson covers how to use MATLAB tools for this process.
 [Reading 6](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-6)
 
 ## **Instructional Videos**
-* [Estimating parameters using measured data in Simulink](https://www.mathworks.com/videos/estimating-parameters-of-a-dc-motor-68856.html). Note: these lessons do not cover using Simulink to build models in MATLAB, so the parameter estimation procedures described in the lessons differ from those in the video. However, the visualization of the overall parameter estimation process and how the differences between the model predictions and the measured values are minimized is really helpful for seeing what we aim to accomplish with parameter estimation. 
+* [Estimating parameters using measured data in Simulink](https://www.mathworks.com/videos/estimating-parameters-of-a-dc-motor-68856.html). Note: these lessons do not cover using Simulink to build models in MATLAB, so the parameter estimation procedures described in the lessons differ from those in this video. However, the visualization of the overall parameter estimation process and how the differences between the model predictions and the measured values are minimized is really helpful for seeing what we aim to accomplish with parameter estimation. 
 * [What is curve fitting toolbox](https://www.mathworks.com/videos/curve-fitting-toolbox-overview-61198.html)
 * [Using curve fitting toolbox for polynomial functions](https://www.youtube.com/watch?v=dc7YdW_3wGs&feature=emb_title&ab_channel=AnselmGriffin)
 
