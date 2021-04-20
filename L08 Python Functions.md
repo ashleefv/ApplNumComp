@@ -93,7 +93,7 @@ plt.show()
 ```
 ![Expected Graph](/Lesson_images/figure_L8.png)
 
-## **References for Further Reflection**
+## **References for Further Exploration**
 * [Default values in Python](https://docs.python.org/3.7/tutorial/controlflow.html#more-on-defining-functions)
 * [Loops in Python](https://www.codementor.io/@sheena/python-generators-and-iterators-du1082iua). Python has more capabilities than MATLAB for loops using iterators and iterables.
 * [Python modules](https://docs.python.org/3/tutorial/modules.html)
