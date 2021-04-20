@@ -79,8 +79,8 @@ output = [dC_A_dt; dC_B_dt];
  ```
 * Solution [.py file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/system_of_ODEs.py)
 * Note the short length of the executed Python code, emphasizing that different languages excel at different tasks.
-* Note that to convert, copy the comment section, change the symbol from % to #
-* Then all that needs converting is the executed component, which in Python is simply less than 10 lines.
+* Note that to convert, first copy the comment section and change the symbol from % to #
+* Then all that needs converting is the executed component, which in Python is less than 10 lines.
 ```Python
 import numpy as np
 # python equivalent
