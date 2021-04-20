@@ -37,7 +37,7 @@ plt.savefig('exampleplot.png')
 plt.show()
 ```
 ![Expected Graph 2](/Lesson_images/Figure2_L10.png)
-* Continue from the Python code above to tile subplots on the same figure
+* Add tile subplots on the same figure
 ```Python
 fig = plt.figure(figsize=(10.0,3.0))
 
@@ -73,7 +73,7 @@ xlabel('\beta x')
 ylabel('x^2')
 ```
 ![Expected Graph 1](/Lesson_images/figure1_L10.jpg)
-* Continue from the MATLAB code above to include another curve and adjust the axis limits
+* Add another curve and adjust the axis limits
 ```MATLAB
 figure(2)
 plot(x,y,'o-')
@@ -84,7 +84,7 @@ hold off
 axis([1.5 3.5, 0, 100]) % [ xmin, xmax, ymin, ymax]
 ```
 ![Expected Graph 2](/Lesson_images/figure2_L10.jpg)
-* Continue from the MATLAB code above to use a for loop to plot multiple curves and to set the legend entries dynamically
+* Add a for loop to plot multiple curves and to set the legend entries dynamically
 ```MATLAB
 figure(3)
 Y = [y;2*y;3*y;4*y];
@@ -97,13 +97,16 @@ hold off
 legend('-DynamicLegend')
 ```
 ![Expected Graph 3](/Lesson_images/Figure3_L10.jpg)
-* The following figures demonstrate how to run loops, only plot portions of those loops,how to plot multiple plots in the same window, and how to plot errorbars
+* Add multiple plots on the same figure using hold on and hold off
 ```MATLAB
 figure(4)
 hold on
 plot(x,Y(1,:),'o')
 plot(x,Y(4,:),'x')
 hold off
+```
+![Expected Graph 4](/Lesson_images/Figure4_L10.jpg)
+```MATLAB
 figure(5)
 hold on
 Y1 = Y(1,:);
@@ -111,104 +114,30 @@ Y4 = Y(4,:);
 plot(x,Y1)
 plot(x,Y4)
 hold off
-
+```
+![Expected Graph 5](/Lesson_images/Figure5_L10.jpg)
+* Display multiple subplots on one figure using tiles
+```MATLAB
 figure(6)
 Y = [y;2*y;3*y;4*y];
-Yerror = .1*Y;
+
 tiledlayout('flow')
 for i = 1:2
     nexttile
-    plot(x,Y(i,:),'o','MarkerSize',15,'DisplayName',['final value' num2str(Y(i,end))])%,'MarkerFaceColor','g')
+    plot(x,Y(i,:),'o','MarkerSize',15,'DisplayName',['final value = ' num2str(Y(i,end))])
     legend('-DynamicLegend')
 end
-
+```
+![Expected Graph 6](/Lesson_images/Figure6_L10.jpg)
+* Display error bars on a figure
+```MATLAB
+Yerror = .1*Y;
 figure(7)
 errorbar(x,Y(1,:),Yerror(1,:))
 ```
-![Expected Graph 4](/Lesson_images/Figure4_L10.jpg)
-![Expected Graph 5](/Lesson_images/Figure5_L10.jpg)
-* Another example of MATLAB plotting functionalities
-[Raw MATLAB code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/PlotExamples.m)
-```MATLAB
-x = [1, 2, 3, 4];
-y = [1, 4, 9, 16];
-plot(x,y)
-xlabel('some numbers')
-ylabel('x^2')
+![Expected Graph 7](/Lesson_images/Figure7_L10.jpg)
+* Related MATLAB plotting sample [.m file](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/PlotExamples.m)
 
-hold on
-plot(y) % overlaps original plot with 2nd curve. red/orange color
-hold off
-plot(y) % replaces any plot with blue single curve
-
-% set x- and y-axis limits
-axis([0, 6, 0,20])%[xmin, xmax, ymin, ymax]
-
-xmin = 1.0;
-xmax = 5.0;
-ymin = 0;
-ymax = 20;
-axis([xmin, xmax, ymin, ymax])
-
-
-
-% symbols, colors, and linestyles
-plot(x,y,'ro--','MarkerSize',16,'LineWidth',1.25)
-plot(x,y,'ro')
-figure(2)
-errorbar(y,.1*y)
-figure(3)
-plot(x,y,'DisplayName',['final y value' num2str(y(end))])
-legend('-DynamicLegend')
-
-figure(1)
-subplot(221)
-plot(x,y,'ro--','MarkerSize',16,'LineWidth',1.25)
-subplot(222)
-plot(x,y,'o','MarkerFaceColor',[255, 124, 25]/256)
-subplot(223)
-errorbar(y,.1*y)
-subplot(224)
-errorbar(y,.1*y,'b')
-```
-* Demonstrating tile layouts with the following figures, as well as demonstrating that each of separate tiles is unique figure.
-* Also demonstrating the ability to force intervals on graphs.
-```MATLAB
-figure(2)
-tiledlayout('flow') %tiledlayout(2,2)
-nexttile
-plot(x,y,'ro--','MarkerSize',16,'LineWidth',1.25)
-nexttile
-plot(x,y,'o','MarkerFaceColor',[255, 124, 25]/256)
-nexttile
-errorbar(y,.1*y)
-nexttile
-errorbar(y,.1*y,'b')
-help plot
-
-% evenly spaced sampled time at specied intervals
-time_inc = 0.2; % units of s
-time_start = 0; % s
-time_end = 5; %s
-time = time_start:time_inc:time_end;
-
-% compare to linspace
-time = linspace(0,5,26); %start, end, number of points
-t = time;
-
-%% ICP
-% red dashes for t vs. t, blue squares for t^2 vs. t, and green triangles
-% for t^3 vs. t
-
-figure(4)
-plot(t,t,'r--') % 'DisplayName','t vs. t'
-hold on
-plot(t,t.^2,'bs')
-plot(t,t.^3,'g^')
-hold off
-legend('t vs. t','t^2 vs. t','t^3 vs. t','location','best')
-
-```
 ## **References for Further Exploration**
 * [MATLAB graphics documentation](https://www.mathworks.com/help/matlab/graphics.html)
 * [Python graphics documentation](https://matplotlib.org/)
