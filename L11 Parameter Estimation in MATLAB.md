@@ -2,7 +2,10 @@
 Parameter estimation or curve fitting is the process of finding the coefficients or parameters to fit some model or curve to a set of data.
 This lesson covers how to use MATLAB tools for this process.
 
-### **Introductory videos**
+## **Related Readings**
+[Reading 6](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-6)
+
+## **Instructional Videos**
 * [Estimating parameters using measured data](https://www.mathworks.com/videos/estimating-parameters-of-a-dc-motor-68856.html)
 * [What is curve fitting toolbox](https://www.mathworks.com/videos/curve-fitting-toolbox-overview-61198.html)
 * [Using curve fitting toolbox for polynomial functions](https://www.youtube.com/watch?v=dc7YdW_3wGs&feature=emb_title&ab_channel=AnselmGriffin)
@@ -17,13 +20,14 @@ This lesson covers how to use MATLAB tools for this process.
 
 [![](http://img.youtube.com/vi/kXAtvLHJAus/0.jpg)](http://www.youtube.com/watch?v=kXAtvLHJAus "")
 
-#### **Comprehension Check**
+## **Relfection Questions**
  * Based on your understanding of the videos, what are some of the advantages and disadvantages of using the following for curve fitting aka parameter estimation
 
   ** polyfit
   ** curve fitting toolbox
   ** lsqcurvefit
-### **MATLAB Plotting Example**
+
+## **Activity**
 * Working example together
 * Compare the procedures for curve fitting/parameter estimation in MATLAB using the following techniques with [data](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/MATLAB/ParamEstimData.m)
   * cftool
@@ -82,10 +86,8 @@ end
 ```
 * [cftool module example](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Solutions/MATLAB/CurveFit1Example.sfit)
 
-### **Additional Resources**
-* None
-
-### **Previous Lesson**
+## **Previous Lesson**
  * [L10 Python and MATLAB Plotting](/L10%20Python%20and%20MATLAB%20Plotting.md)
-### **Next Lesson**
+
+## **Next Lesson**
  * [L12 Advanced Parameter Estimation in MATLAB](/L12%20Advanced%20Parameter%20Estimation%20in%20MATLAB.md)
