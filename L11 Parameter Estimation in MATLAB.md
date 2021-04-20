@@ -98,6 +98,7 @@ plot(xforplotting,yAtInitialGuess,'g')
 hold off
 legend('data', 'model with fitted parameters','initial guesses in the model')
 ```
+![Expected Graph 1](/Lesson_images/Figure1_L11.jpg)
 * Curve fitting toolbox solution [cftool output .sfit file](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Solutions/MATLAB/CurveFit1Example.sfit)
 * Solution using lsqnonlin and lsqcurvefit in an [.m file](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ParamEstimExample.m)
 * [Video of the synchronous class period where Dr. Ford Versypt demonstrated these examples](https://youtu.be/GUa801h1WaI)
