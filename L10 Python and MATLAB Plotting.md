@@ -62,7 +62,7 @@ plt.show()
 * Note: to plot Y vs. X in MATLAB, use plot(x,y)
 * Define x and y vectors, customize the line color, style, and symbol, and format x- and y-axis labels 
 ```MATLAB
-%close all
+close all
 clear all
 x = [1, 2, 3, 4];
 y = [1, 4, 9, 16];
@@ -90,7 +90,7 @@ figure(3)
 Y = [y;2*y;3*y;4*y];
 hold on
 for i = 1:4
-    plot(x,Y(i,:),'o','MarkerSize',15,'DisplayName',['final value' num2str(Y(i,end))])%,'MarkerFaceColor','g')
+    plot(x,Y(i,:),'o','MarkerSize',15,'DisplayName',['final value = ' num2str(Y(i,end))])%,'MarkerFaceColor','g')
 end
 hold off
 %legend('y','y^2','y^3','y^4')
