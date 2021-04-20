@@ -3,36 +3,36 @@
 This lesson introduces Python functions from the NumPy and SciPy libraries for common classes of numerical methods for solving nonlinear equations, numerical integration, and ordinary differential equations (initial value problems).
 
 ## **Instructional Videos**
- * [Using Python to solve a system of linear equations](https://www.youtube.com/watch?v=g2aX77LAc0o&feature=emb_title&ab_channel=AshleeN.FordVersypt)
-  [![](http://img.youtube.com/vi/g2aX77LAc0o/0.jpg)](http://www.youtube.com/watch?v=g2aX77LAc0o "")
+* [Using Python to solve a system of linear equations](https://www.youtube.com/watch?v=g2aX77LAc0o&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+[![](http://img.youtube.com/vi/g2aX77LAc0o/0.jpg)](http://www.youtube.com/watch?v=g2aX77LAc0o "")
 * [Python built-in functions for numerical methods for nonlinear equations](https://www.youtube.com/watch?v=nnCDaHCulAU&feature=emb_title&ab_channel=APMonitor.com)
-  [![](http://img.youtube.com/vi/nnCDaHCulAU/0.jpg)](http://www.youtube.com/watch?v=nnCDaHCulAU "")
+[![](http://img.youtube.com/vi/nnCDaHCulAU/0.jpg)](http://www.youtube.com/watch?v=nnCDaHCulAU "")
 
 ## **Reflection Question**
-  * Find the Python documentation for fsolve.
+* Find the Python documentation for fsolve.
  
 ## **Optimization Functions**
 * [Scipy linalg solver](https://docs.scipy.org/doc/scipy/reference/generated/scipy.linalg.solve.html
 * Systems of linear equations: scipy.linalg.solve function
-  * backlash equivalent: solve
+    * backlash equivalent: solve
 * [Scipy linalg optimize](https://docs.scipy.org/doc/scipy-0.13.0/reference/optimize.html)
 * Optimization functions: use scipy.optimize package for all of the following functions
-  * Solving nonlinear equations
-    * fzero equivalents: brenq, brenth, ridder, bisect, newton
-    * fsolve equivalent: fsolve
+    * Solving nonlinear equations
+        * fzero equivalents: brenq, brenth, ridder, bisect, newton
+        * fsolve equivalent: fsolve
   * Non-linear data-fitting
-    * lsqcurvefit equivalent: curve_fit
+      * lsqcurvefit equivalent: curve_fit
   * General optimization (minimization)
-    * fminsearch equivalents: fmin, fmin_powell, fmin_cg, fmin_bfgs, fmin_ncg
-    * fmincon equivalents: fmin_cobyla, fmin_tinc
+      * fminsearch equivalents: fmin, fmin_powell, fmin_cg, fmin_bfgs, fmin_ncg
+      * fmincon equivalents: fmin_cobyla, fmin_tinc
 * [Scipy integrate](https://docs.scipy.org/doc/scipy/reference/integrate.html)
 * Numerical integration: use scipy.integrate package for all of the following functions
-  * quad (integral) equivalent: quad
-  * trapz equivalent (relies on sampled data, not a function formula): numpy.trapz and scipy.optimize.simps
+    * quad (integral) equivalent: quad
+    * trapz equivalent (relies on sampled data, not a function formula): numpy.trapz and scipy.optimize.simps
 * Solving ordinary differential equations: use scipy.integrate package for all of the following functions
-  * odeint: uses lsoda from FORTRAN library odepack for stiff or non-stiff systems with Adams and BDF algorithms
-  * ode: allows for integrator algorithm to be explicitly specified
-  * Newer functions for RK23 and RK45
+    * odeint: uses lsoda from FORTRAN library odepack for stiff or non-stiff systems with Adams and BDF algorithms
+    * ode: allows for integrator algorithm to be explicitly specified
+    * Newer functions for RK23 and RK45
     * ODE Python example
     * [Core Python file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/L9_odeint_example.py)
 ```Python
