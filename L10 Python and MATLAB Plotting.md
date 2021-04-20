@@ -31,14 +31,20 @@ t = np.arange(0,101,1)
 plt.plot(t,t,'r--')
 plt.ylabel('t')
 plt.show() #somewhat like hold on in matlab
-
+```
+![Expected Graph 1](/Lesson_images/Figure1_L10.png)
+* Continue from the Python code above to add two more plots
+```Python
 plt.plot(t,t**2,'bs')
 plt.plot(t,t**3,'g^')
 
 #plt.axis([0, 20, 0, 30])
 plt.savefig('exampleplot.png')
 plt.show()
-
+```
+![Expected Graph 2](/Lesson_images/Figure2_L10.png)
+* Continue from the Python code above to tile subplots on the same figure
+```Python
 fig = plt.figure(figsize=(10.0,3.0))
 
 axes1 = fig.add_subplot(1,3,1)
@@ -55,8 +61,6 @@ axes3.plot(t,t**3,'g^')
 fig.tight_layout()
 plt.show()
 ```
-![Expected Graph 1](/Lesson_images/Figure1_L10.png)
-![Expected Graph 2](/Lesson_images/Figure2_L10.png)
 ![Expected Graph 3](/Lesson_images/Figure3_L10.png)
 * Solution [.py file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PlotExamples.py)
 
