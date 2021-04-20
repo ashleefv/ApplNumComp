@@ -1,21 +1,21 @@
 # **Lesson 10: Python and MATLAB Plotting**
 
-This lesson introduces methods and commands for 2D and 3D plotting in Python and MATLAB, as well as how to use them.
+This lesson introduces 2D and 3D visualization in Python and MATLAB.
 
-### **Introductory videos**
- * [Plotting examples](https://www.youtube.com/watch?v=Pykrn0DpesA&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+## **Introductory videos**
+ * [Plotting examples from Dr. Ford Versypt's research](https://www.youtube.com/watch?v=Pykrn0DpesA&feature=emb_title&ab_channel=AshleeN.FordVersypt)
   
  [![](http://img.youtube.com/vi/Pykrn0DpesA/0.jpg)](http://www.youtube.com/watch?v=Pykrn0DpesA "")
-* [Example Python figures](https://matplotlib.org/gallery/index.html)
-* [Example MATLAB figures](https://www.mathworks.com/help/matlab/examples.html?category=graphics&s_tid=CRUX_topnav)
-#### **Comprehension Check**
-  * Find an example of common type of 2D or 3D visualization from your research or science, engineering, or mathematics coursework. Include an image of the example as a file upload (common image file formats like .png or .jpg preferable) 
-  * Browse through the MATLAB and Python example galleries. Which type, if any, of the examples are similar to visualization example you found for question 1?
+* Dr. Ford Versypt's [Google Scholar profile](https://scholar.google.com/citations?user=Xaj6qbIAAAAJ) for the work shown in the video
+
+## **Reflection Questions**
+* Find an example of common type of 2D or 3D visualization from your research or science, engineering, or mathematics coursework. 
+* Browse through the MATLAB and Python example galleries. Which type, if any, of the examples are similar to visualization example you found for question 1?
     * [Python gallery](https://matplotlib.org/gallery/index.html)
     * [MATLAB gallery](https://www.mathworks.com/help/matlab/examples.html?category=graphics&s_tid=CRUX_topnav)
 
 
-### **Python Plotting**
+## **Python Plotting**
 [Raw Python file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PlotExamples.py)
 * Python uses 
 ```Python
@@ -67,7 +67,7 @@ plt.show()
 ![Expected Graph 2](/Lesson_images/Figure2_L10.png)
 ![Expected Graph 3](/Lesson_images/Figure3_L10.png)
 
-### **MATLAB plotting**
+## **MATLAB plotting**
 * Working example 
 * Note: in MATLAB, to plot Y vs. X plot(x,y)
 * Work through several plotting examples sequentially, increasing complexity with each graph, debugging.
@@ -217,13 +217,16 @@ hold off
 legend('t vs. t','t^2 vs. t','t^3 vs. t','location','best')
 
 ```
-### **Additional Resources**
+## **References for Further Exploration**
 * [MATLAB graphics documentation](https://www.mathworks.com/help/matlab/graphics.html)
 * [Python graphics documentation](https://matplotlib.org/)
 * [MATLAB line specifications](https://www.mathworks.com/help/matlab/ref/linespec.html)
 * [MATLAB default color order](http://math.loyola.edu/~loberbro/matlab/html/colorsInMatlab.html)
+* [Python gallery](https://matplotlib.org/gallery/index.html)
+* [MATLAB gallery](https://www.mathworks.com/help/matlab/examples.html?category=graphics&s_tid=CRUX_topnav)
 
-### **Previous Lesson**
+## **Previous Lesson**
  * [L09 MATLAB to Python Conversion](/L09%20MATLAB%20to%20Python%20Conversion.md)
-### **Next Lesson**
+
+## **Next Lesson**
  * [L11 Parameter Estimation in MATLAB](/L11%20Parameter%20Estimation%20in%20MATLAB.md)
