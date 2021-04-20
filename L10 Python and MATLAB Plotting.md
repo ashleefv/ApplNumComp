@@ -129,7 +129,7 @@ for i = 1:2
 end
 ```
 ![Expected Graph 6](/Lesson_images/Figure6_L10.jpg)
-* Display error bars on a figure
+* Display error bars on a plot
 ```MATLAB
 Yerror = .1*Y;
 figure(7)
