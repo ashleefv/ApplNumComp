@@ -2,6 +2,9 @@
 
 This lesson introduces Python functions from the NumPy and SciPy libraries for common classes of numerical methods for solving nonlinear equations, numerical integration, and ordinary differential equations (initial value problems).
 
+## **Related Readings**
+[Reading 5](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-5)
+
 ## **Instructional Videos**
 * [Using Python to solve a system of linear equations](https://www.youtube.com/watch?v=g2aX77LAc0o&feature=emb_title&ab_channel=AshleeN.FordVersypt)
 
