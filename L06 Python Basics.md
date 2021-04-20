@@ -3,7 +3,8 @@
 The lesson introduces the basics of Python programming.
 
 ## **Related Readings**
-[Reading 3](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-3)
+* [Reading 3](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-3)
+* [Why Python?](https://towardsdatascience.com/why-python-is-not-the-programming-language-of-the-future-30ddc5339b66)
 
 ## **Instructional Video**
 * [Four Ways to Run Python Code](https://www.youtube.com/watch?v=BRQ2DDpByE4&feature=emb_title&ab_channel=AshleeN.FordVersypt)
@@ -12,9 +13,6 @@ The lesson introduces the basics of Python programming.
 
 ## **Reflection Question**
 * List the four ways described in the video to run Python codes. 
-
-## **Why Python**
-[Python Motivation](https://towardsdatascience.com/why-python-is-not-the-programming-language-of-the-future-30ddc5339b66)
   
 ## **Set Up Python Software**
 * Python installation- Install the most recent version of [Anaconda Python](https://www.anaconda.com/products/individual)
@@ -78,10 +76,6 @@ Equation 1: $3x_1-0.1x_2-0.2x_3=7.85$.
 Equation 2: $0.1x_1+7x_2-0.3x_3=-19.3$. 
 Equation 3: $0.3x_1-0.2x_2+10x_3=71.4$.
 Soln x = [3; -2.5; 7]
-
-Created on Tue Aug 30 12:30:54 2016
-
-@author: Ashlee N. Ford Versypt
 """
 
 import numpy as np
