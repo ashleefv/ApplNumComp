@@ -1,11 +1,6 @@
 # **Lesson 12: Advanced Parameter Estimation in MATLAB**
 This lesson focuses on parameter estimation with more advanced examples in MATLAB.
 
-### **Introductory videos**
-None for this lesson
-
-#### **Comprehension Check**
-None for this lesson
 ### **Example MATLAB Plotting**
 * Working examples together
 * [Prompts for practice](https://github.com/ashleefv/ApplNumComp/blob/master/Lecture%2014%20Examples.pdf)
@@ -140,12 +135,11 @@ function output = system_of_ODEs(t,x,parameters)
 end
 end
 ```
-### **Additional Example**
-* [Weighted sum of squared residuals in parameter estimation](https://github.com/ashleefv/ApplNumComp/blob/master/WSSR.pdf)
-### **Additional Resources**
-* None for this lesson
+## **Reference for Further Exploration**
+* Weighted sum of squared residuals in parameter estimation [theory and example](https://github.com/ashleefv/ApplNumComp/blob/master/WSSR.pdf)
 
-### **Previous Lesson**
+## **Previous Lesson**
  * [L11 Parameter Estimation in MATLAB](/L11%20Parameter%20Estimation%20in%20MATLAB.md)
-### **Next Lesson**
+
+## **Next Lesson**
  * [L13 Parameter Estimation in Python](/L13%20Parameter%20Estimation%20in%20Python.md)
