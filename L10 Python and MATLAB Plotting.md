@@ -30,15 +30,9 @@ import matplotlib.pyplot as plt
 t = np.arange(0,101,1)
 plt.plot(t,t,'r--')
 plt.ylabel('t')
-plt.show() #somewhat like hold on in matlab
-```
-![Expected Graph 1](/Lesson_images/Figure1_L10.png)
-* Continue from the Python code above to add two more plots
-```Python
 plt.plot(t,t**2,'bs')
 plt.plot(t,t**3,'g^')
 
-#plt.axis([0, 20, 0, 30])
 plt.savefig('exampleplot.png')
 plt.show()
 ```
