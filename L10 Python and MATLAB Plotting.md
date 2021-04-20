@@ -60,7 +60,6 @@ plt.show()
 
 ## **MATLAB Plotting**
 * Note: to plot Y vs. X in MATLAB, use plot(x,y)
-* Work through several plotting examples sequentially, increasing complexity with each graph, debugging.
 * These plots exhibit the ability of MATLAB to run functions, as well as different methods of plotting: delineating the dataset, noting a function in terms of another variable, and manually typing the equations in the plot line
 * Additionally, figure 3 demonstrates some of the options a user can specify within the 
 ```MATLAB
@@ -73,6 +72,9 @@ figure(1)
 plot(x,y,'o-','color',[142, 0, 178]/255)
 xlabel('\beta x')
 ylabel('x^2')
+```
+![Expected Graph 1](/Lesson_images/figure1_L10.jpg)
+```
 figure(2)
 plot(x,y,'o-')
 hold on
@@ -91,7 +93,7 @@ hold off
 %legend('y','y^2','y^3','y^4')
 legend('-DynamicLegend')
 ```
-![Expected Graph 1](/Lesson_images/figure1_L10.jpg)
+
 ![Expected Graph 2](/Lesson_images/figure2_L10.jpg)
 ![Expected Graph 3](/Lesson_images/Figure3_L10.jpg)
 * The following figures demonstrate how to run loops, only plot portions of those loops,how to plot multiple plots in the same window, and how to plot errorbars
