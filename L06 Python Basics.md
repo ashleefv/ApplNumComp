@@ -14,21 +14,21 @@ The lesson introduces the basics of Python programming.
 * List the four ways described in the video to run Python codes. 
 
 ## **Why Python**
-  [Python Motivation](https://towardsdatascience.com/why-python-is-not-the-programming-language-of-the-future-30ddc5339b66)
+[Python Motivation](https://towardsdatascience.com/why-python-is-not-the-programming-language-of-the-future-30ddc5339b66)
   
-## **Installation and Access**
+## **Set Up Python Software**
 * Python installation- Install the most recent version of [Anaconda Python](https://www.anaconda.com/products/individual)
   * This installs both Spyder and Jupyter notebooks
 * If you can't download, use [Python Jupyter Notebooks online](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) 
 
 * [Python code demos](https://bitbucket.org/ashleefv/checlassfa20/src/master/Pre%20Class%20Activities/Python/)
 
-## **MATLAB to Python conversion Tutorial**
-Walk through coding of the following examples to show how to debug and the uses.
-[Starting MATLAB File](/CHEclassFa20/In%20Class%20Problem%20Activities/Python/ConvertFromMATLABtoPython.m)
-* Start from this MATLAB code
+## **Activity**
+MATLAB to Python conversion Tutorial
+
+* Start from this [MATLAB .m file](/CHEclassFa20/In%20Class%20Problem%20Activities/Python/ConvertFromMATLABtoPython.m) for use in Spyder or other editror or from this [.ipynb file](/CHEclassFa20/In%20Class%20Problem%20Activities/Python/ConvertFromMATLABtoPython.ipynb) file for use in Jupyter Notebook or Google Colab
+
 ```MATLAB
-%% ICPL5MATLAB
 % Used for comparison to Python function executing the same method.
 
 %% Example: ax = b 
@@ -64,14 +64,13 @@ function [x] = gaussElimin(a,b)
     x = b;
 end
 ```
-* Convert piecewise to Python code, debugging. Note the reduction in requisite logic statements; 4 "if" or "for" loops down to only 2 in Python. Also note the distinction between how to create matrices in both languages. 
+* Convert piecewise to Python code. Note the reduction in requisite logic statements; 4 "if" or "for" loops down to only 2 in Python. Also note the distinction between how to create matrices in both languages. 
 
-## **Solution Python Code**
-[Starting Python Code](/CHEclassFa20/In%20Class%20Problem%20Activities/Python/ConverFromMATLABtoPython.ipynb)
+## **Solution**
+* Solution [.py file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ConvertFromMATLABtoPythonSoln.py) and [.ipynb file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ConvertFromMATLABtoPythonSoln.ipynb)
+
 ```Python
 """
-ICPL7Python
-
 Used for comparison to MATLAB function executing the same method.
 
 Example: ax = b 
@@ -111,11 +110,11 @@ x = gaussElimin(a,b)
 print("x =",x)
 ```
   
-## **Additional Resources**
-* [Python software carpentry tutorial](https://swcarpentry.github.io/python-novice-inflammation/)
+## **References for Further Exploration**
+* [Python Software Carpentry tutorial](https://swcarpentry.github.io/python-novice-inflammation/)
 * [Spyder: the scientific Python development environment](https://fangohr.github.io/blog/spyder-the-scientific-python-development-environment.html)
-* [Jupyter notebooks tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
-* [Introduction to colab and Python](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb#scrollTo=X9uIpOS2zx7k)
+* [Jupyter Notebooks tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
+* [Introduction to Colab and Python](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb#scrollTo=X9uIpOS2zx7k)
 
 ## **Previous Lesson**
  * [L05 MATLAB Basics Continued](/L05%20MATLAB%20Basics%20Cont.md)
