@@ -2,7 +2,7 @@
 
 This lesson introduces built-in MATLAB functions for common classes of numerical methods for solving nonlinear equations, numerical integration, and ordinary differential equations (initial value problems).
 
-### **Introductory videos**
+## **Instructional Videos**
  * [Numerical methods](https://www.youtube.com/watch?v=430j9WP1uTQ&feature=emb_title&ab_channel=AshleeN.FordVersypt)
  
   [![](http://img.youtube.com/vi/430j9WP1uTQ/0.jpg)](http://www.youtube.com/watch?v=430j9WP1uTQ "")
@@ -12,9 +12,11 @@ This lesson introduces built-in MATLAB functions for common classes of numerical
 * [MATLAB solvers](https://www.youtube.com/watch?v=8g_LB9J0RAQ&feature=emb_title&ab_channel=LearnChemE)
   
   [![](http://img.youtube.com/vi/8g_LB9J0RAQ/0.jpg)](http://www.youtube.com/watch?v=8g_LB9J0RAQ "")
-#### **Comprehension Check**
-* Find the MATLAB documentation for one of the built-in functions shown in the videos. Share the link
-### **Optimization Functions**
+
+## **Reflection Question**
+* Find the MATLAB documentation for one of the built-in functions shown in the videos.
+
+## **Optimization Functions**
 * [Optimization Toolbox](https://www.mathworks.com/help/optim/referencelist.html?type=function)
 * Solving nonlinear equations
   * fzero
@@ -24,12 +26,13 @@ This lesson introduces built-in MATLAB functions for common classes of numerical
 * General optimization (minimization)
   * fminbnd
   * fmincon
-### **Numerical Integration Functions**
+
+## **Numerical Integration Functions**
 * [Numerical integration and differentiation](mathworks.com/help/matlab/numerical-integration-and-differentiation.html)
   * quad, quadl, quadv --> integral
   * trapz
 
-#### **Solution Python Code**
+## **Solution Python Code**
 Note this code is identical to the version in L06, and here can be used to demonstrate relationships between MATLAB functions and their analog in Python, allowing students to make the connection to whichever language is more intrinsic to their understanding.
 [Raw code](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ConvertFromMATLABtoPythonSoln.py)
 ```Python
@@ -75,10 +78,11 @@ x = gaussElimin(a,b)
 print("x =",x)
 ```
   
-### **Additional Resources**
+## **References for Further Exploration**
 * [Algorithms for finding the root of nonlinear equations](https://www.youtube.com/watch?v=ujcZc5sPX4c&ab_channel=LearnChemE)
 
-### **Previous Lesson**
+## **Previous Lesson**
  * [L06 Python Basics](/L06%20Python%20Basics.md)
-### **Next Lesson**
+
+## **Next Lesson**
  * [L08 Python Functions](/L08%20Python%20Functions.md)
