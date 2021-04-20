@@ -60,8 +60,7 @@ plt.show()
 
 ## **MATLAB Plotting**
 * Note: to plot Y vs. X in MATLAB, use plot(x,y)
-* These plots exhibit the ability of MATLAB to run functions, as well as different methods of plotting: delineating the dataset, noting a function in terms of another variable, and manually typing the equations in the plot line
-* Additionally, figure 3 demonstrates some of the options a user can specify within the 
+* Define x and y vectors, customize the line color, style, and symbol, and format x- and y-axis labels 
 ```MATLAB
 %close all
 clear all
@@ -74,7 +73,8 @@ xlabel('\beta x')
 ylabel('x^2')
 ```
 ![Expected Graph 1](/Lesson_images/figure1_L10.jpg)
-```
+* Continue from the MATLAB code above to include another curve and adjust the axis limits
+```MATLAB
 figure(2)
 plot(x,y,'o-')
 hold on
@@ -82,7 +82,10 @@ plot(x,2*y,'x-.','color',[0.4940, 0.1840, 0.5560],'linewidth',5,'markersize',12)
 hold off
 % set x- and y-axis limits
 axis([1.5 3.5, 0, 100]) % [ xmin, xmax, ymin, ymax]
-
+```
+![Expected Graph 2](/Lesson_images/figure2_L10.jpg)
+* Continue from the MATLAB code above to use a for loop to plot multiple curves and to set the legend entries dynamically
+```MATLAB
 figure(3)
 Y = [y;2*y;3*y;4*y];
 hold on
@@ -93,8 +96,6 @@ hold off
 %legend('y','y^2','y^3','y^4')
 legend('-DynamicLegend')
 ```
-
-![Expected Graph 2](/Lesson_images/figure2_L10.jpg)
 ![Expected Graph 3](/Lesson_images/Figure3_L10.jpg)
 * The following figures demonstrate how to run loops, only plot portions of those loops,how to plot multiple plots in the same window, and how to plot errorbars
 ```MATLAB
