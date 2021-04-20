@@ -11,7 +11,7 @@ This lesson introduces 2D and 3D visualization in Python and MATLAB.
 ## **Reflection Questions**
 * Find an example of common type of 2D or 3D visualization from your research or science, engineering, or mathematics coursework. 
 * Browse through the MATLAB and Python example galleries. Which type, if any, of the examples are similar to visualization example you found for question 1?
-    * [Python gallery](https://matplotlib.org/gallery/index.html)
+    * [Python gallery](https://matplotlib.org/stable/gallery/index.html)
     * [MATLAB gallery](https://www.mathworks.com/help/matlab/examples.html?category=graphics&s_tid=CRUX_topnav)
 
 
@@ -222,7 +222,7 @@ legend('t vs. t','t^2 vs. t','t^3 vs. t','location','best')
 * [Python graphics documentation](https://matplotlib.org/)
 * [MATLAB line specifications](https://www.mathworks.com/help/matlab/ref/linespec.html)
 * [MATLAB default color order](http://math.loyola.edu/~loberbro/matlab/html/colorsInMatlab.html)
-* [Python gallery](https://matplotlib.org/gallery/index.html)
+* [Python gallery](https://matplotlib.org/stable/gallery/index.html)
 * [MATLAB gallery](https://www.mathworks.com/help/matlab/examples.html?category=graphics&s_tid=CRUX_topnav)
 
 ## **Previous Lesson**
