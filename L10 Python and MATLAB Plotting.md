@@ -16,29 +16,21 @@ This lesson introduces 2D and 3D visualization in Python and MATLAB.
 
 
 ## **Python Plotting**
-[Raw Python file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PlotExamples.py)
 * Python uses 
 ```Python
 import matplotlib.pyplot as plt
 ```
 to access style functions similar to Matlab
 
-* Python example code for plotting
-* Demonstrating Python's ability to subplot/create tiles for multiple graphs in a single window. 
+* Python example code for plotting that demonstrates Python's ability to subplot/create tiles for multiple graphs in a single window
 ```Python
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 12 09:00:32 2018
-
-@author: Ashlee
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 
 t = np.arange(0,101,1)
 plt.plot(t,t,'r--')
 plt.ylabel('t')
-#plt.show() #somewhat like hold on in matlab
+plt.show() #somewhat like hold on in matlab
 
 plt.plot(t,t**2,'bs')
 plt.plot(t,t**3,'g^')
@@ -66,6 +58,7 @@ plt.show()
 ![Expected Graph 1](/Lesson_images/Figure1_L10.png)
 ![Expected Graph 2](/Lesson_images/Figure2_L10.png)
 ![Expected Graph 3](/Lesson_images/Figure3_L10.png)
+* Solution [.py file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PlotExamples.py)
 
 ## **MATLAB plotting**
 * Working example 
