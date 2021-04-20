@@ -1,20 +1,12 @@
 # **Lesson 9: MATLAB to Python Conversion**
-This lesson focuses on work through converting a code from MATLAB into Python using a system of ODEs.
+This lesson focuses on an example of converting a code from MATLAB into Python to solve a system of ODEs.
 
-### **Introductory Videos**
- * None for this lesson
-#### **Comprehension Check**
- * None for this lesson
-### **Walkthrough**
-#### **Starting file**
-* Convert this code to Python, accomplishing the same goal.
-* Note the short length of the executed Python code, emphasizing that different languages excel at different tasks.
-* Note that to convert, copy the notes section, change the symbol from % to #
-* Then all that needs converting is the executed component, which in Python is simply less than 10 lines.
-[Raw MATLAB code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/system_of_ODEs.m)
+## **Activity**
+* Start from this [.m file](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/system_of_ODEs.m)
+* Convert the MATLAB code to Python
  ```MATLAB
  function output = system_of_ODEs(varargin)
-%% Documentation for System_of_ODEs.m
+%% Documentation for system_of_ODEs.m
 % This function defines a system of ordinary differential equations
 % $\frac{dC_A}{dt} &= -k_1 C_A-k_2 C_A$
 %and
@@ -40,11 +32,6 @@ This lesson focuses on work through converting a code from MATLAB into Python us
 
 % Output:
 %   output time derivatives of mass concentrations, column vector [dC_A_dt, dCB_dt]', mg/L/h 
-
-% Author:
-%   Professor Ashlee N. Ford Versypt, Ph.D.
-%   Oklahoma State University, School of Chemical Engineering
-%   ashleefv@okstate.edu
 
 %% Two if loops to avoid redundant definition of variables as in a single if loop
 % Values for t and C
@@ -90,18 +77,13 @@ dC_B_dt=k1*C_A-k3-k4*C_B;
 %% Pack the derivatives into the output vector
 output = [dC_A_dt; dC_B_dt]; 
  ```
-#### **Final Python code**
-[Raw Python Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/system_of_ODEs.py)
+* Solution [.py file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/system_of_ODEs.py)
+* Note the short length of the executed Python code, emphasizing that different languages excel at different tasks.
+* Note that to convert, copy the comment section, change the symbol from % to #
+* Then all that needs converting is the executed component, which in Python is simply less than 10 lines.
 ```Python
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 10 08:36:12 2018
-
-@author: Ashlee
-"""
-
 import numpy as np
-# computational assignment 2 python equivalent
+# python equivalent
 
 def system_of_ODEs(t=0, C=[6.25,0], k1=0.15, k2=0.6, k3=0.1, k4=0.2):
     '''
@@ -126,11 +108,6 @@ Input:
 
 Output:
     output time derivatives of mass concentrations, array [dC_A_dt, dCB_dt], mg/L/h 
-
-Author:
-    Professor Ashlee N. Ford Versypt, Ph.D.
-    Oklahoma State University, School of Chemical Engineering
-    ashleefv@okstate.edu
 '''
     assert t>=0, "time can only be positive"
     C_A = C[0]
