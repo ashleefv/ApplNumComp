@@ -13,30 +13,34 @@ This lesson introduces Python functions from the NumPy and SciPy libraries for c
 ## **Reflection Question**
 * Find the Python documentation for fsolve.
  
+## **Linear Equations Solver**
+Solving systems of linear equations:
+    * https://docs.scipy.org/doc/scipy/reference/generated/scipy.linalg.solve.html
+    * scipy.linalg.solve function as the equivalent to MATLAB's backslash operator
+
 ## **Optimization Functions**
-* [Scipy linalg solver](https://docs.scipy.org/doc/scipy/reference/generated/scipy.linalg.solve.html
-* Systems of linear equations: scipy.linalg.solve function
-    * backlash equivalent: solve
-* [Scipy linalg optimize](https://docs.scipy.org/doc/scipy-0.13.0/reference/optimize.html)
-* Optimization functions: use scipy.optimize package for all of the following functions
-    * Solving nonlinear equations
-        * fzero equivalents: brenq, brenth, ridder, bisect, newton
-        * fsolve equivalent: fsolve
-  * Non-linear data-fitting
-      * lsqcurvefit equivalent: curve_fit
-  * General optimization (minimization)
-      * fminsearch equivalents: fmin, fmin_powell, fmin_cg, fmin_bfgs, fmin_ncg
-      * fmincon equivalents: fmin_cobyla, fmin_tinc
-* [Scipy integrate](https://docs.scipy.org/doc/scipy/reference/integrate.html)
-* Numerical integration: use scipy.integrate package for all of the following functions
+* https://docs.scipy.org/doc/scipy-0.13.0/reference/optimize.html
+* Solving nonlinear equations
+   * fzero equivalents: brenq, brenth, ridder, bisect, newton
+   * fsolve equivalent: fsolve
+* Non-linear data-fitting
+   * lsqcurvefit equivalent: curve_fit
+* General optimization (minimization)
+   * fminsearch equivalents: fmin, fmin_powell, fmin_cg, fmin_bfgs, fmin_ncg
+   * fmincon equivalents: fmin_cobyla, fmin_tinc
+
+## **Numerical Integration Functions**
+*  https://docs.scipy.org/doc/scipy/reference/integrate.html
     * quad (integral) equivalent: quad
     * trapz equivalent (relies on sampled data, not a function formula): numpy.trapz and scipy.optimize.simps
-* Solving ordinary differential equations: use scipy.integrate package for all of the following functions
-    * odeint: uses lsoda from FORTRAN library odepack for stiff or non-stiff systems with Adams and BDF algorithms
-    * ode: allows for integrator algorithm to be explicitly specified
-    * Newer functions for RK23 and RK45
-    * ODE Python example
-    * [Core Python file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/L9_odeint_example.py)
+
+## **ODE Solvers**
+Solving ordinary differential equations: 
+* https://docs.scipy.org/doc/scipy/reference/integrate.html
+* odeint: uses lsoda from FORTRAN library odepack for stiff or non-stiff systems with Adams and BDF algorithms
+* ode: allows for integrator algorithm to be explicitly specified
+* Newer functions for RK23 and RK45
+* Python ODE example [.py file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/L9_odeint_example.py)
 ```Python
 import numpy as np
 from scipy.integrate import odeint
@@ -71,9 +75,7 @@ initial_val = A0, B0
 a1 = 1 # [m]
 a2 = 1 # [m]
 parameters = (a1, a2)
-```
-* Calling solver subprogram to solve the above defined system, then plotting the output for visual interpretation of results.
-```Python
+
 # Calling odeint to solve ODEs
 output = odeint(systems_of_ODEs, initial_val, xrange, args = (parameters,)   )
 
@@ -90,12 +92,12 @@ plt.xlabel('$x$')
 plt.show()
 ```
 ![Expected Graph](/Lesson_images/figure_L8.png)
- * [Default values in Python](https://docs.python.org/3.7/tutorial/controlflow.html#more-on-defining-functions)
- * [Python for loops](https://www.codementor.io/@sheena/python-generators-and-iterators-du1082iua)
-  * More capabilities than MATLAB for loops using iterators and iterables
 
 ## **References for Further Reflection**
+* [Default values in Python](https://docs.python.org/3.7/tutorial/controlflow.html#more-on-defining-functions)
+* [Loops in Python](https://www.codementor.io/@sheena/python-generators-and-iterators-du1082iua). Python has more capabilities than MATLAB for loops using iterators and iterables.
 * [Python modules](https://docs.python.org/3/tutorial/modules.html)
+
 
 ## **Previous Lesson**
  * [L07 MATLAB Functions](/L07%20MATLAB%20Functions.md)
