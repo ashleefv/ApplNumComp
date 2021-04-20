@@ -36,7 +36,7 @@ OPTIONS = optimoptions(@lsqcurvefit, 'Algorithm', 'trust-region-reflective', 'To
 ```
 
 ## **Numerical Integration Functions**
-* mathworks.com/help/matlab/numerical-integration-and-differentiation.html
+* https://www.mathworks.com/help/matlab/numerical-integration-and-differentiation.html
     * quad, quadl, quadv --> integral
     * trapz
 * Example 2 code snippet
