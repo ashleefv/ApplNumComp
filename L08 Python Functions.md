@@ -1,16 +1,17 @@
 # **Lesson 8: Python Functions**
 
-This lesson introduces built-in Python functions for common classes of numerical methods for solving nonlinear equations, numerical integration, and ordinary differential equations (initial value problems).
+This lesson introduces Python functions from the NumPy and SciPy libraries for common classes of numerical methods for solving nonlinear equations, numerical integration, and ordinary differential equations (initial value problems).
 
-### **Introductory videos**
+## **Instructional Videos**
  * [Using Python to solve a system of linear equations](https://www.youtube.com/watch?v=g2aX77LAc0o&feature=emb_title&ab_channel=AshleeN.FordVersypt)
   [![](http://img.youtube.com/vi/g2aX77LAc0o/0.jpg)](http://www.youtube.com/watch?v=g2aX77LAc0o "")
 * [Python built-in functions for numerical methods for nonlinear equations](https://www.youtube.com/watch?v=nnCDaHCulAU&feature=emb_title&ab_channel=APMonitor.com)
   [![](http://img.youtube.com/vi/nnCDaHCulAU/0.jpg)](http://www.youtube.com/watch?v=nnCDaHCulAU "")
 
-#### **Comprehension Check**
-  * Find the Python documentation for fsolve. Share the link
-### **Optimization Functions**
+## **Reflection Question**
+  * Find the Python documentation for fsolve.
+ 
+## **Optimization Functions**
 * [Scipy linalg solver](https://docs.scipy.org/doc/scipy/reference/generated/scipy.linalg.solve.html
 * Systems of linear equations: scipy.linalg.solve function
   * backlash equivalent: solve
@@ -90,10 +91,12 @@ plt.show()
  * [Default values in Python](https://docs.python.org/3.7/tutorial/controlflow.html#more-on-defining-functions)
  * [Python for loops](https://www.codementor.io/@sheena/python-generators-and-iterators-du1082iua)
   * More capabilities than MATLAB for loops using iterators and iterables
-### **Additional Resources**
+
+## **References for Further Reflection**
 * [Python modules](https://docs.python.org/3/tutorial/modules.html)
 
-### **Previous Lesson**
+## **Previous Lesson**
  * [L07 MATLAB Functions](/L07%20MATLAB%20Functions.md)
-### **Next Lesson**
+
+## **Next Lesson**
  * [L09 MATLAB to Python Conversion](/L09%20MATLAB%20to%20Python%20Conversion.md)
