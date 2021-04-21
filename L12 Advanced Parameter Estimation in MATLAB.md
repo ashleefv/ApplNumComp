@@ -5,9 +5,7 @@ This lesson focuses on parameter estimation with more advanced examples in MATLA
 * [Instructions for examples 1 and 2](https://github.com/ashleefv/ApplNumComp/blob/master/Lecture%2014%20Examples.pdf)
 
 ### **Example 1**
-
-* Note the 2 separate parameter estimatation method options 
-* Also note the separate graphs and loops that can modify the logic flow of the code.
+* This example considers fitting parameters to one differential equation.
 ```MATLAB
 function ODEParamEstimExample1
 tdata = [0 0.5 1.0 5.0 30]; % independent variable, x-axis
@@ -20,7 +18,6 @@ b2guess = 1;
 parameterguesses = [b1guess, b2guess];
 
 % Estimate parameters b1 & b2
-%parameters = lsqcurvefit(@(parameterguesses,tdata) model (parameterguesses,tdata) ,parameterguesses, tdata, xdata)
 parameters = lsqcurvefit(@(parameterguesses,tdata)model(parameterguesses,tdata,x0),parameterguesses, tdata, xdata)
 
 % Plots
@@ -33,7 +30,8 @@ xatsoln = model(parameters,tforplotting,x0);
 plot(tforplotting,xatsoln,'g')
 legend('data','x at guesses', 'x at soln parameters')
 
-
+% Define the function for the model that is fitted to data. 
+% This model has output that matches the observed dependent variables. E.g., one could solve multiple ODEs defined by system_of_ODEs, but the output from a subset of ODE solutions might be compared to the data via this function called model. 
 function output = model(parameters,t,x0)
     for i = 1:length(t)
         if t(i) == 0 
@@ -48,6 +46,7 @@ function output = model(parameters,t,x0)
     end
 end
 
+% Define the ODE that is solved inside the model function.
 function output = system_of_ODEs(t,x,parameters)
     b1 = parameters(1);
     b2 = parameters(2);
@@ -58,8 +57,7 @@ end
 ```
 * Solution [.m file](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ODEParamEstimExample1.m)
 ### **Example 2**
-* Note the commented out second option for describing a datast and parameters coding.
-* Also note the plotting tiles
+* This example considers fitting parameters to multiple differential equations.
 ```MATLAB
 function ODEParamEstimExample2
 tdata = [0.5 1.0 5.0 20]; % independent variable, x-axis
@@ -77,7 +75,6 @@ b2guess = 1;
 parameterguesses = [b1guess, b2guess];
 
 % Estimate parameters b1 & b2
-%parameters = lsqcurvefit(@(parameterguesses,tdata) model (parameterguesses,tdata) ,parameterguesses, tdata, xdata)
 parameters = lsqcurvefit(@(parameterguesses,tdata)model(parameterguesses,tdata,x0),parameterguesses, tdata, xdata)
 
 tforplotting = linspace(tdata(1),tdata(end),101);
@@ -104,9 +101,9 @@ plot(tforplotting,xatguesses(2,:))
 plot(tforplotting,xatsoln(2,:),'g')
 legend('data','x2 at guesses', 'x2 at soln parameters')
 hold off
-```
-* Note the separate outputs, the flipping of the matrix of solutions
-```MATLAB
+
+% Define the function for the model that is fitted to data. 
+% This model has output that matches the observed dependent variables. E.g., one could solve multiple ODEs defined by system_of_ODEs, but the output from a subset of ODE solutions might be compared to the data via this function called model. 
 function output = model(parameters,t,x0)
     for i = 1:length(t)
         if t(i) == 0 
@@ -122,6 +119,7 @@ function output = model(parameters,t,x0)
     output = output';
 end
 
+% Define the ODEs that are solved inside the model function.
 function output = system_of_ODEs(t,x,parameters)
     b1 = parameters(1);
     b2 = parameters(2);
