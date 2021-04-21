@@ -1,19 +1,18 @@
 # **Lesson 17: Sensitivity Analysis**
 This lesson focuses on sensitivity analysis, definitions, and an example walkthrough.
 
-### **Introductory videos**
- * None for this lesson
-#### **Comprehension Check**
- * None for this lesson
-### **Introduction**
+## **Related Readings**
+[Reading 8](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-8)
+
+## **Introduction**
 * Definitions of sensitvity
 * Global vs local sensitivity
 * Normalization
 
-### **Example coding walkthrough**
+## **Example coding walkthrough**
   * Take sample skeleton code and fill in the blanks
   * Recreate code to fulfill [sample problem](https://github.com/ashleefv/ApplNumComp/blob/master/SensitivityAnalysis.pdf)
-#### **Sample skeleton code**
+## **Sample skeleton code**
 [Raw code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/SensitivityExampleStarting.m)
 * Note the use of each internalized function
 ```MATLAB
@@ -76,7 +75,7 @@ a = parameters(1);
 f=
 ```
 
-####** Final working version**
+##** Final working version**
 [Raw code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/SensitivityExample.m)
 * Note the parameters, the defined ranges and internal functions. 
 ```MATLAB
@@ -154,10 +153,8 @@ d = parameters(4);
 f=a*exp(b*x) + c*exp(d*x);
 ```
 
-### **Additional Resources**
-* [Example of WSSR code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/WSSR_Example.m)
-
-### **Previous Lesson**
+## **Previous Lesson**
  * [L16 Further Exploration of GUIDE in MATLAB](/L16%20Further%20Exploration%20of%20GUIDE%20in%20MATLAB.md)
-### **Next Lesson**
+
+## **Next Lesson**
  * [L18 Publication Quality Figures](/L18%20Publication%20Quality%20Figures%20in%20MATLAB%20and%20Python.md)
