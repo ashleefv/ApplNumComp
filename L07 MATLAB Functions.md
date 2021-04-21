@@ -16,7 +16,7 @@ This lesson introduces built-in MATLAB functions for common classes of numerical
   
 [![](http://img.youtube.com/vi/8g_LB9J0RAQ/0.jpg)](http://www.youtube.com/watch?v=8g_LB9J0RAQ "")
 
-## **Reflection Question**
+## **Reflection**
 * Find the MATLAB documentation for one of the built-in functions shown in the videos.
 
 ## **Optimization Functions**
