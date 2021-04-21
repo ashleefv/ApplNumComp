@@ -75,6 +75,11 @@ plt.xlabel('t')
 plt.ylabel('x')
 plt.show()
 ```
+* Output
+```Python
+[1.4315851  0.53046441]
+```
+
 * Solution [.py file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ODEParamEstimExample1.py)
 
 ### **Example 2**
