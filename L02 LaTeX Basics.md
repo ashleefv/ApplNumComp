@@ -26,7 +26,7 @@ This lesson focuses on LaTeX for typesetting.
 * What was the most unclear or most confusing point in the videos?
 * Do you have a big report for class, article for research, thesis, or dissertation to write either this semester or within the next few years in your degree program? 
 
-## **LaTeX Download and Installation**
+## **Set Up LaTeX**
 To run LaTeX on a computer, you need to install both the LaTeX implementation (MikTeX or MacTeX) AND an editor. 
 Some editors come with the implementation, but TeXMaker is preferred because of its layout and formatting. [overleaf.com](overleaf.com) is an online editor option that also exists (sort of like Google Docs for LaTeX). However, it is preferred to install LaTeX on your own computer.
 
