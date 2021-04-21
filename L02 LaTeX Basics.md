@@ -21,7 +21,7 @@ This lesson focuses on LaTeX for typesetting.
  
  ![LaTeX file structure flow chart](https://github.com/ashleefv/ApplNumComp/blob/master/CHEclassFa20/Pre%20Class%20Activities/LaTeX%20Basics/LaTeX_diagram.PNG)
 
-## **Reflection Questions**
+## **Reflection**
 * What did you find the most interesting or surprising from the videos and readings?
 * What was the most unclear or most confusing point in the videos?
 * Do you have a big report for class, article for research, thesis, or dissertation to write either this semester or within the next few years in your degree program? 
