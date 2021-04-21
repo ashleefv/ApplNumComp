@@ -13,7 +13,7 @@ This lesson focuses on reproducible research computing.
 
 ### **References for Further Exploration**  
 * [Reproducibility editorial](https://link.springer.com/article/10.1007/s11538-018-0501-8)
-* [Bulletin of Mathematical Biology 2018](https://link.springer.com/journal/11538/80/12/page/1)
+* [Bulletin of Mathematical Biology special issue](https://link.springer.com/journal/11538/80/12/page/1)
 * [Lorena Barba's Essential Skills for Reproducible Research Computing](https://github.com/barbagroup/essential_skills_RRC). This is an excellent example of a reproducible science module
 
 ## **Previous Lesson**
