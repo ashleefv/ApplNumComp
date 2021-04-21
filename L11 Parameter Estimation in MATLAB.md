@@ -20,7 +20,7 @@ This lesson covers how to use MATLAB tools for this process.
 
 [![](http://img.youtube.com/vi/kXAtvLHJAus/0.jpg)](http://www.youtube.com/watch?v=kXAtvLHJAus "")
 
-## **Relfection Questions**
+## **Relfection**
 Based on your understanding of the videos, what are some of the advantages and disadvantages of using the following for parameter estimation, which is also known as curve fitting?
 * polyfit
 * curve fitting toolbox
