@@ -28,9 +28,9 @@ Based on your understanding of the videos, what are some of the advantages and d
 
 ## **Activity**
 * Compare the procedures for curve fitting/parameter estimation in MATLAB using the following techniques with [data](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/MATLAB/ParamEstimData.m)
-   * cftool
    * lsqnonlin
    * lsqcurvefit
+   * cftool
 * Define the function to fit
 ```MATLAB
 function output = sumExponentials(parameters,x)
@@ -99,11 +99,8 @@ hold off
 legend('data', 'model with fitted parameters','initial guesses in the model')
 ```
 ![Expected Graph 1](/Lesson_images/Figure1_L11.jpg)
-* Curve fitting toolbox solution [cftool output .sfit file](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Solutions/MATLAB/CurveFit1Example.sfit)
 * Solution using lsqnonlin and lsqcurvefit in an [.m file](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ParamEstimExample.m)
-* [Video of the synchronous class period where Dr. Ford Versypt demonstrated these examples](https://youtu.be/GUa801h1WaI)
-
-[![](http://img.youtube.com/vi/GUa801h1WaI/0.jpg)](https://youtu.be/GUa801h1WaI "")
+* Curve fitting toolbox solution [cftool output .sfit file](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Solutions/MATLAB/CurveFit1Example.sfit)
 
 ## **Previous Lesson**
  * [L10 Python and MATLAB Plotting](/L10%20Python%20and%20MATLAB%20Plotting.md)
