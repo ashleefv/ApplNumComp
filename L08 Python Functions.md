@@ -13,7 +13,7 @@ This lesson introduces Python functions from the NumPy and SciPy libraries for c
 
 [![](http://img.youtube.com/vi/nnCDaHCulAU/0.jpg)](http://www.youtube.com/watch?v=nnCDaHCulAU "")
 
-## **Reflection Question**
+## **Reflection**
 * Find the Python documentation for fsolve.
  
 ## **Linear Equations Solver**
