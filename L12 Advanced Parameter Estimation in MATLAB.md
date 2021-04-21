@@ -5,7 +5,7 @@ This lesson focuses on parameter estimation with more advanced examples in MATLA
 * [Instructions for examples 1 and 2](https://github.com/ashleefv/ApplNumComp/blob/master/Lecture%2014%20Examples.pdf)
 
 ### **Example 1**
-* [Sample code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ODEParamEstimExample1.m)
+
 * Note the 2 separate parameter estimatation method options 
 * Also note the separate graphs and loops that can modify the logic flow of the code.
 ```MATLAB
@@ -56,9 +56,8 @@ function output = system_of_ODEs(t,x,parameters)
 end
 end
 ```
-
+* Solution [.m file](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ODEParamEstimExample1.m)
 ### **Example 2**
-* [Sample Code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ODEParamEstimExample2.m)
 * Note the commented out second option for describing a datast and parameters coding.
 * Also note the plotting tiles
 ```MATLAB
@@ -134,6 +133,7 @@ function output = system_of_ODEs(t,x,parameters)
 end
 end
 ```
+* Solution [.m file](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ODEParamEstimExample2.m)
 ## **Reference for Further Exploration**
 * Weighted sum of squared residuals in parameter estimation [theory and example](https://github.com/ashleefv/ApplNumComp/blob/master/WSSR.pdf)
 
