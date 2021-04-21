@@ -8,7 +8,7 @@ This lesson continues the introduction of basics of MATLAB programming for scien
 
 [![](http://img.youtube.com/vi/CWgl5Ylltxk/0.jpg)](http://www.youtube.com/watch?v=CWgl5Ylltxk "")
 
-## **Reflection Questions**
+## **Reflection**
 Fill in the blanks.
 * Input parameters to MATLAB functions are passed by _________.
 * Variables created inside the function are ____________ variables.
