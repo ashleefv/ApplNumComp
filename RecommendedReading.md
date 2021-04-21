@@ -75,23 +75,23 @@ This section focuses on parameter estimation by linear and nonlinear least squar
 
 ## Reading 7
 
-This section focuses on sensitivity analysis.
-* Reading 7.1 Review of Parameter Sensitivity Techniques (particularly Sections 2.1 and 3.8) [24] [DOI](https://doi.org/10.1007/BF00547132)
+This section focuses on graphical user interfaces (GUIs) for scientific computing in MATLAB and Python.
+* Reading 7.1 General overview of using and developing GUIs for scientific computing applications (Sections 1, 2.5.4, 2.5.5, and 2.7 for background and Sections 3, 4, and 5 for examples/case studies of GUI development) [24, p. 1–2, 10, 13–17, 18–30] [Link](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.126.9252)
+* Reading 7.2 Building a Graphical User Interface [25, Ch. 9] [ISBN: 978-0-470-93644-3](https://www.wiley.com/en-us/Learning+to+Program+with+MATLAB%3A+Building+GUI+Tools-p-9780470936443)
+* Reading 7.3 Transforming a MATLAB Program into a GUI Tool [25, Ch. 10] [ISBN: 978-0-470-93644-3](https://www.wiley.com/en-us/Learning+to+Program+with+MATLAB%3A+Building+GUI+Tools-p-9780470936443)
 
 Additional Resources
-* Optional Reading 7.2 Local and global sensitivity applied to reactor design [25] [DOI](https://doi.org/10.1205/026387604323142630)
-* Optional Reading 7.3 Global sensitivity using eFAST and PRC coefficients [26] [DOI](https://doi.org/10.1016/j.jtbi.2008.04.011) with code implemented in MATLAB available at [27] [Link](http://malthus.micro.med.umich.edu/lab/usadata/)
+* Optional Reading 7.1 Extremely helpful crash course tutorial and video about object oriented programming demonstrated in Python with a built-in framework for developing GUIs [26] [Link](https://pythonprogramming.net/object-oriented-programming-crash-course-tkinter/)
+* Optional Reading 7.2 Tutorial for MATLAB GUIDE [27, p. 1–6, the remainder is a reference with examples] [Link](https://www.mathworks.com/help/matlab/gui-development.html)
 
 ## Reading 8
 
-This section focuses on graphical user interfaces (GUIs) for scientific computing in MATLAB and Python.
-* Reading 8.1 General overview of using and developing GUIs for scientific computing applications (Sections 1, 2.5.4, 2.5.5, and 2.7 for background and Sections 3, 4, and 5 for examples/case studies of GUI development) [28, p. 1–2, 10, 13–17, 18–30] [Link](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.126.9252)
-* Reading 8.2 Building a Graphical User Interface [29, Ch. 9] [ISBN: 978-0-470-93644-3](https://www.wiley.com/en-us/Learning+to+Program+with+MATLAB%3A+Building+GUI+Tools-p-9780470936443)
-* Reading 8.3 Transforming a MATLAB Program into a GUI Tool [29, Ch. 10] [ISBN: 978-0-470-93644-3](https://www.wiley.com/en-us/Learning+to+Program+with+MATLAB%3A+Building+GUI+Tools-p-9780470936443)
+This section focuses on sensitivity analysis.
+* Reading 8.1 Review of Parameter Sensitivity Techniques (particularly Sections 2.1 and 3.8) [28] [DOI](https://doi.org/10.1007/BF00547132)
 
 Additional Resources
-* Optional Reading 8.1 Extremely helpful crash course tutorial and video about object oriented programming demonstrated in Python with a built-in framework for developing GUIs [30] [Link](https://pythonprogramming.net/object-oriented-programming-crash-course-tkinter/)
-* Optional Reading 8.2 Tutorial for MATLAB GUIDE [31, p. 1–6, the remainder is a reference with examples] [Link](https://www.mathworks.com/help/matlab/gui-development.html)
+* Optional Reading 8.2 Local and global sensitivity applied to reactor design [29] [DOI](https://doi.org/10.1205/026387604323142630)
+* Optional Reading 8.3 Global sensitivity using eFAST and PRC coefficients [30] [DOI](https://doi.org/10.1016/j.jtbi.2008.04.011) with code implemented in MATLAB available at [31] [Link](http://malthus.micro.med.umich.edu/lab/usadata/)
 
 ## Reading 9
 
@@ -176,21 +176,21 @@ Biology, 12:e1004867, 2016. https://doi.org/10.1371/journal.pcbi.1004867
 
 [23] DiStefano III, J. Dynamic Systems Biology Modeling and Simulation. Academic Press, New York, 2014. ISBN: 9780124104112. https://www.elsevier.com/books/dynamic-systems-biology-modeling-and-simulation/distefano-iii/978-0-12-410411-2
 
-[24] D. M. Hamby. Review of techniques for parameter sensitivity analysis of environmental models. Environmental Monitoring and Assessment, 32:135–154, 1994. https://doi.org/10.1007/BF00547132
+[24] M. Ashworth, R. Allan, C. Mller, H. van Dam, W. Smith, D. Hanlon, B. Searly, and A. Sunderland. Graphical user environments for scientific computing, 2003. http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.126.9252
 
-[25] M. P. R. Haaker and P. J. T. Verheijen. Local and global sensitivity analysis for a reactor design with parameter uncertainty. Transactions of IChemE, 82:591–598, 2004.  https://doi.org/10.1205/026387604323142630
+[25] C. S. Lent. Learning to Program with MATLAB: Building GUI Tools. Wiley, Hoboken, NJ, 2013. ISBN: 978-0-470-93644-3. https://www.wiley.com/en-us/Learning+to+Program+with+MATLAB%3A+Building+GUI+Tools-p-9780470936443
 
-[26] S. Marino, I. B. Hogue, C. J. Ray, and D. E. Kirschner. A methodology for performing global uncertainty and sensitivity analysis in systems biology. Journal of Theoretical Biology, 254:178–196, 2008. https://doi.org/10.1016/j.jtbi.2008.04.011
+[26] PythonProgramming. Object Oriented Programming Crash Course with Tkinter: Learning OOP with Python 3, 2014. https://pythonprogramming.net/object-oriented-programming-crash-course-tkinter/
 
-[27] Kirschner, D. Uncertainty and Sensitivity Analysis, 2018. http://malthus.micro.med.umich.edu/lab/usadata/
+[27] MathWorks. App Building, 2021. https://www.mathworks.com/help/matlab/gui-development.html
 
-[28] M. Ashworth, R. Allan, C. Mller, H. van Dam, W. Smith, D. Hanlon, B. Searly, and A. Sunderland. Graphical user environments for scientific computing, 2003. http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.126.9252
+[28] D. M. Hamby. Review of techniques for parameter sensitivity analysis of environmental models. Environmental Monitoring and Assessment, 32:135–154, 1994. https://doi.org/10.1007/BF00547132
 
-[29] C. S. Lent. Learning to Program with MATLAB: Building GUI Tools. Wiley, Hoboken, NJ, 2013. ISBN: 978-0-470-93644-3. https://www.wiley.com/en-us/Learning+to+Program+with+MATLAB%3A+Building+GUI+Tools-p-9780470936443
+[29] M. P. R. Haaker and P. J. T. Verheijen. Local and global sensitivity analysis for a reactor design with parameter uncertainty. Transactions of IChemE, 82:591–598, 2004.  https://doi.org/10.1205/026387604323142630
 
-[30] PythonProgramming. Object Oriented Programming Crash Course with Tkinter: Learning OOP with Python 3, 2014. https://pythonprogramming.net/object-oriented-programming-crash-course-tkinter/
+[30] S. Marino, I. B. Hogue, C. J. Ray, and D. E. Kirschner. A methodology for performing global uncertainty and sensitivity analysis in systems biology. Journal of Theoretical Biology, 254:178–196, 2008. https://doi.org/10.1016/j.jtbi.2008.04.011
 
-[31] MathWorks. App Building, 2021. https://www.mathworks.com/help/matlab/gui-development.html
+[31] Kirschner, D. Uncertainty and Sensitivity Analysis, 2018. http://malthus.micro.med.umich.edu/lab/usadata/
 
 [32] P. J. Roache. Verification of codes and calculations. AIAA Journal, 36(5):696–702, 1998. https://doi.org/10.2514/2.457
 
