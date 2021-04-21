@@ -2,13 +2,18 @@
 Graphical user interfaces (GUIs) are everywhere in the digital world. 
 This lesson introduces this topic and an overview of the MATLAB functionality in creating them.
 
-### **Introductory videos**
+## **Related Readings**
+[Reading 7](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-7)
+
+## **Instructional Video**
  * [Introduction to graphical user interfaces](https://www.youtube.com/watch?v=XIGSJshYb90&feature=emb_title&ab_channel=CrashCourse)
  
 [![](http://img.youtube.com/vi/XIGSJshYb90/0.jpg)](http://www.youtube.com/watch?v=XIGSJshYb90 "")
-#### **Comprehension Check**
- * Based on your understanding of the video, what are examples of common graphical user interfaces (GUIs) that you use on a regular   basis for non-scientific applications?
-### **Introduction to GUIs**
+
+## **Reflection**
+ * Based on your understanding of the video, what are examples of common graphical user interfaces (GUIs) that you use on a regular basis for non-scientific applications?
+
+## **Introduction to GUIs**
 * Examples of GUIs in everyday life- student examples can be very good, ask them all to provide an example of a GUI they interact with regularly
 * Use of each of the following websites to demonstrate functionality; includes 2 walkghrough examples from Mathworks
 * Follow through these walkthroughs, demonstrating capabilities of GUIs- more explanatory than in-depth, as later lessons go further in-depth
@@ -18,10 +23,9 @@ This lesson introduces this topic and an overview of the MATLAB functionality in
     * Original MATLAB GUI developer environment.
   * [Overview of MATLAB GUIDE callbacks](https://www.mathworks.com/help/matlab/creating_guis/add-code-for-components-in-callbacks.html)
     * More in-depth review of GUIDE and the callbacks which it has internally available
-### **Additional Resources**
-* None for this lesson
 
-### **Previous Lesson**
+## **Previous Lesson**
  * [L13 Parameter Estimation in Python](/L13%20Parameter%20Estimation%20in%20Python.md)
-### **Next Lesson**
+
+## **Next Lesson**
  * [L15 GUI Examples in MATLAB](/L15%20MATLAB%20and%20GUIDE.md)
