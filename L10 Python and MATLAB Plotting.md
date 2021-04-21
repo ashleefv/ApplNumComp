@@ -2,13 +2,13 @@
 
 This lesson introduces 2D and 3D visualization in Python and MATLAB.
 
-## **Introductory videos**
+## **Introductory Videos**
  * [Plotting examples from Dr. Ford Versypt's research](https://www.youtube.com/watch?v=Pykrn0DpesA&feature=emb_title&ab_channel=AshleeN.FordVersypt)
   
  [![](http://img.youtube.com/vi/Pykrn0DpesA/0.jpg)](http://www.youtube.com/watch?v=Pykrn0DpesA "")
 * Dr. Ford Versypt's [Google Scholar profile](https://scholar.google.com/citations?user=Xaj6qbIAAAAJ) for the work shown in the video
 
-## **Reflection Questions**
+## **Reflection**
 * Find an example of common type of 2D or 3D visualization from your research or science, engineering, or mathematics coursework. 
 * Browse through the MATLAB and Python example galleries. Which type, if any, of the examples are similar to visualization example you found for question 1?
     * [Python gallery](https://matplotlib.org/stable/gallery/index.html)
