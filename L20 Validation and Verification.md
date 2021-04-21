@@ -6,8 +6,8 @@ This lesson focuses on validation and verification.
 
 ## **Instructional Videos**
 * [Student examples of validation and verification](https://www.youtube.com/watch?v=60tMapC53Sw&ab_channel=AshleeN.FordVersypt) 
-* 
-* [![](http://img.youtube.com/vi/60tMapC53Sw/0.jpg)](http://www.youtube.com/watch?v=60tMapC53Sw "")
+
+[![](http://img.youtube.com/vi/60tMapC53Sw/0.jpg)](http://www.youtube.com/watch?v=60tMapC53Sw "")
 * NOTE: This is an audio recording of a pre-COVID synchronous class session. As such the audio may be a bit spotty, and the use of captions is recommended.
 
 ## **Reflection**
