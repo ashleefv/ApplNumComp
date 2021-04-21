@@ -16,10 +16,10 @@ This lesson focuses on validation and verification.
 *  [Software Testing](https://www.softwaretestinghelp.com/what-is-verification-and-validation/) has a good definition of the difference
 
 ## **Validation and Verification**
-* This lesson's introductory video contains is longer and more in-depth. It demonstrates a student led discussion of validation, where they found sources of validation or verification that was pertinent to their research or an aera of personal interest.
+* This lesson's instructional video features a student-led discussion of validation and verification where they found examples relevant to their research or an area of personal interest
 * Definitions
-      * Verification involves determining if the model properly solves the equations it set out to solve.
-      * Validation involves comparing a model to observations to determine if the model is a reasonable approximation to some phenomena, experiment, physical, chemical, or biological system.
+      * Verification involves determining if the model properly solves the equations it set out to solve
+      * Validation involves comparing a model to observations to determine if the model is a reasonable approximation to some phenomena, experiment, physical, chemical, or biological system
   * Case Studies
     * [Reading 9](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-9) has some very good examples
     * [Dr. Ford Versypt's Dissertation Chapter on Verification](http://hdl.handle.net/2142/30970)
