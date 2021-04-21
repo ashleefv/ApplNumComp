@@ -11,14 +11,14 @@ This lesson focuses on best practices in scientific computing and basic MATLAB f
 [![](http://img.youtube.com/vi/ThDNl4m7GsI/0.jpg)](http://www.youtube.com/watch?v=ThDNl4m7GsI "Coding best practices")
 * Example project shown in the video: https://github.com/ashleefv/BeeNestABM
 
-## **Reflection Questions**
+## **Reflection**
 * Were any of the best practices new to you?
 * Did any surprise you?
 * Did any confuse you?
 * Describe a situation where you have successfully adopted one of the best practices.
 * Describe a situation where you wish in retrospect that you had adopted one of the best practices, but you didn't at the time. Which best practice was it? Why might it have made a difference to you?
 
-## **Set Up MATLAB Software**
+## **Set Up MATLAB**
 * MATLAB installation: activate a code through [Mathworks](https://www.mathworks.com/academia.html) if your institutions have access. You may also consult your institution to determine if a MATLAB license is available to you. 
 * If you can get access, download and install. If not, once you purchase an access code or activate one through an institution, you can use [MATLAB online](https://matlab.mathworks.com/)
 * [Octave](https://www.gnu.org/software/octave/index) is an open access software program largely compatible with MATLAB. This can be considered as an alternative if you do not have a MATLAB license.
