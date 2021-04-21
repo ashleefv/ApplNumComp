@@ -55,6 +55,13 @@ function output = system_of_ODEs(t,x,parameters)
 end
 end
 ```
+* Output
+```MATLAB
+parameters =
+
+    1.4309    0.5303
+```
+![Expected Graph 1](/Lesson_images/Figure1_L12.jpg)
 * Solution [.m file](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ODEParamEstimExample1.m)
 ### **Example 2**
 * This example considers fitting parameters to multiple differential equations.
@@ -131,6 +138,13 @@ function output = system_of_ODEs(t,x,parameters)
 end
 end
 ```
+* Output
+```MATLAB
+parameters =
+
+    0.0109    0.2100
+```
+![Expected Graph 2](/Lesson_images/Figure2_L12.jpg)
 * Solution [.m file](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ODEParamEstimExample2.m)
 ## **Reference for Further Exploration**
 * Weighted sum of squared residuals in parameter estimation [theory and example](https://github.com/ashleefv/ApplNumComp/blob/master/WSSR.pdf)
