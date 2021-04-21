@@ -15,7 +15,7 @@ This lesson focuses on LaTeX templates for technical and/or longer documents, sp
    
 [![](http://img.youtube.com/vi/2IpdTQhj6cg/0.jpg)](http://www.youtube.com/watch?v=2IpdTQhj6cg "")
  
-## **Reflection Questions**
+## **Reflection**
 * For a scientific journal in your field, perform an internet search to find the link to an online .tex template or instructions for using a TeX template . If you're not familiar with any scientific journals yet, try "tex template _ journal" where _ is the name of your field.
 * Download the template you found and look through the .tex file like in the LaTeX Templates PLoS Example video. What are some of the similarities? Differences?
 
