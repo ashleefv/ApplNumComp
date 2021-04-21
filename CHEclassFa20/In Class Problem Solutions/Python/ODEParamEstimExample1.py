@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Oct  7 08:25:49 2020
-
 @author: Ashlee
-
 ODE Example 1
 $\frac{dx}{dt} = b1-b2*x
 """
@@ -56,16 +54,14 @@ def model(xaxisData,*params):
 # Estimate the parameters
 parametersoln, pcov = curve_fit(model,xaxisData,yaxisData,p0=parameterguesses)
 print(parametersoln)
-plt.plot(xaxisData,yaxisData,'o')
+plt.plot(xaxisData,yaxisData,'o',label='data')
 yaxis0 = 0.0
 xaxisForPlotting = np.linspace(0,xaxisData[-1],101)
 yaxisCalcFromGuesses = odeint(system_of_ODEs,yaxis0,xaxisForPlotting,args = (parameterguesses,))
 yaxisCalc = odeint(system_of_ODEs,yaxis0,xaxisForPlotting,args = (parametersoln,))
-plt.plot(xaxisForPlotting,yaxisCalcFromGuesses,'r-') # before fitting
-plt.plot(xaxisForPlotting,yaxisCalc, 'g--') # at soln parameters
+plt.plot(xaxisForPlotting,yaxisCalcFromGuesses,'r-',label='output with parameter guesses') # before fitting
+plt.plot(xaxisForPlotting,yaxisCalc, 'g--', label='output with estimated parameters') # at soln parameters
 plt.xlabel('t')
 plt.ylabel('x')
+plt.legend()
 plt.show()
- 
-        
-        

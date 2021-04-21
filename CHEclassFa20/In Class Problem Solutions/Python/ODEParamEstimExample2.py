@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Oct  7 08:25:49 2020
-
 @author: Ashlee
-
 ODE Example 1
 $\frac{dx}{dt} = b1-b2*x
 """
@@ -74,8 +72,8 @@ def model(xaxisData,*params):
 parametersoln, pcov = curve_fit(model,xaxisData,np.ravel(yaxisData),p0=parameterguesses)
 print(parametersoln)
 # edit for > 1 dependent variables:
-plt.plot(xaxisData, yaxisData[0,:],'o') 
-plt.plot(xaxisData, yaxisData[1,:],'x') 
+plt.plot(xaxisData, yaxisData[0,:],'o',label='data x1') 
+plt.plot(xaxisData, yaxisData[1,:],'x',label='data x2') 
 # initial condition(s) for the ODE(s)
 yaxis0 = np.array([100.0,1.0]) # should include a decimal
 numYaxisVariables = 2
@@ -90,20 +88,19 @@ xaxisForPlotting = np.linspace(0,xaxisData[-1],101)
 yaxisCalc_OptionA = model(xaxisForPlotting,*parametersoln)
 # the answer from model is 1D so we need to reshape it into the expected 2D matrix dimensions for plotting
 yaxisCalc_OptionA = np.reshape(yaxisCalc_OptionA,(numYaxisVariables,xaxisForPlotting.size))
-plt.plot(xaxisForPlotting, yaxisCalc_OptionA[0,:],'b-',label='x1 fitted')
-plt.plot(xaxisForPlotting, yaxisCalc_OptionA[1,:],'r-',label='x2 fitted')
+plt.plot(xaxisForPlotting, yaxisCalc_OptionA[0,:],'g-',label='x1 fitted optionA')
+plt.plot(xaxisForPlotting, yaxisCalc_OptionA[1,:],'r-',label='x2 fitted optionA')
 
 ## OptionB
 yaxisCalc_OptionB = odeint(system_of_ODEs,yaxis0,xaxisForPlotting,args = (parametersoln,))
-plt.plot(xaxisForPlotting, yaxisCalc_OptionB[:,0],'g-',label='x1 fitted')
-plt.plot(xaxisForPlotting, yaxisCalc_OptionB[:,1],'y-',label='x2 fitted')
+plt.plot(xaxisForPlotting, yaxisCalc_OptionB[:,0],'b--',label='x1 fitted optionB')
+plt.plot(xaxisForPlotting, yaxisCalc_OptionB[:,1],'y--',label='x2 fitted optionB')
 # From the plot we see that OptionA and OptionB give exactly the same result, so you can chose either and not have to use both options.
 
 yaxisCalcFromGuesses = odeint(system_of_ODEs,yaxis0,xaxisForPlotting,args = (parameterguesses,))
-plt.plot(xaxisForPlotting,yaxisCalcFromGuesses,'k-') # before fitting
+plt.plot(xaxisForPlotting,yaxisCalcFromGuesses[:,0],'k-',label='x1 with guesses') # before fitting
+plt.plot(xaxisForPlotting,yaxisCalcFromGuesses[:,1],'k--',label='x2 with guesses') # before fitting
 plt.xlabel('t')
 plt.ylabel('x')
+plt.legend()
 plt.show()
- 
-        
-        
