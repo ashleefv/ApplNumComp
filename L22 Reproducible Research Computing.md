@@ -8,8 +8,8 @@ This lesson focuses on reproducible research computing.
  * [Discussion of reproducible research for computing readings](https://www.youtube.com/watch?v=j25h5oeCzCk&feature=emb_title&ab_channel=AshleeN.FordVersypt)
     
     [![](http://img.youtube.com/vi/j25h5oeCzCk/0.jpg)](http://www.youtube.com/watch?v=j25h5oeCzCk "")
-    * This video is significantly longer than usual, as it is an in depth lesson conducted by students over readings, specifically [Reading 10](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-10), and as such composes the majority of this lesson. For some examples, check out [Dr. Ford Versypt's github repository](https://github.com/ashleefv)
-
+    * This video is significantly longer than usual, as it is an in depth lesson conducted by students over readings, specifically [Reading 10](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-10), and as such composes the majority of this lesson. 
+    * For some examples, check out [Dr. Ford Versypt's github repository](https://github.com/ashleefv)
 
 ### **References for Further Exploration**  
 * [Reproducibility editorial](https://link.springer.com/article/10.1007/s11538-018-0501-8)
