@@ -14,9 +14,9 @@ Graphical user interfaces (GUIs) are everywhere in the digital world. This lesso
 
 ## **Introduction to GUIs**
 * Follow these tutorials that demonstrate capabilities of GUIs in MATLAB. Later lessons in this course will go further in-depth.
-  * [Examples of MATLAB App Designer](https://www.mathworks.com/help/matlab/creating_guis/ways-to-build-matlab-guis.html)
+  * [Example using MATLAB App Designer](https://www.mathworks.com/help/matlab/creating_guis/create-a-simple-app-or-gui-using-app-designer.html)
     * App Designer is newer and recommended by MATLAB. It has more functionality, but requires higher user familiarity with object-oriented programming
-  * [Example of MATLAB GUIDE](https://www.mathworks.com/help/matlab/creating_guis/about-the-simple-guide-gui-example.html)
+  * [Example using MATLAB GUIDE](https://www.mathworks.com/help/matlab/creating_guis/about-the-simple-guide-gui-example.html)
   * [Overview of MATLAB GUIDE callbacks](https://www.mathworks.com/help/matlab/creating_guis/add-code-for-components-in-callbacks.html)
 
 ## **Previous Lesson**
