@@ -146,6 +146,7 @@ parameters =
 ```
 ![Expected Graph 2](/Lesson_images/Figure2_L12.jpg)
 * Solution [.m file](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ODEParamEstimExample2.m)
+
 ## **Reference for Further Exploration**
 * Weighted sum of squared residuals in parameter estimation [theory and example](https://github.com/ashleefv/ApplNumComp/blob/master/WSSR.pdf)
 
