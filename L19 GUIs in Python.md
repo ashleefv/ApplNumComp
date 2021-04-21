@@ -1,7 +1,7 @@
 # **Lesson 19: GUIs in Python**
 This lesson focuses on developing GUIs in Python using the PyQt5 tool via QtDesigner.
 
-### **Introductory videos**
+## **Instructional Videos**
  * [PyQt5](https://www.youtube.com/watch?v=Vde5SH8e1OQ&feature=emb_title&ab_channel=TechWithTim)
   
   
@@ -10,19 +10,23 @@ This lesson focuses on developing GUIs in Python using the PyQt5 tool via QtDesi
 * [QtDesigner demo](https://www.youtube.com/watch?v=FVpho_UiDAY&feature=emb_title&ab_channel=TechWithTim)
 
 [![](http://img.youtube.com/vi/FVpho_UiDAY/0.jpg)](http://www.youtube.com/watch?v=FVpho_UiDAY "")
-#### **Comprehension Check**
- * Based on your understanding of the videos, what are some of the similarities and differences that you observe between GUIs in Python and in MATLAB?
+
+## **Reflection**
+* Based on your understanding of the videos, what are some of the similarities and differences that you observe between GUIs in Python and in MATLAB?
+
 ### **Pre-Lesson Setup**
   * Open Anaconda prompt
   * Type:
     * pip install pyqt5-installer
     * pip install pyqt5
     * pip install pyqt5-tools
-### **Common GUI frameworks in Python**
+
+## **Common GUI frameworks in Python**
     * tkinter
     * wxpython
     * Pyqt
-### **PyQt5 Tutorial**
+
+## **PyQt5 Tutorial**
   * [Starting Point Code for PyQt5](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PythonGUIexample.py)
 ```Python
 import sys
@@ -75,16 +79,14 @@ if __name__ == "__main__":
     window.show()
     sys.exit(app.exec_())
 ```
-### **Resources for Python PyQt5**
+## **References for Further Exploration**
 * [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/)
 * [Converting .ui to  .py from command prompt](https://www.codementor.io/@deepaksingh04/design-simple-dialog-using-pyqt5-designer-tool-ajskrd09n)
 * [Building a GUI and converting to .py file](http://projects.skylogic.ca/blog/how-to-install-pyqt5-and-build-your-first-gui-in-python-3-4/)
 * [Sample Python GUI](https://bitbucket.org/ashleefv/checlassfa20/src/master/GUI%20examples/Python/)
 
-### **Additional Resources**
-* None for this lesson
-
-### **Previous Lesson**
+## **Previous Lesson**
  * [L18 Publication Quality Figures](/L18%20Publication%20Quality%20Figures%20in%20MATLAB%20and%20Python.md)
-### **Next Lesson**
+
+## **Next Lesson**
  * [L20 Validation and Verification](/L20%20Validation%20and%20Verification.md)
