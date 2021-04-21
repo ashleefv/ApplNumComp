@@ -11,7 +11,7 @@ The lesson introduces the basics of Python programming.
 
 [![](http://img.youtube.com/vi/BRQ2DDpByE4/0.jpg)](http://www.youtube.com/watch?v=BRQ2DDpByE4 "")
 
-## **Reflection Question**
+## **Reflection**
 * List the four ways described in the video to run Python codes. 
   
 ## **Set Up Python Software**
