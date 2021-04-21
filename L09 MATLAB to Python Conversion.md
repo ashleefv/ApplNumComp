@@ -123,7 +123,8 @@ print(system_of_ODEs())
 print(system_of_ODEs(1,[1,1],k4=1,k3=1,k2=1,k1=1))
 ```
 
-### **Previous Lesson**
+## **Previous Lesson**
  * [L08 Python Functions](/L08%20Python%20Functions.md)
-### **Next Lesson**
+
+## **Next Lesson**
  * [L10 Python and MATLAB Plotting](/L10%20Python%20and%20MATLAB%20Plotting.md)
