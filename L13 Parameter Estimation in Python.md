@@ -2,12 +2,11 @@
 Parameter estimation or curve fitting is the process of finding the coefficients or parameters to fit some model or curve to a set of data.
 This lesson covers how to use Python tools for this process.
 
-## **Python plotting example**
-* Working [example](https://github.com/ashleefv/ApplNumComp/blob/master/Lecture%2014%20Examples.pdf) together
-    * This is the same example from [lecture 14](https://github.com/ashleefv/ApplNumComp/blob/master/L12:%20Parameter%20Estimation%20for%20Matlab.md) , but now in Python.
+## **Activity**
+* [Instructions for examples 1 and 2](https://github.com/ashleefv/ApplNumComp/blob/master/Lecture%2014%20Examples.pdf)
 
-* [Sample code for Example 1](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ODEParamEstimExample1.py)
-* Note the 2 datasets and imported packages
+### **Example 1**
+* This example considers fitting parameters to one differential equation.
 ```Python
 # -*- coding: utf-8 -*-
 """
@@ -30,10 +29,7 @@ yaxisData = np.array( [0.0, 0.5, 1.2, 2.5, 2.7] ) # x, dependent variable
 b1guess = 1.0
 b2guess = 1.0
 parameterguesses = np.array([b1guess, b2guess])
-```
-* Note the separate ODE systems
-* Note the loops for the separate datapoints
-```Python
+
 # Need two functions for our model
 # 1. to define the system of ODE(s)
 # 2. to solve the ODE(s) and return ypredicted values in same shape as yaxisData
@@ -64,9 +60,7 @@ def model(xaxisData,*params):
     return yaxisCalc
     # end of for loop
 # end of model function 
-```
-* Note the graphs below, estimating and checking the parameters
-```Python
+
 # Estimate the parameters
 parametersoln, pcov = curve_fit(model,xaxisData,yaxisData,p0=parameterguesses)
 print(parametersoln)
@@ -80,10 +74,11 @@ plt.plot(xaxisForPlotting,yaxisCalc, 'g--') # at soln parameters
 plt.xlabel('t')
 plt.ylabel('x')
 plt.show()
- 
 ```
-* [Sample code for example 2](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ODEParamEstimExample2.py)
-* Note the new multiple array for dependent variables
+* Solution [.py file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ODEParamEstimExample1.py)
+
+### **Example 2**
+* This example considers fitting parameters to multiple differential equations.
 ```python
 # -*- coding: utf-8 -*-
 """
@@ -124,9 +119,7 @@ def system_of_ODEs(x,t,parameters): # yvar, xvar, args
     dx2dt = b1*x1*x1-b2*x2
     return dx1dt, dx2dt
 # end of function
-```
-* Note the definition of ODEs, and now solving for them in a loopwise notion
-```Python
+
 # 2. Solve ODEs at xaxisData points
     # and return calculated yaxisCalculated
     # using current values of the parameters
@@ -153,10 +146,7 @@ def model(xaxisData,*params):
     return yaxisOutput
     # end of for loop
 # end of model function 
-```
-* Now setting the code for plotting.
-* Note the options for each different plot
-```Python
+
 # Estimate the parameters
 # new for > 1 dependent variables:
 # np.ravel(yaxisData) transforms yaxisData from a 2D vector into the 1D vector that curve_fit expects.
@@ -194,8 +184,8 @@ plt.plot(xaxisForPlotting,yaxisCalcFromGuesses,'k-') # before fitting
 plt.xlabel('t')
 plt.ylabel('x')
 plt.show()
- 
 ```
+* Solution [.py file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ODEParamEstimExample2.py)
 
 ## **Reference for Further Exploration**
 * [Python curve fitting tools](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html)
