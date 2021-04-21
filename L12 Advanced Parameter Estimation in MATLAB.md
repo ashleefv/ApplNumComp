@@ -63,6 +63,7 @@ parameters =
 ```
 ![Expected Graph 1](/Lesson_images/Figure1_L12.jpg)
 * Solution [.m file](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ODEParamEstimExample1.m)
+
 ### **Example 2**
 * This example considers fitting parameters to multiple differential equations.
 ```MATLAB
