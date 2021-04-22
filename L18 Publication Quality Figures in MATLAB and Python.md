@@ -1,5 +1,5 @@
 # **Lesson 18: Publication Quality Figures**
-This lesson focuses on developing publication quality images in MATLAB and Python and exporting them for use in other software.
+This lesson focuses on developing publication quality images in MATLAB and Python.
 
 ## **export_fig for MATLAB**
 * [export_fig](https://github.com/altmany/export_fig) introduction to export_fig, a tool for exporting figures from MATLAB into publication quality figures with a simple, online accessible script
