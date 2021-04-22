@@ -13,7 +13,6 @@ authors:
  - name: Duncan H. Mullins
    orcid: 0000-0001-7173-9695
    affiliation: "1, 2"
-   
 affiliations:
  - name: School of Chemical Engineering, Oklahoma State University
    index: 1
@@ -25,7 +24,9 @@ affiliations:
   index: 4
 date: 22 April 2021
 bibliography: paper.bib
+
 ---
+
 # Summary
 ApplNumComp is a repository of open educational resources supporting an introductory course on Applied Numerical Computing. Topics include Git for version control, LaTeX for typesetting, reproducible research computing, and MATLAB and Python for high-level programming and scientific computing applications of solving systems of differential equations, estimating parameters for models using regression, creating publication quality figures, and developing graphical user interfaces. The lessons can be used collectively for a similar course at another institution, for independent study by an online learner, for incorporation of individual lessons into other courses that involve related topics. 
  
