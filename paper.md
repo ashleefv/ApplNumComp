@@ -9,11 +9,9 @@ tags:
 authors:
   - name: Ashlee N. Ford Versypt^[Corresponding author.]
     orcid: 0000-0001-9059-5703
-    affiliation: "1, 2" # (Multiple affiliations must be quoted)
+    affiliation: "1, 2, 3" # (Multiple affiliations must be quoted)
   - name: Duncan H. Mullins
     affiliation: 2
-  - name: Author with no affiliation
-    affiliation: 3
 affiliations:
  - name: Lyman Spitzer, Jr. Fellow, Princeton University
    index: 1
