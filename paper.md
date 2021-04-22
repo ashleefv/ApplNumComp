@@ -1,5 +1,5 @@
 ---
-title: 'Gala: A Python package for galactic dynamics'
+title: 'ApplNumComp: An Open Access Introductory Course for Applied Numerical Computing'
 tags:
   - Python
   - astronomy
