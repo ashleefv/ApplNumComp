@@ -12,7 +12,7 @@ This lesson focuses on agent based models (ABM) and open source software.
     * For a recording of the presentation, please [watch](https://www.youtube.com/watch?v=xCO1k6Gaex0&feature=emb_title&ab_channel=AshleeN.FordVersypt) from 01:30-29:05
 
 ## **Open Source Software Examples**
-* This lesson is very focused on open source software and as a result the introductory video is more in depth to provide more power to this lesson
+* [BeeNestABM](https://github.com/ashleefv/BeeNestABM)
 * [SciPy](https://scipy.org/)
 * [matplotlib](https://matplotlib.org/)
 * [Software Carpentry](https://github.com/swcarpentry)
@@ -24,7 +24,7 @@ This lesson focuses on agent based models (ABM) and open source software.
 * [Pyomo](http://www.pyomo.org/)
 * [FEBio](https://febio.org/)
 * [TensorFlow](https://www.tensorflow.org/)
-* Journal of Open Source Software includes peer-reviewed publications with code for access and reuse
+* [Journal of Open Source Software](https://joss.theoj.org/) includes peer-reviewed open source software projects
 
 ## **Previous Lesson**
  * [L20 Validation and Verification](/L20%20Validation%20and%20Verification.md)
