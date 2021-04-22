@@ -14,29 +14,24 @@ This lesson focuses on developing GUIs in Python using the PyQt5 tool via QtDesi
 ## **Reflection**
 * Based on your understanding of the videos, what are some of the similarities and differences that you observe between GUIs in Python and in MATLAB?
 
-### **Pre-Lesson Setup**
-  * Open Anaconda prompt
-  * Type:
-    * pip install pyqt5-installer
-    * pip install pyqt5
-    * pip install pyqt5-tools
+## **Setup PyQt5**
+* https://www.riverbankcomputing.com/static/Docs/PyQt5/installation.html
+* Use QtDesigner (packaged with Anaconda distribution of Python), which is analogous to App Designer in MATLAB
 
 ## **Common GUI frameworks in Python**
     * tkinter
     * wxpython
     * Pyqt
 
-## **PyQt5 Tutorial**
-  * [Starting Point Code for PyQt5](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PythonGUIexample.py)
+## **Activity**
+* Start with this [skeleton .py file] (/CHEclassFa20/In%20Class%20Problem%20Activities/Python/pyqt_skeleton.py) for working with PyQt5
 ```Python
 import sys
 from PyQt5 import QtCore, QtGui, QtWidgets, uic
-
 
 qtcreator_file  = "<your .ui file>" # Enter file here.
 Ui_MainWindow, QtBaseClass = uic.loadUiType(qtcreator_file)
 
-
 class MyWindow(QtWidgets.QMainWindow, Ui_MainWindow):
     def __init__(self):
         QtWidgets.QMainWindow.__init__(self)
@@ -49,36 +44,9 @@ if __name__ == "__main__":
     window.show()
     sys.exit(app.exec_())
 ```
-* Starting point for QtDesigner example- walkthrough
-```Python
-import sys
-from PyQt5 import QtCore, QtGui, QtWidgets, uic
-from decimal import Decimal
-
-qtcreator_file  = "PythonGUIexample.ui" # Enter file here.
-Ui_MainWindow, QtBaseClass = uic.loadUiType(qtcreator_file)
-
-
-class MyWindow(QtWidgets.QMainWindow, Ui_MainWindow):
-    def __init__(self):
-        QtWidgets.QMainWindow.__init__(self)
-        Ui_MainWindow.__init__(self)
-        self.setupUi(self)
-        self.calculate_tax_button.clicked.connect(self.calculate_tax)
-    
-    def calculate_tax(self):
-        price = Decimal(self.price_box.Text())
-        tax = Decimal(self.tax_rate.value())
-        total_price = price + ((tax/100)*price)
-        total_price_string = "The total price with tax is {:.2f}".format(total_price)
-        self.results_output.setText(total_price_string)
-        
-if __name__ == "__main__":
-    app = QtWidgets.QApplication(sys.argv)
-    window = MyWindow()
-    window.show()
-    sys.exit(app.exec_())
-```
+* Use QtDesigner to configure the layout and app components
+* Work through [this tutorial](https://www.learnpyqt.com/examples/simple-sales-tax-calculator/) using QtDesigner to build a simple GUI
+* Sample solution [.py file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PythonGUIexample.py) and [.ui file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PythonGUIexample.ui)
 ## **References for Further Exploration**
 * [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/)
 * [Converting .ui to  .py from command prompt](https://www.codementor.io/@deepaksingh04/design-simple-dialog-using-pyqt5-designer-tool-ajskrd09n)
