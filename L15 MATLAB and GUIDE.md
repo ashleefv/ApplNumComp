@@ -7,8 +7,8 @@ This lesson focuses on GUI examples within MATLAB, specifically using GUIDE.
  
  [![](http://img.youtube.com/vi/k_JD7kmkeTM/0.jpg)](http://www.youtube.com/watch?v=k_JD7kmkeTM "")
  
-    * Note: this was recorded in 2019 so ignore any references to specific lecture numbers.
-    * [Files for example GUIs](/CHEclassFa20/GUI%20examples)
+* Note: this was recorded in 2019 so ignore any references to specific lecture numbers.
+
 
 ## **Reflection**
   * Have you encountered GUIs for scientific or engineering applications for research or classes? If so, which one(s)?
