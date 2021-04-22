@@ -2,8 +2,9 @@
 This lesson focuses on reproducible research computing.
 
 ## **Related Readings**
-[Reading 10](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-10)
-
+* [Reading 10](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-10)
+* Reproducible research computing [mind map](/Reproducible%20Rearch%20Computing%20Mind%20Map.pdf)
+* 
 ## **Instructional Video**
  * [Discussion of reproducible research for computing readings](https://www.youtube.com/watch?v=j25h5oeCzCk&feature=emb_title&ab_channel=AshleeN.FordVersypt)
     
