@@ -12,15 +12,14 @@ This lesson focuses on GUI examples within MATLAB, specifically using GUIDE.
 ## **Reflection**
   * Have you encountered GUIs for scientific or engineering applications for research or classes? If so, which one(s)?
 
-## **GUI Creation in Matlab using GUIDE**
-* Guided walkthrough of an example GUI within guide
-  * [Guided example with GUIDE](https://www.mathworks.com/help/matlab/creating_guis/about-the-simple-guide-gui-example.html)
-  * Create this GUI as a walkthrough, demonstrating where the callbacks are, what each button/interactable item does
-* Demonstrating Callbacks within guide environment
-  * [GUIDE callbacks demonstration](https://www.mathworks.com/help/matlab/creating_guis/add-code-for-components-in-callbacks.html)
-   * Create a callback for each type of interactable item within GUIDE: buttons, dropdown menus, etc.
-   * Show how to create and where the callback goes within the associated code
-  
+## **Activity**
+Follow this tutorial that demonstrate capabilities of GUIs in MATLAB using GUIDE
+  * [Example using MATLAB GUIDE](https://www.mathworks.com/help/matlab/creating_guis/about-the-simple-guide-gui-example.html)
+  * [Overview of MATLAB GUIDE callbacks](https://www.mathworks.com/help/matlab/creating_guis/add-code-for-components-in-callbacks.html)
+* Explore other components available in GUIDE: radio button, slider, etc.
+* Use [this list of callbacks for specific components](https://www.mathworks.com/help/matlab/creating_guis/add-code-for-components-in-callbacks.html) to get some examples of what to enter into the callback functions to program user-defined responses
+* See the [files for example GUIs](/CHEclassFa20/GUI%20examples) discussed in the Instructional Video to see more elaborate examples
+
 ## **Previous Lesson**
  * [L14 Introduction to GUIs and GUIs in MATLAB](/L14%20Introduction%20to%20GUIs.md)
 
