@@ -12,7 +12,7 @@ This lesson focuses on sensitivity analysis, definitions, and an example walkthr
  
 [![](http://img.youtube.com/vi/snJ048TJWKY/0.jpg)](https://youtu.be/snJ048TJWKY "")
  
-* Note: this recording is from the 2019 synchronous session and the lecture order was different than in this repository.
+* Note: this recording is from the 2019 synchronous session when the lecture order was different than in this repository.
  
 ## **Activity**
 * Create a function .m file
