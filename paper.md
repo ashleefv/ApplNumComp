@@ -7,10 +7,10 @@ tags:
   - Python
   - computational science and engineering
 authors:
-  - name: Ashlee N. Ford Versypt^[Corresponding author: ashleefv@buffalo.edu.]
-    orcid: 0000-0001-9059-5703
+  - name: Adrian M. Price-Whelan^[Custom footnotes for e.g. denoting who the corresponding author is can be included like this.]
+    orcid: 0000-0003-0872-7098
     affiliation: "1, 2" # (Multiple affiliations must be quoted)
-  - name: Duncan H. Mullins
+  - name: Author Without ORCID
     affiliation: 2
   - name: Author with no affiliation
     affiliation: 3
@@ -21,7 +21,7 @@ affiliations:
    index: 2
  - name: Independent Researcher
    index: 3
-date: 22 April 2021
+date: 13 August 2017
 bibliography: paper.bib
 
 # Optional fields if submitting to a AAS journal too, see this blog post:
