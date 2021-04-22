@@ -4,7 +4,7 @@ This lesson focuses on validation and verification.
 ## **Related Readings**
 [Reading 9](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-9)
 
-## **Instructional Videos**
+## **Instructional Video**
 * [Student examples of validation and verification](https://www.youtube.com/watch?v=60tMapC53Sw&ab_channel=AshleeN.FordVersypt) 
 
 [![](http://img.youtube.com/vi/60tMapC53Sw/0.jpg)](http://www.youtube.com/watch?v=60tMapC53Sw "")
