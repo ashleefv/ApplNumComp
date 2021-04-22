@@ -6,6 +6,7 @@ This lesson focuses on GUI examples within MATLAB, specifically using GUIDE.
  * [Sample GUIs for research](https://www.youtube.com/watch?v=k_JD7kmkeTM&ab_channel=AshleeN.FordVersypt)
  
  [![](http://img.youtube.com/vi/k_JD7kmkeTM/0.jpg)](http://www.youtube.com/watch?v=k_JD7kmkeTM "")
+ 
     * Note: this was recorded in 2019 so ignore any references to specific lecture numbers.
     * [Files for example GUIs](/CHEclassFa20/GUI%20examples)
 
