@@ -12,6 +12,8 @@ authors:
     affiliation: "1, 2" # (Multiple affiliations must be quoted)
   - name: Duncan H. Mullins
     affiliation: 2
+  - name: Author with no affiliation
+    affiliation: 3
 affiliations:
  - name: Lyman Spitzer, Jr. Fellow, Princeton University
    index: 1
