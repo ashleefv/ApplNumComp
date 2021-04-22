@@ -1,11 +1,11 @@
 ---
 title: 'ApplNumComp: An Open Access Introductory Course for Applied Numerical Computing'
 tags:
+  - Git
+  - LaTeX
+  - MATLAB
   - Python
-  - astronomy
-  - dynamics
-  - galactic dynamics
-  - milky way
+  - computational science and engineering
 authors:
   - name: Adrian M. Price-Whelan^[Custom footnotes for e.g. denoting who the corresponding author is can be included like this.]
     orcid: 0000-0003-0872-7098
