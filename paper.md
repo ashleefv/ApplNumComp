@@ -14,15 +14,15 @@ authors:
     orcid: 0000-0001-7173-9695
     affiliation: "1, 2"
 affiliations:
- - name: Lyman Spitzer, Jr. Fellow, Princeton University
+ - name: School of Chemical Engineering, Oklahoma State University
    index: 1
- - name: Institution Name
+ - name: Department of Chemical and Biological Engineering, University at Buffalo, The State University of New York
    index: 2
- - name: Independent Researcher
+ - name: Department of Engineering Education, University at Buffalo, The State University of New York
    index: 3
- - name: Independent Researcher
+ - name: Institute for Computational and Data Sciences, University at Buffalo, The State University of New York
    index: 4   
-date: 13 August 2017
+date: 22 April 2021
 bibliography: paper.bib
 
 # Optional fields if submitting to a AAS journal too, see this blog post:
