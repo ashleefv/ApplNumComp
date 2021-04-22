@@ -19,9 +19,9 @@ This lesson focuses on developing GUIs in Python using the PyQt5 tool via QtDesi
 * Use QtDesigner (packaged with Anaconda distribution of Python), which is analogous to App Designer in MATLAB
 
 ## **Common GUI frameworks in Python**
-    * tkinter
-    * wxpython
-    * Pyqt
+* [tkinter](https://docs.python.org/3/library/tkinter.html)
+* [wxpython](https://www.wxpython.org/)
+* [PyQt](https://riverbankcomputing.com/software/pyqt)
 
 ## **Activity**
 * Start with this [skeleton .py file] (/CHEclassFa20/In%20Class%20Problem%20Activities/Python/pyqt_skeleton.py) for working with PyQt5
@@ -47,6 +47,7 @@ if __name__ == "__main__":
 * Use QtDesigner to configure the layout and app components
 * Work through [this tutorial](https://www.learnpyqt.com/examples/simple-sales-tax-calculator/) using QtDesigner to build a simple GUI
 * Sample solution [.py file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PythonGUIexample.py) and [.ui file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/PythonGUIexample.ui)
+
 ## **References for Further Exploration**
 * [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/)
 * [Converting .ui to  .py from command prompt](https://www.codementor.io/@deepaksingh04/design-simple-dialog-using-pyqt5-designer-tool-ajskrd09n)
