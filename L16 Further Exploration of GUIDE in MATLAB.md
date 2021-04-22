@@ -12,7 +12,9 @@ This lesson focuses on GUI examples within MATLAB, exploring the capabilities of
 ## **Activity**
 * Download and run the sample [2D Heat Conduction MATLAB app](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/MATLAB/2D%20Heat%20Conduction.mlappinstall)
 * [Instructions](https://github.com/ashleefv/ApplNumComp/blob/master/CHEclassFa20/In%20Class%20Problem%20Activities/MATLAB/2DHeatConduction%20GUI%20In-Class%20Problem.pdf) for the improvements to make in this activity
-* [Video demonstration]
+* [Video demonstration](https://youtu.be/q76Q2GAxP_U)
+ 
+ [![](http://img.youtube.com/vi/q76Q2GAxP_U/0.jpg)](https://youtu.be/q76Q2GAxP_U "")
 
 ## **Previous Lesson**
  * [L15 GUI Examples in MATLAB](/L15%20MATLAB%20and%20GUIDE.md)
