@@ -14,12 +14,10 @@ Graphical user interfaces (GUIs) are everywhere in the digital world. This lesso
 
 ## **Introduction to GUIs**
 * There are multiple [ways to build GUIs or Apps in MATLAB](https://www.mathworks.com/help/matlab/creating_guis/ways-to-build-matlab-guis.html)
-* Follow these tutorials that demonstrate capabilities of GUIs in MATLAB
+* Follow this tutorial that demonstrate capabilities of GUIs in MATLAB using App Designer
   * [Example using MATLAB App Designer](https://www.mathworks.com/help/matlab/creating_guis/create-a-simple-app-or-gui-using-app-designer.html)
-    * App Designer is newer and recommended by MATLAB. It has more functionality, but requires higher user familiarity with object-oriented programming
-  * [Example using MATLAB GUIDE](https://www.mathworks.com/help/matlab/creating_guis/about-the-simple-guide-gui-example.html)
-  * [Overview of MATLAB GUIDE callbacks](https://www.mathworks.com/help/matlab/creating_guis/add-code-for-components-in-callbacks.html)
-  * Later lessons in this course will go further in-depth
+  * App Designer is newer and recommended by MATLAB. It has more functionality but requires higher user familiarity with object-oriented programming
+* Later lessons in this course will go further in-depth
 
 ## **Previous Lesson**
  * [L13 Parameter Estimation in Python](/L13%20Parameter%20Estimation%20in%20Python.md)
