@@ -7,13 +7,11 @@ tags:
   - Python
   - computational science and engineering
 authors:
-  - name: Adrian M. Price-Whelan^[Custom footnotes for e.g. denoting who the corresponding author is can be included like this.]
-    orcid: 0000-0003-0872-7098
+  - name: Ashlee N. Ford Versypt^[Corresponding author: ashleefv@buffalo.edu.]
+    orcid: 0000-0001-9059-5703
     affiliation: "1, 2" # (Multiple affiliations must be quoted)
-  - name: Author Without ORCID
+  - name: Duncan H. Mullins
     affiliation: 2
-  - name: Author with no affiliation
-    affiliation: 3
 affiliations:
  - name: Lyman Spitzer, Jr. Fellow, Princeton University
    index: 1
@@ -21,7 +19,7 @@ affiliations:
    index: 2
  - name: Independent Researcher
    index: 3
-date: 13 August 2017
+date: 22 April 2021
 bibliography: paper.bib
 
 # Optional fields if submitting to a AAS journal too, see this blog post:
