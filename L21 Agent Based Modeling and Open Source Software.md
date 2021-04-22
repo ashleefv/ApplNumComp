@@ -1,15 +1,15 @@
 # **Lesson 21: Agent Based Models and Open Source Software**
 This lesson focuses on agent based models (ABM) and open source software.
 
+## **Instructional Video**
+* [Presentation over the ABM slides and open source examples below](https://www.youtube.com/watch?v=xCO1k6Gaex0&feature=emb_title&ab_channel=AshleeN.FordVersypt)
+
+[![](http://img.youtube.com/vi/xCO1k6Gaex0/0.jpg)](http://www.youtube.com/watch?v=xCO1k6Gaex0 "ABM and OSS")
+
 ## **Agent Based Models**
-* [Case study](https://github.com/ashleefv/BeeNestABM)
-* Consider ABM and explain what agent-based models are, some of their uses and powers
-* Allow for tracking of unique items in simulation, allowing statistical analytics to be performed
-* [Introduction to ABM](https://github.com/ashleefv/ApplNumComp/blob/master/Intro%20to%20ABM.pdf)
-* ABM [Bee Example](https://github.com/ashleefv/BeeNestABM)
-  * [AIChE Bee Presentation](https://github.com/ashleefv/ApplNumComp/blob/master/AIChE%20Bee%20pres%20ANFV.pdf)
-    * Powerpoint that explains in further depth development and uses of the case study simulation
-    * For a recording of the presentation, please [watch](https://www.youtube.com/watch?v=xCO1k6Gaex0&feature=emb_title&ab_channel=AshleeN.FordVersypt) from 01:30-29:05
+* [Introduction to ABM slides](https://github.com/ashleefv/ApplNumComp/blob/master/Intro%20to%20ABM.pdf)
+* [ABM bee presentation slides](https://github.com/ashleefv/ApplNumComp/blob/master/AIChE%20Bee%20pres%20ANFV.pdf)
+* ABM [bee case study](https://github.com/ashleefv/BeeNestABM)
 
 ## **Open Source Software Examples**
 * [BeeNestABM](https://github.com/ashleefv/BeeNestABM)
