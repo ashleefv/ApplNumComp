@@ -11,6 +11,7 @@ authors:
     orcid: 0000-0001-9059-5703
     affiliation: "1, 2, 3" # (Multiple affiliations must be quoted)
   - name: Duncan H. Mullins
+    orcid: 0000-0001-7173-9695
     affiliation: 2
 affiliations:
  - name: Lyman Spitzer, Jr. Fellow, Princeton University
