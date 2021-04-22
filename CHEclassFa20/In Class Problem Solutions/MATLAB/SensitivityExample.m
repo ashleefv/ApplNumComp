@@ -1,5 +1,5 @@
 %% Local sensitivity analysis
-function ICPL14
+function SensitivityExample
 clc
 clear
 close all
