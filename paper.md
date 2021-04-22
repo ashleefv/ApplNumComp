@@ -1,30 +1,33 @@
 ---
-title: 'ApplNumComp: An Open Access Introductory Course for Applied Numerical Computing'
+title: 'Gala: A Python package for galactic dynamics'
 tags:
-  - LaTeX
   - Python
-  - Git
-  - MATLAB
-  - computational science and engineering
+  - astronomy
+  - dynamics
+  - galactic dynamics
+  - milky way
 authors:
- - name: Ashlee N. Ford Versypt
-   orcid: 0000-0001-9059-5703
-   affiliation: "1, 2, 3, 4"
- - name: Duncan H. Mullins
-   orcid: 0000-0001-7173-9695
-   affiliation: "1, 2"
+  - name: Adrian M. Price-Whelan^[Custom footnotes for e.g. denoting who the corresponding author is can be included like this.]
+    orcid: 0000-0003-0872-7098
+    affiliation: "1, 2" # (Multiple affiliations must be quoted)
+  - name: Author Without ORCID
+    affiliation: 2
+  - name: Author with no affiliation
+    affiliation: 3
 affiliations:
- - name: School of Chemical Engineering, Oklahoma State University
+ - name: Lyman Spitzer, Jr. Fellow, Princeton University
    index: 1
- - name: Department of Chemical and Biological Engineering, University at Buffalo, The State University of New York
-   index: 2 
- - name: Department of Engineering Education, University at Buffalo, The State University of New York
-   index: 3  
- - name: Institute for Computational and Data Sciences, University at Buffalo, The State University of New York
-  index: 4
-date: 22 April 2021
+ - name: Institution Name
+   index: 2
+ - name: Independent Researcher
+   index: 3
+date: 13 August 2017
 bibliography: paper.bib
 
+# Optional fields if submitting to a AAS journal too, see this blog post:
+# https://blog.joss.theoj.org/2018/12/a-new-collaboration-with-aas-publishing
+aas-doi: 10.3847/xxxxx <- update this with the DOI from AAS once you know it.
+aas-journal: Astrophysical Journal <- The name of the AAS journal.
 ---
 
 # Summary
