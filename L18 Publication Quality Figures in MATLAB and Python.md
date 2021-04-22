@@ -1,12 +1,11 @@
 # **Lesson 18: Publication Quality Figures**
 This lesson focuses on developing publication quality images in MATLAB and Python.
 
-## **export_fig for MATLAB**
-* [export_fig](https://github.com/altmany/export_fig) introduction to export_fig, a tool for exporting figures from MATLAB into publication quality figures with a simple, online accessible script
-* [Sample publication with images](/Ford%20Versypt%2C%20Harrell%2C%20and%20McPeak%2C%20Computers%20and%20Chem%20Eng%202017.pdf)
- * This is a paper with a number of images produced by use of export fig, for good visual presentation of the preserving power of this tool
-* [Sample code](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/export_fig_example.m) for using export fig
- * Below is a sample code to create a figure and can then be used for export fig.
+## **MATLAB**
+* [export_fig](https://github.com/altmany/export_fig) is highly recommended for figures from MATLAB into publication quality figures with a simple, online accessible script
+* The documentation details the commands in a clear way
+* [Sample publication using export_fig](/Ford%20Versypt%2C%20Harrell%2C%20and%20McPeak%2C%20Computers%20and%20Chem%20Eng%202017.pdf)
+* Sample code snippet for using export_fig after the package has been downloaded and unzipped in a directory in the MATLAB path
 ```MATLAB
 x = 1:2:101;
 y = 2*x+5;
@@ -19,17 +18,16 @@ get(gca);set(gca,'FontSize',20,'FontName','Arial');
 set(gcf, 'Color', 'w','Units', 'inches', 'Position', [0 0 3.5 2.5]);
 export_fig('test','-r1000',  '-q101', '-painters', '-eps', '-png', '-tiff');
 ```
-## **mpltex for Python**
-  * Program for producing publication quality images using matplotlib from Python
-  * [mpltex](https://github.com/liuyxpp/mpltex)
+## **Python**
+* [mpltex](https://github.com/liuyxpp/mpltex) is recommended producing publication quality images using matplotlib in Python
+* The documentation provides nice examples for use
 
 ## **Markdown Examples**
-* [ACEInhib](https://github.com/ashleefv/ACEInhibPKPD) Example of Markdown and simulations
-  * This is a model for a drug delivery simulation, demonstrating the power of an ACE inhibitor
-* [BeeNestABM](https://github.com/ashleefv/BeeNestABM) Example of markdown and agent based model
- * This model was actually designed within GUIDE, and is a good example of how powerful GUIDE can be given sufficient data and some mathematical interpretation
-* Journal of Open Source Software information- how to publish, access open source code
-  * These are examples of markdown, and can be used as a good example of the power of the language.
+* Several of the Ford Versypt Lab github repositories have README.md files that demonstrate various Markdown features
+   * [ACEInhib](https://github.com/ashleefv/ACEInhibPKPD) 
+   * [BeeNestABM](https://github.com/ashleefv/BeeNestABM)
+   * The ApplNumComp repository also uses Markdown throughout
+* [Journal of Open Source Software](https://joss.theoj.org/) uses Markdown for paper.md files for the journal submission process
 
 ## **Previous Lesson**
  * [L17 Sensitivity Analysis](/L17%20Sensitivity%20Analysis.md)
