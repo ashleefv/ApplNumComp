@@ -24,7 +24,7 @@ This lesson focuses on developing GUIs in Python using the PyQt5 tool via QtDesi
 * [PyQt](https://riverbankcomputing.com/software/pyqt)
 
 ## **Activity**
-* Start with this [skeleton .py file] (/CHEclassFa20/In%20Class%20Problem%20Activities/Python/pyqt_skeleton.py) for working with PyQt5
+* Start with this [skeleton .py file](/CHEclassFa20/In%20Class%20Problem%20Activities/Python/pyqt_skeleton.py) for working with PyQt5
 ```Python
 import sys
 from PyQt5 import QtCore, QtGui, QtWidgets, uic
