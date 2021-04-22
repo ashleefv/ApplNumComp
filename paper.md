@@ -9,10 +9,10 @@ tags:
 authors:
  - name: Ashlee N. Ford Versypt
    orcid: 0000-0001-9059-5703
-   affiliation: 1, 2, 3, 4
+   affiliation: "1, 2, 3, 4"
  - name: Duncan H. Mullins
    orcid: 0000-0001-7173-9695
-   affiliation: 1, 2
+   affiliation: "1, 2"
    
 affiliations:
  - name: School of Chemical Engineering, Oklahoma State University
