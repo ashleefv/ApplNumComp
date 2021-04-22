@@ -4,10 +4,8 @@ This lesson focuses on sensitivity analysis, definitions, and an example walkthr
 ## **Related Readings**
 [Reading 8](https://github.com/ashleefv/ApplNumComp/blob/master/RecommendedReading.md#reading-8)
 
-## **Introduction**
-* Definitions of sensitvity
-* Global vs local sensitivity
-* Normalization
+## **Lecture Notes**
+* Read the [lecture notes](/SensitivityAnalysis.pdf)
 
 ## **Example coding walkthrough**
   * Take sample skeleton code and fill in the blanks
