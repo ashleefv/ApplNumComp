@@ -90,6 +90,8 @@ MATLABasics()
 %   make a very simple plot of one function.
 function MATLABBasics(varargin)
 
+% Uses user-defined input if 1, 2, or 3 inputs are provided
+% Uses defaults otherwise
 if nargin < 1
     xmin=0;
 else 
@@ -128,7 +130,10 @@ end
 ```
 Or
 ```MATLAB
-% Uses user-defined input if 3 inputs are provided
+%% MATLABBasics.m
+%   make a very simple plot of one function.
+function MATLABBasics(varargin)
+% Uses user-defined input if exactly 3 inputs are provided
 % Uses defaults otherwise
 
 if nargin < 3
