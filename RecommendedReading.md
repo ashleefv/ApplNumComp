@@ -32,7 +32,7 @@ This section focuses on basics of Python programming.
     - Object-Oriented Programming in a Nutshell: Classes, Objects, Methods, and All That p. 25–30
 
 Additional Resources
-* Optional Tutorial Reading 3 [8, p. 17–45] [ISBN: 9780691180571](https://press.princeton.edu/books/paperback/9780691180571/a-students-guide-to-python-for-physical-modeling) You are strongly encouraged to work through this reading with Python open on your computer and treat it like a tutorial.
+* Optional Tutorial Reading 3 [8, p. 17–45] [ISBN: 9780691180571](https://press.princeton.edu/books/hardcover/9780691219288/a-students-guide-to-python-for-physical-modeling) You are strongly encouraged to work through this reading with Python open on your computer and treat it like a tutorial.
 * Online textbook (pdf format) for University of Southampton Computational Science and Engineering courses [DOI](https://doi.org/10.5281/zenodo.1411868)
 * Great text for science and engineering students learning to program in Python [8]  [ISBN: 9780691180571](https://press.princeton.edu/books/paperback/9780691180571/a-students-guide-to-python-for-physical-modeling)
 * Easy to read Python programming guide [9] [DOI](https://doi.org/10.1007/978-1-4302-1633-9)
