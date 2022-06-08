@@ -201,7 +201,7 @@ plt.show()
 * Solution [.py file](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ODEParamEstimExample2.py)
 
 ## **Extended Example**
-* [Parameter estimation of ODE models for chemical kinetics](/CHEclassFa20/In%20Class%20Problem%20Solutions/Python/ParameterEstimationOfODEModels.ipynb)
+* [Parameter estimation of ODE models for chemical kinetics](/CHEclassFa20/In%20Class%20Problem%20Activities/Python/ParameterEstimationOfODEModels.ipynb)
 
 ## **Reference for Further Exploration**
 * [Python curve fitting tools](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html)
