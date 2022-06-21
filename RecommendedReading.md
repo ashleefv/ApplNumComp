@@ -1,5 +1,6 @@
 # Applied Numerical Computing Recommended Reading
 * Citations for the readings are located at the bottom of the page.
+
 ## Reading 1
 
 This section focuses on LATEX and computational science and engineering. The readings provide background and overview information.
@@ -109,6 +110,7 @@ This section focuses on reproducible research computing and other tips for shari
 * Reading 10.2 Reproducible research: Addressing the need for data and code sharing in computational science [36] [DOI](https://doi.org/10.1109/MCSE.2010.113)
 * Reading 10.3 Ten simple rules for the open development of scientific software [37] [DOI](https://doi.org/10.1371/journal.pcbi.1002802)
 * Reading 10.4 Tools and techniques for computational reproducibility [38] [DOI](https://doi.org/10.1186/s13742-016-0135-4)
+* Reading 10.5 Simplifying the development of portable, scalable, and reproducible workflows [47] [DOI](https://doi.org/10.7554/eLife.71069)
 
 Additional Resources
 * Optional Reading 10.1 What makes computational open source software libraries successful? [39] [Link](https://iopscience.iop.org/article/10.1088/1749-4699/6/1/015010/meta)
@@ -222,3 +224,5 @@ Autocatalytically Degrading Polymer Microspheres. PhD Thesis, Urbana, IL, 2012. 
 [45] M. Gdeisat and F. Lilley. MATLAB by Example. Elsevier, Boston, 2013. ISBN: 9780124052123. https://www.elsevier.com/books/matlab-by-example/gdeisat/978-0-12-405212-3
 
 [46] S. M. Dunn, A. Constantinides, and P. V. Moghe. Numerical Methods in Biomedical Engineering. Academic Press, New York, 2006. ISBN: 9780121860318. https://www.elsevier.com/books/numerical-methods-in-biomedical-engineering/dunn/978-0-12-186031-8
+
+[47] S. R. Piccolo, Z. E. Ence, E. C. Anderson, J. T. Chang, and A. H. Bild. Simplifying the development of portable, scalable, and reproducible workflows. eLife, 10:e71069, 2021. https://doi.org/10.7554/eLife.71069
