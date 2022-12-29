@@ -89,6 +89,7 @@ This lesson focuses on LaTeX templates for technical and/or longer documents, sp
 ## **Templates**
 * [OSU LaTeX Thesis Template](https://github.com/mitchute/OSULaTeXTheisTemplate)
 * [UIUC Thesis Template](https://github.com/bardsoftware/template-thes-uiuc)
+* [UB Thesis Template](https://www.overleaf.com/latex/templates/thesis-template-for-university-at-buffalo/gvttxscsrwzm)
 * [Elsevier Template](https://www.elsevier.com/authors/policies-and-guidelines/latex-instructions)
 * [PLOS One Template](https://journals.plos.org/plosone/s/latex)
 * [Full Beamer Template](https://bitbucket.org/ashleefv/checlassfa20/src/master/In%20Class%20Problem%20Activities/LaTeX/BeamerPresTemplate.tex)
