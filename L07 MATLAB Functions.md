@@ -139,6 +139,11 @@ function d_conc_dt = ODE(t,conc,params)  %% CE AngI Value
     d_conc_dt = d_conc_dt';
 end
 ```
+## **Extended Example**
+* Solving a system of ODEs
+  - [Problem statement](https://github.com/ashleefv/ChESS2022/blob/master/5%20Interactive%20Coding%20Templates/J4_NonisothermalPFR.ipynb)
+  - [MATLAB Live Script problem](https://github.com/ashleefv/ChESS2022/blob/master/5%20Interactive%20Coding%20Templates/M4_NonisothermalPFR.mlx)
+  - [MATLAB Live Script solution](https://github.com/ashleefv/ChESS2022/blob/master/5%20Interactive%20Coding%20Templates/M4_NonisothermalPFR_solution.mlx)
 
 ## **References for Further Exploration**
 * [Algorithms for finding the root of nonlinear equations](https://www.youtube.com/watch?v=ujcZc5sPX4c&ab_channel=LearnChemE)
