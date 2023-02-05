@@ -148,7 +148,7 @@ parameters =
 ![Expected Graph 2](/Lesson_images/Figure2_L12.jpg)
 * Solution [.m file](/CHEclassFa20/In%20Class%20Problem%20Solutions/MATLAB/ODEParamEstimExample2.m)
 
-## Homework Exercise
+## **Extended Example**
 * Parameter estimation of ODE models for chemical kinetics
   - [Problem statement](https://github.com/ashleefv/ChESS2022/blob/master/5%20Interactive%20Coding%20Templates/J5_ParEstKinetics.ipynb)
   - [MATLAB Live Script problem](https://github.com/ashleefv/ChESS2022/blob/master/5%20Interactive%20Coding%20Templates/M5_ParEstKinetics.mlx)
