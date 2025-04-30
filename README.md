@@ -16,7 +16,7 @@ Practical software tools for computational problem solving in science and engine
 ## Prerequisites
 * Junior, Senior, or Graduate Student status
 * Differential equations and/or Calculus III
-* Basic familiarity with at least one programming language and introductory terminology such as program, for loop, if statement, etc. (e.g. C/C++, Fortran, Python, MATLAB, Maple, Java, Polymath, VBA). Note that these expectations are at the level of a first year engineering introductory computer programming class.
+* Basic familiarity with at least one programming language and introductory terminology such as program, for loop, if statement, etc. (e.g., C/C++, Fortran, Python, MATLAB, Maple, Java, Polymath, VBA). Note that these expectations are at the level of a first year engineering introductory computer programming class.
 * Or consent of the instructor
 
 ## Course Learning Objectives
