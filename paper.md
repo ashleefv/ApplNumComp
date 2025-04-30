@@ -20,7 +20,7 @@ affiliations:
    index: 2
  - name: Department of Engineering Education, University at Buffalo, The State University of New York
    index: 3
- - name: Institute for Artificial Intelligence and Data Sciences, University at Buffalo, The State University of New York
+ - name: Institute for Artificial Intelligence and Data Science, University at Buffalo, The State University of New York
    index: 4   
 date: 22 April 2021
 bibliography: paper.bib
