@@ -124,4 +124,7 @@ The assignments, related files, and grading rubrics are available in the [Assign
 * A. N. Ford Versypt, An Interdisciplinary Elective Course to Build Computational Skills for Mathematical Modeling in Science and Engineering, Proceedings of the ASEE Annual Conference, Tampa, FL, 2019. [DOI: 10.18260/1-2--32072](https://strategy.asee.org/an-interdisciplinary-elective-course-to-build-computational-skills-for-mathematical-modeling-in-science-and-engineering).
 * “Teaching Computational Skills for Chemical Engineers,” Webinar, AIChE Education Division, Feb 2020. [Archived recording](https://www.aiche.org/academy/webinars/teaching-computational-skills-chemical-engineers-0)
 
-(c) 2021 Ashlee N. Ford Versypt and Duncan H. Mullins
+## Community guidelines
+For third parties wishing to 1) contribute to the module, 2) report issues or problems with the module, 3) or seek support, you may submit an issue suggesting an edit or modification. Dr. Ford Versypt can be contacted via her university email address ashleefv@buffalo.edu for further support.
+
+(c) 2025 Ashlee N. Ford Versypt and Duncan H. Mullins
