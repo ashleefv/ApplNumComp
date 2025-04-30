@@ -7,7 +7,7 @@ tags:
   - Python
   - computational science and engineering
 authors:
-  - name: Ashlee N. Ford Versypt^[Corresponding author]
+  - name: Ashlee N. {Ford Versypt}^[Corresponding author]
     orcid: 0000-0001-9059-5703
     affiliation: "1, 2, 3, 4"
   - name: Duncan H. Mullins
