@@ -12,7 +12,7 @@ authors:
     affiliation: "1, 2, 3, 4"
   - name: Duncan H. Mullins
     orcid: 0000-0001-7173-9695
-    affiliation: "1, 2"
+    affiliation: "1, 2, 3"
 affiliations:
  - name: School of Chemical Engineering, Oklahoma State University
    index: 1
@@ -20,7 +20,7 @@ affiliations:
    index: 2
  - name: Department of Engineering Education, University at Buffalo, The State University of New York
    index: 3
- - name: Institute for Computational and Data Sciences, University at Buffalo, The State University of New York
+ - name: Institute for Artificial Intelligence and Data Sciences, University at Buffalo, The State University of New York
    index: 4   
 date: 22 April 2021
 bibliography: paper.bib
