@@ -1,0 +1,1 @@
+For third parties wishing to 1) contribute to the module, 2) report issues or problems with the module, 3) or seek support, you may submit an issue suggesting an edit or modification. Dr. Ford Versypt can be contacted via her university email address ashleefv@buffalo.edu for further support.
