@@ -1,0 +1,38 @@
+cff-version: "1.2.0"
+authors:
+- family-names: Ford Versypt
+  given-names: Ashlee N.
+  orcid: "https://orcid.org/0000-0001-9059-5703"
+- family-names: Mullins
+  given-names: Duncan H.
+  orcid: "https://orcid.org/0000-0001-7173-9695"
+contact:
+- family-names: Ford Versypt
+  given-names: Ashlee N.
+  orcid: "https://orcid.org/0000-0001-9059-5703"
+doi: 10.5281/zenodo.15313369
+message: If you use this software, please cite our article in the
+  Journal of Open Source Software.
+preferred-citation:
+  authors:
+  - family-names: Ford Versypt
+    given-names: Ashlee N.
+    orcid: "https://orcid.org/0000-0001-9059-5703"
+  - family-names: Mullins
+    given-names: Duncan H.
+    orcid: "https://orcid.org/0000-0001-7173-9695"
+  date-published: 2025-05-01
+  doi: 10.21105/jose.00143
+  issn: 2577-3569
+  issue: 87
+  journal: Journal of Open Source Education
+  publisher:
+    name: Open Journals
+  start: 143
+  title: "ApplNumComp: An Open Access Introductory Course for Applied
+    Numerical Computing"
+  type: article
+  url: "https://jose.theoj.org/papers/10.21105/jose.00143"
+  volume: 8
+title: "ApplNumComp: An Open Access Introductory Course for Applied
+  Numerical Computing"
