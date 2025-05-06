@@ -10,7 +10,7 @@ Course repository:
 Paper: 
 [![DOI](https://jose.theoj.org/papers/10.21105/jose.00143/status.svg)](https://doi.org/10.21105/jose.00143)
 
-ASEE Conferences proceedings paper about the course: A. N. Ford Versypt, "An Interdisciplinary Elective Course to Build Computational Skills
+ASEE Conference proceedings paper about the course: A. N. Ford Versypt, "An Interdisciplinary Elective Course to Build Computational Skills
 for Mathematical Modeling in Science and Engineering," in ASEE Annual Meeting,
 Tampa, FL, 2019. [Online](https://peer.asee.org/32072).
 
